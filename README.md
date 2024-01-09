@@ -14,7 +14,7 @@ https://github.com/keiyoushi/extensions-source/issues/new/choose
 
 ## Guide
 
-Tachiyomi:
+Tachiyomi (v0.15.0+ or r6376+):
 1. Go to More → Settings → Browse
 2. Tap on "Extension repos" and then "Add" button at bottom
 3. Input `https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json`
