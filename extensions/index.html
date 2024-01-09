@@ -27,7 +27,7 @@
         integrity="sha384-2HpI1Tt4Zv7emgrwKyetd6ouDie+RKolEtNHOdD+KCVHLj1V2fjxryG48h50f0Rw"
         crossorigin="anonymous"
     />
-    <link rel="stylesheet" href="/index.css">
+    <link rel="stylesheet" href="../index.css">
     <script async type="module"
         src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/cdn/shoelace-autoloader.js"
         integrity="sha384-ILzDiPYY4je5i95gGzpVe0e88rFqVnoz3i7HPBsRbtEHxfkA7wR8E+PwjCgt1Bin"
@@ -78,7 +78,7 @@
                     <div class="source" :id="extension.pkg.replace('eu.kanade.tachiyomi.extension.', '')">
                         <a :href="`#${extension.pkg.replace('eu.kanade.tachiyomi.extension.', '')}`"
                             class="source__anchor">#</a> <img class="source__icon" :alt="`Icon for ${extension.name}`"
-                            :src="`/icon/${extension.pkg}.png`" loading="lazy" width="42" height="42">
+                            :src="`../icon/${extension.pkg}.png`" loading="lazy" width="42" height="42">
                         <div class="source__info">
                             <div class="source__name">
                                 <span x-text="extension.name.split(': ')[1]"></span> <span class="source__version"
@@ -90,7 +90,7 @@
                             <div class="source__version" x-text="simpleLanguageName(extension.lang)"></div>
                         </div>
                         <sl-button pill size="small" download class="download-button"
-                            :href="`/apk/${extension.apk}`"><sl-icon name="download"></sl-icon></sl-button>
+                            :href="`../apk/${extension.apk}`"><sl-icon name="download"></sl-icon></sl-button>
                     </div>
                 </template>
             </div>
