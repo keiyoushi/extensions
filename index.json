@@ -19825,6 +19825,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Traducciones Amistosas",
+    "pkg": "eu.kanade.tachiyomi.extension.es.nartag",
+    "apk": "tachiyomi-es.nartag-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Traducciones Amistosas",
+        "lang": "es",
+        "id": "1872437740992957994",
+        "baseUrl": "https://nartag.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: NekoScans",
     "pkg": "eu.kanade.tachiyomi.extension.es.nekoscans",
     "apk": "tachiyomi-es.nekoscans-v1.4.27.apk",
@@ -23237,10 +23258,10 @@
   {
     "name": "Tachiyomi: Shinigami",
     "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
-    "apk": "tachiyomi-id.shinigami-v1.4.42.apk",
+    "apk": "tachiyomi-id.shinigami-v1.4.43.apk",
     "lang": "id",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23249,7 +23270,7 @@
         "name": "Shinigami",
         "lang": "id",
         "id": "3411809758861089969",
-        "baseUrl": "https://shinigami.moe",
+        "baseUrl": "https://shinigamitoon.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
