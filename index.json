@@ -8445,27 +8445,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Chibi Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.en.chibimanga",
-    "apk": "tachiyomi-en.chibimanga-v1.4.33.apk",
-    "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Chibi Manga",
-        "lang": "en",
-        "id": "170616724910700834",
-        "baseUrl": "https://www.cmreader.info",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Clone Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.clonemanga",
     "apk": "tachiyomi-en.clonemanga-v1.4.2.apk",
@@ -29468,7 +29447,7 @@
         "name": "紳士漫畫",
         "lang": "zh",
         "id": "6551136894818591762",
-        "baseUrl": "https://www.htmanga9.top, https://www.htmanga7.top, https://www.htmanga6.top, https://www.htmanga3.top, https://www.htmanga4.top, https://www.htmanga5.top",
+        "baseUrl": "https://www.hm08.lol#, https://www.hm09.lol#, https://www.hm10.lol#, https://www.hm06.lol#, https://www.hm07.lol#, https://www.hm05.lol#, https://www.hm04.lol#, https://www.hm01.lol#, https://www.hm02.lol#, https://www.hm03.lol#, https://www.hm1.lol#, https://www.hm2.lol#, https://www.hm3.lol",
         "versionId": 1,
         "hasCloudflare": 0
       }
