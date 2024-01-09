@@ -41,7 +41,7 @@
 <body>
     <header class="header">
         <p class="header__title">Keiyoushi</p>
-        <sl-button variant="primary" href="tachiyomi://add-repo?url=https://keiyoushi.github.io/extensions/index.min.json">Add to Tachiyomi</sl-button>
+        <sl-button variant="primary" x-data :href="`tachiyomi://add-repo?url=${$store.repoUrl}/index.min.json`">Add to Tachiyomi</sl-button>
     </header>
     <div class="description">
         Join the <a class="description__anchor" href="https://discord.gg/3FbCpdKbdY">Discord server</a> for support. Make sure to star <a class="description__anchor" href="https://github.com/keiyoushi/extensions">the GitHub repo</a>.
@@ -78,7 +78,7 @@
                     <div class="source" :id="extension.pkg.replace('eu.kanade.tachiyomi.extension.', '')">
                         <a :href="`#${extension.pkg.replace('eu.kanade.tachiyomi.extension.', '')}`"
                             class="source__anchor">#</a> <img class="source__icon" :alt="`Icon for ${extension.name}`"
-                            :src="`../icon/${extension.pkg}.png`" loading="lazy" width="42" height="42">
+                            :src="`${$store.repoUrl}/icon/${extension.pkg}.png`" loading="lazy" width="42" height="42">
                         <div class="source__info">
                             <div class="source__name">
                                 <span x-text="extension.name.split(': ')[1]"></span> <span class="source__version"
@@ -90,7 +90,7 @@
                             <div class="source__version" x-text="simpleLanguageName(extension.lang)"></div>
                         </div>
                         <sl-button pill size="small" download class="download-button"
-                            :href="`../apk/${extension.apk}`"><sl-icon name="download"></sl-icon></sl-button>
+                            :href="`${$store.repoUrl}/apk/${extension.apk}`"><sl-icon name="download"></sl-icon></sl-button>
                     </div>
                 </template>
             </div>
