@@ -14,10 +14,6 @@ https://github.com/keiyoushi/extensions-source/issues/new/choose
 
 ## Guide
 
-MAKE SURE TO UNINSTALL THE OLD EXTENSIONS BEFORE INSTALLING THE ONES FROM HERE
-
-AND IF YOU ADD A EXTENSION REPO MAKE SURE YO REFRESH YOUR EXTENSION LIST
-
 Tachiyomi:
 1. Go to More → Settings → Browse
 2. Tap on "Extension repos" and then "Add" button at bottom
