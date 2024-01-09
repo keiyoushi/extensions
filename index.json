@@ -8025,27 +8025,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Arena Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.arenascans",
-    "apk": "tachiyomi-en.arenascans-v1.4.28.apk",
-    "lang": "en",
-    "code": 28,
-    "version": "1.4.28",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Arena Scans",
-        "lang": "en",
-        "id": "8861274191478178487",
-        "baseUrl": "https://arenascans.net",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Arven Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arvenscans",
     "apk": "tachiyomi-en.arvenscans-v1.4.27.apk",
@@ -18441,10 +18420,10 @@
   {
     "name": "Tachiyomi: XOXO Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.xoxocomics",
-    "apk": "tachiyomi-en.xoxocomics-v1.4.4.apk",
+    "apk": "tachiyomi-en.xoxocomics-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18453,7 +18432,7 @@
         "name": "XOXO Comics",
         "lang": "en",
         "id": "2385956107618754468",
-        "baseUrl": "https://xoxocomics.net",
+        "baseUrl": "https://xoxocomic.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
