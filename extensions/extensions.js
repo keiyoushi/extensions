@@ -47,7 +47,7 @@
 
             async init() {
                 try {
-                    const index = await fetch("index.min.json").then((e) => e.json());
+                    const index = await fetch("/index.min.json").then((e) => e.json());
 
                     this.extensions = index.sort((a, b) => {
                         if ("all" === a.lang && "all" !== b.lang) {

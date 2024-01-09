@@ -196,11 +196,9 @@ body.ready {
 .source__version {
     font-size: .875rem;
     line-height: 1.25rem;
-    color: rgba(60, 60, 67, .6)
 }
 
 .content-rating::part(base) {
-    color: rgba(60, 60, 67, .6);
     padding: .2rem .26rem;
     font-size: .7rem;
     width: 1.77rem;
@@ -208,12 +206,40 @@ body.ready {
     border-radius: .375rem
 }
 
-.content-rating--suggestive::part(base) {
-    background-color: rgba(255, 204, 0, .3)
+@media (prefers-color-scheme: light) {
+    .source__version {
+        color: rgba(60, 60, 67, .6);
+    }
+
+    .content-rating::part(base) {
+        color: rgba(60, 60, 67, .6);
+    }
+
+    .content-rating--suggestive::part(base) {
+        background-color: rgba(255, 204, 0, .3);
+    }
+
+    .content-rating--nsfw::part(base) {
+        background-color: rgba(255, 59, 48, .3);
+    }
 }
 
-.content-rating--nsfw::part(base) {
-    background-color: rgba(255, 59, 48, .3)
+@media (prefers-color-scheme: dark) {
+    .source__version {
+        color: rgba(235, 235, 245, .6);
+    }
+
+    .content-rating::part(base) {
+        color: rgba(235, 235, 245, .6);
+    }
+
+    .content-rating--suggestive::part(base) {
+        background-color: rgba(255, 214, 10, .3);
+    }
+
+    .content-rating--nsfw::part(base) {
+        background-color: rgba(255, 69, 58, .3);
+    }
 }
 
 .download-button {
@@ -305,4 +331,17 @@ body.ready {
 .spinner>div.bar7 {
     transform: rotate(315deg) translate(0, -130%);
     animation-delay: .875 s
+}
+
+code {
+    font-family: var(--sl-font-mono);
+    font-size: 0.9125em;
+    background-color: rgba(0 0 0 / 0.025);
+    background-blend-mode: darken;
+    border-radius: var(--docs-border-radius);
+    padding: 0.125em 0.25em;
+}
+
+.sl-theme-dark code {
+    background-color: rgba(255 255 255 / 0.03);
 }
