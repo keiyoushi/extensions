@@ -23468,10 +23468,10 @@
   {
     "name": "Tachiyomi: West Manga",
     "pkg": "eu.kanade.tachiyomi.extension.id.westmanga",
-    "apk": "tachiyomi-id.westmanga-v1.4.29.apk",
+    "apk": "tachiyomi-id.westmanga-v1.4.30.apk",
     "lang": "id",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -23480,7 +23480,7 @@
         "name": "West Manga",
         "lang": "id",
         "id": "8883916630998758688",
-        "baseUrl": "https://westmanga.org",
+        "baseUrl": "https://westmanga.fun",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25088,10 +25088,10 @@
   {
     "name": "Tachiyomi: Fay Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.fayscans",
-    "apk": "tachiyomi-pt.fayscans-v1.4.33.apk",
+    "apk": "tachiyomi-pt.fayscans-v1.4.34.apk",
     "lang": "pt-BR",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25100,7 +25100,7 @@
         "name": "Fay Scans",
         "lang": "pt-BR",
         "id": "4455455706731547485",
-        "baseUrl": "https://fayscans.com.br",
+        "baseUrl": "https://fayscans.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
