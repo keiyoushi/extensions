@@ -19573,21 +19573,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manga Fenix",
+    "name": "Tachiyomi: Manhua Fenix",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangafenix",
-    "apk": "tachiyomi-es.mangafenix-v1.4.35.apk",
+    "apk": "tachiyomi-es.mangafenix-v1.4.36.apk",
     "lang": "es",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Manga Fenix",
+        "name": "Manhua Fenix",
         "lang": "es",
         "id": "19158964284779393",
-        "baseUrl": "https://manhua-fenix.com",
+        "baseUrl": "https://visorfenix.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
