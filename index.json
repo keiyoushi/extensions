@@ -11062,10 +11062,10 @@
   {
     "name": "Tachiyomi: Luminous Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.luminousscans",
-    "apk": "tachiyomi-en.luminousscans-v1.4.27.apk",
+    "apk": "tachiyomi-en.luminousscans-v1.4.28.apk",
     "lang": "en",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -22544,10 +22544,10 @@
   {
     "name": "Tachiyomi: Mangaku",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangaku",
-    "apk": "tachiyomi-id.mangaku-v1.4.6.apk",
+    "apk": "tachiyomi-id.mangaku-v1.4.7.apk",
     "lang": "id",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22556,7 +22556,7 @@
         "name": "Mangaku",
         "lang": "id",
         "id": "5933657200789309472",
-        "baseUrl": "https://mangaku.blog",
+        "baseUrl": "https://mangaku.mom",
         "versionId": 1,
         "hasCloudflare": 1
       }
