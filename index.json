@@ -19468,6 +19468,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: LeerCapitulo",
+    "pkg": "eu.kanade.tachiyomi.extension.es.leercapitulo",
+    "apk": "tachiyomi-es.leercapitulo-v1.4.6.apk",
+    "lang": "es",
+    "code": 6,
+    "version": "1.4.6",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "LeerCapitulo",
+        "lang": "es",
+        "id": "5621901596522308538",
+        "baseUrl": "https://www.leercapitulo.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: LeerMangasXYZ",
     "pkg": "eu.kanade.tachiyomi.extension.es.leermangasxyz",
     "apk": "tachiyomi-es.leermangasxyz-v1.4.1.apk",
