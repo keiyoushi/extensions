@@ -14,23 +14,20 @@ https://github.com/keiyoushi/extensions-source/issues/new/choose
 
 ## Guide
 
-Tachiyomi (v0.15.0+ or r6376+):
-1. Go to More → Settings → Browse
-2. Tap on "Extension repos" and then "Add" button at bottom
-3. Input `https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json`
-4. Enjoy!
+### One-click installation
+One-click installation is only supported by these Tachiyomi versions:
+- Tachiyomi v0.15.2+
+- Tachiyomi Preview r6404+
+- TachiyomiSY v1.10.0+
+- TachiyomiSY Preview r539+
 
-TachiyomiSY:
-1. Go to More → Settings → Browse
-2. Tap on "Edit repos" and then "Add" button at bottom
-3. Input `keiyoushi/extensions`
-4. Enjoy!
+Navigate to [the website](https://keiyoushi.github.io/extensions) and tap "Add to Tachiyomi", then restart the app.
 
-TachiyomiAZ:
+### TachiyomiAZ
 1. Go to Settings → Browse
 2. Tap on "Edit repos" and then "+" button at bottom
 3. Input `keiyoushi/extensions`
 4. Enjoy!
 
-Others:
-- If you're not using any of the above fork then manually download and update extensions from https://github.com/keiyoushi/extensions/tree/repo/apk
+# Others
+If you're not using any of the above fork then manually download and update extensions from [the listing page](https://keiyoushi.github.io/extensions/extensions)
