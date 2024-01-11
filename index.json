@@ -25214,10 +25214,10 @@
   {
     "name": "Tachiyomi: Gekkou Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.gekkouscan",
-    "apk": "tachiyomi-pt.gekkouscan-v1.4.33.apk",
+    "apk": "tachiyomi-pt.gekkouscan-v1.4.34.apk",
     "lang": "pt-BR",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25226,7 +25226,7 @@
         "name": "Gekkou Scans",
         "lang": "pt-BR",
         "id": "38569701795132984",
-        "baseUrl": "https://gekkouscans.top",
+        "baseUrl": "https://gekkou.site",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -25886,10 +25886,10 @@
   {
     "name": "Tachiyomi: Mundo Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mundohentai",
-    "apk": "tachiyomi-pt.mundohentai-v1.4.7.apk",
+    "apk": "tachiyomi-pt.mundohentai-v1.4.8.apk",
     "lang": "pt-BR",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28238,10 +28238,10 @@
   {
     "name": "Tachiyomi: TonizuToon",
     "pkg": "eu.kanade.tachiyomi.extension.tr.tonizutoon",
-    "apk": "tachiyomi-tr.tonizutoon-v1.4.32.apk",
+    "apk": "tachiyomi-tr.tonizutoon-v1.4.33.apk",
     "lang": "tr",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28250,7 +28250,7 @@
         "name": "TonizuToon",
         "lang": "tr",
         "id": "5222101826721428426",
-        "baseUrl": "https://tonizutoon.com",
+        "baseUrl": "https://tonizu.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
