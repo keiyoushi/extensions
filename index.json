@@ -28994,10 +28994,10 @@
   {
     "name": "Tachiyomi: DMZJ",
     "pkg": "eu.kanade.tachiyomi.extension.zh.dmzj",
-    "apk": "tachiyomi-zh.dmzj-v1.4.41.apk",
+    "apk": "tachiyomi-zh.dmzj-v1.4.42.apk",
     "lang": "zh",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -29006,7 +29006,7 @@
         "name": "动漫之家",
         "lang": "zh",
         "id": "2884190037559093788",
-        "baseUrl": "https://m.dmzj.com",
+        "baseUrl": "https://m.idmzj.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -29393,10 +29393,10 @@
   {
     "name": "Tachiyomi: Roumanwu",
     "pkg": "eu.kanade.tachiyomi.extension.zh.roumanwu",
-    "apk": "tachiyomi-zh.roumanwu-v1.4.6.apk",
+    "apk": "tachiyomi-zh.roumanwu-v1.4.7.apk",
     "lang": "zh",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -29405,7 +29405,7 @@
         "name": "肉漫屋",
         "lang": "zh",
         "id": "3647420805839021718",
-        "baseUrl": "https://roum2.xyz",
+        "baseUrl": "https://roum10.xyz",
         "versionId": 1,
         "hasCloudflare": 0
       }
