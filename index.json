@@ -17822,27 +17822,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Toonily.net",
-    "pkg": "eu.kanade.tachiyomi.extension.en.toonilynet",
-    "apk": "tachiyomi-en.toonilynet-v1.4.34.apk",
-    "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Toonily.net",
-        "lang": "en",
-        "id": "2212494110286248223",
-        "baseUrl": "https://toonily.net",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: TooniTube",
     "pkg": "eu.kanade.tachiyomi.extension.en.toonitube",
     "apk": "tachiyomi-en.toonitube-v1.4.13.apk",
