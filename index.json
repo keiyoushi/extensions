@@ -24264,6 +24264,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Nicomanga",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.nicomanga",
+    "apk": "tachiyomi-ja.nicomanga-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Nicomanga",
+        "lang": "ja",
+        "id": "5680590515266301834",
+        "baseUrl": "https://nicomanga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Nicovideo Seiga",
     "pkg": "eu.kanade.tachiyomi.extension.ja.nicovideoseiga",
     "apk": "tachiyomi-ja.nicovideoseiga-v1.4.2.apk",
