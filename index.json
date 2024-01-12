@@ -7857,6 +7857,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Anchira",
+    "pkg": "eu.kanade.tachiyomi.extension.en.anchira",
+    "apk": "tachiyomi-en.anchira-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Anchira",
+        "lang": "en",
+        "id": "4216711820465720307",
+        "baseUrl": "https://anchira.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Animated Glitched Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.animatedglitchedcomics",
     "apk": "tachiyomi-en.animatedglitchedcomics-v1.4.27.apk",
