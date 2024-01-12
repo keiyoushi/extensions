@@ -36,6 +36,8 @@
         integrity="sha384-mPO6U7t0sNHfI1UIWNf5U6FDzprqWgAMKfOGW86JVGCKoU/7HPdy6DwBaWOsi4eV"
         crossorigin="anonymous"></script>
     <script src="extensions.js"></script>
+    <script data-goatcounter="https://keiyoushi.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </head>
 
 <body>
@@ -47,49 +49,83 @@
     </div>
     <div class="sources" x-data="extensionList">
         <h1 class="sources__title">Extensions</h1>
+
         <template x-if="loading === LoadingStatus.Loading">
             <sl-spinner class="sources__status" style="font-size:3rem"></sl-spinner>
         </template>
+        
         <template x-if="loading === LoadingStatus.Error">
             <div class="sources__status">Could not load extension list.</div>
         </template>
+        
         <template x-if="loading === LoadingStatus.Loaded">
             <div>
                 <div class="source-search" x-effect="updateFilteredList">
                     <div class="source-search__nsfw-wrapper">
                         <span class="source-search__nsfw-label">Display mode: </span>
-                        <sl-radio-group size="small" name="nsfw" value="all" @sl-change="nsfw = $event.target.value">
+                        <sl-radio-group size="small" 
+                            name="nsfw" 
+                            value="all" 
+                            @sl-change="nsfw = $event.target.value">
                             <sl-radio-button value="all">Show all</sl-radio-button>
                             <sl-radio-button value="nsfw">NSFW</sl-radio-button>
                             <sl-radio-button value="safe">SFW</sl-radio-button>
                         </sl-radio-group>
                     </div>
-                    <sl-input class="source-search__title" placeholder="Search by name or ID..."
-                        x-model="query"></sl-input>
-                    <sl-select class="source-search__language" multiple clearable placeholder="Filter by languages"
+                    
+                    <sl-input class="source-search__title" 
+                        placeholder="Search by name or ID..."
+                        x-model="query">
+                    </sl-input>
+                    
+                    <sl-select class="source-search__language"
+                        multiple clearable
+                        placeholder="Filter by languages"
                         @sl-change="selectedLanguages = event.target.value">
                         <template x-for="(language, index) in languages" :key="index">
                             <sl-option :value="language" x-text="languageName(language)"></sl-option>
                         </template>
                     </sl-select>
                 </div>
+                
                 <template x-for="extension in filtered" :key="extension.pkg">
-                    <div class="source" :id="extension.pkg.replace('eu.kanade.tachiyomi.extension.', '')">
+                    <div class="source" 
+                        :id="extension.pkg.replace('eu.kanade.tachiyomi.extension.', '')">
                         <a :href="`#${extension.pkg.replace('eu.kanade.tachiyomi.extension.', '')}`"
-                            class="source__anchor">#</a> <img class="source__icon" :alt="`Icon for ${extension.name}`"
-                            :src="`${$store.repoUrl}/icon/${extension.pkg}.png`" loading="lazy" width="42" height="42">
+                            class="source__anchor">
+                            #
+                        </a>
+                        
+                        <img class="source__icon"
+                            :alt="`Icon for ${extension.name}`"
+                            :src="`${$store.repoUrl}/icon/${extension.pkg}.png`"
+                            loading="lazy"
+                            width="42"
+                            height="42">
+
                         <div class="source__info">
                             <div class="source__name">
-                                <span x-text="extension.name.split(': ')[1]"></span> <span class="source__version"
+                                <span x-text="extension.name.split(': ')[1]"></span> 
+                                
+                                <span class="source__version"
                                     x-text="`v${extension.version}`"></span>
-                                <sl-tag x-cloak size="small" variant="danger"
-                                    class="content-rating content-rating--nsfw"
-                                    x-show="extension.nsfw === 1">18+</sl-tag>
+
+                                <sl-tag class="content-rating content-rating--nsfw"
+                                    size="small" variant="danger"
+                                    x-cloak x-show="extension.nsfw === 1">
+                                    18+
+                                </sl-tag>
                             </div>
                             <div class="source__version" x-text="simpleLanguageName(extension.lang)"></div>
                         </div>
-                        <sl-button pill size="small" download class="download-button"
-                            :href="`${$store.repoUrl}/apk/${extension.apk}`"><sl-icon name="download"></sl-icon></sl-button>
+                        <sl-button class="download-button" 
+                            pill 
+                            size="small" 
+                            download
+                            :href="`${$store.repoUrl}/apk/${extension.apk}`"
+                            @click="window.goatcounter?.count({ path: `/apk/${extension.apk}` })">
+                            <sl-icon name="download"></sl-icon>
+                        </sl-button>
                     </div>
                 </template>
             </div>

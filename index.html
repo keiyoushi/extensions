@@ -31,6 +31,8 @@
         src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/cdn/shoelace-autoloader.js"
         integrity="sha384-ILzDiPYY4je5i95gGzpVe0e88rFqVnoz3i7HPBsRbtEHxfkA7wR8E+PwjCgt1Bin"
         crossorigin="anonymous"></script>
+    <script data-goatcounter="https://keiyoushi.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </head>
 <body>
     <header class="header">
@@ -51,7 +53,13 @@
            <li>TachiyomiSY Preview r539+</li>
         </ul>
 
-        <sl-button style="display: flex; justify-content: center;" variant="primary" href="tachiyomi://add-repo?url=https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json">Add to Tachiyomi</sl-button>
+        <sl-button 
+            style="display: flex; justify-content: center;"
+            variant="primary"
+            href="tachiyomi://add-repo?url=https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json"
+            onclick="window.goatcounter?.count({ path: location.pathname + '#add-to-tachiyomi' })">
+            Add to Tachiyomi
+        </sl-button>
     </div>
 
     <div>
