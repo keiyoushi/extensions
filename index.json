@@ -17150,6 +17150,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Setsu Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.setsuscans",
+    "apk": "tachiyomi-en.setsuscans-v1.4.32.apk",
+    "lang": "en",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Setsu Scans",
+        "lang": "en",
+        "id": "8546397272954539389",
+        "baseUrl": "https://setsuscans.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Shiba Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.shibamanga",
     "apk": "tachiyomi-en.shibamanga-v1.4.32.apk",
