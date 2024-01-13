@@ -17003,6 +17003,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Reset Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.resetscans",
+    "apk": "tachiyomi-en.resetscans-v1.4.32.apk",
+    "lang": "en",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Reset Scans",
+        "lang": "en",
+        "id": "8894279497795073184",
+        "baseUrl": "https://reset-scans.us",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Rio2 Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.rio2manga",
     "apk": "tachiyomi-en.rio2manga-v1.4.32.apk",
