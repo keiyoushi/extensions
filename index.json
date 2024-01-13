@@ -28713,10 +28713,10 @@
   {
     "name": "Tachiyomi: NhatTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nhattruyen",
-    "apk": "tachiyomi-vi.nhattruyen-v1.4.16.apk",
+    "apk": "tachiyomi-vi.nhattruyen-v1.4.17.apk",
     "lang": "vi",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28725,7 +28725,7 @@
         "name": "NhatTruyen",
         "lang": "vi",
         "id": "6861496002170366525",
-        "baseUrl": "https://nhattruyenmax.com",
+        "baseUrl": "https://nhattruyento.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
