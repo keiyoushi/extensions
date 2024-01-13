@@ -25592,10 +25592,10 @@
   {
     "name": "Tachiyomi: Império Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.imperioscans",
-    "apk": "tachiyomi-pt.imperioscans-v1.4.33.apk",
+    "apk": "tachiyomi-pt.imperioscans-v1.4.34.apk",
     "lang": "pt-BR",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25604,7 +25604,7 @@
         "name": "Império Scans",
         "lang": "pt-BR",
         "id": "1369117541868504584",
-        "baseUrl": "https://imperioscans.com.br",
+        "baseUrl": "https://neroxus.com.br",
         "versionId": 1,
         "hasCloudflare": 1
       }
