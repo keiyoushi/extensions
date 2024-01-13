@@ -17444,6 +17444,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: SUPER MEGA",
+    "pkg": "eu.kanade.tachiyomi.extension.en.supermega",
+    "apk": "tachiyomi-en.supermega-v1.4.3.apk",
+    "lang": "en",
+    "code": 3,
+    "version": "1.4.3",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "SUPER MEGA",
+        "lang": "en",
+        "id": "7900982727014582653",
+        "baseUrl": "https://www.supermegacomics.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Surya Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.suryascans",
     "apk": "tachiyomi-en.suryascans-v1.4.29.apk",
