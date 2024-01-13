@@ -27146,10 +27146,10 @@
   {
     "name": "Tachiyomi: Nude-Moon",
     "pkg": "eu.kanade.tachiyomi.extension.ru.nudemoon",
-    "apk": "tachiyomi-ru.nudemoon-v1.4.16.apk",
+    "apk": "tachiyomi-ru.nudemoon-v1.4.17.apk",
     "lang": "ru",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27160,7 +27160,7 @@
         "id": "6384784374922886076",
         "baseUrl": "https://x.nude-moon.fun",
         "versionId": 1,
-        "hasCloudflare": 0
+        "hasCloudflare": 1
       }
     ]
   },
