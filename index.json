@@ -8676,6 +8676,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Constellar Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.constellarscans",
+    "apk": "tachiyomi-en.constellarscans-v1.4.43.apk",
+    "lang": "en",
+    "code": 43,
+    "version": "1.4.43",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Constellar Scans",
+        "lang": "en",
+        "id": "621381833080231711",
+        "baseUrl": "https://constellarcomic.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Cookie Kiara",
     "pkg": "eu.kanade.tachiyomi.extension.en.cookiekiara",
     "apk": "tachiyomi-en.cookiekiara-v1.4.32.apk",
