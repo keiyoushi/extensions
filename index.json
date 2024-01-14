@@ -29467,6 +29467,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: ColaManhua (OhManhua)",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.onemanhua",
+    "apk": "tachiyomi-zh.onemanhua-v1.4.12.apk",
+    "lang": "zh",
+    "code": 12,
+    "version": "1.4.12",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "COLA漫画 (OH漫画)",
+        "lang": "zh",
+        "id": "8252565807829914103",
+        "baseUrl": "https://www.colamanga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Picacomic",
     "pkg": "eu.kanade.tachiyomi.extension.zh.picacomic",
     "apk": "tachiyomi-zh.picacomic-v1.4.4.apk",
