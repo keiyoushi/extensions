@@ -11138,11 +11138,11 @@
   {
     "name": "Tachiyomi: LuxManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.luxmanga",
-    "apk": "tachiyomi-en.luxmanga-v1.4.32.apk",
+    "apk": "tachiyomi-en.luxmanga-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 0,
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11150,7 +11150,7 @@
         "name": "LuxManga",
         "lang": "en",
         "id": "3831997062665742721",
-        "baseUrl": "https://luxmanga.com",
+        "baseUrl": "https://luxmanga.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
