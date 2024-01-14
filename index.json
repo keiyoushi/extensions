@@ -29467,18 +29467,18 @@
     ]
   },
   {
-    "name": "Tachiyomi: ColaManhua (OhManhua)",
+    "name": "Tachiyomi: COLAMANGA",
     "pkg": "eu.kanade.tachiyomi.extension.zh.onemanhua",
-    "apk": "tachiyomi-zh.onemanhua-v1.4.12.apk",
+    "apk": "tachiyomi-zh.onemanhua-v1.4.13.apk",
     "lang": "zh",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "COLA漫画 (OH漫画)",
+        "name": "COLAMANGA",
         "lang": "zh",
         "id": "8252565807829914103",
         "baseUrl": "https://www.colamanga.com",
