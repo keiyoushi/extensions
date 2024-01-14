@@ -26023,6 +26023,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Nexo Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.nexoscans",
+    "apk": "tachiyomi-pt.nexoscans-v1.4.32.apk",
+    "lang": "pt-BR",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Nexo Scans",
+        "lang": "pt-BR",
+        "id": "3589167245092122415",
+        "baseUrl": "https://nexoscans.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Nocturne Summer",
     "pkg": "eu.kanade.tachiyomi.extension.pt.nocturnesummer",
     "apk": "tachiyomi-pt.nocturnesummer-v1.4.32.apk",
