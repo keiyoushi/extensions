@@ -19798,10 +19798,10 @@
   {
     "name": "Tachiyomi: Mangas No Sekai",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangasnosekai",
-    "apk": "tachiyomi-es.mangasnosekai-v1.4.33.apk",
+    "apk": "tachiyomi-es.mangasnosekai-v1.4.34.apk",
     "lang": "es",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20386,10 +20386,10 @@
   {
     "name": "Tachiyomi: TenkaiScan",
     "pkg": "eu.kanade.tachiyomi.extension.es.tenkaiscan",
-    "apk": "tachiyomi-es.tenkaiscan-v1.4.27.apk",
+    "apk": "tachiyomi-es.tenkaiscan-v1.4.32.apk",
     "lang": "es",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20397,9 +20397,9 @@
       {
         "name": "TenkaiScan",
         "lang": "es",
-        "id": "3979351466066596955",
+        "id": "4133545021282986386",
         "baseUrl": "https://tenkaiscan.net",
-        "versionId": 1,
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
