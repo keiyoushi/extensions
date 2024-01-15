@@ -23416,6 +23416,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Shirakami",
+    "pkg": "eu.kanade.tachiyomi.extension.id.shirakami",
+    "apk": "tachiyomi-id.shirakami-v1.4.27.apk",
+    "lang": "id",
+    "code": 27,
+    "version": "1.4.27",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Shirakami",
+        "lang": "id",
+        "id": "7712565009997781291",
+        "baseUrl": "https://shirakami.xyz",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: ShiroDoujin",
     "pkg": "eu.kanade.tachiyomi.extension.id.shirodoujin",
     "apk": "tachiyomi-id.shirodoujin-v1.4.2.apk",
