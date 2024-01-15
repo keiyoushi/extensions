@@ -25057,6 +25057,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Bakai",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.bakai",
+    "apk": "tachiyomi-pt.bakai-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Bakai",
+        "lang": "pt-BR",
+        "id": "1652448748031658277",
+        "baseUrl": "https://bakai.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Boruto Explorer",
     "pkg": "eu.kanade.tachiyomi.extension.pt.borutoexplorer",
     "apk": "tachiyomi-pt.borutoexplorer-v1.4.33.apk",
@@ -26107,6 +26128,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Norte Rose Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.norterosescan",
+    "apk": "tachiyomi-pt.norterosescan-v1.4.32.apk",
+    "lang": "pt-BR",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Norte Rose Scan",
+        "lang": "pt-BR",
+        "id": "2793173076509203436",
+        "baseUrl": "https://norterose.com.br",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: One Piece Ex",
     "pkg": "eu.kanade.tachiyomi.extension.pt.opex",
     "apk": "tachiyomi-pt.opex-v1.4.7.apk",
@@ -26844,10 +26886,10 @@
   {
     "name": "Tachiyomi: AllHentai",
     "pkg": "eu.kanade.tachiyomi.extension.ru.allhentai",
-    "apk": "tachiyomi-ru.allhentai-v1.4.43.apk",
+    "apk": "tachiyomi-ru.allhentai-v1.4.44.apk",
     "lang": "ru",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27138,10 +27180,10 @@
   {
     "name": "Tachiyomi: MintManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mintmanga",
-    "apk": "tachiyomi-ru.mintmanga-v1.4.67.apk",
+    "apk": "tachiyomi-ru.mintmanga-v1.4.68.apk",
     "lang": "ru",
-    "code": 67,
-    "version": "1.4.67",
+    "code": 68,
+    "version": "1.4.68",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27201,10 +27243,10 @@
   {
     "name": "Tachiyomi: ReadManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.readmanga",
-    "apk": "tachiyomi-ru.readmanga-v1.4.67.apk",
+    "apk": "tachiyomi-ru.readmanga-v1.4.68.apk",
     "lang": "ru",
-    "code": 67,
-    "version": "1.4.67",
+    "code": 68,
+    "version": "1.4.68",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27243,10 +27285,10 @@
   {
     "name": "Tachiyomi: RuMIX",
     "pkg": "eu.kanade.tachiyomi.extension.ru.rumix",
-    "apk": "tachiyomi-ru.rumix-v1.4.22.apk",
+    "apk": "tachiyomi-ru.rumix-v1.4.23.apk",
     "lang": "ru",
-    "code": 22,
-    "version": "1.4.22",
+    "code": 23,
+    "version": "1.4.23",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27285,10 +27327,10 @@
   {
     "name": "Tachiyomi: SelfManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.selfmanga",
-    "apk": "tachiyomi-ru.selfmanga-v1.4.43.apk",
+    "apk": "tachiyomi-ru.selfmanga-v1.4.44.apk",
     "lang": "ru",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
