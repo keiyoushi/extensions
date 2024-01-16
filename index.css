@@ -55,13 +55,11 @@ body.ready {
 .header__title {
     color: #2e84bf;
     font-weight: 600;
-    padding-bottom: .5rem;
     margin-top: .5rem;
     margin-bottom: .5rem
 }
 
 .description {
-    padding-top: 0.5rem;
     margin-top: 0.25rem;
     text-align: center;
 }
