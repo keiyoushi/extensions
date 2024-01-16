@@ -133,7 +133,7 @@
     </div>
     <script>
         Promise.allSettled(
-            ["sl-button", "sl-select"].map((e) => customElements.whenDefined(e))
+            ["sl-spinner"].map((e) => customElements.whenDefined(e))
         )
             .then(() => document.body.classList.add("ready"))
     </script>
