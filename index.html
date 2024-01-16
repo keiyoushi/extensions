@@ -39,7 +39,7 @@
         <p class="header__title">Keiyoushi</p>
     </header>
     <div class="description">
-        Join the <a class="description__anchor" href="https://discord.gg/3FbCpdKbdY">Discord server</a> for support. Make sure to star <a class="description__anchor" href="https://github.com/keiyoushi/extensions">the GitHub repo</a>.
+        Join the <a class="description__anchor" href="https://discord.gg/3FbCpdKbdY" onclick="window.goatcounter?.count({ path: location.pathname + '#discord' })">Discord server</a> for support. Make sure to star <a class="description__anchor" href="https://github.com/keiyoushi/extensions">the GitHub repo</a>.
     </div>
 
     <h2 class="header">Guide</h2>
@@ -47,6 +47,7 @@
         <p>One click install (only supported by versions mentioned below):</p>
 
          <ul>
+           <li>Mihon v0.16.0+</li>
            <li>Tachiyomi v0.15.2+</li>
            <li>Tachiyomi Preview r6404+</li>
            <li>TachiyomiSY v1.10.0+</li>
@@ -59,7 +60,7 @@
             variant="primary"
             href="tachiyomi://add-repo?url=https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json"
             onclick="window.goatcounter?.count({ path: location.pathname + '#add-to-tachiyomi' })">
-            Add to Tachiyomi
+            Add to Mihon/Tachiyomi
         </sl-button>
     </div>
 
