@@ -28,10 +28,18 @@
         crossorigin="anonymous"
     />
     <link rel="stylesheet" href="../index.css">
-    <script async type="module"
-        src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/cdn/shoelace-autoloader.js"
-        integrity="sha384-ILzDiPYY4je5i95gGzpVe0e88rFqVnoz3i7HPBsRbtEHxfkA7wR8E+PwjCgt1Bin"
-        crossorigin="anonymous"></script>
+    <script async type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/cdn/components/spinner/spinner.js"></script>
+    <script async type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/cdn/components/radio-group/radio-group.js"></script>
+    <script async type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/cdn/components/radio-button/radio-button.js"></script>
+    <script async type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/cdn/components/input/input.js"></script>
+    <script async type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/cdn/components/select/select.js"></script>
+    <script async type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/cdn/components/option/option.js"></script>
+    <script async type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/cdn/components/tag/tag.js"></script>
+    <script async type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/cdn/components/button/button.js"></script>
+    <script async type="module" 
+        src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/cdn/components/icon/icon.js"
+        data-shoelace="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/dist">
+    </script>
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.12.3/dist/cdn.min.js"
         integrity="sha384-mPO6U7t0sNHfI1UIWNf5U6FDzprqWgAMKfOGW86JVGCKoU/7HPdy6DwBaWOsi4eV"
         crossorigin="anonymous"></script>
@@ -42,7 +50,7 @@
 
 <body>
     <header class="header">
-        <p class="header__title">Keiyoushi</p>
+        <a class="header__title" href="../">Keiyoushi</a>
     </header>
     <div class="description">
         Join the <a class="description__anchor" href="https://discord.gg/3FbCpdKbdY">Discord server</a> for support. Make sure to star <a class="description__anchor" href="https://github.com/keiyoushi/extensions">the GitHub repo</a>.
@@ -131,12 +139,6 @@
             </div>
         </template>
     </div>
-    <script>
-        Promise.allSettled(
-            ["sl-spinner"].map((e) => customElements.whenDefined(e))
-        )
-            .then(() => document.body.classList.add("ready"))
-    </script>
 </body>
 
 </html>

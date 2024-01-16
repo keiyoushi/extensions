@@ -23,11 +23,6 @@
 body {
     margin: .85rem auto;
     max-width: 42rem;
-    visibility: hidden
-}
-
-body.ready {
-    visibility: visible
 }
 
 @media only screen and (max-width:767px) {
@@ -56,7 +51,12 @@ body.ready {
     color: #2e84bf;
     font-weight: 600;
     margin-top: .5rem;
-    margin-bottom: .5rem
+    margin-bottom: .5rem;
+    text-decoration: none;
+}
+
+a.header__title:visited {
+    color: #2e84bf;
 }
 
 .description {
