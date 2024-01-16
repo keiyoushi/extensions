@@ -39,7 +39,17 @@
         <p class="header__title">Keiyoushi</p>
     </header>
     <div class="description">
-        Join the <a class="description__anchor" href="https://discord.gg/3FbCpdKbdY" onclick="window.goatcounter?.count({ path: location.pathname + '#discord' })">Discord server</a> for support. Make sure to star <a class="description__anchor" href="https://github.com/keiyoushi/extensions">the GitHub repo</a>.
+        Join the 
+        <a class="description__anchor" 
+            href="https://discord.gg/3FbCpdKbdY" 
+            onclick="window.goatcounter?.count({ path: location.pathname + '#discord' })">
+            Discord server
+        </a>
+        for support. Make sure to star
+        <a class="description__anchor" 
+            href="https://github.com/keiyoushi/extensions">
+            the GitHub repo
+        </a>.
     </div>
 
     <h2 class="header">Guide</h2>
@@ -56,13 +66,27 @@
            <li>Aniyomi Preview r7443+</li>
         </ul>
 
-        <sl-button 
-            style="display: flex; justify-content: center;"
-            variant="primary"
-            href="tachiyomi://add-repo?url=https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json"
-            onclick="window.goatcounter?.count({ path: location.pathname + '#add-to-tachiyomi' })">
-            Add to Mihon/Tachiyomi
-        </sl-button>
+        <div class="add-to-apps">
+            <sl-button 
+                class="mihon"
+                style="display: flex; justify-content: center;"
+                variant="primary"
+                href="mihon://add-repo?url=https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json"
+                onclick="window.goatcounter?.count({ path: location.pathname + '#add-to-mihon' })">
+                Add to Mihon
+            </sl-button>
+
+            <sl-button 
+                class="tachiyomi"
+                style="display: flex; justify-content: center;"
+                variant="primary"
+                href="tachiyomi://add-repo?url=https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json"
+                onclick="window.goatcounter?.count({ path: location.pathname + '#add-to-tachiyomi' })">
+                Add to Tachiyomi
+            </sl-button>
+        </div>
+
+        
     </div>
 
     <div>
