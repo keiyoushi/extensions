@@ -69,34 +69,24 @@ body.ready {
     text-decoration: none
 }
 
-.add-to-apps {
-    display: flex;
-    flex-direction: row;
-    
+.base-url {
+    margin: .75rem auto;
+    padding: .75rem 1rem;
+    border-style: solid;
+    border-radius: .125rem;
+    border-width: 1px;
+    border-color: #60a5fa;
+    background-color: #eff6ff
 }
 
-.add-to-apps sl-button {
-    flex: 1;
-    padding: 0.25rem;
+.base-url__title {
+    font-weight: 600;
+    margin: 0;
+    margin-bottom: .5rem
 }
 
-sl-button.tachiyomi::part(base) {
-    background-color: #2c84c2;
-    border-color: #2c84c2;
-}
-
-@media (prefers-color-scheme: light) {
-    sl-button.mihon::part(base) {
-        background-color: #0058a0;
-        border-color: #0058a0;
-    }
-}
-
-@media (prefers-color-scheme: dark) {
-    sl-button.mihon::part(base) {
-        background-color: #7ebbed;
-        border-color: #7ebbed;
-    }
+.base-url__url {
+    margin: 0
 }
 
 .sources {
