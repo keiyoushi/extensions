@@ -28669,6 +28669,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: DocTruyen5s",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.doctruyen5s",
+    "apk": "tachiyomi-vi.doctruyen5s-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "DocTruyen5s",
+        "lang": "vi",
+        "id": "7595811359698226104",
+        "baseUrl": "https://manga.io.vn",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Hentai CB",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaicube",
     "apk": "tachiyomi-vi.hentaicube-v1.4.38.apk",
