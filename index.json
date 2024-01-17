@@ -18767,23 +18767,23 @@
     ]
   },
   {
-    "name": "Tachiyomi: AiYuManga",
+    "name": "Tachiyomi: AiYuManhua",
     "pkg": "eu.kanade.tachiyomi.extension.es.aiyumanga",
-    "apk": "tachiyomi-es.aiyumanga-v1.4.35.apk",
+    "apk": "tachiyomi-es.aiyumanga-v1.4.36.apk",
     "lang": "es",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "AiYuManga",
+        "name": "AiYuManhua",
         "lang": "es",
-        "id": "431300335605593183",
-        "baseUrl": "https://aiyumanhua.com",
-        "versionId": 3,
-        "hasCloudflare": 1
+        "id": "1441087296117386231",
+        "baseUrl": "https://www.aiyumanhua.com",
+        "versionId": 4,
+        "hasCloudflare": 0
       }
     ]
   },
