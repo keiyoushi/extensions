@@ -25078,6 +25078,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Blackout Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.blackoutcomics",
+    "apk": "tachiyomi-pt.blackoutcomics-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Blackout Comics",
+        "lang": "pt-BR",
+        "id": "4905303791571172293",
+        "baseUrl": "https://blackoutcomics.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Boruto Explorer",
     "pkg": "eu.kanade.tachiyomi.extension.pt.borutoexplorer",
     "apk": "tachiyomi-pt.borutoexplorer-v1.4.33.apk",
