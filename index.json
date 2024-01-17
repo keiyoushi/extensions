@@ -9059,10 +9059,10 @@
   {
     "name": "Tachiyomi: EarlyManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.earlymanga",
-    "apk": "tachiyomi-en.earlymanga-v1.4.21.apk",
+    "apk": "tachiyomi-en.earlymanga-v1.4.22.apk",
     "lang": "en",
-    "code": 21,
-    "version": "1.4.21",
+    "code": 22,
+    "version": "1.4.22",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9070,9 +9070,9 @@
       {
         "name": "EarlyManga",
         "lang": "en",
-        "id": "6241754258417429248",
-        "baseUrl": "https://earlycomic.com",
-        "versionId": 1,
+        "id": "7334481395354545914",
+        "baseUrl": "https://earlym.org",
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
@@ -24748,7 +24748,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki321.net",
+        "baseUrl": "https://manatoki322.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -24756,7 +24756,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki321.com",
+        "baseUrl": "https://newtoki322.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
