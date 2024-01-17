@@ -28335,10 +28335,10 @@
   {
     "name": "Tachiyomi: SeriManga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.serimanga",
-    "apk": "tachiyomi-tr.serimanga-v1.4.3.apk",
+    "apk": "tachiyomi-tr.serimanga-v1.4.4.apk",
     "lang": "tr",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28347,7 +28347,7 @@
         "name": "SeriManga",
         "lang": "tr",
         "id": "7642785534684357226",
-        "baseUrl": "https://serimanga.com",
+        "baseUrl": "https://serimangas.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
