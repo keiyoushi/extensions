@@ -18956,6 +18956,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Celestial Moon",
+    "pkg": "eu.kanade.tachiyomi.extension.es.celestialmoon",
+    "apk": "tachiyomi-es.celestialmoon-v1.4.8.apk",
+    "lang": "es",
+    "code": 8,
+    "version": "1.4.8",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Celestial Moon",
+        "lang": "es",
+        "id": "6179789955975847842",
+        "baseUrl": "https://www.celestialmoonscan.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Cerberus Series",
     "pkg": "eu.kanade.tachiyomi.extension.es.cerberusseries",
     "apk": "tachiyomi-es.cerberusseries-v1.4.1.apk",
@@ -19918,6 +19939,27 @@
         "baseUrl": "https://www.menudo-fansub.com",
         "versionId": 1,
         "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MHScans",
+    "pkg": "eu.kanade.tachiyomi.extension.es.mhscans",
+    "apk": "tachiyomi-es.mhscans-v1.4.32.apk",
+    "lang": "es",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MHScans",
+        "lang": "es",
+        "id": "3253304651550496369",
+        "baseUrl": "https://mhscans.com",
+        "versionId": 1,
+        "hasCloudflare": 1
       }
     ]
   },
@@ -28732,21 +28774,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Hentai CB",
+    "name": "Tachiyomi: CBHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaicube",
-    "apk": "tachiyomi-vi.hentaicube-v1.4.38.apk",
+    "apk": "tachiyomi-vi.hentaicube-v1.4.39.apk",
     "lang": "vi",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Hentai CB",
+        "name": "CBHentai",
         "lang": "vi",
         "id": "823638192569572166",
-        "baseUrl": "https://hentaicube.net",
+        "baseUrl": "https://cbhentai.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
