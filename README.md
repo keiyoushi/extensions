@@ -22,6 +22,7 @@ One-click installation is only supported by these Tachiyomi versions:
 - Tachiyomi Preview r6404+
 - TachiyomiSY v1.10.0+
 - TachiyomiSY Preview r539+
+- Aniyomi v0.15.2.1+
 - Aniyomi Preview r7443+
 
 Navigate to [the website](https://keiyoushi.github.io/extensions) and tap "Add to Mihon/Tachiyomi", then restart the app.
