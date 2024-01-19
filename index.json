@@ -25624,6 +25624,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Hikari Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.hikariscan",
+    "apk": "tachiyomi-pt.hikariscan-v1.4.27.apk",
+    "lang": "pt-BR",
+    "code": 27,
+    "version": "1.4.27",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hikari Scan",
+        "lang": "pt-BR",
+        "id": "1733642102689076122",
+        "baseUrl": "https://hikariscan.org",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: HipercooL",
     "pkg": "eu.kanade.tachiyomi.extension.pt.hipercool",
     "apk": "tachiyomi-pt.hipercool-v1.4.32.apk",
