@@ -1619,10 +1619,10 @@
   {
     "name": "Tachiyomi: Dragon Ball Multiverse",
     "pkg": "eu.kanade.tachiyomi.extension.all.dragonballmultiverse",
-    "apk": "tachiyomi-all.dragonballmultiverse-v1.4.5.apk",
+    "apk": "tachiyomi-all.dragonballmultiverse-v1.4.6.apk",
     "lang": "all",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -5657,27 +5657,6 @@
         "lang": "fr",
         "id": "1619259951234748770",
         "baseUrl": "https://fr.novelcool.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: OPSCANS",
-    "pkg": "eu.kanade.tachiyomi.extension.all.opscans",
-    "apk": "tachiyomi-all.opscans-v1.4.27.apk",
-    "lang": "all",
-    "code": 27,
-    "version": "1.4.27",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "OPSCANS",
-        "lang": "all",
-        "id": "4232341563713206103",
-        "baseUrl": "https://opscans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -9723,6 +9702,27 @@
         "lang": "en",
         "id": "7767373857094891353",
         "baseUrl": "https://goodgirls.moe",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Gourmet Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.gourmetscans",
+    "apk": "tachiyomi-en.gourmetscans-v1.4.32.apk",
+    "lang": "en",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Gourmet Scans",
+        "lang": "en",
+        "id": "3694940277826033657",
+        "baseUrl": "https://gourmetsupremacy.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -15520,6 +15520,27 @@
         "id": "1938195875614354298",
         "baseUrl": "https://read.oppai.stream",
         "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: OPSCANS",
+    "pkg": "eu.kanade.tachiyomi.extension.en.opscans",
+    "apk": "tachiyomi-en.opscans-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "OPSCANS",
+        "lang": "en",
+        "id": "3943453485882448285",
+        "baseUrl": "https://opchapters.com",
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
@@ -23460,10 +23481,10 @@
   {
     "name": "Tachiyomi: Shinigami",
     "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
-    "apk": "tachiyomi-id.shinigami-v1.4.43.apk",
+    "apk": "tachiyomi-id.shinigami-v1.4.44.apk",
     "lang": "id",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
