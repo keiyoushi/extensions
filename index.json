@@ -7984,6 +7984,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Dark-scan",
+    "pkg": "eu.kanade.tachiyomi.extension.en.darkscan",
+    "apk": "tachiyomi-en.darkscan-v1.4.32.apk",
+    "lang": "en",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Dark-scan",
+        "lang": "en",
+        "id": "7467592837760360366",
+        "baseUrl": "https://dark-scan.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Dark Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.darkscans",
     "apk": "tachiyomi-en.darkscans-v1.4.33.apk",
@@ -17194,6 +17214,26 @@
         "lang": "en",
         "id": "6750082404202711318",
         "baseUrl": "https://www.webtoon.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Whale Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.whalemanga",
+    "apk": "tachiyomi-en.whalemanga-v1.4.32.apk",
+    "lang": "en",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "WhaleManga",
+        "lang": "en",
+        "id": "5662367258369038433",
+        "baseUrl": "https://whalemanga.com",
         "versionId": 1
       }
     ]
