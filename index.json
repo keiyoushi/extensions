@@ -25624,6 +25624,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Hunters Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.huntersscans",
+    "apk": "tachiyomi-pt.huntersscans-v1.4.32.apk",
+    "lang": "pt-BR",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hunters Scan",
+        "lang": "pt-BR",
+        "id": "7310576253330700902",
+        "baseUrl": "https://huntersscan.xyz/",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Illusion Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.illusionscan",
     "apk": "tachiyomi-pt.illusionscan-v1.4.32.apk",
@@ -26550,10 +26571,10 @@
   {
     "name": "Tachiyomi: SSSScanlator",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sssscanlator",
-    "apk": "tachiyomi-pt.sssscanlator-v1.4.28.apk",
+    "apk": "tachiyomi-pt.sssscanlator-v1.4.29.apk",
     "lang": "pt-BR",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26562,7 +26583,7 @@
         "name": "SSSScanlator",
         "lang": "pt-BR",
         "id": "1497838059713668619",
-        "baseUrl": "https://sssscanlator.com",
+        "baseUrl": "https://sssscanlator.com.br",
         "versionId": 1,
         "hasCloudflare": 1
       }
