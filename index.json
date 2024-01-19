@@ -9288,6 +9288,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: EZmanga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.ezmanga",
+    "apk": "tachiyomi-en.ezmanga-v1.4.32.apk",
+    "lang": "en",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "EZmanga",
+        "lang": "en",
+        "id": "3558795161298058489",
+        "baseUrl": "https://ezmanga.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: FactManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.factmanga",
     "apk": "tachiyomi-en.factmanga-v1.4.32.apk",
