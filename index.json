@@ -865,10 +865,10 @@
   {
     "name": "Tachiyomi: Comic Fury",
     "pkg": "eu.kanade.tachiyomi.extension.all.comicfury",
-    "apk": "tachiyomi-all.comicfury-v1.4.2.apk",
+    "apk": "tachiyomi-all.comicfury-v1.4.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10667,6 +10667,26 @@
         "lang": "en",
         "id": "3476960503147001781",
         "baseUrl": "https://mangavisa.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaBTT",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangabtt",
+    "apk": "tachiyomi-en.mangabtt-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaBTT",
+        "lang": "en",
+        "id": "7799858357008625131",
+        "baseUrl": "https://mangabtt.com",
         "versionId": 1
       }
     ]
