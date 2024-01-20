@@ -23026,6 +23026,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: RawZ",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.rawz",
+    "apk": "tachiyomi-ja.rawz-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "RawZ",
+        "lang": "ja",
+        "id": "6371104137263721065",
+        "baseUrl": "https://stmanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Sen Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ja.senmanga",
     "apk": "tachiyomi-ja.senmanga-v1.4.6.apk",
