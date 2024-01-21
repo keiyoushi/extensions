@@ -26974,6 +26974,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Tempest Fansub",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.tempestfansub",
+    "apk": "tachiyomi-tr.tempestfansub-v1.4.28.apk",
+    "lang": "tr",
+    "code": 28,
+    "version": "1.4.28",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Tempest Fansub",
+        "lang": "tr",
+        "id": "939515706294391223",
+        "baseUrl": "https://tempestfansub.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Time Naight",
     "pkg": "eu.kanade.tachiyomi.extension.tr.timenaight",
     "apk": "tachiyomi-tr.timenaight-v1.4.33.apk",
