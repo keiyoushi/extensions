@@ -16354,10 +16354,10 @@
   {
     "name": "Tachiyomi: Surya Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.suryascans",
-    "apk": "tachiyomi-en.suryascans-v1.4.29.apk",
+    "apk": "tachiyomi-en.suryascans-v1.4.30.apk",
     "lang": "en",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16366,7 +16366,7 @@
         "name": "Surya Scans",
         "lang": "en",
         "id": "2909429739457928148",
-        "baseUrl": "https://suryacomics.com",
+        "baseUrl": "https://suryatoon.com",
         "versionId": 1
       }
     ]
