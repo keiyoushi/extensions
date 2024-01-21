@@ -20,33 +20,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Asura Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.all.asurascans",
-    "apk": "tachiyomi-all.asurascans-v1.4.58.apk",
-    "lang": "all",
-    "code": 58,
-    "version": "1.4.58",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Asura Scans",
-        "lang": "en",
-        "id": "6247824327199706550",
-        "baseUrl": "https://asuratoon.com",
-        "versionId": 1
-      },
-      {
-        "name": "Asura Scans",
-        "lang": "tr",
-        "id": "7963074674054946733",
-        "baseUrl": "https://armoniscans.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Bato.to",
     "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
     "apk": "tachiyomi-all.batoto-v1.4.34.apk",
@@ -5207,6 +5180,40 @@
     ]
   },
   {
+    "name": "Tachiyomi: Pururin",
+    "pkg": "eu.kanade.tachiyomi.extension.all.pururin",
+    "apk": "tachiyomi-all.pururin-v1.4.7.apk",
+    "lang": "all",
+    "code": 7,
+    "version": "1.4.7",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Pururin",
+        "lang": "all",
+        "id": "4326152278746463981",
+        "baseUrl": "https://pururin.to",
+        "versionId": 1
+      },
+      {
+        "name": "Pururin",
+        "lang": "en",
+        "id": "2221515250486218861",
+        "baseUrl": "https://pururin.to",
+        "versionId": 1
+      },
+      {
+        "name": "Pururin",
+        "lang": "ja",
+        "id": "995946880114959182",
+        "baseUrl": "https://pururin.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Ravens Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.ravensscans",
     "apk": "tachiyomi-all.ravensscans-v1.4.8.apk",
@@ -7319,6 +7326,26 @@
         "lang": "en",
         "id": "9109775888765972234",
         "baseUrl": "https://www.astrallibrary.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Asura Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
+    "apk": "tachiyomi-en.asurascans-v1.4.27.apk",
+    "lang": "en",
+    "code": 27,
+    "version": "1.4.27",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Asura Scans",
+        "lang": "en",
+        "id": "6247824327199706550",
+        "baseUrl": "https://asuratoon.com",
         "versionId": 1
       }
     ]
@@ -14712,26 +14739,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Pururin",
-    "pkg": "eu.kanade.tachiyomi.extension.en.pururin",
-    "apk": "tachiyomi-en.pururin-v1.4.6.apk",
-    "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Pururin",
-        "lang": "en",
-        "id": "2221515250486218861",
-        "baseUrl": "https://pururin.to",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Quantum Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.quantumscans",
     "apk": "tachiyomi-en.quantumscans-v1.4.27.apk",
@@ -22028,10 +22035,10 @@
   {
     "name": "Tachiyomi: Shinigami",
     "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
-    "apk": "tachiyomi-id.shinigami-v1.4.44.apk",
+    "apk": "tachiyomi-id.shinigami-v1.4.45.apk",
     "lang": "id",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26347,6 +26354,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Armoni Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.armoniscans",
+    "apk": "tachiyomi-tr.armoniscans-v1.4.32.apk",
+    "lang": "tr",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Armoni Scans",
+        "lang": "tr",
+        "id": "7171304938804369512",
+        "baseUrl": "https://armoniscans.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Çizgi Roman Arşivi",
     "pkg": "eu.kanade.tachiyomi.extension.tr.cizgiromanarsivi",
     "apk": "tachiyomi-tr.cizgiromanarsivi-v1.4.32.apk",
@@ -27229,10 +27256,10 @@
   {
     "name": "Tachiyomi: ManhuaRock",
     "pkg": "eu.kanade.tachiyomi.extension.vi.manhuarock",
-    "apk": "tachiyomi-vi.manhuarock-v1.4.9.apk",
+    "apk": "tachiyomi-vi.manhuarock-v1.4.10.apk",
     "lang": "vi",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27240,9 +27267,9 @@
       {
         "name": "ManhuaRock",
         "lang": "vi",
-        "id": "1351694623483170832",
-        "baseUrl": "https://manhuarock.net",
-        "versionId": 1
+        "id": "5818973680777851987",
+        "baseUrl": "https://manhuarockz.com",
+        "versionId": 2
       }
     ]
   },
