@@ -27327,6 +27327,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: SayHentai",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.sayhentai",
+    "apk": "tachiyomi-vi.sayhentai-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "SayHentai",
+        "lang": "vi",
+        "id": "4370817879994829481",
+        "baseUrl": "https://sayhentai.fun",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Say Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.saytruyen",
     "apk": "tachiyomi-vi.saytruyen-v1.4.11.apk",
