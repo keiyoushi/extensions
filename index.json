@@ -25009,10 +25009,10 @@
   {
     "name": "Tachiyomi: SlimeRead",
     "pkg": "eu.kanade.tachiyomi.extension.pt.slimeread",
-    "apk": "tachiyomi-pt.slimeread-v1.4.1.apk",
+    "apk": "tachiyomi-pt.slimeread-v1.4.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27442,6 +27442,26 @@
         "lang": "vi",
         "id": "7969606392351831672",
         "baseUrl": "https://truyenlh.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: XXManhwa",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.xxmanhwa",
+    "apk": "tachiyomi-vi.xxmanhwa-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "XXManhwa",
+        "lang": "vi",
+        "id": "1922561574226594511",
+        "baseUrl": "https://xxmanhwa.net",
         "versionId": 1
       }
     ]
