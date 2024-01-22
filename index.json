@@ -23514,26 +23514,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: AnimaRegia",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.animaregia",
-    "apk": "tachiyomi-pt.animaregia-v1.4.11.apk",
-    "lang": "pt-BR",
-    "code": 11,
-    "version": "1.4.11",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "AnimaRegia",
-        "lang": "pt-BR",
-        "id": "4378659695320121364",
-        "baseUrl": "https://animaregia.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: AnimeXNovel",
     "pkg": "eu.kanade.tachiyomi.extension.pt.animexnovel",
     "apk": "tachiyomi-pt.animexnovel-v1.4.8.apk",
@@ -23570,26 +23550,6 @@
         "id": "5598179354662635129",
         "baseUrl": "http://argosscan.com",
         "versionId": 2
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Arkham Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.arkhamscan",
-    "apk": "tachiyomi-pt.arkhamscan-v1.4.28.apk",
-    "lang": "pt-BR",
-    "code": 28,
-    "version": "1.4.28",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Arkham Scan",
-        "lang": "pt-BR",
-        "id": "4384661660987698972",
-        "baseUrl": "https://arkhamscan.com",
-        "versionId": 1
       }
     ]
   },
@@ -23756,10 +23716,10 @@
   {
     "name": "Tachiyomi: Cerise Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.cerisescans",
-    "apk": "tachiyomi-pt.cerisescans-v1.4.40.apk",
+    "apk": "tachiyomi-pt.cerisescans-v1.4.41.apk",
     "lang": "pt-BR",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23768,7 +23728,7 @@
         "name": "Cerise Scan",
         "lang": "pt-BR",
         "id": "8629915907358523454",
-        "baseUrl": "https://cerisescan.com",
+        "baseUrl": "https://cerisescan.net",
         "versionId": 1
       }
     ]
@@ -24136,10 +24096,10 @@
   {
     "name": "Tachiyomi: HipercooL",
     "pkg": "eu.kanade.tachiyomi.extension.pt.hipercool",
-    "apk": "tachiyomi-pt.hipercool-v1.4.33.apk",
+    "apk": "tachiyomi-pt.hipercool-v1.4.34.apk",
     "lang": "pt-BR",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24148,7 +24108,7 @@
         "name": "HipercooL",
         "lang": "pt-BR",
         "id": "2379514871370953957",
-        "baseUrl": "https://hipercool.xyz",
+        "baseUrl": "https://hiper.cool",
         "versionId": 2
       }
     ]
@@ -25049,26 +25009,6 @@
         "lang": "pt-BR",
         "id": "8209406708962970454",
         "baseUrl": "https://slimeread.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: SSS Hentais",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.ssshentais",
-    "apk": "tachiyomi-pt.ssshentais-v1.4.29.apk",
-    "lang": "pt-BR",
-    "code": 29,
-    "version": "1.4.29",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "SSS Hentais",
-        "lang": "pt-BR",
-        "id": "7331382218243023412",
-        "baseUrl": "https://hentais.sssscanlator.com",
         "versionId": 1
       }
     ]
