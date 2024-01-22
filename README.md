@@ -14,15 +14,7 @@ https://github.com/keiyoushi/extensions-source/issues/new/choose
 
 ## Guide
 
-### One-click installation
-
-Navigate to [the website](https://keiyoushi.github.io/extensions) and tap "Add to Mihon/Tachiyomi", then restart the app.
-
-### TachiyomiAZ
-1. Go to Settings → Browse
-2. Tap on "Edit repos" and then "+" button at bottom
-3. Input `keiyoushi/extensions`
-4. Enjoy!
+[Getting started](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo)
 
 # Others
-If you're not using any of the above fork then manually download and update extensions from [the listing page](https://keiyoushi.github.io/extensions/extensions)
+If you're not using any of the above fork then manually download and update extensions from [the listing page](https://keiyoushi.github.io/extensions/)
