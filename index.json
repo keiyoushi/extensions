@@ -20695,10 +20695,10 @@
   {
     "name": "Tachiyomi: KataKomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.katakomik",
-    "apk": "tachiyomi-id.katakomik-v1.4.28.apk",
+    "apk": "tachiyomi-id.katakomik-v1.4.29.apk",
     "lang": "id",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20707,7 +20707,7 @@
         "name": "KataKomik",
         "lang": "id",
         "id": "3319286981528917745",
-        "baseUrl": "https://katakomik.online",
+        "baseUrl": "https://katakomik.my.id",
         "versionId": 1
       }
     ]
@@ -21155,10 +21155,10 @@
   {
     "name": "Tachiyomi: Komiktap",
     "pkg": "eu.kanade.tachiyomi.extension.id.komiktap",
-    "apk": "tachiyomi-id.komiktap-v1.4.28.apk",
+    "apk": "tachiyomi-id.komiktap-v1.4.29.apk",
     "lang": "id",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
