@@ -1920,6 +1920,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Hentai Cafe",
+    "pkg": "eu.kanade.tachiyomi.extension.all.hentaicafe",
+    "apk": "tachiyomi-all.hentaicafe-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hentai Cafe",
+        "lang": "all",
+        "id": "8062124288287709023",
+        "baseUrl": "https://hentaicafe.xxx",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Hentai Cosplay",
     "pkg": "eu.kanade.tachiyomi.extension.all.hentaicosplay",
     "apk": "tachiyomi-all.hentaicosplay-v1.4.1.apk",
@@ -24934,21 +24954,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Random Scan",
+    "name": "Tachiyomi: Lura Toon",
     "pkg": "eu.kanade.tachiyomi.extension.pt.randomscan",
-    "apk": "tachiyomi-pt.randomscan-v1.4.39.apk",
+    "apk": "tachiyomi-pt.randomscan-v1.4.40.apk",
     "lang": "pt-BR",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Random Scan",
+        "name": "Lura Toon",
         "lang": "pt-BR",
         "id": "8295593204533043008",
-        "baseUrl": "https://randomscanlators.net",
+        "baseUrl": "https://luratoon.com",
         "versionId": 1
       }
     ]
