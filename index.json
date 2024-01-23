@@ -5281,33 +5281,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Reaper Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.all.reaperscans",
-    "apk": "tachiyomi-all.reaperscans-v1.4.45.apk",
-    "lang": "all",
-    "code": 45,
-    "version": "1.4.45",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Reaper Scans",
-        "lang": "tr",
-        "id": "6541036378026002363",
-        "baseUrl": "https://reaperscanstr.com",
-        "versionId": 1
-      },
-      {
-        "name": "Reaper Scans",
-        "lang": "fr",
-        "id": "8222507730733516974",
-        "baseUrl": "https://reaperscans.fr",
-        "versionId": 2
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Sandra and Woo",
     "pkg": "eu.kanade.tachiyomi.extension.all.sandraandwoo",
     "apk": "tachiyomi-all.sandraandwoo-v1.4.1.apk",
@@ -6993,10 +6966,10 @@
   {
     "name": "Tachiyomi: Adult Webtoon",
     "pkg": "eu.kanade.tachiyomi.extension.en.adultwebtoon",
-    "apk": "tachiyomi-en.adultwebtoon-v1.4.34.apk",
+    "apk": "tachiyomi-en.adultwebtoon-v1.4.35.apk",
     "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7686,26 +7659,6 @@
         "lang": "en",
         "id": "5116114496934092518",
         "baseUrl": "https://incase.buttsmithy.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: CatOnHeadTranslations",
-    "pkg": "eu.kanade.tachiyomi.extension.en.catonheadtranslations",
-    "apk": "tachiyomi-en.catonheadtranslations-v1.4.35.apk",
-    "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "CatOnHeadTranslations",
-        "lang": "en",
-        "id": "7557282200130823077",
-        "baseUrl": "https://catonhead.com",
         "versionId": 1
       }
     ]
@@ -8554,26 +8507,6 @@
         "lang": "en",
         "id": "1529913327831006393",
         "baseUrl": "https://factmanga.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Fallen Angels",
-    "pkg": "eu.kanade.tachiyomi.extension.en.fallenangels",
-    "apk": "tachiyomi-en.fallenangels-v1.4.9.apk",
-    "lang": "en",
-    "code": 9,
-    "version": "1.4.9",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Fallen Angels",
-        "lang": "en",
-        "id": "293230877131974500",
-        "baseUrl": "https://manga.fascans.com",
         "versionId": 1
       }
     ]
@@ -12734,26 +12667,6 @@
         "lang": "en",
         "id": "2703831045012166262",
         "baseUrl": "https://www.mangatown.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaTX",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangatx",
-    "apk": "tachiyomi-en.mangatx-v1.4.34.apk",
-    "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaTX",
-        "lang": "en",
-        "id": "3274683761704614629",
-        "baseUrl": "https://mangatx.com",
         "versionId": 1
       }
     ]
@@ -20173,6 +20086,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Reaper Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.reaperscans",
+    "apk": "tachiyomi-fr.reaperscans-v1.4.33.apk",
+    "lang": "fr",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Reaper Scans",
+        "lang": "fr",
+        "id": "8222507730733516974",
+        "baseUrl": "https://reaperscans.fr",
+        "versionId": 2
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Scan FR",
     "pkg": "eu.kanade.tachiyomi.extension.fr.scanfr",
     "apk": "tachiyomi-fr.scanfr-v1.4.9.apk",
@@ -23514,26 +23447,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Ama Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.amascans",
-    "apk": "tachiyomi-pt.amascans-v1.4.9.apk",
-    "lang": "pt-BR",
-    "code": 9,
-    "version": "1.4.9",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Ama Scans",
-        "lang": "pt-BR",
-        "id": "4870797170746675597",
-        "baseUrl": "https://amascan.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Amuy",
     "pkg": "eu.kanade.tachiyomi.extension.pt.amuy",
     "apk": "tachiyomi-pt.amuy-v1.4.34.apk",
@@ -23629,26 +23542,6 @@
         "lang": "pt-BR",
         "id": "5353540588175036262",
         "baseUrl": "https://astrumscans.xyz",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Baixar Hentai",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.baixarhentai",
-    "apk": "tachiyomi-pt.baixarhentai-v1.4.7.apk",
-    "lang": "pt-BR",
-    "code": 7,
-    "version": "1.4.7",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Baixar Hentai",
-        "lang": "pt-BR",
-        "id": "8908032188831949972",
-        "baseUrl": "https://leitura.baixarhentai.net",
         "versionId": 1
       }
     ]
@@ -26449,26 +26342,6 @@
         "lang": "tr",
         "id": "4357416108470845594",
         "baseUrl": "https://diamondfansub.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Epik Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.epikmanga",
-    "apk": "tachiyomi-tr.epikmanga-v1.4.8.apk",
-    "lang": "tr",
-    "code": 8,
-    "version": "1.4.8",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Epik Manga",
-        "lang": "tr",
-        "id": "188822990225555404",
-        "baseUrl": "https://www.epikmanga.com",
         "versionId": 1
       }
     ]
