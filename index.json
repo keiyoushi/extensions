@@ -19733,6 +19733,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Japscan",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.japscan",
+    "apk": "tachiyomi-fr.japscan-v1.4.44.apk",
+    "lang": "fr",
+    "code": 44,
+    "version": "1.4.44",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Japscan",
+        "lang": "fr",
+        "id": "11",
+        "baseUrl": "https://www.japscan.lol",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Jpmangas",
     "pkg": "eu.kanade.tachiyomi.extension.fr.jpmangas",
     "apk": "tachiyomi-fr.jpmangas-v1.4.9.apk",
