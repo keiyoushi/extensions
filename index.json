@@ -9919,26 +9919,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Kouhai Work",
-    "pkg": "eu.kanade.tachiyomi.extension.en.kouhaiwork",
-    "apk": "tachiyomi-en.kouhaiwork-v1.4.8.apk",
-    "lang": "en",
-    "code": 8,
-    "version": "1.4.8",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Kouhai Work",
-        "lang": "en",
-        "id": "1273675602267580928",
-        "baseUrl": "https://kouhai.work",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: KSGroupScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.ksgroupscans",
     "apk": "tachiyomi-en.ksgroupscans-v1.4.33.apk",
@@ -16821,10 +16801,10 @@
   {
     "name": "Tachiyomi: Top Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.en.topmanhua",
-    "apk": "tachiyomi-en.topmanhua-v1.4.35.apk",
+    "apk": "tachiyomi-en.topmanhua-v1.4.36.apk",
     "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
