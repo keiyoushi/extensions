@@ -8879,6 +8879,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Global Bloging",
+    "pkg": "eu.kanade.tachiyomi.extension.en.globalbloging",
+    "apk": "tachiyomi-en.globalbloging-v1.4.33.apk",
+    "lang": "en",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Global Bloging",
+        "lang": "en",
+        "id": "1347225231744942120",
+        "baseUrl": "https://globalbloging.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: GoGoManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.gogomanga",
     "apk": "tachiyomi-en.gogomanga-v1.4.29.apk",
@@ -27754,6 +27774,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Dm5",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.dm5",
+    "apk": "tachiyomi-zh.dm5-v1.4.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "动漫屋",
+        "lang": "zh",
+        "id": "293789630396851172",
+        "baseUrl": "https://www.dm5.cn",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: DMZJ",
     "pkg": "eu.kanade.tachiyomi.extension.zh.dmzj",
     "apk": "tachiyomi-zh.dmzj-v1.4.42.apk",
@@ -28196,10 +28236,10 @@
   {
     "name": "Tachiyomi: Tencent Comics (ac.qq.com)",
     "pkg": "eu.kanade.tachiyomi.extension.zh.tencentcomics",
-    "apk": "tachiyomi-zh.tencentcomics-v1.4.6.apk",
+    "apk": "tachiyomi-zh.tencentcomics-v1.4.7.apk",
     "lang": "zh",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
