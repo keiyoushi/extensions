@@ -20566,26 +20566,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: DuniaKomik.id",
-    "pkg": "eu.kanade.tachiyomi.extension.id.duniakomikid",
-    "apk": "tachiyomi-id.duniakomikid-v1.4.30.apk",
-    "lang": "id",
-    "code": 30,
-    "version": "1.4.30",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "DuniaKomik.id",
-        "lang": "id",
-        "id": "5116016453099684810",
-        "baseUrl": "https://duniakomik.org",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Hensekai",
     "pkg": "eu.kanade.tachiyomi.extension.id.hensekai",
     "apk": "tachiyomi-id.hensekai-v1.4.1.apk",
@@ -20946,32 +20926,12 @@
     ]
   },
   {
-    "name": "Tachiyomi: Komikita",
-    "pkg": "eu.kanade.tachiyomi.extension.id.komikita",
-    "apk": "tachiyomi-id.komikita-v1.4.1.apk",
-    "lang": "id",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Komikita",
-        "lang": "id",
-        "id": "5131316567843388681",
-        "baseUrl": "https://komikita.org",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: KomikMama",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikmama",
-    "apk": "tachiyomi-id.komikmama-v1.4.29.apk",
+    "apk": "tachiyomi-id.komikmama-v1.4.30.apk",
     "lang": "id",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20980,7 +20940,7 @@
         "name": "KomikMama",
         "lang": "id",
         "id": "2282876426649148771",
-        "baseUrl": "https://komikmama.co",
+        "baseUrl": "https://komik-mama.com",
         "versionId": 1
       }
     ]
@@ -21328,10 +21288,10 @@
   {
     "name": "Tachiyomi: Mangakyo",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangakyo",
-    "apk": "tachiyomi-id.mangakyo-v1.4.31.apk",
+    "apk": "tachiyomi-id.mangakyo-v1.4.32.apk",
     "lang": "id",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21340,7 +21300,7 @@
         "name": "Mangakyo",
         "lang": "id",
         "id": "8432236000137725211",
-        "baseUrl": "https://mangakyo.org",
+        "baseUrl": "https://mangakyo.vip",
         "versionId": 1
       }
     ]
@@ -27549,10 +27509,10 @@
   {
     "name": "Tachiyomi: BoyLove",
     "pkg": "eu.kanade.tachiyomi.extension.zh.boylove",
-    "apk": "tachiyomi-zh.boylove-v1.4.9.apk",
+    "apk": "tachiyomi-zh.boylove-v1.4.10.apk",
     "lang": "zh",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
