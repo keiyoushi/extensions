@@ -23689,10 +23689,10 @@
   {
     "name": "Tachiyomi: Diskus Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.diskusscan",
-    "apk": "tachiyomi-pt.diskusscan-v1.4.36.apk",
+    "apk": "tachiyomi-pt.diskusscan-v1.4.37.apk",
     "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24802,26 +24802,6 @@
         "lang": "pt-BR",
         "id": "8168108118738519332",
         "baseUrl": "https://demonsect.com.br",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Projeto Scanlator",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.projetoscanlator",
-    "apk": "tachiyomi-pt.projetoscanlator-v1.4.36.apk",
-    "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Projeto Scanlator",
-        "lang": "pt-BR",
-        "id": "8706695958003923242",
-        "baseUrl": "https://projetoscanlator.com",
         "versionId": 1
       }
     ]
