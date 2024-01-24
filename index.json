@@ -23567,6 +23567,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Burning Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.burningscans",
+    "apk": "tachiyomi-pt.burningscans-v1.4.33.apk",
+    "lang": "pt-BR",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Burning Scans",
+        "lang": "pt-BR",
+        "id": "8851689631230470839",
+        "baseUrl": "https://burningscans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Café com Yaoi",
     "pkg": "eu.kanade.tachiyomi.extension.pt.cafecomyaoi",
     "apk": "tachiyomi-pt.cafecomyaoi-v1.4.34.apk",
