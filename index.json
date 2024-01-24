@@ -7286,10 +7286,10 @@
   {
     "name": "Tachiyomi: AscalonScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.ascalonscans",
-    "apk": "tachiyomi-en.ascalonscans-v1.4.28.apk",
+    "apk": "tachiyomi-en.ascalonscans-v1.4.29.apk",
     "lang": "en",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -13112,6 +13112,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: ManhuaPlus (unoriginal)",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manhuaplusorg",
+    "apk": "tachiyomi-en.manhuaplusorg-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ManhuaPlus (Unoriginal)",
+        "lang": "en",
+        "id": "5075089422240578347",
+        "baseUrl": "https://manhuaplus.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: ManhuaScan.info (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhuascaninfo",
     "apk": "tachiyomi-en.manhuascaninfo-v1.4.33.apk",
@@ -16014,10 +16034,10 @@
   {
     "name": "Tachiyomi: Setsu Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.setsuscans",
-    "apk": "tachiyomi-en.setsuscans-v1.4.34.apk",
+    "apk": "tachiyomi-en.setsuscans-v1.4.35.apk",
     "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20748,10 +20768,10 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-v1.4.53.apk",
+    "apk": "tachiyomi-id.komikcast-v1.4.54.apk",
     "lang": "id",
-    "code": 53,
-    "version": "1.4.53",
+    "code": 54,
+    "version": "1.4.54",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
