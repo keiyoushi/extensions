@@ -22246,26 +22246,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: World Romance Translation",
-    "pkg": "eu.kanade.tachiyomi.extension.id.worldromancetranslation",
-    "apk": "tachiyomi-id.worldromancetranslation-v1.4.39.apk",
-    "lang": "id",
-    "code": 39,
-    "version": "1.4.39",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "World Romance Translation",
-        "lang": "id",
-        "id": "3921803774683581703",
-        "baseUrl": "https://wrt.my.id",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Anime GDR Club",
     "pkg": "eu.kanade.tachiyomi.extension.it.animegdrclub",
     "apk": "tachiyomi-it.animegdrclub-v1.4.1.apk",
@@ -24762,6 +24742,26 @@
         "lang": "pt-BR",
         "id": "3275945866985875190",
         "baseUrl": "https://portalyaoi.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Portuga Mangas",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.portugamangas",
+    "apk": "tachiyomi-pt.portugamangas-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Portuga Mangas",
+        "lang": "pt-BR",
+        "id": "5049746906421102055",
+        "baseUrl": "https://portugamanga.online",
         "versionId": 1
       }
     ]
