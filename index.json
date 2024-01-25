@@ -12154,10 +12154,10 @@
   {
     "name": "Tachiyomi: MangaGeko",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangarawclub",
-    "apk": "tachiyomi-en.mangarawclub-v1.4.20.apk",
+    "apk": "tachiyomi-en.mangarawclub-v1.4.21.apk",
     "lang": "en",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12166,7 +12166,7 @@
         "name": "MangaGeko",
         "lang": "en",
         "id": "734865402529567092",
-        "baseUrl": "https://www.mangageko.com",
+        "baseUrl": "https://www.mgeko.com",
         "versionId": 1
       }
     ]
@@ -23987,18 +23987,18 @@
     ]
   },
   {
-    "name": "Tachiyomi: Império Scans",
+    "name": "Tachiyomi: Neroxus",
     "pkg": "eu.kanade.tachiyomi.extension.pt.imperioscans",
-    "apk": "tachiyomi-pt.imperioscans-v1.4.35.apk",
+    "apk": "tachiyomi-pt.imperioscans-v1.4.36.apk",
     "lang": "pt-BR",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Império Scans",
+        "name": "Neroxus",
         "lang": "pt-BR",
         "id": "1369117541868504584",
         "baseUrl": "https://neroxus.com.br",
