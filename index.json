@@ -2421,6 +2421,40 @@
     ]
   },
   {
+    "name": "Tachiyomi: Komga",
+    "pkg": "eu.kanade.tachiyomi.extension.all.komga",
+    "apk": "tachiyomi-all.komga-v1.4.51.apk",
+    "lang": "all",
+    "code": 51,
+    "version": "1.4.51",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Komga",
+        "lang": "all",
+        "id": "4508733312114627536",
+        "baseUrl": "",
+        "versionId": 1
+      },
+      {
+        "name": "Komga (2)",
+        "lang": "all",
+        "id": "8074481155021144106",
+        "baseUrl": "",
+        "versionId": 1
+      },
+      {
+        "name": "Komga (3)",
+        "lang": "all",
+        "id": "5132811728275817394",
+        "baseUrl": "",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: League of Legends",
     "pkg": "eu.kanade.tachiyomi.extension.all.leagueoflegends",
     "apk": "tachiyomi-all.leagueoflegends-v1.4.2.apk",
@@ -22748,11 +22782,11 @@
   {
     "name": "Tachiyomi: Nicomanga",
     "pkg": "eu.kanade.tachiyomi.extension.ja.nicomanga",
-    "apk": "tachiyomi-ja.nicomanga-v1.4.2.apk",
+    "apk": "tachiyomi-ja.nicomanga-v1.4.8.apk",
     "lang": "ja",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 0,
+    "code": 8,
+    "version": "1.4.8",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
