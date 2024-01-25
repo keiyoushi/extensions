@@ -12332,26 +12332,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaRok",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangarok",
-    "apk": "tachiyomi-en.mangarok-v1.4.2.apk",
-    "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaRok",
-        "lang": "en",
-        "id": "5249981851360703769",
-        "baseUrl": "https://mangarok.mobi",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MangaRolls",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangarolls",
     "apk": "tachiyomi-en.mangarolls-v1.4.34.apk",
@@ -14692,26 +14672,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Purple Cress",
-    "pkg": "eu.kanade.tachiyomi.extension.en.purplecress",
-    "apk": "tachiyomi-en.purplecress-v1.4.3.apk",
-    "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Purple Cress",
-        "lang": "en",
-        "id": "4966885585738541992",
-        "baseUrl": "https://purplecress.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Quantum Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.quantumscans",
     "apk": "tachiyomi-en.quantumscans-v1.4.28.apk",
@@ -14847,26 +14807,6 @@
         "lang": "en",
         "id": "5160001879976399540",
         "baseUrl": "https://ravenscans.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Raw-Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.en.rawmanga",
-    "apk": "tachiyomi-en.rawmanga-v1.4.2.apk",
-    "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Raw-Manga",
-        "lang": "en",
-        "id": "1405721834292299641",
-        "baseUrl": "https://raw-manga.org",
         "versionId": 1
       }
     ]
@@ -20806,26 +20746,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: KomikFan",
-    "pkg": "eu.kanade.tachiyomi.extension.id.komikfan",
-    "apk": "tachiyomi-id.komikfan-v1.4.1.apk",
-    "lang": "id",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "KomikFan",
-        "lang": "id",
-        "id": "8634129511536089444",
-        "baseUrl": "https://komikfan.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: KomikGan",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikgan",
     "apk": "tachiyomi-id.komikgan-v1.4.1.apk",
@@ -21388,10 +21308,10 @@
   {
     "name": "Tachiyomi: MangaTale",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangatale",
-    "apk": "tachiyomi-id.mangatale-v1.4.29.apk",
+    "apk": "tachiyomi-id.mangatale-v1.4.30.apk",
     "lang": "id",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22008,10 +21928,10 @@
   {
     "name": "Tachiyomi: Shinigami",
     "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
-    "apk": "tachiyomi-id.shinigami-v1.4.47.apk",
+    "apk": "tachiyomi-id.shinigami-v1.4.48.apk",
     "lang": "id",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22241,26 +22161,6 @@
         "lang": "it",
         "id": "726858430404746545",
         "baseUrl": "http://www.agcscanlation.it/",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: DemoneCeleste",
-    "pkg": "eu.kanade.tachiyomi.extension.it.demoneceleste",
-    "apk": "tachiyomi-it.demoneceleste-v1.4.2.apk",
-    "lang": "it",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "DemoneCeleste",
-        "lang": "it",
-        "id": "6934100553530573882",
-        "baseUrl": "https://www.demoneceleste.it/",
         "versionId": 1
       }
     ]
@@ -22921,26 +22821,6 @@
         "lang": "ja",
         "id": "5200293225675847390",
         "baseUrl": "https://nikkangecchan.jp",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Rawdevart",
-    "pkg": "eu.kanade.tachiyomi.extension.ja.rawdevart",
-    "apk": "tachiyomi-ja.rawdevart-v1.4.4.apk",
-    "lang": "ja",
-    "code": 4,
-    "version": "1.4.4",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Rawdevart",
-        "lang": "ja",
-        "id": "4141914703222012650",
-        "baseUrl": "https://rawdevart.com",
         "versionId": 1
       }
     ]
