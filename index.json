@@ -2231,6 +2231,201 @@
     ]
   },
   {
+    "name": "Tachiyomi: Hitomi",
+    "pkg": "eu.kanade.tachiyomi.extension.all.hitomi",
+    "apk": "tachiyomi-all.hitomi-v1.4.25.apk",
+    "lang": "all",
+    "code": 25,
+    "version": "1.4.25",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hitomi",
+        "lang": "all",
+        "id": "690123758188633713",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      },
+      {
+        "name": "Hitomi",
+        "lang": "en",
+        "id": "8758194323514078879",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      },
+      {
+        "name": "Hitomi",
+        "lang": "id",
+        "id": "1151065481637272954",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      },
+      {
+        "name": "Hitomi",
+        "lang": "jv",
+        "id": "6508906416202704914",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      },
+      {
+        "name": "Hitomi",
+        "lang": "ca",
+        "id": "6511868096744396893",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      },
+      {
+        "name": "Hitomi",
+        "lang": "ceb",
+        "id": "4174246577531268343",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      },
+      {
+        "name": "Hitomi",
+        "lang": "cs",
+        "id": "6252839110189358321",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      },
+      {
+        "name": "Hitomi",
+        "lang": "da",
+        "id": "846229581721942637",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      },
+      {
+        "name": "Hitomi",
+        "lang": "de",
+        "id": "3527959698638681794",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      },
+      {
+        "name": "Hitomi",
+        "lang": "et",
+        "id": "3137387913459348191",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      },
+      {
+        "name": "Hitomi",
+        "lang": "es",
+        "id": "4675241818028365305",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      },
+      {
+        "name": "Hitomi",
+        "lang": "eo",
+        "id": "2806629479137588090",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      },
+      {
+        "name": "Hitomi",
+        "lang": "fr",
+        "id": "2485667029890093714",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      },
+      {
+        "name": "Hitomi",
+        "lang": "it",
+        "id": "6889006204051558344",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      },
+      {
+        "name": "Hitomi",
+        "lang": "hi",
+        "id": "1934919967422980093",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      },
+      {
+        "name": "Hitomi",
+        "lang": "hu",
+        "id": "5925216506653833737",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      },
+      {
+        "name": "Hitomi",
+        "lang": "pl",
+        "id": "721961972020678864",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      },
+      {
+        "name": "Hitomi",
+        "lang": "pt",
+        "id": "5342308195627947507",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      },
+      {
+        "name": "Hitomi",
+        "lang": "vi",
+        "id": "3818599797217502124",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      },
+      {
+        "name": "Hitomi",
+        "lang": "tr",
+        "id": "5379755699214980223",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      },
+      {
+        "name": "Hitomi",
+        "lang": "ru",
+        "id": "3909280091773603050",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      },
+      {
+        "name": "Hitomi",
+        "lang": "uk",
+        "id": "4074034220834832549",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      },
+      {
+        "name": "Hitomi",
+        "lang": "ar",
+        "id": "6776904750010591906",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      },
+      {
+        "name": "Hitomi",
+        "lang": "ko",
+        "id": "9053782715781498920",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      },
+      {
+        "name": "Hitomi",
+        "lang": "zh",
+        "id": "1859528116737393976",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      },
+      {
+        "name": "Hitomi",
+        "lang": "ja",
+        "id": "7152495211541141858",
+        "baseUrl": "https://hitomi.la",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: HNI-Scantrad",
     "pkg": "eu.kanade.tachiyomi.extension.all.hniscantrad",
     "apk": "tachiyomi-all.hniscantrad-v1.4.4.apk",
