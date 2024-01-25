@@ -24927,6 +24927,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Tsuki Mangás",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.tsukimangas",
+    "apk": "tachiyomi-pt.tsukimangas-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Tsuki Mangás",
+        "lang": "pt-BR",
+        "id": "4385830901435613463",
+        "baseUrl": "https://tsuki-mangas.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Tsundoku Traduções",
     "pkg": "eu.kanade.tachiyomi.extension.pt.tsundokutraducoes",
     "apk": "tachiyomi-pt.tsundokutraducoes-v1.4.37.apk",
