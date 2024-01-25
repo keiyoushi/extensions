@@ -19766,26 +19766,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: LireScan",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.lirescan",
-    "apk": "tachiyomi-fr.lirescan-v1.4.1.apk",
-    "lang": "fr",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "LireScan",
-        "lang": "fr",
-        "id": "1988848562437115613",
-        "baseUrl": "https://www.lirescan.me",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Manga-FR",
     "pkg": "eu.kanade.tachiyomi.extension.fr.mangafr",
     "apk": "tachiyomi-fr.mangafr-v1.4.9.apk",
