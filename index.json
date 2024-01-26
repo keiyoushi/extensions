@@ -18408,6 +18408,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Knight No Scanlation",
+    "pkg": "eu.kanade.tachiyomi.extension.es.knightnoscanlation",
+    "apk": "tachiyomi-es.knightnoscanlation-v1.4.33.apk",
+    "lang": "es",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Knight No Scanlation",
+        "lang": "es",
+        "id": "6482794816533233181",
+        "baseUrl": "https://knightnoscanlation.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Koinobori Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.koinoboriscan",
     "apk": "tachiyomi-es.koinoboriscan-v1.4.33.apk",
