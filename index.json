@@ -15641,26 +15641,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Read Sword Art Online Manga Online",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readswordartonlinemangaonline",
-    "apk": "tachiyomi-en.readswordartonlinemangaonline-v1.4.4.apk",
-    "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Read Sword Art Online Manga Online",
-        "lang": "en",
-        "id": "1959883888641725039",
-        "baseUrl": "https://manga.watchsao.tv",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Read The Promised Neverland Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readthepromisedneverlandmangaonline",
     "apk": "tachiyomi-en.readthepromisedneverlandmangaonline-v1.4.5.apk",
