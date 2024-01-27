@@ -27663,6 +27663,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Kuaikuai Manhua 3",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.kuaikuai3",
+    "apk": "tachiyomi-zh.kuaikuai3-v1.4.6.apk",
+    "lang": "zh",
+    "code": 6,
+    "version": "1.4.6",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "快快漫画3",
+        "lang": "zh",
+        "id": "800584643949479296",
+        "baseUrl": "https://mobile3.manhuaorg.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Mangabz",
     "pkg": "eu.kanade.tachiyomi.extension.zh.mangabz",
     "apk": "tachiyomi-zh.mangabz-v1.4.7.apk",
