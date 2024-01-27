@@ -2650,6 +2650,33 @@
     ]
   },
   {
+    "name": "Tachiyomi: LANraragi",
+    "pkg": "eu.kanade.tachiyomi.extension.all.lanraragi",
+    "apk": "tachiyomi-all.lanraragi-v1.4.16.apk",
+    "lang": "all",
+    "code": 16,
+    "version": "1.4.16",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "LANraragi (1)",
+        "lang": "all",
+        "id": "4482480338677079857",
+        "baseUrl": "http://127.0.0.1:3000",
+        "versionId": 1
+      },
+      {
+        "name": "LANraragi (2)",
+        "lang": "all",
+        "id": "6188058704030343819",
+        "baseUrl": "http://127.0.0.1:3000",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: League of Legends",
     "pkg": "eu.kanade.tachiyomi.extension.all.leagueoflegends",
     "apk": "tachiyomi-all.leagueoflegends-v1.4.2.apk",
@@ -9476,6 +9503,26 @@
         "lang": "en",
         "id": "3163047467563545761",
         "baseUrl": "https://hentaimanga.me",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: HentaiNexus",
+    "pkg": "eu.kanade.tachiyomi.extension.en.hentainexus",
+    "apk": "tachiyomi-en.hentainexus-v1.4.5.apk",
+    "lang": "en",
+    "code": 5,
+    "version": "1.4.5",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "HentaiNexus",
+        "lang": "en",
+        "id": "7719798645438596394",
+        "baseUrl": "https://hentainexus.com",
         "versionId": 1
       }
     ]
@@ -27698,10 +27745,10 @@
   {
     "name": "Tachiyomi: Manhuaren",
     "pkg": "eu.kanade.tachiyomi.extension.zh.manhuaren",
-    "apk": "tachiyomi-zh.manhuaren-v1.4.14.apk",
+    "apk": "tachiyomi-zh.manhuaren-v1.4.15.apk",
     "lang": "zh",
-    "code": 14,
-    "version": "1.4.14",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
