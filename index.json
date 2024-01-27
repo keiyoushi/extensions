@@ -9383,10 +9383,10 @@
   {
     "name": "Tachiyomi: HentaiFox",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentaifox",
-    "apk": "tachiyomi-en.hentaifox-v1.4.4.apk",
+    "apk": "tachiyomi-en.hentaifox-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11496,26 +11496,6 @@
         "lang": "en",
         "id": "2",
         "baseUrl": "https://www.mangahere.cc",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaHere.today",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangaheretoday",
-    "apk": "tachiyomi-en.mangaheretoday-v1.4.1.apk",
-    "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaHere.today",
-        "lang": "en",
-        "id": "2542622550239422854",
-        "baseUrl": "http://mangahere.today",
         "versionId": 1
       }
     ]
@@ -20315,26 +20295,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Asupan Komik",
-    "pkg": "eu.kanade.tachiyomi.extension.id.asupankomik",
-    "apk": "tachiyomi-id.asupankomik-v1.4.9.apk",
-    "lang": "id",
-    "code": 9,
-    "version": "1.4.9",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Asupan Komik",
-        "lang": "id",
-        "id": "2773504896410251445",
-        "baseUrl": "https://www.asupankomik.my.id",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: BacaKomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.bacakomik",
     "apk": "tachiyomi-id.bacakomik-v1.4.10.apk",
@@ -27571,26 +27531,6 @@
         "lang": "zh",
         "id": "8099870292642776005",
         "baseUrl": "https://www.kuaikanmanhua.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Kuaikuai Manhua 3",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.kuaikuai3",
-    "apk": "tachiyomi-zh.kuaikuai3-v1.4.6.apk",
-    "lang": "zh",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "快快漫画3",
-        "lang": "zh",
-        "id": "800584643949479296",
-        "baseUrl": "https://mobile3.manhuaorg.com",
         "versionId": 1
       }
     ]
