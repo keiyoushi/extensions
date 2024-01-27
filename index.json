@@ -24016,6 +24016,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Ler Mangá Online",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.lermangaonline",
+    "apk": "tachiyomi-pt.lermangaonline-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Ler Mangá Online",
+        "lang": "pt-BR",
+        "id": "2698137748638081931",
+        "baseUrl": "https://lermangaonline.com.br",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Ler Yaoi",
     "pkg": "eu.kanade.tachiyomi.extension.pt.leryaoi",
     "apk": "tachiyomi-pt.leryaoi-v1.4.33.apk",
