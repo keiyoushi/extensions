@@ -27236,26 +27236,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Say Truyen",
-    "pkg": "eu.kanade.tachiyomi.extension.vi.saytruyen",
-    "apk": "tachiyomi-vi.saytruyen-v1.4.11.apk",
-    "lang": "vi",
-    "code": 11,
-    "version": "1.4.11",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Say Truyen",
-        "lang": "vi",
-        "id": "427405262130276885",
-        "baseUrl": "https://saytruyenvip.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Team Lanh Lung",
     "pkg": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
     "apk": "tachiyomi-vi.teamlanhlung-v1.4.4.apk",
