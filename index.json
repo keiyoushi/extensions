@@ -7153,26 +7153,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaScouts",
-    "pkg": "eu.kanade.tachiyomi.extension.de.mangascouts",
-    "apk": "tachiyomi-de.mangascouts-v1.4.4.apk",
-    "lang": "de",
-    "code": 4,
-    "version": "1.4.4",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaScouts",
-        "lang": "de",
-        "id": "100019686565354829",
-        "baseUrl": "http://onlinereader.mangascouts.org",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Manga Tube",
     "pkg": "eu.kanade.tachiyomi.extension.de.mangatube",
     "apk": "tachiyomi-de.mangatube-v1.4.2.apk",
@@ -9481,26 +9461,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: HentaiSphere",
-    "pkg": "eu.kanade.tachiyomi.extension.en.hentaisphere",
-    "apk": "tachiyomi-en.hentaisphere-v1.4.2.apk",
-    "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "HentaiSphere",
-        "lang": "en",
-        "id": "2036617068171001696",
-        "baseUrl": "https://hentaisphere.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: HentaiWebtoon",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentaiwebtoon",
     "apk": "tachiyomi-en.hentaiwebtoon-v1.4.34.apk",
@@ -10356,26 +10316,6 @@
         "lang": "en",
         "id": "4480996639887718467",
         "baseUrl": "https://lilymanga.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Lilyreader",
-    "pkg": "eu.kanade.tachiyomi.extension.en.lilyreader",
-    "apk": "tachiyomi-en.lilyreader-v1.4.3.apk",
-    "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Lilyreader",
-        "lang": "en",
-        "id": "2458585375847450659",
-        "baseUrl": "https://manga.smuglo.li",
         "versionId": 1
       }
     ]
@@ -15581,26 +15521,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: ReadManhwa",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readmanhwa",
-    "apk": "tachiyomi-en.readmanhwa-v1.4.12.apk",
-    "lang": "en",
-    "code": 12,
-    "version": "1.4.12",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ReadManhwa",
-        "lang": "en",
-        "id": "8975393841649838643",
-        "baseUrl": "https://readmanhwa.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Read Nanatsu no Taizai 7 Deadly Sins Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readnanatsunotaizai7deadlysinsmangaonline",
     "apk": "tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.4.6.apk",
@@ -19795,26 +19715,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Le Cercle du Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.lecercleduscan",
-    "apk": "tachiyomi-fr.lecercleduscan-v1.4.4.apk",
-    "lang": "fr",
-    "code": 4,
-    "version": "1.4.4",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Le Cercle du Scan",
-        "lang": "fr",
-        "id": "8208171697545584128",
-        "baseUrl": "https://lel.lecercleduscan.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Lelmanga",
     "pkg": "eu.kanade.tachiyomi.extension.fr.lelmanga",
     "apk": "tachiyomi-fr.lelmanga-v1.4.28.apk",
@@ -22415,26 +22315,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: PowerManga",
-    "pkg": "eu.kanade.tachiyomi.extension.it.powermangait",
-    "apk": "tachiyomi-it.powermangait-v1.4.3.apk",
-    "lang": "it",
-    "code": 3,
-    "version": "1.4.3",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "PowerManga",
-        "lang": "it",
-        "id": "1966959767365611687",
-        "baseUrl": "https://reader.powermanga.org",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Rama",
     "pkg": "eu.kanade.tachiyomi.extension.it.rama",
     "apk": "tachiyomi-it.rama-v1.4.3.apk",
@@ -23311,26 +23191,6 @@
         "lang": "pl",
         "id": "3444391865384419960",
         "baseUrl": "https://phoenix-scans.pl",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Wanted Team",
-    "pkg": "eu.kanade.tachiyomi.extension.pl.wantedteam",
-    "apk": "tachiyomi-pl.wantedteam-v1.4.3.apk",
-    "lang": "pl",
-    "code": 3,
-    "version": "1.4.3",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Wanted Team",
-        "lang": "pl",
-        "id": "4087849569627303225",
-        "baseUrl": "https://reader.onepiecenakama.pl",
         "versionId": 1
       }
     ]
@@ -25711,26 +25571,6 @@
         "lang": "ru",
         "id": "6651547640332983611",
         "baseUrl": "https://rumix.me",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Русификация",
-    "pkg": "eu.kanade.tachiyomi.extension.ru.russification",
-    "apk": "tachiyomi-ru.russification-v1.4.3.apk",
-    "lang": "ru",
-    "code": 3,
-    "version": "1.4.3",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Русификация",
-        "lang": "ru",
-        "id": "1292482610547376621",
-        "baseUrl": "https://rusmanga.ru",
         "versionId": 1
       }
     ]
