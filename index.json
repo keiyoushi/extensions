@@ -8173,6 +8173,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: CulturedWorks",
+    "pkg": "eu.kanade.tachiyomi.extension.en.culturedworks",
+    "apk": "tachiyomi-en.culturedworks-v1.4.28.apk",
+    "lang": "en",
+    "code": 28,
+    "version": "1.4.28",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "CulturedWorks",
+        "lang": "en",
+        "id": "1019943013243665332",
+        "baseUrl": "https://culturedworks.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Cypher Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.cypherscans",
     "apk": "tachiyomi-en.cypherscans-v1.4.28.apk",
