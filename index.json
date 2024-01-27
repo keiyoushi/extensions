@@ -6313,6 +6313,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: ARESNOV",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.aresnov",
+    "apk": "tachiyomi-ar.aresnov-v1.4.28.apk",
+    "lang": "ar",
+    "code": 28,
+    "version": "1.4.28",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ARESNOV",
+        "lang": "ar",
+        "id": "1046935749022479891",
+        "baseUrl": "https://aresnov.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Azora",
     "pkg": "eu.kanade.tachiyomi.extension.ar.azora",
     "apk": "tachiyomi-ar.azora-v1.4.40.apk",
@@ -6528,6 +6548,26 @@
         "lang": "ar",
         "id": "3299958336217533379",
         "baseUrl": "https://hizomanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ARESManga",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.iimanga",
+    "apk": "tachiyomi-ar.iimanga-v1.4.30.apk",
+    "lang": "ar",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ARESManga",
+        "lang": "ar",
+        "id": "230017529540228175",
+        "baseUrl": "https://en-aresmanga.com",
         "versionId": 1
       }
     ]
@@ -26798,11 +26838,11 @@
   {
     "name": "Tachiyomi: BlogTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.blogtruyen",
-    "apk": "tachiyomi-vi.blogtruyen-v1.4.17.apk",
+    "apk": "tachiyomi-vi.blogtruyen-v1.4.18.apk",
     "lang": "vi",
-    "code": 17,
-    "version": "1.4.17",
-    "nsfw": 1,
+    "code": 18,
+    "version": "1.4.18",
+    "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -26811,6 +26851,26 @@
         "lang": "vi",
         "id": "7328966691702591431",
         "baseUrl": "https://blogtruyenmoi.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: BlogTruyen.vn (unoriginal)",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.blogtruyenvn",
+    "apk": "tachiyomi-vi.blogtruyenvn-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "BlogTruyen.vn (unoriginal)",
+        "lang": "vi",
+        "id": "7578838048185877070",
+        "baseUrl": "https://blogtruyenvn.com",
         "versionId": 1
       }
     ]
