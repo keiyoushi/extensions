@@ -8033,26 +8033,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Comicastle",
-    "pkg": "eu.kanade.tachiyomi.extension.en.comicastle",
-    "apk": "tachiyomi-en.comicastle-v1.4.3.apk",
-    "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Comicastle",
-        "lang": "en",
-        "id": "1232262904653448061",
-        "baseUrl": "https://www.comicastle.org",
-        "versionId": 2
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: ComicExtra",
     "pkg": "eu.kanade.tachiyomi.extension.en.comicextra",
     "apk": "tachiyomi-en.comicextra-v1.4.14.apk",
@@ -15161,46 +15141,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Read Berserk Manga Online",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readberserkmangaonline",
-    "apk": "tachiyomi-en.readberserkmangaonline-v1.4.1.apk",
-    "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Read Berserk Manga Online",
-        "lang": "en",
-        "id": "3536110576872184623",
-        "baseUrl": "https://berserkmanga.net/",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Read Black Clover Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readblackclovermanga",
-    "apk": "tachiyomi-en.readblackclovermanga-v1.4.2.apk",
-    "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Read Black Clover Manga",
-        "lang": "en",
-        "id": "1160953513221358586",
-        "baseUrl": "https://w6.blackclovermanga2.com/",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Read Black Clover Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readblackclovermangaonline",
     "apk": "tachiyomi-en.readblackclovermangaonline-v1.4.4.apk",
@@ -15216,26 +15156,6 @@
         "lang": "en",
         "id": "6485938153129890061",
         "baseUrl": "https://ww7.readblackclover.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Read Boku No Hero Academia Manga Online",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readbokunoheroacademiamangaonline",
-    "apk": "tachiyomi-en.readbokunoheroacademiamangaonline-v1.4.1.apk",
-    "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Read Boku No Hero Academia Manga Online",
-        "lang": "en",
-        "id": "3991903235956640015",
-        "baseUrl": "https://w23.readheroacademia.com/",
         "versionId": 1
       }
     ]
@@ -15316,26 +15236,6 @@
         "lang": "en",
         "id": "7185601298150078890",
         "baseUrl": "https://readcomicsonline.ru",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Read Domestic Girlfriend Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readdomesticgirlfriendmanga",
-    "apk": "tachiyomi-en.readdomesticgirlfriendmanga-v1.4.1.apk",
-    "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Read Domestic Girlfriend Manga",
-        "lang": "en",
-        "id": "7100454716473330951",
-        "baseUrl": "https://domesticgirlfriend.net/",
         "versionId": 1
       }
     ]
@@ -15701,26 +15601,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Read Nanatsu no Taizai Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readnanatsunotaizaimanga",
-    "apk": "tachiyomi-en.readnanatsunotaizaimanga-v1.4.2.apk",
-    "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Read Nanatsu no Taizai Manga",
-        "lang": "en",
-        "id": "5392875437644843922",
-        "baseUrl": "https://w2.readnanatsutaizai.net/",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Read Naruto Boruto Samurai 8 Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readnarutoborutosamurai8mangaonline",
     "apk": "tachiyomi-en.readnarutoborutosamurai8mangaonline-v1.4.5.apk",
@@ -15781,26 +15661,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Read One Punch Man Manga Online",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readonepunchmanmangaonline",
-    "apk": "tachiyomi-en.readonepunchmanmangaonline-v1.4.2.apk",
-    "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Read One Punch Man Manga Online",
-        "lang": "en",
-        "id": "350292740857478743",
-        "baseUrl": "https://w23.readonepunchman.net/",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Read One-Punch Man Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readonepunchmanmangaonlinetwo",
     "apk": "tachiyomi-en.readonepunchmanmangaonlinetwo-v1.4.5.apk",
@@ -15816,66 +15676,6 @@
         "lang": "en",
         "id": "8254209929759906152",
         "baseUrl": "https://ww3.readopm.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Read Rent a Girlfriend Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readrentagirlfriendmanga",
-    "apk": "tachiyomi-en.readrentagirlfriendmanga-v1.4.1.apk",
-    "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Read Rent a Girlfriend Manga",
-        "lang": "en",
-        "id": "8110947532274182390",
-        "baseUrl": "https://kanojo-okarishimasu.com/",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Read Shingeki no Kyojin Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readshingekinokyojinmanga",
-    "apk": "tachiyomi-en.readshingekinokyojinmanga-v1.4.1.apk",
-    "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Read Shingeki no Kyojin Manga",
-        "lang": "en",
-        "id": "1578286449170137280",
-        "baseUrl": "https://readshingekinokyojin.com/",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Read Solo Leveling",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readsololeveling",
-    "apk": "tachiyomi-en.readsololeveling-v1.4.2.apk",
-    "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Read Solo Leveling",
-        "lang": "en",
-        "id": "2081976407156367047",
-        "baseUrl": "https://mysololeveling.com/",
         "versionId": 1
       }
     ]
@@ -23423,14 +23223,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki322.net",
+        "baseUrl": "https://manatoki323.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki322.com",
+        "baseUrl": "https://newtoki323.com",
         "versionId": 1
       }
     ]
