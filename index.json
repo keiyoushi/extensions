@@ -26885,10 +26885,10 @@
   {
     "name": "Tachiyomi: A3 Manga",
     "pkg": "eu.kanade.tachiyomi.extension.vi.a3manga",
-    "apk": "tachiyomi-vi.a3manga-v1.4.3.apk",
+    "apk": "tachiyomi-vi.a3manga-v1.4.4.apk",
     "lang": "vi",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26897,7 +26897,7 @@
         "name": "A3 Manga",
         "lang": "vi",
         "id": "7038613508327290426",
-        "baseUrl": "https://www.a3manga.xyz",
+        "baseUrl": "https://www.a3manga.online",
         "versionId": 1
       }
     ]
