@@ -6880,6 +6880,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaStorm",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangastorm",
+    "apk": "tachiyomi-ar.mangastorm-v1.4.1.apk",
+    "lang": "ar",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaStorm",
+        "lang": "ar",
+        "id": "1541167330805979817",
+        "baseUrl": "https://mangastorm.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaSwat",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaswat",
     "apk": "tachiyomi-ar.mangaswat-v1.4.43.apk",
@@ -26863,26 +26883,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaXY",
-    "pkg": "eu.kanade.tachiyomi.extension.vi.MangaXY",
-    "apk": "tachiyomi-vi.MangaXY-v1.4.2.apk",
-    "lang": "vi",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaXY",
-        "lang": "vi",
-        "id": "5989000556267681236",
-        "baseUrl": "https://mangaxy.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: A3 Manga",
     "pkg": "eu.kanade.tachiyomi.extension.vi.a3manga",
     "apk": "tachiyomi-vi.a3manga-v1.4.4.apk",
@@ -27205,10 +27205,10 @@
   {
     "name": "Tachiyomi: TruyenQQ",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenqq",
-    "apk": "tachiyomi-vi.truyenqq-v1.4.12.apk",
+    "apk": "tachiyomi-vi.truyenqq-v1.4.13.apk",
     "lang": "vi",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27217,7 +27217,7 @@
         "name": "TruyenQQ",
         "lang": "vi",
         "id": "2553532324170433933",
-        "baseUrl": "https://truyenqqne.com/",
+        "baseUrl": "https://truyenqqvn.com",
         "versionId": 1
       }
     ]
