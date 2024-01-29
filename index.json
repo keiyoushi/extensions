@@ -23223,6 +23223,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Dango Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.dangoscan",
+    "apk": "tachiyomi-pt.dangoscan-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Dango Scan",
+        "lang": "pt-BR",
+        "id": "5279929088618194033",
+        "baseUrl": "https://dangoscan.com.br",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Dessert Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.dessertscan",
     "apk": "tachiyomi-pt.dessertscan-v1.4.33.apk",
@@ -23558,6 +23578,26 @@
         "lang": "pt-BR",
         "id": "7059984733794571635",
         "baseUrl": "https://hentaitokyo.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Hikari Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.hikariscan",
+    "apk": "tachiyomi-pt.hikariscan-v1.4.29.apk",
+    "lang": "pt-BR",
+    "code": 29,
+    "version": "1.4.29",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hikari Scan",
+        "lang": "pt-BR",
+        "id": "1733642102689076122",
+        "baseUrl": "https://hikariscan.org",
         "versionId": 1
       }
     ]
@@ -24003,6 +24043,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Mode Scanlator",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.modescanlator",
+    "apk": "tachiyomi-pt.modescanlator-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Mode Scanlator",
+        "lang": "pt-BR",
+        "id": "69798647429122656",
+        "baseUrl": "https://modescanlator.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Momo no Hana Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.momonohanascan",
     "apk": "tachiyomi-pt.momonohanascan-v1.4.34.apk",
@@ -24119,6 +24179,26 @@
         "id": "141171756957474060",
         "baseUrl": "https://mundohentaioficial.com",
         "versionId": 2
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Nazarick Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.nazarickscan",
+    "apk": "tachiyomi-pt.nazarickscan-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Nazarick Scan",
+        "lang": "pt-BR",
+        "id": "1251235374170808039",
+        "baseUrl": "https://nazarickscan.com.br",
+        "versionId": 1
       }
     ]
   },
@@ -24418,6 +24498,26 @@
         "lang": "pt-BR",
         "id": "8295593204533043008",
         "baseUrl": "https://luratoon.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: RF Dragon Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.rfdragonscan",
+    "apk": "tachiyomi-pt.rfdragonscan-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "RF Dragon Scan",
+        "lang": "pt-BR",
+        "id": "3492404357721425345",
+        "baseUrl": "https://rfdragonscan.com",
         "versionId": 1
       }
     ]
@@ -24724,31 +24824,11 @@
   },
   {
     "name": "Tachiyomi: Wicked Witch Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.wickedwitchscan",
-    "apk": "tachiyomi-pt.wickedwitchscan-v1.4.33.apk",
-    "lang": "pt-BR",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Wicked Witch Scan",
-        "lang": "pt-BR",
-        "id": "1848530229465107611",
-        "baseUrl": "https://wickedwitchscan.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Wicked Witch Scan (Novo)",
     "pkg": "eu.kanade.tachiyomi.extension.pt.wickedwitchscannovo",
-    "apk": "tachiyomi-pt.wickedwitchscannovo-v1.4.1.apk",
+    "apk": "tachiyomi-pt.wickedwitchscannovo-v1.4.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
