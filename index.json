@@ -26223,6 +26223,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manga Kings",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.mangakings",
+    "apk": "tachiyomi-tr.mangakings-v1.4.28.apk",
+    "lang": "tr",
+    "code": 28,
+    "version": "1.4.28",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Kings",
+        "lang": "tr",
+        "id": "6973335901813470266",
+        "baseUrl": "https://mangakings.com.tr",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manga Şehri",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangasehri",
     "apk": "tachiyomi-tr.mangasehri-v1.4.34.apk",
