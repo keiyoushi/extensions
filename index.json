@@ -24663,6 +24663,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Taiyō",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.taiyo",
+    "apk": "tachiyomi-pt.taiyo-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Taiyō",
+        "lang": "pt-BR",
+        "id": "7387610647818309943",
+        "baseUrl": "https://www.taiyo.moe",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Tankou Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.tankouhentai",
     "apk": "tachiyomi-pt.tankouhentai-v1.4.33.apk",
