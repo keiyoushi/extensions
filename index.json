@@ -22542,6 +22542,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Rawdevart.art",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.rawdevartart",
+    "apk": "tachiyomi-ja.rawdevartart-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Rawdevart.art",
+        "lang": "ja",
+        "id": "3401714773439070137",
+        "baseUrl": "https://rawdevart.art",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Rawkuma",
     "pkg": "eu.kanade.tachiyomi.extension.ja.rawkuma",
     "apk": "tachiyomi-ja.rawkuma-v1.4.28.apk",
