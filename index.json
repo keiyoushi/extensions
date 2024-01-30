@@ -7300,26 +7300,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: AkuManga",
-    "pkg": "eu.kanade.tachiyomi.extension.en.akumanga",
-    "apk": "tachiyomi-en.akumanga-v1.4.35.apk",
-    "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "AkuManga",
-        "lang": "en",
-        "id": "5319917120604744511",
-        "baseUrl": "https://akumanga.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Akuzenai Arts",
     "pkg": "eu.kanade.tachiyomi.extension.en.akuzenaiarts",
     "apk": "tachiyomi-en.akuzenaiarts-v1.4.33.apk",
@@ -12390,10 +12370,10 @@
   {
     "name": "Tachiyomi: MangaReader.cc",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangareadercc",
-    "apk": "tachiyomi-en.mangareadercc-v1.4.2.apk",
+    "apk": "tachiyomi-en.mangareadercc-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12402,7 +12382,7 @@
         "name": "MangaReader.cc",
         "lang": "en",
         "id": "7388100486112484697",
-        "baseUrl": "http://mangareader.cc/",
+        "baseUrl": "http://mangareader.cc",
         "versionId": 1
       }
     ]
@@ -21522,26 +21502,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Pikiran Wibu",
-    "pkg": "eu.kanade.tachiyomi.extension.id.pikiranwibu",
-    "apk": "tachiyomi-id.pikiranwibu-v1.4.33.apk",
-    "lang": "id",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Pikiran Wibu",
-        "lang": "id",
-        "id": "7091340832940249132",
-        "baseUrl": "https://pikiran-wibu.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Pojok Manga",
     "pkg": "eu.kanade.tachiyomi.extension.id.pojokmanga",
     "apk": "tachiyomi-id.pojokmanga-v1.4.38.apk",
@@ -21757,26 +21717,6 @@
         "lang": "id",
         "id": "9078212518079369042",
         "baseUrl": "https://sigel.asia",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: SobatManKu",
-    "pkg": "eu.kanade.tachiyomi.extension.id.sobatmanku",
-    "apk": "tachiyomi-id.sobatmanku-v1.4.8.apk",
-    "lang": "id",
-    "code": 8,
-    "version": "1.4.8",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "SobatManKu",
-        "lang": "id",
-        "id": "1617341519382333346",
-        "baseUrl": "https://www.sobatmanku19.site",
         "versionId": 1
       }
     ]
@@ -22564,10 +22504,10 @@
   {
     "name": "Tachiyomi: Rawkuma",
     "pkg": "eu.kanade.tachiyomi.extension.ja.rawkuma",
-    "apk": "tachiyomi-ja.rawkuma-v1.4.28.apk",
+    "apk": "tachiyomi-ja.rawkuma-v1.4.29.apk",
     "lang": "ja",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22576,7 +22516,7 @@
         "name": "Rawkuma",
         "lang": "ja",
         "id": "1512072040307511188",
-        "baseUrl": "https://rawkuma.com/",
+        "baseUrl": "https://rawkuma.com",
         "versionId": 1
       }
     ]
@@ -23605,10 +23545,10 @@
   {
     "name": "Tachiyomi: Hikari Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.hikariscan",
-    "apk": "tachiyomi-pt.hikariscan-v1.4.29.apk",
+    "apk": "tachiyomi-pt.hikariscan-v1.4.30.apk",
     "lang": "pt-BR",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25285,10 +25225,10 @@
   {
     "name": "Tachiyomi: Manga One Love",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangaonelove",
-    "apk": "tachiyomi-ru.mangaonelove-v1.4.33.apk",
+    "apk": "tachiyomi-ru.mangaonelove-v1.4.34.apk",
     "lang": "ru",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25297,7 +25237,7 @@
         "name": "Manga One Love",
         "lang": "ru",
         "id": "1599250672484160230",
-        "baseUrl": "https://mangaonelove.site/",
+        "baseUrl": "https://mangaonelove.site",
         "versionId": 1
       }
     ]
