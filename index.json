@@ -23043,6 +23043,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Aurora Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.aurorascan",
+    "apk": "tachiyomi-pt.aurorascan-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Aurora Scan",
+        "lang": "pt-BR",
+        "id": "3121404924614598451",
+        "baseUrl": "https://aurorascan.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Bakai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.bakai",
     "apk": "tachiyomi-pt.bakai-v1.4.2.apk",
