@@ -12988,6 +12988,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: ManhuaScan",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manhuascan",
+    "apk": "tachiyomi-en.manhuascan-v1.4.8.apk",
+    "lang": "en",
+    "code": 8,
+    "version": "1.4.8",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ManhuaScan",
+        "lang": "en",
+        "id": "2662217302374532650",
+        "baseUrl": "https://manhuascan.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: ManhuaScan.info (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhuascaninfo",
     "apk": "tachiyomi-en.manhuascaninfo-v1.4.33.apk",
