@@ -9770,10 +9770,10 @@
   {
     "name": "Tachiyomi: InfinityScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.infinityscans",
-    "apk": "tachiyomi-en.infinityscans-v1.4.1.apk",
+    "apk": "tachiyomi-en.infinityscans-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11250,10 +11250,10 @@
   {
     "name": "Tachiyomi: Mangaforfree.com",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaforfreecom",
-    "apk": "tachiyomi-en.mangaforfreecom-v1.4.33.apk",
+    "apk": "tachiyomi-en.mangaforfreecom-v1.4.34.apk",
     "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -13750,10 +13750,10 @@
   {
     "name": "Tachiyomi: Manhwax",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwax",
-    "apk": "tachiyomi-en.manhwax-v1.4.28.apk",
+    "apk": "tachiyomi-en.manhwax-v1.4.29.apk",
     "lang": "en",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -13762,7 +13762,7 @@
         "name": "Manhwax",
         "lang": "en",
         "id": "7310092753988370613",
-        "baseUrl": "https://manhwax.com",
+        "baseUrl": "https://manhwax.org",
         "versionId": 1
       }
     ]
@@ -13770,10 +13770,10 @@
   {
     "name": "Tachiyomi: Manhwa XXL",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwaxxl",
-    "apk": "tachiyomi-en.manhwaxxl-v1.4.1.apk",
+    "apk": "tachiyomi-en.manhwaxxl-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -13781,9 +13781,9 @@
       {
         "name": "Manhwa XXL",
         "lang": "en",
-        "id": "4746895257702894026",
+        "id": "1823408414151467671",
         "baseUrl": "https://manhwaxxl.com",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
