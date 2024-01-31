@@ -5185,10 +5185,10 @@
   {
     "name": "Tachiyomi: 999Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.ninenineninehentai",
-    "apk": "tachiyomi-all.ninenineninehentai-v1.4.5.apk",
+    "apk": "tachiyomi-all.ninenineninehentai-v1.4.6.apk",
     "lang": "all",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -14290,10 +14290,10 @@
   {
     "name": "Tachiyomi: OPSCANS",
     "pkg": "eu.kanade.tachiyomi.extension.en.opscans",
-    "apk": "tachiyomi-en.opscans-v1.4.1.apk",
+    "apk": "tachiyomi-en.opscans-v1.4.33.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23283,6 +23283,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Hunters Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.huntersscans",
+    "apk": "tachiyomi-pt.huntersscans-v1.4.33.apk",
+    "lang": "pt-BR",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hunters Scan",
+        "lang": "pt-BR",
+        "id": "7310576253330700902",
+        "baseUrl": "https://huntersscan.xyz/",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Illusion Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.illusionscan",
     "apk": "tachiyomi-pt.illusionscan-v1.4.33.apk",
@@ -27165,10 +27185,10 @@
   {
     "name": "Tachiyomi: ManHuaGui",
     "pkg": "eu.kanade.tachiyomi.extension.zh.manhuagui",
-    "apk": "tachiyomi-zh.manhuagui-v1.4.18.apk",
+    "apk": "tachiyomi-zh.manhuagui-v1.4.19.apk",
     "lang": "zh",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
