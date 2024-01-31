@@ -22,10 +22,10 @@
   {
     "name": "Tachiyomi: Bato.to",
     "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
-    "apk": "tachiyomi-all.batoto-v1.4.34.apk",
+    "apk": "tachiyomi-all.batoto-v1.4.35.apk",
     "lang": "all",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8340,26 +8340,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Dream Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.en.dreammanga",
-    "apk": "tachiyomi-en.dreammanga-v1.4.36.apk",
-    "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Dream Manga",
-        "lang": "en",
-        "id": "2878081273084147712",
-        "baseUrl": "https://www.swarmmanga.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Dynasty",
     "pkg": "eu.kanade.tachiyomi.extension.en.dynasty",
     "apk": "tachiyomi-en.dynasty-v1.4.23.apk",
@@ -8763,26 +8743,6 @@
         "lang": "en",
         "id": "6350607071566689772",
         "baseUrl": "https://flamecomics.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Flex Tape Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.flextapescans",
-    "apk": "tachiyomi-en.flextapescans-v1.4.33.apk",
-    "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Flex Tape Scans",
-        "lang": "en",
-        "id": "685052240021390949",
-        "baseUrl": "https://flextapescans.com",
         "versionId": 1
       }
     ]
@@ -9488,26 +9448,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: hManhwa",
-    "pkg": "eu.kanade.tachiyomi.extension.en.hmanhwa",
-    "apk": "tachiyomi-en.hmanhwa-v1.4.34.apk",
-    "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "hManhwa",
-        "lang": "en",
-        "id": "8360569144343688518",
-        "baseUrl": "https://hmanhwa.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: HolyManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.holymanga",
     "apk": "tachiyomi-en.holymanga-v1.4.8.apk",
@@ -9688,26 +9628,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: IsekaiScan.com",
-    "pkg": "eu.kanade.tachiyomi.extension.en.isekaiscancom",
-    "apk": "tachiyomi-en.isekaiscancom-v1.4.37.apk",
-    "lang": "en",
-    "code": 37,
-    "version": "1.4.37",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "IsekaiScan.com",
-        "lang": "en",
-        "id": "4133583118999977425",
-        "baseUrl": "https://isekaiscan.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: IsekaiScan.to (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.en.isekaiscaneu",
     "apk": "tachiyomi-en.isekaiscaneu-v1.4.36.apk",
@@ -9823,26 +9743,6 @@
         "lang": "en",
         "id": "4825368993215448425",
         "baseUrl": "https://www.kaiscans.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: KawaScans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.kawascans",
-    "apk": "tachiyomi-en.kawascans-v1.4.34.apk",
-    "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "KawaScans",
-        "lang": "en",
-        "id": "5007009203470237925",
-        "baseUrl": "https://kawascans.com",
         "versionId": 1
       }
     ]
@@ -10068,26 +9968,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Lara Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.en.laramanga",
-    "apk": "tachiyomi-en.laramanga-v1.4.34.apk",
-    "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Lara Manga",
-        "lang": "en",
-        "id": "493173131380798334",
-        "baseUrl": "https://laramanga.love",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Latis Books",
     "pkg": "eu.kanade.tachiyomi.extension.en.latisbooks",
     "apk": "tachiyomi-en.latisbooks-v1.4.5.apk",
@@ -10243,26 +10123,6 @@
         "lang": "en",
         "id": "509970611106961933",
         "baseUrl": "https://lolicon.mobi",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Lord Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.en.lordmanga",
-    "apk": "tachiyomi-en.lordmanga-v1.4.33.apk",
-    "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Lord Manga",
-        "lang": "en",
-        "id": "4526574840213847044",
-        "baseUrl": "https://lordmanga.com",
         "versionId": 1
       }
     ]
@@ -17515,26 +17375,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: DokkoManga",
-    "pkg": "eu.kanade.tachiyomi.extension.es.dokkomanga",
-    "apk": "tachiyomi-es.dokkomanga-v1.4.34.apk",
-    "lang": "es",
-    "code": 34,
-    "version": "1.4.34",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "DokkoManga",
-        "lang": "es",
-        "id": "9083558228647693798",
-        "baseUrl": "https://dokkomanga.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: DoujinHentai",
     "pkg": "eu.kanade.tachiyomi.extension.es.doujinhentai",
     "apk": "tachiyomi-es.doujinhentai-v1.4.34.apk",
@@ -20582,26 +20422,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: KomikRame",
-    "pkg": "eu.kanade.tachiyomi.extension.id.komikrame",
-    "apk": "tachiyomi-id.komikrame-v1.4.33.apk",
-    "lang": "id",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "KomikRame",
-        "lang": "id",
-        "id": "5544745045605155772",
-        "baseUrl": "https://komikra.me",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: KomikRealm",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikrealm",
     "apk": "tachiyomi-id.komikrealm-v1.4.8.apk",
@@ -23163,26 +22983,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Final Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.finalscans",
-    "apk": "tachiyomi-pt.finalscans-v1.4.34.apk",
-    "lang": "pt-BR",
-    "code": 34,
-    "version": "1.4.34",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Final Scans",
-        "lang": "pt-BR",
-        "id": "6168945536463997067",
-        "baseUrl": "https://finalscans.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Fleur Blanche",
     "pkg": "eu.kanade.tachiyomi.extension.pt.fleurblanche",
     "apk": "tachiyomi-pt.fleurblanche-v1.4.35.apk",
@@ -23458,26 +23258,6 @@
         "lang": "pt-BR",
         "id": "1639829368022947378",
         "baseUrl": "https://www.hq-now.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Hunters Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.huntersscans",
-    "apk": "tachiyomi-pt.huntersscans-v1.4.33.apk",
-    "lang": "pt-BR",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Hunters Scan",
-        "lang": "pt-BR",
-        "id": "7310576253330700902",
-        "baseUrl": "https://huntersscan.xyz/",
         "versionId": 1
       }
     ]
