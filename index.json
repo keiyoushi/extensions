@@ -20962,6 +20962,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaYu",
+    "pkg": "eu.kanade.tachiyomi.extension.id.mangayu",
+    "apk": "tachiyomi-id.mangayu-v1.4.28.apk",
+    "lang": "id",
+    "code": 28,
+    "version": "1.4.28",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaYu",
+        "lang": "id",
+        "id": "827842316898098593",
+        "baseUrl": "https://mangayu.id",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Siren Komik",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangkomik",
     "apk": "tachiyomi-id.mangkomik-v1.4.30.apk",
