@@ -6782,10 +6782,10 @@
   {
     "name": "Tachiyomi: MangaRabic",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangarabic",
-    "apk": "tachiyomi-ar.mangarabic-v1.4.34.apk",
+    "apk": "tachiyomi-ar.mangarabic-v1.4.35.apk",
     "lang": "ar",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6794,7 +6794,7 @@
         "name": "MangaRabic",
         "lang": "ar",
         "id": "909469885483358759",
-        "baseUrl": "https://mangaarabics.com",
+        "baseUrl": "https://mangarabic.com",
         "versionId": 1
       }
     ]
@@ -15570,10 +15570,10 @@
   {
     "name": "Tachiyomi: Rio2 Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.rio2manga",
-    "apk": "tachiyomi-en.rio2manga-v1.4.33.apk",
+    "apk": "tachiyomi-en.rio2manga-v1.4.34.apk",
     "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15582,7 +15582,7 @@
         "name": "Rio2 Manga",
         "lang": "en",
         "id": "7333807145320535213",
-        "baseUrl": "https://rio2manga.com",
+        "baseUrl": "https://rio2manga.net",
         "versionId": 1
       }
     ]
@@ -17137,10 +17137,10 @@
   {
     "name": "Tachiyomi: ZinChanManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.zinchanmanga",
-    "apk": "tachiyomi-en.zinchanmanga-v1.4.33.apk",
+    "apk": "tachiyomi-en.zinchanmanga-v1.4.34.apk",
     "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17149,7 +17149,7 @@
         "name": "ZinChanManga",
         "lang": "en",
         "id": "1345447568467813585",
-        "baseUrl": "https://zinchanmanga.com",
+        "baseUrl": "https://zinchanmanga.net",
         "versionId": 2
       }
     ]
