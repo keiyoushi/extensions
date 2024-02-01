@@ -27105,10 +27105,10 @@
   {
     "name": "Tachiyomi: Mangabz",
     "pkg": "eu.kanade.tachiyomi.extension.zh.mangabz",
-    "apk": "tachiyomi-zh.mangabz-v1.4.7.apk",
+    "apk": "tachiyomi-zh.mangabz-v1.4.8.apk",
     "lang": "zh",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27117,7 +27117,7 @@
         "name": "Mangabz",
         "lang": "zh",
         "id": "5234610795363016972",
-        "baseUrl": "https://mangabz.com",
+        "baseUrl": "https://eu.kanade.tachiyomi.extension.zh.mangabz.Mirror@9e2de6c#, https://eu.kanade.tachiyomi.extension.zh.mangabz.Mirror@3d27d1cb#, https://eu.kanade.tachiyomi.extension.zh.mangabz.Mirror@7ff208cb",
         "versionId": 1
       }
     ]
@@ -27425,10 +27425,10 @@
   {
     "name": "Tachiyomi: WNACG",
     "pkg": "eu.kanade.tachiyomi.extension.zh.wnacg",
-    "apk": "tachiyomi-zh.wnacg-v1.4.14.apk",
+    "apk": "tachiyomi-zh.wnacg-v1.4.15.apk",
     "lang": "zh",
-    "code": 14,
-    "version": "1.4.14",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27465,10 +27465,10 @@
   {
     "name": "Tachiyomi: Zerobyw",
     "pkg": "eu.kanade.tachiyomi.extension.zh.zerobyw",
-    "apk": "tachiyomi-zh.zerobyw-v1.4.17.apk",
+    "apk": "tachiyomi-zh.zerobyw-v1.4.18.apk",
     "lang": "zh",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
