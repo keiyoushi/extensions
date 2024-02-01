@@ -6700,6 +6700,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaFlame",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangaflame",
+    "apk": "tachiyomi-ar.mangaflame-v1.4.28.apk",
+    "lang": "ar",
+    "code": 28,
+    "version": "1.4.28",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaFlame",
+        "lang": "ar",
+        "id": "1501237443119573205",
+        "baseUrl": "https://mangaflame.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: مانجا ليك",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalek",
     "apk": "tachiyomi-ar.mangalek-v1.4.37.apk",
@@ -7115,6 +7135,26 @@
         "lang": "ar",
         "id": "4110737012647435874",
         "baseUrl": "https://team1x12.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Thunder Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.thunderscans",
+    "apk": "tachiyomi-ar.thunderscans-v1.4.28.apk",
+    "lang": "ar",
+    "code": 28,
+    "version": "1.4.28",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Thunder Scans",
+        "lang": "ar",
+        "id": "3209001028102012989",
+        "baseUrl": "https://thunderscans.com",
         "versionId": 1
       }
     ]
@@ -9730,10 +9770,10 @@
   {
     "name": "Tachiyomi: Kai Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.kaiscans",
-    "apk": "tachiyomi-en.kaiscans-v1.4.28.apk",
+    "apk": "tachiyomi-en.kaiscans-v1.4.29.apk",
     "lang": "en",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9742,7 +9782,7 @@
         "name": "Kai Scans",
         "lang": "en",
         "id": "4825368993215448425",
-        "baseUrl": "https://www.kaiscans.com",
+        "baseUrl": "https://kaiscans.org",
         "versionId": 1
       }
     ]
@@ -26723,7 +26763,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: 巴卡漫画",
+    "name": "Tachiyomi: Baka Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.bakamh",
     "apk": "tachiyomi-zh.bakamh-v1.4.33.apk",
     "lang": "zh",
