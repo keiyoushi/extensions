@@ -11608,26 +11608,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaMiso",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangamiso",
-    "apk": "tachiyomi-en.mangamiso-v1.4.4.apk",
-    "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaMiso",
-        "lang": "en",
-        "id": "1749571565050449321",
-        "baseUrl": "https://mangamiso.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Manga Mitsu",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangamitsu",
     "apk": "tachiyomi-en.mangamitsu-v1.4.35.apk",
