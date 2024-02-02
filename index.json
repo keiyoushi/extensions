@@ -1337,10 +1337,10 @@
   {
     "name": "Tachiyomi: Coomer",
     "pkg": "eu.kanade.tachiyomi.extension.all.coomer",
-    "apk": "tachiyomi-all.coomer-v1.4.8.apk",
+    "apk": "tachiyomi-all.coomer-v1.4.9.apk",
     "lang": "all",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -1349,7 +1349,7 @@
         "name": "Coomer",
         "lang": "all",
         "id": "8715899195746116471",
-        "baseUrl": "https://coomer.party",
+        "baseUrl": "https://coomer.su",
         "versionId": 1
       }
     ]
@@ -2578,10 +2578,10 @@
   {
     "name": "Tachiyomi: Kemono",
     "pkg": "eu.kanade.tachiyomi.extension.all.kemono",
-    "apk": "tachiyomi-all.kemono-v1.4.8.apk",
+    "apk": "tachiyomi-all.kemono-v1.4.9.apk",
     "lang": "all",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2590,7 +2590,7 @@
         "name": "Kemono",
         "lang": "all",
         "id": "2011050813940802605",
-        "baseUrl": "https://kemono.party",
+        "baseUrl": "https://kemono.su",
         "versionId": 1
       }
     ]
@@ -6736,6 +6736,26 @@
         "id": "3244399826714600926",
         "baseUrl": "https://manjanoon.com",
         "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Pro",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangapro",
+    "apk": "tachiyomi-ar.mangapro-v1.4.28.apk",
+    "lang": "ar",
+    "code": 28,
+    "version": "1.4.28",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Pro",
+        "lang": "ar",
+        "id": "5754899064993511012",
+        "baseUrl": "https://mangapro.pro",
+        "versionId": 3
       }
     ]
   },
@@ -20302,6 +20322,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Komikzoid",
+    "pkg": "eu.kanade.tachiyomi.extension.id.komikzoid",
+    "apk": "tachiyomi-id.komikzoid-v1.4.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Komikzoid",
+        "lang": "id",
+        "id": "2556223347862084050",
+        "baseUrl": "https://komikzoid.id",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: KumaPoi",
     "pkg": "eu.kanade.tachiyomi.extension.id.kumapoi",
     "apk": "tachiyomi-id.kumapoi-v1.4.31.apk",
@@ -20824,10 +20864,10 @@
   {
     "name": "Tachiyomi: Neumanga",
     "pkg": "eu.kanade.tachiyomi.extension.id.neumanga",
-    "apk": "tachiyomi-id.neumanga-v1.4.1.apk",
+    "apk": "tachiyomi-id.neumanga-v1.4.2.apk",
     "lang": "id",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20835,9 +20875,9 @@
       {
         "name": "Neumanga",
         "lang": "id",
-        "id": "4922018832509682712",
-        "baseUrl": "https://neumanga.net",
-        "versionId": 1
+        "id": "415841836762720830",
+        "baseUrl": "https://neumanga.xyz",
+        "versionId": 2
       }
     ]
   },
@@ -21004,10 +21044,10 @@
   {
     "name": "Tachiyomi: Sekte Komik",
     "pkg": "eu.kanade.tachiyomi.extension.id.sektekomik",
-    "apk": "tachiyomi-id.sektekomik-v1.4.26.apk",
+    "apk": "tachiyomi-id.sektekomik-v1.4.27.apk",
     "lang": "id",
-    "code": 26,
-    "version": "1.4.26",
+    "code": 27,
+    "version": "1.4.27",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21015,8 +21055,8 @@
       {
         "name": "Sekte Komik",
         "lang": "id",
-        "id": "7866629035053218469",
-        "baseUrl": "https://sektekomik.com",
+        "id": "7081372932062301579",
+        "baseUrl": "https://sektekomik.xyz",
         "versionId": 1
       }
     ]
