@@ -6280,7 +6280,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: عرب تونز",
+    "name": "Tachiyomi: Arab Toons",
     "pkg": "eu.kanade.tachiyomi.extension.ar.arabtoons",
     "apk": "tachiyomi-ar.arabtoons-v1.4.33.apk",
     "lang": "ar",
@@ -6300,7 +6300,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: أريا مانجا",
+    "name": "Tachiyomi: Area Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.areamanga",
     "apk": "tachiyomi-ar.areamanga-v1.4.28.apk",
     "lang": "ar",
@@ -6380,7 +6380,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: كوميك العرب",
+    "name": "Tachiyomi: Comic Arab",
     "pkg": "eu.kanade.tachiyomi.extension.ar.comicarab",
     "apk": "tachiyomi-ar.comicarab-v1.4.33.apk",
     "lang": "ar",
@@ -6400,7 +6400,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: شبكة كونان العربية",
+    "name": "Tachiyomi: Detective Conan Ar",
     "pkg": "eu.kanade.tachiyomi.extension.ar.detectiveconanar",
     "apk": "tachiyomi-ar.detectiveconanar-v1.4.35.apk",
     "lang": "ar",
@@ -6440,27 +6440,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: فالكون مانجا",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.falconmanga",
-    "apk": "tachiyomi-ar.falconmanga-v1.4.33.apk",
-    "lang": "ar",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "فالكون مانجا",
-        "lang": "ar",
-        "id": "6199068857713349300",
-        "baseUrl": "https://falconmanga.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: جالاكسي مانجا",
+    "name": "Tachiyomi: Galaxy Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.galaxymanga",
     "apk": "tachiyomi-ar.galaxymanga-v1.4.30.apk",
     "lang": "ar",
@@ -6620,7 +6600,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: مانجا العاشق",
+    "name": "Tachiyomi: 3asq",
     "pkg": "eu.kanade.tachiyomi.extension.ar.manga3asq",
     "apk": "tachiyomi-ar.manga3asq-v1.4.35.apk",
     "lang": "ar",
@@ -6680,18 +6660,18 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaFlame",
+    "name": "Tachiyomi: Manga Flame",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaflame",
-    "apk": "tachiyomi-ar.mangaflame-v1.4.28.apk",
+    "apk": "tachiyomi-ar.mangaflame-v1.4.29.apk",
     "lang": "ar",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "MangaFlame",
+        "name": "Manga Flame",
         "lang": "ar",
         "id": "1501237443119573205",
         "baseUrl": "https://mangaflame.org",
@@ -6700,7 +6680,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: مانجا ليك",
+    "name": "Tachiyomi: Mangalek",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalek",
     "apk": "tachiyomi-ar.mangalek-v1.4.37.apk",
     "lang": "ar",
@@ -6715,46 +6695,6 @@
         "lang": "ar",
         "id": "918460697583900080",
         "baseUrl": "https://manga-lek.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: مانجا ليكس",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.mangaleks",
-    "apk": "tachiyomi-ar.mangaleks-v1.4.33.apk",
-    "lang": "ar",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "مانجا ليكس",
-        "lang": "ar",
-        "id": "1367832367227261160",
-        "baseUrl": "https://mangaleks.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: مانجا لينك",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.mangalinkio",
-    "apk": "tachiyomi-ar.mangalinkio-v1.4.36.apk",
-    "lang": "ar",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "مانجا لينك",
-        "lang": "ar",
-        "id": "3568795724496898351",
-        "baseUrl": "https://mangalink.io",
         "versionId": 1
       }
     ]
@@ -7020,7 +6960,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: مانجا اون لاين",
+    "name": "Tachiyomi: Onma",
     "pkg": "eu.kanade.tachiyomi.extension.ar.onma",
     "apk": "tachiyomi-ar.onma-v1.4.8.apk",
     "lang": "ar",
@@ -7160,7 +7100,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: فيكس مانجا",
+    "name": "Tachiyomi: Vex Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.vexmanga",
     "apk": "tachiyomi-ar.vexmanga-v1.4.31.apk",
     "lang": "ar",
@@ -9630,10 +9570,10 @@
   {
     "name": "Tachiyomi: InfinityScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.infinityscans",
-    "apk": "tachiyomi-en.infinityscans-v1.4.2.apk",
+    "apk": "tachiyomi-en.infinityscans-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9642,7 +9582,7 @@
         "name": "InfinityScans",
         "lang": "en",
         "id": "74662479355660193",
-        "baseUrl": "https://infinityscans.xyz",
+        "baseUrl": "https://infinityscans.net",
         "versionId": 1
       }
     ]
@@ -25203,7 +25143,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: สดใสเมะ",
+    "name": "Tachiyomi: Sodsaime",
     "pkg": "eu.kanade.tachiyomi.extension.th.sodsaime",
     "apk": "tachiyomi-th.sodsaime-v1.4.29.apk",
     "lang": "th",
