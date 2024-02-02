@@ -6800,6 +6800,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaNoon",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.manganoon",
+    "apk": "tachiyomi-ar.manganoon-v1.4.28.apk",
+    "lang": "ar",
+    "code": 28,
+    "version": "1.4.28",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "مانجا نون",
+        "lang": "ar",
+        "id": "3244399826714600926",
+        "baseUrl": "https://manjanoon.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaRabic",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangarabic",
     "apk": "tachiyomi-ar.mangarabic-v1.4.35.apk",
