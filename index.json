@@ -10528,26 +10528,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaBaz",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangabaz",
-    "apk": "tachiyomi-en.mangabaz-v1.4.33.apk",
-    "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaBaz",
-        "lang": "en",
-        "id": "5658543290121496841",
-        "baseUrl": "https://mangabaz.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Manga Bee",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangabee",
     "apk": "tachiyomi-en.mangabee-v1.4.33.apk",
@@ -10663,26 +10643,6 @@
         "lang": "en",
         "id": "5020395055978987501",
         "baseUrl": "https://mangabuddy.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaCC",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangacc",
-    "apk": "tachiyomi-en.mangacc-v1.4.33.apk",
-    "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaCC",
-        "lang": "en",
-        "id": "5701143397911007156",
-        "baseUrl": "https://mangacc.com",
         "versionId": 1
       }
     ]
@@ -10883,46 +10843,6 @@
         "lang": "en",
         "id": "2964723819258267786",
         "baseUrl": "https://mangadistrict.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaDods",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangadods",
-    "apk": "tachiyomi-en.mangadods-v1.4.36.apk",
-    "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaDods",
-        "lang": "en",
-        "id": "1005243067156766734",
-        "baseUrl": "https://mangadods.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaDol",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangadol",
-    "apk": "tachiyomi-en.mangadol-v1.4.33.apk",
-    "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaDol",
-        "lang": "en",
-        "id": "6642794147059027774",
-        "baseUrl": "https://mangadol.com",
         "versionId": 1
       }
     ]
@@ -11288,26 +11208,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaHZ",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangahz",
-    "apk": "tachiyomi-en.mangahz-v1.4.35.apk",
-    "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaHZ",
-        "lang": "en",
-        "id": "6472976004527537529",
-        "baseUrl": "https://www.mangahz.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Mangairo",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangairo",
     "apk": "tachiyomi-en.mangairo-v1.4.9.apk",
@@ -11348,26 +11248,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaK2",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangak2",
-    "apk": "tachiyomi-en.mangak2-v1.4.33.apk",
-    "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaK2",
-        "lang": "en",
-        "id": "3185315044040390097",
-        "baseUrl": "https://mangak2.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Mangakakalot",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangakakalot",
     "apk": "tachiyomi-en.mangakakalot-v1.4.8.apk",
@@ -11383,46 +11263,6 @@
         "lang": "en",
         "id": "2528986671771677900",
         "baseUrl": "https://mangakakalot.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Mangakakalot.io (unoriginal)",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangakakalotio",
-    "apk": "tachiyomi-en.mangakakalotio-v1.4.33.apk",
-    "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Mangakakalot.io (unoriginal)",
-        "lang": "en",
-        "id": "2594584251988549525",
-        "baseUrl": "https://mangakakalot.io",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Mangakakalot.one (unoriginal)",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangakakalotone",
-    "apk": "tachiyomi-en.mangakakalotone-v1.4.33.apk",
-    "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Mangakakalot.one (unoriginal)",
-        "lang": "en",
-        "id": "7586656324108137073",
-        "baseUrl": "https://mangakakalot.one",
         "versionId": 1
       }
     ]
@@ -11623,26 +11463,6 @@
         "lang": "en",
         "id": "7798162483793432927",
         "baseUrl": "https://manga4life.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Manga Lord",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangalord",
-    "apk": "tachiyomi-en.mangalord-v1.4.34.apk",
-    "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Manga Lord",
-        "lang": "en",
-        "id": "4380291791037455871",
-        "baseUrl": "https://mangalord.com",
         "versionId": 1
       }
     ]
@@ -12043,26 +11863,6 @@
         "lang": "en",
         "id": "3797167096629950523",
         "baseUrl": "https://mangaqueen.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Manga Queen.online (unoriginal)",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangaqueenonline",
-    "apk": "tachiyomi-en.mangaqueenonline-v1.4.33.apk",
-    "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Manga Queen.online (unoriginal)",
-        "lang": "en",
-        "id": "8260575261517440774",
-        "baseUrl": "https://mangaqueen.online",
         "versionId": 1
       }
     ]
@@ -22097,26 +21897,6 @@
         "lang": "ja",
         "id": "6046098060941487866",
         "baseUrl": "https://mangacross.jp",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaKL",
-    "pkg": "eu.kanade.tachiyomi.extension.ja.mangakl",
-    "apk": "tachiyomi-ja.mangakl-v1.4.33.apk",
-    "lang": "ja",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaKL",
-        "lang": "ja",
-        "id": "3635303628313052204",
-        "baseUrl": "https://mangakala.com",
         "versionId": 1
       }
     ]
