@@ -22270,14 +22270,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki323.net",
+        "baseUrl": "https://manatoki324.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki323.com",
+        "baseUrl": "https://newtoki324.com",
         "versionId": 1
       }
     ]
@@ -24365,11 +24365,11 @@
   {
     "name": "Tachiyomi: AComics",
     "pkg": "eu.kanade.tachiyomi.extension.ru.acomics",
-    "apk": "tachiyomi-ru.acomics-v1.4.3.apk",
+    "apk": "tachiyomi-ru.acomics-v1.4.4.apk",
     "lang": "ru",
-    "code": 3,
-    "version": "1.4.3",
-    "nsfw": 0,
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
