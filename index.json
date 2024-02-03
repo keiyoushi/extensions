@@ -8120,6 +8120,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Cutie Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.en.cutiecomics",
+    "apk": "tachiyomi-en.cutiecomics-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Cutie Comics",
+        "lang": "en",
+        "id": "7821715230468497947",
+        "baseUrl": "https://cutiecomics.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Cypher Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.cypherscans",
     "apk": "tachiyomi-en.cypherscans-v1.4.28.apk",
@@ -17350,6 +17370,26 @@
         "lang": "es",
         "id": "1872740333369520717",
         "baseUrl": "https://heavenmanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: HentaiMode",
+    "pkg": "eu.kanade.tachiyomi.extension.es.hentaimode",
+    "apk": "tachiyomi-es.hentaimode-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "HentaiMode",
+        "lang": "es",
+        "id": "5208759847357095642",
+        "baseUrl": "https://hentaimode.com",
         "versionId": 1
       }
     ]
@@ -26603,12 +26643,32 @@
     ]
   },
   {
-    "name": "Tachiyomi: Dida Manhua",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.didamanhua",
-    "apk": "tachiyomi-zh.didamanhua-v1.4.6.apk",
+    "name": "Tachiyomi: Damao Manhua",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.damaomanhua",
+    "apk": "tachiyomi-zh.damaomanhua-v1.4.6.apk",
     "lang": "zh",
     "code": 6,
     "version": "1.4.6",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "大猫漫画",
+        "lang": "zh",
+        "id": "7340233158264075097",
+        "baseUrl": "https://www.hanman.cyou/index.php",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Dida Manhua",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.didamanhua",
+    "apk": "tachiyomi-zh.didamanhua-v1.4.7.apk",
+    "lang": "zh",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26617,27 +26677,7 @@
         "name": "嘀嗒漫画",
         "lang": "zh",
         "id": "6573248371629723535",
-        "baseUrl": "https://www.didamanhua.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Dimanba",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.dimanba",
-    "apk": "tachiyomi-zh.dimanba-v1.4.6.apk",
-    "lang": "zh",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "滴漫吧",
-        "lang": "zh",
-        "id": "9216086787741900068",
-        "baseUrl": "https://www.dimanba.com",
+        "baseUrl": "https://www.didamanhua.com/index.php",
         "versionId": 1
       }
     ]
@@ -26943,26 +26983,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manhuawu",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.manhuawu",
-    "apk": "tachiyomi-zh.manhuawu-v1.4.6.apk",
-    "lang": "zh",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "漫画屋",
-        "lang": "zh",
-        "id": "3279300917142951720",
-        "baseUrl": "https://www.mhua5.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Manwa",
     "pkg": "eu.kanade.tachiyomi.extension.zh.manwa",
     "apk": "tachiyomi-zh.manwa-v1.4.4.apk",
@@ -26978,6 +26998,26 @@
         "lang": "zh",
         "id": "1795888684783606321",
         "baseUrl": "https://manwa.me",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Miaoshang Manhua",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.miaoshang",
+    "apk": "tachiyomi-zh.miaoshang-v1.4.6.apk",
+    "lang": "zh",
+    "code": 6,
+    "version": "1.4.6",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "喵上漫画",
+        "lang": "zh",
+        "id": "589887691505478724",
+        "baseUrl": "https://www.miaoshangmanhua.com",
         "versionId": 1
       }
     ]
@@ -27083,22 +27123,22 @@
     ]
   },
   {
-    "name": "Tachiyomi: 6Manhua / Qixi Manhua",
+    "name": "Tachiyomi: 6Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.sixmh",
-    "apk": "tachiyomi-zh.sixmh-v1.4.9.apk",
+    "apk": "tachiyomi-zh.sixmh-v1.4.10.apk",
     "lang": "zh",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "6漫画",
+        "name": "六漫画",
         "lang": "zh",
-        "id": "7259486566651312186",
-        "baseUrl": "http://www.sixmanhua.com#6漫画, http://www.qiximh3.com#七夕漫画",
-        "versionId": 1
+        "id": "5483710122572444235",
+        "baseUrl": "https://www.liumanhua.com",
+        "versionId": 2
       }
     ]
   },
