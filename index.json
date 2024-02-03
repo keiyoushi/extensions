@@ -18702,26 +18702,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: YugenMangas",
-    "pkg": "eu.kanade.tachiyomi.extension.es.yugenmangas",
-    "apk": "tachiyomi-es.yugenmangas-v1.4.29.apk",
-    "lang": "es",
-    "code": 29,
-    "version": "1.4.29",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "YugenMangas",
-        "lang": "es",
-        "id": "4657393995731164616",
-        "baseUrl": "https://yugenmangas.net",
-        "versionId": 2
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: AnimeSama",
     "pkg": "eu.kanade.tachiyomi.extension.fr.animesama",
     "apk": "tachiyomi-fr.animesama-v1.4.1.apk",
