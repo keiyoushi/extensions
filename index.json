@@ -19704,10 +19704,10 @@
   {
     "name": "Tachiyomi: Sushi-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.sushiscan",
-    "apk": "tachiyomi-fr.sushiscan-v1.4.38.apk",
+    "apk": "tachiyomi-fr.sushiscan-v1.4.39.apk",
     "lang": "fr",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19724,10 +19724,10 @@
   {
     "name": "Tachiyomi: Sushiscan.fr",
     "pkg": "eu.kanade.tachiyomi.extension.fr.sushiscanfr",
-    "apk": "tachiyomi-fr.sushiscanfr-v1.4.29.apk",
+    "apk": "tachiyomi-fr.sushiscanfr-v1.4.30.apk",
     "lang": "fr",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19736,7 +19736,7 @@
         "name": "Sushiscan.fr",
         "lang": "fr",
         "id": "3196884165456788667",
-        "baseUrl": "https://anime-sama.me",
+        "baseUrl": "https://sushiscan.fr",
         "versionId": 1
       }
     ]
