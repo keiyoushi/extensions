@@ -7082,10 +7082,10 @@
   {
     "name": "Tachiyomi: Team X",
     "pkg": "eu.kanade.tachiyomi.extension.ar.teamx",
-    "apk": "tachiyomi-ar.teamx-v1.4.16.apk",
+    "apk": "tachiyomi-ar.teamx-v1.4.17.apk",
     "lang": "ar",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7094,7 +7094,7 @@
         "name": "Team X",
         "lang": "ar",
         "id": "4110737012647435874",
-        "baseUrl": "https://team1x12.com",
+        "baseUrl": "https://teamxnovel.com",
         "versionId": 1
       }
     ]
