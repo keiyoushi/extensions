@@ -6722,10 +6722,10 @@
   {
     "name": "Tachiyomi: MangaNoon",
     "pkg": "eu.kanade.tachiyomi.extension.ar.manganoon",
-    "apk": "tachiyomi-ar.manganoon-v1.4.28.apk",
+    "apk": "tachiyomi-ar.manganoon-v1.4.29.apk",
     "lang": "ar",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6734,7 +6734,7 @@
         "name": "مانجا نون",
         "lang": "ar",
         "id": "3244399826714600926",
-        "baseUrl": "https://manjanoon.com",
+        "baseUrl": "https://manjanoon.net",
         "versionId": 1
       }
     ]
