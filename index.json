@@ -1813,6 +1813,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Elite Babes",
+    "pkg": "eu.kanade.tachiyomi.extension.all.elitebabes",
+    "apk": "tachiyomi-all.elitebabes-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Elite Babes",
+        "lang": "all",
+        "id": "6842598531101194683",
+        "baseUrl": "https://www.elitebabes.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Everia.club",
     "pkg": "eu.kanade.tachiyomi.extension.all.everiaclub",
     "apk": "tachiyomi-all.everiaclub-v1.4.9.apk",
@@ -1828,6 +1848,26 @@
         "lang": "all",
         "id": "7698513740234984368",
         "baseUrl": "https://everia.club",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Femjoy Hunter",
+    "pkg": "eu.kanade.tachiyomi.extension.all.femjoyhunter",
+    "apk": "tachiyomi-all.femjoyhunter-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Femjoy Hunter",
+        "lang": "all",
+        "id": "9185590742756804817",
+        "baseUrl": "https://www.femjoyhunter.com",
         "versionId": 1
       }
     ]
@@ -1868,6 +1908,26 @@
         "lang": "all",
         "id": "6187349985569291135",
         "baseUrl": "https://books.frelein.my.id",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: FTV Hunter",
+    "pkg": "eu.kanade.tachiyomi.extension.all.ftvhunter",
+    "apk": "tachiyomi-all.ftvhunter-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "FTV Hunter",
+        "lang": "all",
+        "id": "2424130356866336342",
+        "baseUrl": "https://www.ftvhunter.com",
         "versionId": 1
       }
     ]
@@ -2552,6 +2612,26 @@
         "id": "1002111777562806129",
         "baseUrl": "https://www.izneo.com/fr/webtoon",
         "versionId": 2
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Joymii Hub",
+    "pkg": "eu.kanade.tachiyomi.extension.all.joymiihub",
+    "apk": "tachiyomi-all.joymiihub-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Joymii Hub",
+        "lang": "all",
+        "id": "8421979328901634475",
+        "baseUrl": "https://www.joymiihub.com",
+        "versionId": 1
       }
     ]
   },
@@ -4513,6 +4593,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Metart Hunter",
+    "pkg": "eu.kanade.tachiyomi.extension.all.metarthunter",
+    "apk": "tachiyomi-all.metarthunter-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Metart Hunter",
+        "lang": "all",
+        "id": "3567512546321944475",
+        "baseUrl": "https://www.metarthunter.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Miau Scan",
     "pkg": "eu.kanade.tachiyomi.extension.all.miauscan",
     "apk": "tachiyomi-all.miauscan-v1.4.30.apk",
@@ -5436,6 +5536,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Playmate Hunter",
+    "pkg": "eu.kanade.tachiyomi.extension.all.playmatehunter",
+    "apk": "tachiyomi-all.playmatehunter-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Playmate Hunter",
+        "lang": "all",
+        "id": "1082062847119890629",
+        "baseUrl": "https://pmatehunter.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Project Suki",
     "pkg": "eu.kanade.tachiyomi.extension.all.projectsuki",
     "apk": "tachiyomi-all.projectsuki-v1.4.3.apk",
@@ -6173,6 +6293,26 @@
         "lang": "es",
         "id": "2663478323844416620",
         "baseUrl": "https://translate.webtoons.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: XArt Hunter",
+    "pkg": "eu.kanade.tachiyomi.extension.all.xarthunter",
+    "apk": "tachiyomi-all.xarthunter-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "XArt Hunter",
+        "lang": "all",
+        "id": "7425515716363969566",
+        "baseUrl": "https://www.xarthunter.com",
         "versionId": 1
       }
     ]
