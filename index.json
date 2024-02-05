@@ -15588,6 +15588,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: SectScans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.sectscans",
+    "apk": "tachiyomi-en.sectscans-v1.4.33.apk",
+    "lang": "en",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "SectScans",
+        "lang": "en",
+        "id": "2652802679518332659",
+        "baseUrl": "https://sectscans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Setsu Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.setsuscans",
     "apk": "tachiyomi-en.setsuscans-v1.4.35.apk",
@@ -17837,10 +17857,10 @@
   {
     "name": "Tachiyomi: LectorManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.lectormanga",
-    "apk": "tachiyomi-es.lectormanga-v1.4.34.apk",
+    "apk": "tachiyomi-es.lectormanga-v1.4.35.apk",
     "lang": "es",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18797,10 +18817,10 @@
   {
     "name": "Tachiyomi: TuMangaOnline",
     "pkg": "eu.kanade.tachiyomi.extension.es.tumangaonline",
-    "apk": "tachiyomi-es.tumangaonline-v1.4.49.apk",
+    "apk": "tachiyomi-es.tumangaonline-v1.4.50.apk",
     "lang": "es",
-    "code": 49,
-    "version": "1.4.49",
+    "code": 50,
+    "version": "1.4.50",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19697,6 +19717,26 @@
         "lang": "fr",
         "id": "2455131357585282669",
         "baseUrl": "https://www.scan-vf.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: scanvf.org",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.scanvforg",
+    "apk": "tachiyomi-fr.scanvforg-v1.4.1.apk",
+    "lang": "fr",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "scanvf.org",
+        "lang": "fr",
+        "id": "7240352225708017009",
+        "baseUrl": "https://scanvf.org",
         "versionId": 1
       }
     ]
