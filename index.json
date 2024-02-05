@@ -17210,10 +17210,10 @@
   {
     "name": "Tachiyomi: Zinmanhwa",
     "pkg": "eu.kanade.tachiyomi.extension.en.zinmanhwa",
-    "apk": "tachiyomi-en.zinmanhwa-v1.4.33.apk",
+    "apk": "tachiyomi-en.zinmanhwa-v1.4.34.apk",
     "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17222,7 +17222,7 @@
         "name": "Zinmanhwa",
         "lang": "en",
         "id": "1971029352586269399",
-        "baseUrl": "https://zinmanhwa.com",
+        "baseUrl": "https://zinmanga.io",
         "versionId": 1
       }
     ]
