@@ -6655,10 +6655,10 @@
   {
     "name": "Tachiyomi: Hizomanga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.hizomanga",
-    "apk": "tachiyomi-ar.hizomanga-v1.4.34.apk",
+    "apk": "tachiyomi-ar.hizomanga-v1.4.35.apk",
     "lang": "ar",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6667,7 +6667,7 @@
         "name": "Hizomanga",
         "lang": "ar",
         "id": "3299958336217533379",
-        "baseUrl": "https://hizomanga.com",
+        "baseUrl": "https://hizomanga.me",
         "versionId": 1
       }
     ]
@@ -26478,10 +26478,10 @@
   {
     "name": "Tachiyomi: A3 Manga",
     "pkg": "eu.kanade.tachiyomi.extension.vi.a3manga",
-    "apk": "tachiyomi-vi.a3manga-v1.4.4.apk",
+    "apk": "tachiyomi-vi.a3manga-v1.4.5.apk",
     "lang": "vi",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26490,7 +26490,7 @@
         "name": "A3 Manga",
         "lang": "vi",
         "id": "7038613508327290426",
-        "baseUrl": "https://www.a3manga.online",
+        "baseUrl": "https://www.a3manga.store",
         "versionId": 1
       }
     ]
@@ -26738,10 +26738,10 @@
   {
     "name": "Tachiyomi: Team Lanh Lung",
     "pkg": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
-    "apk": "tachiyomi-vi.teamlanhlung-v1.4.4.apk",
+    "apk": "tachiyomi-vi.teamlanhlung-v1.4.5.apk",
     "lang": "vi",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26750,7 +26750,7 @@
         "name": "Team Lạnh Lùng",
         "lang": "vi",
         "id": "1832370231745386795",
-        "baseUrl": "https://teamlanhlung.me",
+        "baseUrl": "https://teamlanhlung.live",
         "versionId": 1
       }
     ]
