@@ -10223,10 +10223,10 @@
   {
     "name": "Tachiyomi: LikeManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.likemanga",
-    "apk": "tachiyomi-en.likemanga-v1.4.3.apk",
+    "apk": "tachiyomi-en.likemanga-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17168,22 +17168,22 @@
     ]
   },
   {
-    "name": "Tachiyomi: Zinmanhwa",
+    "name": "Tachiyomi: ZinManga.io",
     "pkg": "eu.kanade.tachiyomi.extension.en.zinmanhwa",
-    "apk": "tachiyomi-en.zinmanhwa-v1.4.34.apk",
+    "apk": "tachiyomi-en.zinmanhwa-v1.4.35.apk",
     "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Zinmanhwa",
+        "name": "ZinManga.io",
         "lang": "en",
-        "id": "1971029352586269399",
+        "id": "6775331705718088413",
         "baseUrl": "https://zinmanga.io",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
