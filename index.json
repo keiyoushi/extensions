@@ -6833,6 +6833,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Mangalink",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangalink",
+    "apk": "tachiyomi-ar.mangalink-v1.4.33.apk",
+    "lang": "ar",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "مانجا لينك",
+        "lang": "ar",
+        "id": "3568795724496898351",
+        "baseUrl": "https://manga-link.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaLionz",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalionz",
     "apk": "tachiyomi-ar.mangalionz-v1.4.35.apk",
@@ -23591,6 +23611,26 @@
         "lang": "pt-BR",
         "id": "5221484950287110636",
         "baseUrl": "https://leitor.kamisama.com.br",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Kingdom Brasil Scantrad",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.kingdombrasilscantrad",
+    "apk": "tachiyomi-pt.kingdombrasilscantrad-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Kingdom Brasil Scantrad",
+        "lang": "pt-BR",
+        "id": "849125547166406051",
+        "baseUrl": "https://www.kingdombrasil.net",
         "versionId": 1
       }
     ]
