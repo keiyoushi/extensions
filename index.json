@@ -22275,6 +22275,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: MIC MIC IDOL",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.micmicidol",
+    "apk": "tachiyomi-ja.micmicidol-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MIC MIC IDOL",
+        "lang": "ja",
+        "id": "6603772001167334658",
+        "baseUrl": "https://www.micmicidol.club",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Nicomanga",
     "pkg": "eu.kanade.tachiyomi.extension.ja.nicomanga",
     "apk": "tachiyomi-ja.nicomanga-v1.4.9.apk",
