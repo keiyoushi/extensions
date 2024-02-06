@@ -25358,11 +25358,11 @@
   {
     "name": "Tachiyomi: Bakaman",
     "pkg": "eu.kanade.tachiyomi.extension.th.bakaman",
-    "apk": "tachiyomi-th.bakaman-v1.4.34.apk",
+    "apk": "tachiyomi-th.bakaman-v1.4.35.apk",
     "lang": "th",
-    "code": 34,
-    "version": "1.4.34",
-    "nsfw": 0,
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
