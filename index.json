@@ -8881,26 +8881,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: 1stKissManga.tv",
-    "pkg": "eu.kanade.tachiyomi.extension.en.firstkissmangatv",
-    "apk": "tachiyomi-en.firstkissmangatv-v1.4.33.apk",
-    "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "1stKissManga.tv",
-        "lang": "en",
-        "id": "606823645877556850",
-        "baseUrl": "https://1stkissmanga.tv",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: 1st Manhwa",
     "pkg": "eu.kanade.tachiyomi.extension.en.firstmanhwa",
     "apk": "tachiyomi-en.firstmanhwa-v1.4.33.apk",
@@ -11256,26 +11236,6 @@
         "lang": "en",
         "id": "2470059397662084186",
         "baseUrl": "https://www.mangago.me",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaGo Yaoi",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangagoyaoi",
-    "apk": "tachiyomi-en.mangagoyaoi-v1.4.33.apk",
-    "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaGo Yaoi",
-        "lang": "en",
-        "id": "5308594741304208652",
-        "baseUrl": "https://mangagoyaoi.com",
         "versionId": 1
       }
     ]
@@ -14801,26 +14761,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: ReadAdult",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readadult",
-    "apk": "tachiyomi-en.readadult-v1.4.34.apk",
-    "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ReadAdult",
-        "lang": "en",
-        "id": "7901514283687191219",
-        "baseUrl": "https://readadult.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: ReadAllComics",
     "pkg": "eu.kanade.tachiyomi.extension.en.readallcomicscom",
     "apk": "tachiyomi-en.readallcomicscom-v1.4.2.apk",
@@ -17203,26 +17143,6 @@
         "lang": "en",
         "id": "5990114708086767078",
         "baseUrl": "https://zinmanga.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: ZinManga.top (unoriginal)",
-    "pkg": "eu.kanade.tachiyomi.extension.en.zinmangatop",
-    "apk": "tachiyomi-en.zinmangatop-v1.4.33.apk",
-    "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ZinManga.top (unoriginal)",
-        "lang": "en",
-        "id": "7912162099113414298",
-        "baseUrl": "https://zinmanga.top",
         "versionId": 1
       }
     ]
@@ -26758,10 +26678,10 @@
   {
     "name": "Tachiyomi: O Cu Meo",
     "pkg": "eu.kanade.tachiyomi.extension.vi.ocumeo",
-    "apk": "tachiyomi-vi.ocumeo-v1.4.4.apk",
+    "apk": "tachiyomi-vi.ocumeo-v1.4.5.apk",
     "lang": "vi",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26770,7 +26690,7 @@
         "name": "Ổ Cú Mèo",
         "lang": "vi",
         "id": "8330490015365279279",
-        "baseUrl": "https://www.ocumoe.com",
+        "baseUrl": "https://www.ocumeo.store",
         "versionId": 1
       }
     ]
@@ -26811,26 +26731,6 @@
         "lang": "vi",
         "id": "1832370231745386795",
         "baseUrl": "https://teamlanhlung.live",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: TruyenChon",
-    "pkg": "eu.kanade.tachiyomi.extension.vi.truyenchon",
-    "apk": "tachiyomi-vi.truyenchon-v1.4.6.apk",
-    "lang": "vi",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "TruyenChon",
-        "lang": "vi",
-        "id": "2435875162158706544",
-        "baseUrl": "http://truyenchon.com",
         "versionId": 1
       }
     ]
