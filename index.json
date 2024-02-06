@@ -2678,10 +2678,10 @@
   {
     "name": "Tachiyomi: Komga",
     "pkg": "eu.kanade.tachiyomi.extension.all.komga",
-    "apk": "tachiyomi-all.komga-v1.4.52.apk",
+    "apk": "tachiyomi-all.komga-v1.4.53.apk",
     "lang": "all",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12776,6 +12776,26 @@
         "lang": "en",
         "id": "3650758220514847870",
         "baseUrl": "https://www.mangayami.club",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manhua AZ",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manhuaaz",
+    "apk": "tachiyomi-en.manhuaaz-v1.4.33.apk",
+    "lang": "en",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manhua AZ",
+        "lang": "en",
+        "id": "5494053024328138644",
+        "baseUrl": "https://manhuaaz.com",
         "versionId": 1
       }
     ]
