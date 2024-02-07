@@ -18535,6 +18535,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Plot Twist No Fansub",
+    "pkg": "eu.kanade.tachiyomi.extension.es.plottwistnofansub",
+    "apk": "tachiyomi-es.plottwistnofansub-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Plot Twist No Fansub",
+        "lang": "es",
+        "id": "6935004473807791201",
+        "baseUrl": "https://www.plotfansub.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: RagnarokScan",
     "pkg": "eu.kanade.tachiyomi.extension.es.ragnarokscan",
     "apk": "tachiyomi-es.ragnarokscan-v1.4.34.apk",
@@ -22137,6 +22157,26 @@
         "lang": "ja",
         "id": "8045942616403978870",
         "baseUrl": "https://ganma.jp",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Hachiraw",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.hachiraw",
+    "apk": "tachiyomi-ja.hachiraw-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hachiraw",
+        "lang": "ja",
+        "id": "8574043921162024664",
+        "baseUrl": "https://hachiraw.net",
         "versionId": 1
       }
     ]
