@@ -7613,18 +7613,18 @@
     ]
   },
   {
-    "name": "Tachiyomi: A Pair of 2+",
+    "name": "Tachiyomi: A Pair Of 2+",
     "pkg": "eu.kanade.tachiyomi.extension.en.apairof2",
-    "apk": "tachiyomi-en.apairof2-v1.4.31.apk",
+    "apk": "tachiyomi-en.apairof2-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "A Pair of 2+",
+        "name": "A Pair Of 2+",
         "lang": "en",
         "id": "2806238791467888054",
         "baseUrl": "https://po2scans.com",
@@ -26171,6 +26171,26 @@
         "lang": "tr",
         "id": "5786550835901373927",
         "baseUrl": "https://www.ruyamanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Sadscans",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.sadscans",
+    "apk": "tachiyomi-tr.sadscans-v1.4.1.apk",
+    "lang": "tr",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Sadscans",
+        "lang": "tr",
+        "id": "8644711531103052980",
+        "baseUrl": "https://sadscans.com",
         "versionId": 1
       }
     ]
