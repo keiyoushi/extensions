@@ -22142,6 +22142,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Idol. gravureprincess .date",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.idolgravureprincessdate",
+    "apk": "tachiyomi-ja.idolgravureprincessdate-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Idol. gravureprincess .date",
+        "lang": "ja",
+        "id": "5414342435310010512",
+        "baseUrl": "https://idol.gravureprincess.date",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: KissLove",
     "pkg": "eu.kanade.tachiyomi.extension.ja.kisslove",
     "apk": "tachiyomi-ja.kisslove-v1.4.14.apk",
@@ -22324,10 +22344,10 @@
   {
     "name": "Tachiyomi: MIC MIC IDOL",
     "pkg": "eu.kanade.tachiyomi.extension.ja.micmicidol",
-    "apk": "tachiyomi-ja.micmicidol-v1.4.1.apk",
+    "apk": "tachiyomi-ja.micmicidol-v1.4.2.apk",
     "lang": "ja",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
