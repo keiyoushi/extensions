@@ -15203,10 +15203,10 @@
   {
     "name": "Tachiyomi: ReadM",
     "pkg": "eu.kanade.tachiyomi.extension.en.readm",
-    "apk": "tachiyomi-en.readm-v1.4.7.apk",
+    "apk": "tachiyomi-en.readm-v1.4.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15215,7 +15215,7 @@
         "name": "ReadM",
         "lang": "en",
         "id": "1622954192645289673",
-        "baseUrl": "https://readm.org",
+        "baseUrl": "https://readm.today",
         "versionId": 1
       }
     ]
@@ -25918,10 +25918,10 @@
   {
     "name": "Tachiyomi: Jiangzaitoon",
     "pkg": "eu.kanade.tachiyomi.extension.tr.jiangzaitoon",
-    "apk": "tachiyomi-tr.jiangzaitoon-v1.4.36.apk",
+    "apk": "tachiyomi-tr.jiangzaitoon-v1.4.37.apk",
     "lang": "tr",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25930,7 +25930,7 @@
         "name": "Jiangzaitoon",
         "lang": "tr",
         "id": "2533138448805911283",
-        "baseUrl": "https://jiangzaitoon.cc",
+        "baseUrl": "https://jiangzaitoon.info",
         "versionId": 1
       }
     ]
