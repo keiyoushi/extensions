@@ -18657,10 +18657,10 @@
   {
     "name": "Tachiyomi: SamuraiScan",
     "pkg": "eu.kanade.tachiyomi.extension.es.samuraiscan",
-    "apk": "tachiyomi-es.samuraiscan-v1.4.36.apk",
+    "apk": "tachiyomi-es.samuraiscan-v1.4.37.apk",
     "lang": "es",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18669,7 +18669,7 @@
         "name": "SamuraiScan",
         "lang": "es",
         "id": "4890948689319085079",
-        "baseUrl": "https://samuraiscan.com",
+        "baseUrl": "https://samuraiscan.org",
         "versionId": 1
       }
     ]
