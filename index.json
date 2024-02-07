@@ -11181,6 +11181,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manga Fun",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangafun",
+    "apk": "tachiyomi-en.mangafun-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Fun",
+        "lang": "en",
+        "id": "8337004554138553920",
+        "baseUrl": "https://mangafun.me",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manga Galaxy",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangagalaxy",
     "apk": "tachiyomi-en.mangagalaxy-v1.4.34.apk",
@@ -27338,10 +27358,10 @@
   {
     "name": "Tachiyomi: ManHuaGui",
     "pkg": "eu.kanade.tachiyomi.extension.zh.manhuagui",
-    "apk": "tachiyomi-zh.manhuagui-v1.4.19.apk",
+    "apk": "tachiyomi-zh.manhuagui-v1.4.20.apk",
     "lang": "zh",
-    "code": 19,
-    "version": "1.4.19",
+    "code": 20,
+    "version": "1.4.20",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
