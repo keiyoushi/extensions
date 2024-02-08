@@ -20,6 +20,47 @@
     ]
   },
   {
+    "name": "Tachiyomi: AsmHentai",
+    "pkg": "eu.kanade.tachiyomi.extension.all.asmhentai",
+    "apk": "tachiyomi-all.asmhentai-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "AsmHentai",
+        "lang": "en",
+        "id": "6135783261825346877",
+        "baseUrl": "https://asmhentai.com",
+        "versionId": 1
+      },
+      {
+        "name": "AsmHentai",
+        "lang": "ja",
+        "id": "7717437664180966273",
+        "baseUrl": "https://asmhentai.com",
+        "versionId": 1
+      },
+      {
+        "name": "AsmHentai",
+        "lang": "zh",
+        "id": "2819783147032745073",
+        "baseUrl": "https://asmhentai.com",
+        "versionId": 1
+      },
+      {
+        "name": "AsmHentai",
+        "lang": "all",
+        "id": "7786528235956058474",
+        "baseUrl": "https://asmhentai.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Bato.to",
     "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
     "apk": "tachiyomi-all.batoto-v1.4.35.apk",
@@ -8590,10 +8631,10 @@
   {
     "name": "Tachiyomi: EarlyManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.earlymanga",
-    "apk": "tachiyomi-en.earlymanga-v1.4.25.apk",
+    "apk": "tachiyomi-en.earlymanga-v1.4.26.apk",
     "lang": "en",
-    "code": 25,
-    "version": "1.4.25",
+    "code": 26,
+    "version": "1.4.26",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10330,10 +10371,10 @@
   {
     "name": "Tachiyomi: Luminous Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.luminousscans",
-    "apk": "tachiyomi-en.luminousscans-v1.4.29.apk",
+    "apk": "tachiyomi-en.luminousscans-v1.4.30.apk",
     "lang": "en",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10342,7 +10383,7 @@
         "name": "Luminous Scans",
         "lang": "en",
         "id": "1019556752273106311",
-        "baseUrl": "https://luminousscans.net",
+        "baseUrl": "https://luminousscans.gg",
         "versionId": 1
       }
     ]
@@ -26378,6 +26419,26 @@
         "lang": "tr",
         "id": "4990678311970770946",
         "baseUrl": "https://manga-tr.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaWOW",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.mangawow",
+    "apk": "tachiyomi-tr.mangawow-v1.4.33.apk",
+    "lang": "tr",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaWOW",
+        "lang": "tr",
+        "id": "2576579305327069452",
+        "baseUrl": "https://mangawow.org",
         "versionId": 1
       }
     ]
