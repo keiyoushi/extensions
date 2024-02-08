@@ -1349,6 +1349,54 @@
     ]
   },
   {
+    "name": "Tachiyomi: Comikey",
+    "pkg": "eu.kanade.tachiyomi.extension.all.comikey",
+    "apk": "tachiyomi-all.comikey-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Comikey",
+        "lang": "en",
+        "id": "2769857481066602061",
+        "baseUrl": "https://comikey.com",
+        "versionId": 1
+      },
+      {
+        "name": "Comikey",
+        "lang": "es",
+        "id": "374080003312345029",
+        "baseUrl": "https://comikey.com",
+        "versionId": 1
+      },
+      {
+        "name": "Comikey",
+        "lang": "id",
+        "id": "1684620622390751911",
+        "baseUrl": "https://comikey.com",
+        "versionId": 1
+      },
+      {
+        "name": "Comikey",
+        "lang": "pt-BR",
+        "id": "4174862482785095737",
+        "baseUrl": "https://comikey.com",
+        "versionId": 1
+      },
+      {
+        "name": "Comikey Brasil",
+        "lang": "pt-BR",
+        "id": "4923846262931005728",
+        "baseUrl": "https://br.comikey.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Commit Strip",
     "pkg": "eu.kanade.tachiyomi.extension.all.commitstrip",
     "apk": "tachiyomi-all.commitstrip-v1.4.3.apk",
