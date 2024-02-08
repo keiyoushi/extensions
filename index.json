@@ -25806,10 +25806,10 @@
   {
     "name": "Tachiyomi: Nekopost",
     "pkg": "eu.kanade.tachiyomi.extension.th.nekopost",
-    "apk": "tachiyomi-th.nekopost-v1.4.10.apk",
+    "apk": "tachiyomi-th.nekopost-v1.4.11.apk",
     "lang": "th",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25818,7 +25818,7 @@
         "name": "Nekopost",
         "lang": "th",
         "id": "4353470354941192417",
-        "baseUrl": "https://www.nekopost.net/manga/",
+        "baseUrl": "https://www.nekopost.net/project",
         "versionId": 1
       }
     ]
@@ -26479,6 +26479,26 @@
         "lang": "tr",
         "id": "1959637408417261960",
         "baseUrl": "https://mikrokosmosfb.blogspot.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Nirvana Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.nirvanamanga",
+    "apk": "tachiyomi-tr.nirvanamanga-v1.4.28.apk",
+    "lang": "tr",
+    "code": 28,
+    "version": "1.4.28",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Nirvana Manga",
+        "lang": "tr",
+        "id": "2783611133798677654",
+        "baseUrl": "https://nirvanamanga.com",
         "versionId": 1
       }
     ]
