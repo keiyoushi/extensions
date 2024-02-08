@@ -24224,6 +24224,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Ninja Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.ninjascan",
+    "apk": "tachiyomi-pt.ninjascan-v1.4.33.apk",
+    "lang": "pt-BR",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Ninja Scan",
+        "lang": "pt-BR",
+        "id": "4392067503694697213",
+        "baseUrl": "https://ninjascan.site",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Nocturne Summer",
     "pkg": "eu.kanade.tachiyomi.extension.pt.nocturnesummer",
     "apk": "tachiyomi-pt.nocturnesummer-v1.4.33.apk",
