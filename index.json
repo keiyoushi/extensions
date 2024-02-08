@@ -24664,6 +24664,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Sussy Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.sussyscan",
+    "apk": "tachiyomi-pt.sussyscan-v1.4.33.apk",
+    "lang": "pt-BR",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Sussy Scan",
+        "lang": "pt-BR",
+        "id": "6746766016404376139",
+        "baseUrl": "https://sussyscan.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Sweet Time Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sweettimescan",
     "apk": "tachiyomi-pt.sweettimescan-v1.4.35.apk",
