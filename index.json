@@ -8161,6 +8161,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Comic1000",
+    "pkg": "eu.kanade.tachiyomi.extension.en.comic1000",
+    "apk": "tachiyomi-en.comic1000-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Comic1000",
+        "lang": "en",
+        "id": "4638442001749265785",
+        "baseUrl": "https://comic1000.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: ComicExtra",
     "pkg": "eu.kanade.tachiyomi.extension.en.comicextra",
     "apk": "tachiyomi-en.comicextra-v1.4.14.apk",
@@ -8664,6 +8684,26 @@
         "lang": "en",
         "id": "7229505035165953281",
         "baseUrl": "https://eggporncomics.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: 18 Porn Comic",
+    "pkg": "eu.kanade.tachiyomi.extension.en.eighteenporncomic",
+    "apk": "tachiyomi-en.eighteenporncomic-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "18 Porn Comic",
+        "lang": "en",
+        "id": "5133553291675008671",
+        "baseUrl": "https://18porncomic.com",
         "versionId": 1
       }
     ]
@@ -9384,6 +9424,26 @@
         "lang": "en",
         "id": "8182572126664264854",
         "baseUrl": "https://hentai3z.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Hentai3z.CC",
+    "pkg": "eu.kanade.tachiyomi.extension.en.hentai3zcc",
+    "apk": "tachiyomi-en.hentai3zcc-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hentai3z.CC",
+        "lang": "en",
+        "id": "1647077515907093606",
+        "baseUrl": "https://hentai3z.cc",
         "versionId": 1
       }
     ]
@@ -10484,6 +10544,26 @@
         "lang": "en",
         "id": "7792477462646075400",
         "baseUrl": "https://magusmanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga18.Club",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manga18club",
+    "apk": "tachiyomi-en.manga18club-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga18.Club",
+        "lang": "en",
+        "id": "3436561761894030433",
+        "baseUrl": "https://manga18.club",
         "versionId": 1
       }
     ]
@@ -19036,6 +19116,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: TuManhwas.Club",
+    "pkg": "eu.kanade.tachiyomi.extension.es.tumanhwasclub",
+    "apk": "tachiyomi-es.tumanhwasclub-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "TuManhwas.Club",
+        "lang": "es",
+        "id": "8004442288770923365",
+        "baseUrl": "https://tumanhwas.club",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Unitoon",
     "pkg": "eu.kanade.tachiyomi.extension.es.unitoon",
     "apk": "tachiyomi-es.unitoon-v1.4.33.apk",
@@ -22558,6 +22658,26 @@
         "lang": "ja",
         "id": "7595224096258102519",
         "baseUrl": "https://weloma.art",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Raw Otaku",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.rawotaku",
+    "apk": "tachiyomi-ja.rawotaku-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Raw Otaku",
+        "lang": "ja",
+        "id": "7370546749583817262",
+        "baseUrl": "https://rawotaku.com",
         "versionId": 1
       }
     ]
@@ -27559,6 +27679,26 @@
         "lang": "zh",
         "id": "4341893737383682159",
         "baseUrl": "https://www.gufengmh.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: HANMAN18",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.hanman18",
+    "apk": "tachiyomi-zh.hanman18-v1.4.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "HANMAN18",
+        "lang": "zh",
+        "id": "5092568988625041973",
+        "baseUrl": "https://hanman18.com",
         "versionId": 1
       }
     ]
