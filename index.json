@@ -11097,6 +11097,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaDig",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangadig",
+    "apk": "tachiyomi-en.mangadig-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaDig",
+        "lang": "en",
+        "id": "3963516991936737407",
+        "baseUrl": "https://mangadig.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaDino.top (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangadinotop",
     "apk": "tachiyomi-en.mangadinotop-v1.4.33.apk",
@@ -28074,10 +28094,10 @@
   {
     "name": "Tachiyomi: COLAMANGA",
     "pkg": "eu.kanade.tachiyomi.extension.zh.onemanhua",
-    "apk": "tachiyomi-zh.onemanhua-v1.4.15.apk",
+    "apk": "tachiyomi-zh.onemanhua-v1.4.16.apk",
     "lang": "zh",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
