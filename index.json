@@ -6951,10 +6951,10 @@
   {
     "name": "Tachiyomi: Mangalink",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalink",
-    "apk": "tachiyomi-ar.mangalink-v1.4.33.apk",
+    "apk": "tachiyomi-ar.mangalink-v1.4.34.apk",
     "lang": "ar",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6963,7 +6963,7 @@
         "name": "مانجا لينك",
         "lang": "ar",
         "id": "3568795724496898351",
-        "baseUrl": "https://manga-link.net",
+        "baseUrl": "https://manga-link.com",
         "versionId": 1
       }
     ]
@@ -16137,6 +16137,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: StoneScape",
+    "pkg": "eu.kanade.tachiyomi.extension.en.stonescape",
+    "apk": "tachiyomi-en.stonescape-v1.4.33.apk",
+    "lang": "en",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "StoneScape",
+        "lang": "en",
+        "id": "1714560514825462780",
+        "baseUrl": "https://stonescape.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Sugar Babies",
     "pkg": "eu.kanade.tachiyomi.extension.en.sugarbabies",
     "apk": "tachiyomi-en.sugarbabies-v1.4.35.apk",
@@ -23039,14 +23059,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki324.net",
+        "baseUrl": "https://manatoki325.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki324.com",
+        "baseUrl": "https://newtoki325.com",
         "versionId": 1
       }
     ]
@@ -27367,6 +27387,26 @@
         "lang": "vi",
         "id": "5660308466992750861",
         "baseUrl": "https://truyengihotqua.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Truyen Hentai 18+",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.truyenhentai18",
+    "apk": "tachiyomi-vi.truyenhentai18-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Truyện Hentai 18+",
+        "lang": "vi",
+        "id": "6484094278517548634",
+        "baseUrl": "https://truyenhentai18.net",
         "versionId": 1
       }
     ]
