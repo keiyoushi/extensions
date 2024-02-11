@@ -6871,10 +6871,10 @@
   {
     "name": "Tachiyomi: Manga.ae",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaae",
-    "apk": "tachiyomi-ar.mangaae-v1.4.11.apk",
+    "apk": "tachiyomi-ar.mangaae-v1.4.12.apk",
     "lang": "ar",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6883,7 +6883,7 @@
         "name": "مانجا العرب",
         "lang": "ar",
         "id": "8899980966961724489",
-        "baseUrl": "https://manga.ae",
+        "baseUrl": "https://mangaae.com",
         "versionId": 1
       }
     ]
@@ -12539,10 +12539,10 @@
   {
     "name": "Tachiyomi: Mangasail",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangasail",
-    "apk": "tachiyomi-en.mangasail-v1.4.4.apk",
+    "apk": "tachiyomi-en.mangasail-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12551,7 +12551,7 @@
         "name": "Mangasail",
         "lang": "en",
         "id": "1536735425006207760",
-        "baseUrl": "https://www.mangasail.co",
+        "baseUrl": "https://www.sailmg.com",
         "versionId": 1
       }
     ]
@@ -26567,6 +26567,26 @@
         "lang": "tr",
         "id": "7642150240382165442",
         "baseUrl": "https://mangaefendisi.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaGezgini",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.mangagezgini",
+    "apk": "tachiyomi-tr.mangagezgini-v1.4.33.apk",
+    "lang": "tr",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaGezgini",
+        "lang": "tr",
+        "id": "6502558540101660304",
+        "baseUrl": "https://mangagezgini.com",
         "versionId": 1
       }
     ]
