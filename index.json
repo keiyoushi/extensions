@@ -7631,10 +7631,10 @@
   {
     "name": "Tachiyomi: Anchira",
     "pkg": "eu.kanade.tachiyomi.extension.en.anchira",
-    "apk": "tachiyomi-en.anchira-v1.4.6.apk",
+    "apk": "tachiyomi-en.anchira-v1.4.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17506,10 +17506,10 @@
   {
     "name": "Tachiyomi: Atlantis Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.atlantisscan",
-    "apk": "tachiyomi-es.atlantisscan-v1.4.33.apk",
+    "apk": "tachiyomi-es.atlantisscan-v1.4.34.apk",
     "lang": "es",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17517,9 +17517,9 @@
       {
         "name": "Atlantis Scan",
         "lang": "es",
-        "id": "2237642340381856331",
+        "id": "624544550907351918",
         "baseUrl": "https://scansatlanticos.com",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
@@ -18006,10 +18006,10 @@
   {
     "name": "Tachiyomi: InariManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.inarimanga",
-    "apk": "tachiyomi-es.inarimanga-v1.4.35.apk",
+    "apk": "tachiyomi-es.inarimanga-v1.4.36.apk",
     "lang": "es",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18018,7 +18018,7 @@
         "name": "InariManga",
         "lang": "es",
         "id": "7949577653918285764",
-        "baseUrl": "https://inarimanga.com",
+        "baseUrl": "https://inarimanga.net",
         "versionId": 2
       }
     ]
@@ -18186,10 +18186,10 @@
   {
     "name": "Tachiyomi: LectorManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.lectormanga",
-    "apk": "tachiyomi-es.lectormanga-v1.4.36.apk",
+    "apk": "tachiyomi-es.lectormanga-v1.4.37.apk",
     "lang": "es",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19166,10 +19166,10 @@
   {
     "name": "Tachiyomi: TuMangaOnline",
     "pkg": "eu.kanade.tachiyomi.extension.es.tumangaonline",
-    "apk": "tachiyomi-es.tumangaonline-v1.4.51.apk",
+    "apk": "tachiyomi-es.tumangaonline-v1.4.52.apk",
     "lang": "es",
-    "code": 51,
-    "version": "1.4.51",
+    "code": 52,
+    "version": "1.4.52",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
