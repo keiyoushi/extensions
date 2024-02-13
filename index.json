@@ -17206,10 +17206,10 @@
   {
     "name": "Tachiyomi: XOXO Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.xoxocomics",
-    "apk": "tachiyomi-en.xoxocomics-v1.4.6.apk",
+    "apk": "tachiyomi-en.xoxocomics-v1.4.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19651,46 +19651,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Karatcam Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.karatcamscans",
-    "apk": "tachiyomi-fr.karatcamscans-v1.4.33.apk",
-    "lang": "fr",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Karatcam Scans",
-        "lang": "fr",
-        "id": "2199474619368847079",
-        "baseUrl": "https://karatcam-scans.fr",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Kataitake",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.kataitake",
-    "apk": "tachiyomi-fr.kataitake-v1.4.33.apk",
-    "lang": "fr",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Kataitake",
-        "lang": "fr",
-        "id": "2781789293104665402",
-        "baseUrl": "https://www.kataitake.fr",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Lelmanga",
     "pkg": "eu.kanade.tachiyomi.extension.fr.lelmanga",
     "apk": "tachiyomi-fr.lelmanga-v1.4.28.apk",
@@ -19991,6 +19951,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Scan Hentai FR",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.scanhentaifr",
+    "apk": "tachiyomi-fr.scanhentaifr-v1.4.33.apk",
+    "lang": "fr",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Scan Hentai FR",
+        "lang": "fr",
+        "id": "6980513010166775009",
+        "baseUrl": "https://scan-hentai.fr",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Scan Hentai Menu",
     "pkg": "eu.kanade.tachiyomi.extension.fr.scanhentaimenu",
     "apk": "tachiyomi-fr.scanhentaimenu-v1.4.34.apk",
@@ -20046,26 +20026,6 @@
         "lang": "fr",
         "id": "155525085323453412",
         "baseUrl": "https://scantrad-union.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Scantrad-VF",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.scantradvf",
-    "apk": "tachiyomi-fr.scantradvf-v1.4.33.apk",
-    "lang": "fr",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Scantrad-VF",
-        "lang": "fr",
-        "id": "7718317843955713584",
-        "baseUrl": "https://scantrad-vf.co",
         "versionId": 1
       }
     ]
@@ -27294,10 +27254,10 @@
   {
     "name": "Tachiyomi: NetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyen",
-    "apk": "tachiyomi-vi.nettruyen-v1.4.25.apk",
+    "apk": "tachiyomi-vi.nettruyen-v1.4.26.apk",
     "lang": "vi",
-    "code": 25,
-    "version": "1.4.25",
+    "code": 26,
+    "version": "1.4.26",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27334,10 +27294,10 @@
   {
     "name": "Tachiyomi: NhatTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nhattruyen",
-    "apk": "tachiyomi-vi.nhattruyen-v1.4.17.apk",
+    "apk": "tachiyomi-vi.nhattruyen-v1.4.18.apk",
     "lang": "vi",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
