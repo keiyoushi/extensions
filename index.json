@@ -17686,10 +17686,10 @@
   {
     "name": "Tachiyomi: CopyPasteScan",
     "pkg": "eu.kanade.tachiyomi.extension.es.copypastescan",
-    "apk": "tachiyomi-es.copypastescan-v1.4.34.apk",
+    "apk": "tachiyomi-es.copypastescan-v1.4.35.apk",
     "lang": "es",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17698,7 +17698,7 @@
         "name": "CopyPasteScan",
         "lang": "es",
         "id": "2740038551946791506",
-        "baseUrl": "https://copypastescan.xyz",
+        "baseUrl": "https://www.cpscan.xyz",
         "versionId": 1
       }
     ]
