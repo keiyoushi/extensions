@@ -26512,6 +26512,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: LilyumFansub",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.lilyumfansub",
+    "apk": "tachiyomi-tr.lilyumfansub-v1.4.33.apk",
+    "lang": "tr",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "LilyumFansub",
+        "lang": "tr",
+        "id": "8792180185763099532",
+        "baseUrl": "https://lilyumfansub.com.tr",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Mangacim",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangacim",
     "apk": "tachiyomi-tr.mangacim-v1.4.29.apk",
