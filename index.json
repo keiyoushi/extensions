@@ -17824,6 +17824,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Es.Mi2Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.es.esmi2manga",
+    "apk": "tachiyomi-es.esmi2manga-v1.4.33.apk",
+    "lang": "es",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Es.Mi2Manga",
+        "lang": "es",
+        "id": "1024617013674150903",
+        "baseUrl": "https://es.mi2manga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Gremory Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.gremorymangas",
     "apk": "tachiyomi-es.gremorymangas-v1.4.28.apk",
@@ -18279,6 +18299,26 @@
         "lang": "es",
         "id": "8580859910673249950",
         "baseUrl": "https://r1.leermanga.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Legends No Fansub",
+    "pkg": "eu.kanade.tachiyomi.extension.es.legendsnofansub",
+    "apk": "tachiyomi-es.legendsnofansub-v1.4.33.apk",
+    "lang": "es",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Legends No Fansub",
+        "lang": "es",
+        "id": "9078720153732517844",
+        "baseUrl": "https://legends.nextnovels.com",
         "versionId": 1
       }
     ]
