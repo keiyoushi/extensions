@@ -27172,6 +27172,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Dua Leo Truyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.dualeotruyen",
+    "apk": "tachiyomi-vi.dualeotruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Dưa Leo Truyện",
+        "lang": "vi",
+        "id": "1039830224122325226",
+        "baseUrl": "https://dualeotruyenme.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: CBHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaicube",
     "apk": "tachiyomi-vi.hentaicube-v1.4.40.apk",
