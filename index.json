@@ -7211,10 +7211,10 @@
   {
     "name": "Tachiyomi: Novels Town",
     "pkg": "eu.kanade.tachiyomi.extension.ar.novelstown",
-    "apk": "tachiyomi-ar.novelstown-v1.4.33.apk",
+    "apk": "tachiyomi-ar.novelstown-v1.4.34.apk",
     "lang": "ar",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7223,7 +7223,7 @@
         "name": "Novels Town",
         "lang": "ar",
         "id": "4033507088315751045",
-        "baseUrl": "https://novelstown.cyou",
+        "baseUrl": "https://novelstown.com",
         "versionId": 1
       }
     ]
@@ -18306,10 +18306,10 @@
   {
     "name": "Tachiyomi: Legends No Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.es.legendsnofansub",
-    "apk": "tachiyomi-es.legendsnofansub-v1.4.33.apk",
+    "apk": "tachiyomi-es.legendsnofansub-v1.4.34.apk",
     "lang": "es",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18318,7 +18318,7 @@
         "name": "Legends No Fansub",
         "lang": "es",
         "id": "9078720153732517844",
-        "baseUrl": "https://legends.nextnovels.com",
+        "baseUrl": "https://legnmangas.com",
         "versionId": 1
       }
     ]
@@ -23053,10 +23053,10 @@
   {
     "name": "Tachiyomi: Naver Comic",
     "pkg": "eu.kanade.tachiyomi.extension.ko.navercomic",
-    "apk": "tachiyomi-ko.navercomic-v1.4.4.apk",
+    "apk": "tachiyomi-ko.navercomic-v1.4.5.apk",
     "lang": "ko",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
