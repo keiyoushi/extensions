@@ -15819,10 +15819,10 @@
   {
     "name": "Tachiyomi: Rudra Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.rudrascans",
-    "apk": "tachiyomi-en.rudrascans-v1.4.1.apk",
+    "apk": "tachiyomi-en.rudrascans-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17139,6 +17139,26 @@
         "lang": "en",
         "id": "5662367258369038433",
         "baseUrl": "https://whalemanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Wicked Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.wickedscans",
+    "apk": "tachiyomi-en.wickedscans-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Wicked Scans",
+        "lang": "en",
+        "id": "519542652861335901",
+        "baseUrl": "https://wickedscans.com",
         "versionId": 1
       }
     ]
