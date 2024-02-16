@@ -10579,10 +10579,10 @@
   {
     "name": "Tachiyomi: Magus Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.magusmanga",
-    "apk": "tachiyomi-en.magusmanga-v1.4.30.apk",
+    "apk": "tachiyomi-en.magusmanga-v1.4.31.apk",
     "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22786,6 +22786,26 @@
         "lang": "ja",
         "id": "7595224096258102519",
         "baseUrl": "https://weloma.art",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: RawMangas",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.rawmangas",
+    "apk": "tachiyomi-ja.rawmangas-v1.4.34.apk",
+    "lang": "ja",
+    "code": 34,
+    "version": "1.4.34",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "RawMangas",
+        "lang": "ja",
+        "id": "7855405611446100010",
+        "baseUrl": "https://raw-mangas.com",
         "versionId": 1
       }
     ]
