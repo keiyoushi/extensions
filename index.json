@@ -11537,6 +11537,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaHot",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangahot",
+    "apk": "tachiyomi-en.mangahot-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaHot",
+        "lang": "en",
+        "id": "1536742225206613908",
+        "baseUrl": "https://mangahot.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaHub",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangahubio",
     "apk": "tachiyomi-en.mangahubio-v1.4.37.apk",
