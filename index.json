@@ -2767,10 +2767,10 @@
   {
     "name": "Tachiyomi: Komga",
     "pkg": "eu.kanade.tachiyomi.extension.all.komga",
-    "apk": "tachiyomi-all.komga-v1.4.54.apk",
+    "apk": "tachiyomi-all.komga-v1.4.55.apk",
     "lang": "all",
-    "code": 54,
-    "version": "1.4.54",
+    "code": 55,
+    "version": "1.4.55",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27547,6 +27547,26 @@
         "lang": "vi",
         "id": "7969606392351831672",
         "baseUrl": "https://truyenlh.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Ung Ty Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.ungtycomics",
+    "apk": "tachiyomi-vi.ungtycomics-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Ưng Tỷ Comics",
+        "lang": "vi",
+        "id": "6630877766973917674",
+        "baseUrl": "https://ungtycomicsvip.com#, https://topdammy.com",
         "versionId": 1
       }
     ]
