@@ -12597,6 +12597,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaSaki",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangasaki",
+    "apk": "tachiyomi-en.mangasaki-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaSaki",
+        "lang": "en",
+        "id": "8977426326969438066",
+        "baseUrl": "https://www.mangasaki.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaSco",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangasco",
     "apk": "tachiyomi-en.mangasco-v1.4.35.apk",
@@ -27481,10 +27501,10 @@
   {
     "name": "Tachiyomi: NetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyen",
-    "apk": "tachiyomi-vi.nettruyen-v1.4.26.apk",
+    "apk": "tachiyomi-vi.nettruyen-v1.4.27.apk",
     "lang": "vi",
-    "code": 26,
-    "version": "1.4.26",
+    "code": 27,
+    "version": "1.4.27",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27521,10 +27541,10 @@
   {
     "name": "Tachiyomi: NhatTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nhattruyen",
-    "apk": "tachiyomi-vi.nhattruyen-v1.4.18.apk",
+    "apk": "tachiyomi-vi.nhattruyen-v1.4.19.apk",
     "lang": "vi",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
