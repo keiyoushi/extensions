@@ -18566,10 +18566,10 @@
   {
     "name": "Tachiyomi: Mangas No Sekai",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangasnosekai",
-    "apk": "tachiyomi-es.mangasnosekai-v1.4.36.apk",
+    "apk": "tachiyomi-es.mangasnosekai-v1.4.37.apk",
     "lang": "es",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18806,10 +18806,10 @@
   {
     "name": "Tachiyomi: Olympus Scanlation",
     "pkg": "eu.kanade.tachiyomi.extension.es.olympusscanlation",
-    "apk": "tachiyomi-es.olympusscanlation-v1.4.6.apk",
+    "apk": "tachiyomi-es.olympusscanlation-v1.4.7.apk",
     "lang": "es",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18818,7 +18818,7 @@
         "name": "Olympus Scanlation",
         "lang": "es",
         "id": "1163124599525658616",
-        "baseUrl": "https://olympusvisor.com",
+        "baseUrl": "https://visorolym.com",
         "versionId": 2
       }
     ]
