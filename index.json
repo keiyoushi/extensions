@@ -23532,26 +23532,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Drope Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.dropescan",
-    "apk": "tachiyomi-pt.dropescan-v1.4.37.apk",
-    "lang": "pt-BR",
-    "code": 37,
-    "version": "1.4.37",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Drope Scan",
-        "lang": "pt-BR",
-        "id": "7529658920665636296",
-        "baseUrl": "https://dropescan.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Eleven Scanlator",
     "pkg": "eu.kanade.tachiyomi.extension.pt.elevenscanlator",
     "apk": "tachiyomi-pt.elevenscanlator-v1.4.8.apk",
@@ -27088,26 +27068,6 @@
         "id": "1479830960881750685",
         "baseUrl": "https://tortuga-ceviri.com",
         "versionId": 2
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: TurkToon",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.turktoon",
-    "apk": "tachiyomi-tr.turktoon-v1.4.28.apk",
-    "lang": "tr",
-    "code": 28,
-    "version": "1.4.28",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "TurkToon",
-        "lang": "tr",
-        "id": "1379356074497582824",
-        "baseUrl": "https://turktoon.com",
-        "versionId": 1
       }
     ]
   },
