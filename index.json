@@ -12197,6 +12197,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manga Planet",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangaplanet",
+    "apk": "tachiyomi-en.mangaplanet-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Planet",
+        "lang": "en",
+        "id": "2733665156702925397",
+        "baseUrl": "https://mangaplanet.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaPlex",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaplex",
     "apk": "tachiyomi-en.mangaplex-v1.4.1.apk",
@@ -22351,6 +22371,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Comic Meteor",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.comicmeteor",
+    "apk": "tachiyomi-ja.comicmeteor-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "COMICメテオ",
+        "lang": "ja",
+        "id": "2570939302915696973",
+        "baseUrl": "https://comic-meteor.jp",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Comic Newtype",
     "pkg": "eu.kanade.tachiyomi.extension.ja.comicnewtype",
     "apk": "tachiyomi-ja.comicnewtype-v1.4.2.apk",
@@ -22426,6 +22466,26 @@
         "lang": "ja",
         "id": "8045942616403978870",
         "baseUrl": "https://ganma.jp",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Gaugau Monster Plus",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.gaugaumonsterplus",
+    "apk": "tachiyomi-ja.gaugaumonsterplus-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "がうがうモンスター＋",
+        "lang": "ja",
+        "id": "9220365500598403749",
+        "baseUrl": "https://gaugau.futabanet.jp",
         "versionId": 1
       }
     ]
@@ -22731,6 +22791,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Ohta Web Comic",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.ohtawebcomic",
+    "apk": "tachiyomi-ja.ohtawebcomic-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Ohta Web Comic",
+        "lang": "ja",
+        "id": "1056568527385317039",
+        "baseUrl": "https://webcomic.ohtabooks.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Rawdevart.art",
     "pkg": "eu.kanade.tachiyomi.extension.ja.rawdevartart",
     "apk": "tachiyomi-ja.rawdevartart-v1.4.2.apk",
@@ -23026,6 +23106,33 @@
         "lang": "ja",
         "id": "1647179844716143786",
         "baseUrl": "https://welovemanga.one",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Weekly Young Magazine",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.yanmaga",
+    "apk": "tachiyomi-ja.yanmaga-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ヤンマガ（マンガ）",
+        "lang": "ja",
+        "id": "2126618372106431410",
+        "baseUrl": "https://yanmaga.jp",
+        "versionId": 1
+      },
+      {
+        "name": "ヤンマガ（グラビア）",
+        "lang": "ja",
+        "id": "2227240489801599645",
+        "baseUrl": "https://yanmaga.jp",
         "versionId": 1
       }
     ]
