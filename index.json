@@ -24421,11 +24421,11 @@
   {
     "name": "Tachiyomi: Manhastro",
     "pkg": "eu.kanade.tachiyomi.extension.pt.manhastro",
-    "apk": "tachiyomi-pt.manhastro-v1.4.34.apk",
+    "apk": "tachiyomi-pt.manhastro-v1.4.35.apk",
     "lang": "pt-BR",
-    "code": 34,
-    "version": "1.4.34",
-    "nsfw": 0,
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
