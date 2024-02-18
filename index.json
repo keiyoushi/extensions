@@ -13659,10 +13659,10 @@
   {
     "name": "Tachiyomi: Manhwa Freak",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwafreak",
-    "apk": "tachiyomi-en.manhwafreak-v1.4.31.apk",
+    "apk": "tachiyomi-en.manhwafreak-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24259,6 +24259,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Li Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.limanga",
+    "apk": "tachiyomi-pt.limanga-v1.4.29.apk",
+    "lang": "pt-BR",
+    "code": 29,
+    "version": "1.4.29",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Li Manga",
+        "lang": "pt-BR",
+        "id": "3940062922306941474",
+        "baseUrl": "https://limanga.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Limbo Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.limboscan",
     "apk": "tachiyomi-pt.limboscan-v1.4.33.apk",
@@ -24834,26 +24854,6 @@
         "lang": "pt-BR",
         "id": "5049746906421102055",
         "baseUrl": "https://portugamanga.online",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Prisma Hentais",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.prismahentais",
-    "apk": "tachiyomi-pt.prismahentais-v1.4.33.apk",
-    "lang": "pt-BR",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Prisma Hentais",
-        "lang": "pt-BR",
-        "id": "7056253736370072931",
-        "baseUrl": "https://prismahentai.com",
         "versionId": 1
       }
     ]
