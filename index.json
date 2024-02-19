@@ -7291,10 +7291,10 @@
   {
     "name": "Tachiyomi: PotatoManga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.potatomanga",
-    "apk": "tachiyomi-ar.potatomanga-v1.4.29.apk",
+    "apk": "tachiyomi-ar.potatomanga-v1.4.30.apk",
     "lang": "ar",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7303,7 +7303,7 @@
         "name": "PotatoManga",
         "lang": "ar",
         "id": "5991269639191456094",
-        "baseUrl": "https://potatomanga.xyz",
+        "baseUrl": "https://ar.potatomanga.xyz",
         "versionId": 1
       }
     ]
@@ -18626,10 +18626,10 @@
   {
     "name": "Tachiyomi: Mangas No Sekai",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangasnosekai",
-    "apk": "tachiyomi-es.mangasnosekai-v1.4.38.apk",
+    "apk": "tachiyomi-es.mangasnosekai-v1.4.39.apk",
     "lang": "es",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
