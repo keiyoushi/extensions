@@ -8049,6 +8049,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Blackout Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.blackoutscans",
+    "apk": "tachiyomi-en.blackoutscans-v1.4.2.apk",
+    "lang": "en",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Blackout Scans",
+        "lang": "en",
+        "id": "5490096080408009831",
+        "baseUrl": "https://blackoutscans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: BoxManhwa",
     "pkg": "eu.kanade.tachiyomi.extension.en.boxmanhwa",
     "apk": "tachiyomi-en.boxmanhwa-v1.4.13.apk",
@@ -9759,10 +9779,10 @@
   {
     "name": "Tachiyomi: HM2D",
     "pkg": "eu.kanade.tachiyomi.extension.en.hm2d",
-    "apk": "tachiyomi-en.hm2d-v1.4.35.apk",
+    "apk": "tachiyomi-en.hm2d-v1.4.36.apk",
     "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9771,7 +9791,7 @@
         "name": "HM2D",
         "lang": "en",
         "id": "7329798563365402763",
-        "baseUrl": "https://mangadistrict.com/hdoujin/",
+        "baseUrl": "https://doujindistrict.com",
         "versionId": 1
       }
     ]
@@ -15879,10 +15899,10 @@
   {
     "name": "Tachiyomi: Rudra Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.rudrascans",
-    "apk": "tachiyomi-en.rudrascans-v1.4.2.apk",
+    "apk": "tachiyomi-en.rudrascans-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17226,10 +17246,10 @@
   {
     "name": "Tachiyomi: Wicked Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.wickedscans",
-    "apk": "tachiyomi-en.wickedscans-v1.4.1.apk",
+    "apk": "tachiyomi-en.wickedscans-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
