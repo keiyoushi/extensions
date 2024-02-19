@@ -4704,10 +4704,10 @@
   {
     "name": "Tachiyomi: Miau Scan",
     "pkg": "eu.kanade.tachiyomi.extension.all.miauscan",
-    "apk": "tachiyomi-all.miauscan-v1.4.30.apk",
+    "apk": "tachiyomi-all.miauscan-v1.4.31.apk",
     "lang": "all",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4716,14 +4716,14 @@
         "name": "Miau Scan",
         "lang": "es",
         "id": "2886862669347225416",
-        "baseUrl": "https://miaucomics.org",
+        "baseUrl": "https://miauvisor.org",
         "versionId": 1
       },
       {
         "name": "Miau Scan",
         "lang": "pt-BR",
         "id": "6705370418823255358",
-        "baseUrl": "https://miaucomics.org",
+        "baseUrl": "https://miauvisor.org",
         "versionId": 1
       }
     ]
@@ -22771,6 +22771,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: MANGARAW+",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.mangarawplus",
+    "apk": "tachiyomi-ja.mangarawplus-v1.4.35.apk",
+    "lang": "ja",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MANGARAW+",
+        "lang": "ja",
+        "id": "4024106071166095369",
+        "baseUrl": "https://mangarawplus.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MIC MIC IDOL",
     "pkg": "eu.kanade.tachiyomi.extension.ja.micmicidol",
     "apk": "tachiyomi-ja.micmicidol-v1.4.2.apk",
@@ -28081,10 +28101,10 @@
   {
     "name": "Tachiyomi: Happymh",
     "pkg": "eu.kanade.tachiyomi.extension.zh.happymh",
-    "apk": "tachiyomi-zh.happymh-v1.4.7.apk",
+    "apk": "tachiyomi-zh.happymh-v1.4.8.apk",
     "lang": "zh",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28174,26 +28194,6 @@
         "lang": "zh",
         "id": "8099870292642776005",
         "baseUrl": "https://www.kuaikanmanhua.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Kuaikuai Manhua 3",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.kuaikuai3",
-    "apk": "tachiyomi-zh.kuaikuai3-v1.4.6.apk",
-    "lang": "zh",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "快快漫画3",
-        "lang": "zh",
-        "id": "800584643949479296",
-        "baseUrl": "https://mobile3.manhuaorg.com",
         "versionId": 1
       }
     ]
