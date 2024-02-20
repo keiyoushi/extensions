@@ -18646,10 +18646,10 @@
   {
     "name": "Tachiyomi: Mangas No Sekai",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangasnosekai",
-    "apk": "tachiyomi-es.mangasnosekai-v1.4.41.apk",
+    "apk": "tachiyomi-es.mangasnosekai-v1.4.42.apk",
     "lang": "es",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23326,14 +23326,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki325.net",
+        "baseUrl": "https://manatoki326.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki325.com",
+        "baseUrl": "https://newtoki326.com",
         "versionId": 1
       }
     ]
