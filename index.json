@@ -5566,10 +5566,10 @@
   {
     "name": "Tachiyomi: Photos18",
     "pkg": "eu.kanade.tachiyomi.extension.all.photos18",
-    "apk": "tachiyomi-all.photos18-v1.4.2.apk",
+    "apk": "tachiyomi-all.photos18-v1.4.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6571,10 +6571,10 @@
   {
     "name": "Tachiyomi: ARESNOV",
     "pkg": "eu.kanade.tachiyomi.extension.ar.aresnov",
-    "apk": "tachiyomi-ar.aresnov-v1.4.28.apk",
+    "apk": "tachiyomi-ar.aresnov-v1.4.29.apk",
     "lang": "ar",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6583,7 +6583,7 @@
         "name": "ARESNOV",
         "lang": "ar",
         "id": "1046935749022479891",
-        "baseUrl": "https://aresnov.org",
+        "baseUrl": "https://manhuascarlet.com",
         "versionId": 1
       }
     ]
@@ -6791,10 +6791,10 @@
   {
     "name": "Tachiyomi: ARESManga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.iimanga",
-    "apk": "tachiyomi-ar.iimanga-v1.4.30.apk",
+    "apk": "tachiyomi-ar.iimanga-v1.4.31.apk",
     "lang": "ar",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6803,7 +6803,7 @@
         "name": "ARESManga",
         "lang": "ar",
         "id": "230017529540228175",
-        "baseUrl": "https://en-aresmanga.com",
+        "baseUrl": "https://fl-ares.com",
         "versionId": 1
       }
     ]
@@ -18326,10 +18326,10 @@
   {
     "name": "Tachiyomi: LectorManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.lectormanga",
-    "apk": "tachiyomi-es.lectormanga-v1.4.38.apk",
+    "apk": "tachiyomi-es.lectormanga-v1.4.39.apk",
     "lang": "es",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19326,10 +19326,10 @@
   {
     "name": "Tachiyomi: TuMangaOnline",
     "pkg": "eu.kanade.tachiyomi.extension.es.tumangaonline",
-    "apk": "tachiyomi-es.tumangaonline-v1.4.53.apk",
+    "apk": "tachiyomi-es.tumangaonline-v1.4.54.apk",
     "lang": "es",
-    "code": 53,
-    "version": "1.4.53",
+    "code": 54,
+    "version": "1.4.54",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27541,10 +27541,10 @@
   {
     "name": "Tachiyomi: NetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyen",
-    "apk": "tachiyomi-vi.nettruyen-v1.4.27.apk",
+    "apk": "tachiyomi-vi.nettruyen-v1.4.28.apk",
     "lang": "vi",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27553,7 +27553,7 @@
         "name": "NetTruyen",
         "lang": "vi",
         "id": "5198966899163361086",
-        "baseUrl": "https://www.nettruyenss.com",
+        "baseUrl": "https://www.nettruyenbb.com",
         "versionId": 1
       }
     ]
