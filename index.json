@@ -6951,10 +6951,10 @@
   {
     "name": "Tachiyomi: Mangalink",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalink",
-    "apk": "tachiyomi-ar.mangalink-v1.4.36.apk",
+    "apk": "tachiyomi-ar.mangalink-v1.4.37.apk",
     "lang": "ar",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6971,10 +6971,10 @@
   {
     "name": "Tachiyomi: MangaLionz",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalionz",
-    "apk": "tachiyomi-ar.mangalionz-v1.4.37.apk",
+    "apk": "tachiyomi-ar.mangalionz-v1.4.38.apk",
     "lang": "ar",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7091,10 +7091,10 @@
   {
     "name": "Tachiyomi: MangaSpark",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaspark",
-    "apk": "tachiyomi-ar.mangaspark-v1.4.39.apk",
+    "apk": "tachiyomi-ar.mangaspark-v1.4.40.apk",
     "lang": "ar",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7111,10 +7111,10 @@
   {
     "name": "Tachiyomi: Manga Starz",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangastarz",
-    "apk": "tachiyomi-ar.mangastarz-v1.4.40.apk",
+    "apk": "tachiyomi-ar.mangastarz-v1.4.41.apk",
     "lang": "ar",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8609,6 +8609,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: DMC Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.dmcscans",
+    "apk": "tachiyomi-en.dmcscans-v1.4.8.apk",
+    "lang": "en",
+    "code": 8,
+    "version": "1.4.8",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "DMC Scans",
+        "lang": "en",
+        "id": "5301293687431383793",
+        "baseUrl": "https://didascans.blogspot.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Doujins",
     "pkg": "eu.kanade.tachiyomi.extension.en.doujins",
     "apk": "tachiyomi-en.doujins-v1.4.5.apk",
@@ -8819,10 +8839,10 @@
   {
     "name": "Tachiyomi: Elarc Toon",
     "pkg": "eu.kanade.tachiyomi.extension.en.elarcpage",
-    "apk": "tachiyomi-en.elarcpage-v1.4.31.apk",
+    "apk": "tachiyomi-en.elarcpage-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -13639,10 +13659,10 @@
   {
     "name": "Tachiyomi: ManhwaClan",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwaclan",
-    "apk": "tachiyomi-en.manhwaclan-v1.4.35.apk",
+    "apk": "tachiyomi-en.manhwaclan-v1.4.36.apk",
     "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19286,10 +19306,10 @@
   {
     "name": "Tachiyomi: Traducciones Moonlight",
     "pkg": "eu.kanade.tachiyomi.extension.es.traduccionesmoonlight",
-    "apk": "tachiyomi-es.traduccionesmoonlight-v1.4.35.apk",
+    "apk": "tachiyomi-es.traduccionesmoonlight-v1.4.36.apk",
     "lang": "es",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23314,10 +23334,10 @@
   {
     "name": "Tachiyomi: NewToki / ManaToki",
     "pkg": "eu.kanade.tachiyomi.extension.ko.newtoki",
-    "apk": "tachiyomi-ko.newtoki-v1.4.30.apk",
+    "apk": "tachiyomi-ko.newtoki-v1.4.31.apk",
     "lang": "ko",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23434,6 +23454,26 @@
         "lang": "pt-BR",
         "id": "8171774858955552264",
         "baseUrl": "https://www.animexnovel.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Argos Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.argoscomics",
+    "apk": "tachiyomi-pt.argoscomics-v1.4.36.apk",
+    "lang": "pt-BR",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Argos Comics",
+        "lang": "pt-BR",
+        "id": "1728054086965963225",
+        "baseUrl": "https://argoscomics.com",
         "versionId": 1
       }
     ]
@@ -24354,6 +24394,26 @@
         "lang": "pt-BR",
         "id": "5735566668025999711",
         "baseUrl": "https://www.linkstartscan.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Lunar Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.lunarscan",
+    "apk": "tachiyomi-pt.lunarscan-v1.4.36.apk",
+    "lang": "pt-BR",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Lunar Scan",
+        "lang": "pt-BR",
+        "id": "5914813814432882097",
+        "baseUrl": "https://lunarscan.com.br",
         "versionId": 1
       }
     ]
