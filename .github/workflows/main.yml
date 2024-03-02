@@ -1,0 +1,28 @@
+name: Generate Index Min
+
+on:
+  push:
+    branches:
+      - repo
+
+jobs:
+  generate-index:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4.1.1
+
+    - name: Install jq
+      run: sudo apt-get install jq
+
+    - name: Generate index.min.json
+      run: jq 'map(select(.nfsw != 1))' index.json > no_nfsw.min.json
+
+    - name: Commit changes
+      run: |
+        git config --global user.name 'TheLordofD'
+        git config --global user.email '161926281+TheLordofD@users.noreply.github.com'
+        git add index.min.json
+        git commit -m "Generate index.min.json"
+        git push
