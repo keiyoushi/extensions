@@ -2,8 +2,8 @@ name: Generate Index Min
 
 on:
   push:
-    branches:
-      - repo
+    paths:
+      - index.json
 
 jobs:
   generate-index:
