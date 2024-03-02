@@ -17,7 +17,7 @@ jobs:
       run: sudo apt-get install jq
 
     - name: Generate index.min.json
-      run: jq -c 'map(select(.nsfw != 1))' index.min.json > no_nsfw.min.json
+      run: jq -c 'map(select(.nsfw != 1))' index.min.json > no_nsfw.index.min.json
 
     - name: Commit changes
       run: |
