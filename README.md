@@ -1,3 +1,7 @@
+# Everything is done by keiyoushi team... 
+# All am doing is removing the nsfw from the json dynamically
+# Please Support them
+
 ### Please give the repo a :star:
 
 | Build | Support Server |
