@@ -7261,6 +7261,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: RE Manga (Arabic)",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.remangaarabic",
+    "apk": "tachiyomi-ar.remangaarabic-v1.4.2.apk",
+    "lang": "ar",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "RE Manga",
+        "lang": "ar",
+        "id": "3856301446711562004",
+        "baseUrl": "https://re-manga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Shqqaa Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.shqqaa",
     "apk": "tachiyomi-ar.shqqaa-v1.4.2.apk",
