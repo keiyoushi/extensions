@@ -19303,6 +19303,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: TMO Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.es.tmomanga",
+    "apk": "tachiyomi-es.tmomanga-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "TMO Manga",
+        "lang": "es",
+        "id": "2002710093229208039",
+        "baseUrl": "https://tmomanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Traducciones Moonlight",
     "pkg": "eu.kanade.tachiyomi.extension.es.traduccionesmoonlight",
     "apk": "tachiyomi-es.traduccionesmoonlight-v1.4.36.apk",
