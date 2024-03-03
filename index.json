@@ -19672,10 +19672,10 @@
   {
     "name": "Tachiyomi: FMTEAM",
     "pkg": "eu.kanade.tachiyomi.extension.fr.fmteam",
-    "apk": "tachiyomi-fr.fmteam-v1.4.2.apk",
+    "apk": "tachiyomi-fr.fmteam-v1.4.5.apk",
     "lang": "fr",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24160,20 +24160,20 @@
   {
     "name": "Tachiyomi: Hunters Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.huntersscans",
-    "apk": "tachiyomi-pt.huntersscans-v1.4.35.apk",
+    "apk": "tachiyomi-pt.huntersscans-v1.4.36.apk",
     "lang": "pt-BR",
-    "code": 35,
-    "version": "1.4.35",
-    "nsfw": 1,
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Hunters Scan",
+        "name": "Hunters Scans",
         "lang": "pt-BR",
-        "id": "7310576253330700902",
-        "baseUrl": "https://huntersscan.xyz/",
-        "versionId": 1
+        "id": "2608326477521786674",
+        "baseUrl": "https://huntersscan.xyz",
+        "versionId": 2
       }
     ]
   },
