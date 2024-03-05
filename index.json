@@ -23845,6 +23845,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: CrystalComics",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.crystalcomics",
+    "apk": "tachiyomi-pt.crystalcomics-v1.4.35.apk",
+    "lang": "pt-BR",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Crystal Comics",
+        "lang": "pt-BR",
+        "id": "7207984508218165032",
+        "baseUrl": "https://crystalcomics.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Dango Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.dangoscan",
     "apk": "tachiyomi-pt.dangoscan-v1.4.2.apk",
