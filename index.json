@@ -18230,6 +18230,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Jobsibe",
+    "pkg": "eu.kanade.tachiyomi.extension.es.jobsibe",
+    "apk": "tachiyomi-es.jobsibe-v1.4.35.apk",
+    "lang": "es",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Jobsibe",
+        "lang": "es",
+        "id": "3903750533251938295",
+        "baseUrl": "https://jobsibe.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: KenhuaScan",
     "pkg": "eu.kanade.tachiyomi.extension.es.kenhuascan",
     "apk": "tachiyomi-es.kenhuascan-v1.4.35.apk",
