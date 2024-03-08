@@ -11158,10 +11158,10 @@
   {
     "name": "Tachiyomi: Manga District",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangadistrict",
-    "apk": "tachiyomi-en.mangadistrict-v1.4.38.apk",
+    "apk": "tachiyomi-en.mangadistrict-v1.4.39.apk",
     "lang": "en",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12943,21 +12943,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manga-TX",
+    "name": "Tachiyomi: Manga Empress",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangatxunoriginal",
-    "apk": "tachiyomi-en.mangatxunoriginal-v1.4.35.apk",
+    "apk": "tachiyomi-en.mangatxunoriginal-v1.4.36.apk",
     "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Manga-TX",
+        "name": "Manga Empress",
         "lang": "en",
         "id": "3683271326486389724",
-        "baseUrl": "https://manga-tx.com",
+        "baseUrl": "https://mangaempress.com",
         "versionId": 1
       }
     ]
@@ -19677,21 +19677,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Banana-Scan",
+    "name": "Tachiyomi: Harmony-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.bananascan",
-    "apk": "tachiyomi-fr.bananascan-v1.4.30.apk",
+    "apk": "tachiyomi-fr.bananascan-v1.4.36.apk",
     "lang": "fr",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Banana-Scan",
+        "name": "Harmony-Scan",
         "lang": "fr",
         "id": "3121632933690925888",
-        "baseUrl": "https://banana-scan.com",
+        "baseUrl": "https://harmony-scan.fr",
         "versionId": 1
       }
     ]
@@ -21739,10 +21739,10 @@
   {
     "name": "Tachiyomi: MirrorDesu",
     "pkg": "eu.kanade.tachiyomi.extension.id.mirrordesu",
-    "apk": "tachiyomi-id.mirrordesu-v1.4.30.apk",
+    "apk": "tachiyomi-id.mirrordesu-v1.4.31.apk",
     "lang": "id",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21751,7 +21751,7 @@
         "name": "MirrorDesu",
         "lang": "id",
         "id": "6063688271441951521",
-        "baseUrl": "https://mirrordesu.me",
+        "baseUrl": "https://mirrordesu.one",
         "versionId": 1
       }
     ]
@@ -25525,6 +25525,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Toshi wa Yume",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.toshiwayume",
+    "apk": "tachiyomi-pt.toshiwayume-v1.4.3.apk",
+    "lang": "pt-BR",
+    "code": 3,
+    "version": "1.4.3",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Toshi wa Yume",
+        "lang": "pt-BR",
+        "id": "6607269351580733772",
+        "baseUrl": "https://leitoronline.toshiwayume.com.br",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Tsuki Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.tsukimangas",
     "apk": "tachiyomi-pt.tsukimangas-v1.4.5.apk",
@@ -26847,10 +26867,10 @@
   {
     "name": "Tachiyomi: DiamondFansub",
     "pkg": "eu.kanade.tachiyomi.extension.tr.diamondfansub",
-    "apk": "tachiyomi-tr.diamondfansub-v1.4.36.apk",
+    "apk": "tachiyomi-tr.diamondfansub-v1.4.37.apk",
     "lang": "tr",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27267,10 +27287,10 @@
   {
     "name": "Tachiyomi: MangaWT",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangawt",
-    "apk": "tachiyomi-tr.mangawt-v1.4.35.apk",
+    "apk": "tachiyomi-tr.mangawt-v1.4.36.apk",
     "lang": "tr",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27347,10 +27367,10 @@
   {
     "name": "Tachiyomi: Rüya Manga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.ruyamanga",
-    "apk": "tachiyomi-tr.ruyamanga-v1.4.36.apk",
+    "apk": "tachiyomi-tr.ruyamanga-v1.4.37.apk",
     "lang": "tr",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27847,10 +27867,10 @@
   {
     "name": "Tachiyomi: NetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyen",
-    "apk": "tachiyomi-vi.nettruyen-v1.4.28.apk",
+    "apk": "tachiyomi-vi.nettruyen-v1.4.29.apk",
     "lang": "vi",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27859,7 +27879,7 @@
         "name": "NetTruyen",
         "lang": "vi",
         "id": "5198966899163361086",
-        "baseUrl": "https://www.nettruyenbb.com",
+        "baseUrl": "https://www.nettruyenee.com",
         "versionId": 1
       }
     ]
