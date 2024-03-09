@@ -20897,21 +20897,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Komik AV",
+    "name": "Tachiyomi: APKOMIK",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikav",
-    "apk": "tachiyomi-id.komikav-v1.4.31.apk",
+    "apk": "tachiyomi-id.komikav-v1.4.32.apk",
     "lang": "id",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Komik AV (WP Manga Stream)",
+        "name": "APKOMIK",
         "lang": "id",
         "id": "7875815514004535629",
-        "baseUrl": "https://komikav.com",
+        "baseUrl": "https://apkomik.cc",
         "versionId": 1
       }
     ]
