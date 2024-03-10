@@ -6708,6 +6708,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Hentai Slayer",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.hentaislayer",
+    "apk": "tachiyomi-ar.hentaislayer-v1.4.1.apk",
+    "lang": "ar",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "هنتاي سلاير",
+        "lang": "ar",
+        "id": "1383489648660567366",
+        "baseUrl": "https://hentaislayer.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Hijala",
     "pkg": "eu.kanade.tachiyomi.extension.ar.hijala",
     "apk": "tachiyomi-ar.hijala-v1.4.8.apk",
@@ -24967,10 +24987,10 @@
   {
     "name": "Tachiyomi: Nexo Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.nexoscans",
-    "apk": "tachiyomi-pt.nexoscans-v1.4.36.apk",
+    "apk": "tachiyomi-pt.nexoscans-v1.4.37.apk",
     "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24979,7 +24999,7 @@
         "name": "Nexo Scans",
         "lang": "pt-BR",
         "id": "3589167245092122415",
-        "baseUrl": "https://nexoscans.com",
+        "baseUrl": "https://nexoscans.net",
         "versionId": 1
       }
     ]
