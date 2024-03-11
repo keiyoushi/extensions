@@ -11118,10 +11118,10 @@
   {
     "name": "Tachiyomi: Manga Demon",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangademon",
-    "apk": "tachiyomi-en.mangademon-v1.4.9.apk",
+    "apk": "tachiyomi-en.mangademon-v1.4.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11130,7 +11130,7 @@
         "name": "Manga Demon",
         "lang": "en",
         "id": "8089306398534489202",
-        "baseUrl": "https://demontoon.com",
+        "baseUrl": "https://demonreader.org",
         "versionId": 1
       }
     ]
@@ -11378,10 +11378,10 @@
   {
     "name": "Tachiyomi: Mangafreak",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangafreak",
-    "apk": "tachiyomi-en.mangafreak-v1.4.9.apk",
+    "apk": "tachiyomi-en.mangafreak-v1.4.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11390,7 +11390,7 @@
         "name": "Mangafreak",
         "lang": "en",
         "id": "1201694572804778862",
-        "baseUrl": "https://w15.mangafreak.net",
+        "baseUrl": "https://ww1.mangafreak.me",
         "versionId": 1
       }
     ]
@@ -17910,6 +17910,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: DeManhuas",
+    "pkg": "eu.kanade.tachiyomi.extension.es.demanhuas",
+    "apk": "tachiyomi-es.demanhuas-v1.4.35.apk",
+    "lang": "es",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "DeManhuas",
+        "lang": "es",
+        "id": "1729131004302291954",
+        "baseUrl": "https://demanhuas.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: DoujinHentai",
     "pkg": "eu.kanade.tachiyomi.extension.es.doujinhentai",
     "apk": "tachiyomi-es.doujinhentai-v1.4.36.apk",
@@ -17952,10 +17972,10 @@
   {
     "name": "Tachiyomi: Emperor Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.emperorscan",
-    "apk": "tachiyomi-es.emperorscan-v1.4.36.apk",
+    "apk": "tachiyomi-es.emperorscan-v1.4.37.apk",
     "lang": "es",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18392,10 +18412,10 @@
   {
     "name": "Tachiyomi: Kumanga",
     "pkg": "eu.kanade.tachiyomi.extension.es.kumanga",
-    "apk": "tachiyomi-es.kumanga-v1.4.10.apk",
+    "apk": "tachiyomi-es.kumanga-v1.4.11.apk",
     "lang": "es",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19406,6 +19426,26 @@
         "id": "4133545021282986386",
         "baseUrl": "https://tenkaiscan.net",
         "versionId": 2
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Territorio Lealtad",
+    "pkg": "eu.kanade.tachiyomi.extension.es.territoriolealtad",
+    "apk": "tachiyomi-es.territoriolealtad-v1.4.35.apk",
+    "lang": "es",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Territorio Lealtad",
+        "lang": "es",
+        "id": "7757715065442523841",
+        "baseUrl": "https://territorioleal.com",
+        "versionId": 1
       }
     ]
   },
