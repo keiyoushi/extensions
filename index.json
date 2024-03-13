@@ -7208,6 +7208,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manga Time",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangatime",
+    "apk": "tachiyomi-ar.mangatime-v1.4.35.apk",
+    "lang": "ar",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Time",
+        "lang": "ar",
+        "id": "3179348935869327174",
+        "baseUrl": "https://anime-time.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manhatic",
     "pkg": "eu.kanade.tachiyomi.extension.ar.manhatic",
     "apk": "tachiyomi-ar.manhatic-v1.4.35.apk",
