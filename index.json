@@ -6628,6 +6628,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Dilar",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.dilar",
+    "apk": "tachiyomi-ar.dilar-v1.4.1.apk",
+    "lang": "ar",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Dilar",
+        "lang": "ar",
+        "id": "6272541812251031526",
+        "baseUrl": "https://dilar.tube",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Empire Webtoon",
     "pkg": "eu.kanade.tachiyomi.extension.ar.empirewebtoon",
     "apk": "tachiyomi-ar.empirewebtoon-v1.4.38.apk",
@@ -6690,10 +6710,10 @@
   {
     "name": "Tachiyomi: GMANGA",
     "pkg": "eu.kanade.tachiyomi.extension.ar.gmanga",
-    "apk": "tachiyomi-ar.gmanga-v1.4.13.apk",
+    "apk": "tachiyomi-ar.gmanga-v1.4.14.apk",
     "lang": "ar",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7163,6 +7183,26 @@
         "lang": "ar",
         "id": "4940266815923515755",
         "baseUrl": "https://mangatak.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Tales",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangatales",
+    "apk": "tachiyomi-ar.mangatales-v1.4.1.apk",
+    "lang": "ar",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Tales",
+        "lang": "ar",
+        "id": "5218550345649535189",
+        "baseUrl": "https://www.mangatales.com",
         "versionId": 1
       }
     ]
@@ -23572,14 +23612,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki328.net",
+        "baseUrl": "https://manatoki329.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki328.com",
+        "baseUrl": "https://newtoki329.com",
         "versionId": 1
       }
     ]
@@ -23787,10 +23827,10 @@
   {
     "name": "Tachiyomi: Aurora Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.aurorascan",
-    "apk": "tachiyomi-pt.aurorascan-v1.4.2.apk",
+    "apk": "tachiyomi-pt.aurorascan-v1.4.3.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23967,10 +24007,10 @@
   {
     "name": "Tachiyomi: Dango Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.dangoscan",
-    "apk": "tachiyomi-pt.dangoscan-v1.4.2.apk",
+    "apk": "tachiyomi-pt.dangoscan-v1.4.3.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24867,10 +24907,10 @@
   {
     "name": "Tachiyomi: Mode Scanlator",
     "pkg": "eu.kanade.tachiyomi.extension.pt.modescanlator",
-    "apk": "tachiyomi-pt.modescanlator-v1.4.2.apk",
+    "apk": "tachiyomi-pt.modescanlator-v1.4.3.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25007,10 +25047,10 @@
   {
     "name": "Tachiyomi: Nazarick Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.nazarickscan",
-    "apk": "tachiyomi-pt.nazarickscan-v1.4.2.apk",
+    "apk": "tachiyomi-pt.nazarickscan-v1.4.3.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25327,10 +25367,10 @@
   {
     "name": "Tachiyomi: RF Dragon Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.rfdragonscan",
-    "apk": "tachiyomi-pt.rfdragonscan-v1.4.2.apk",
+    "apk": "tachiyomi-pt.rfdragonscan-v1.4.3.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25707,10 +25747,10 @@
   {
     "name": "Tachiyomi: Wicked Witch Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.wickedwitchscannovo",
-    "apk": "tachiyomi-pt.wickedwitchscannovo-v1.4.3.apk",
+    "apk": "tachiyomi-pt.wickedwitchscannovo-v1.4.4.apk",
     "lang": "pt-BR",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
