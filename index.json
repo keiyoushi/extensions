@@ -6488,6 +6488,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Arabs Hentai",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.arabshentai",
+    "apk": "tachiyomi-ar.arabshentai-v1.4.1.apk",
+    "lang": "ar",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "هنتاي العرب",
+        "lang": "ar",
+        "id": "3472625749271868375",
+        "baseUrl": "https://arabshentai.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Arab Toons",
     "pkg": "eu.kanade.tachiyomi.extension.ar.arabtoons",
     "apk": "tachiyomi-ar.arabtoons-v1.4.35.apk",
@@ -6750,10 +6770,10 @@
   {
     "name": "Tachiyomi: Hijala",
     "pkg": "eu.kanade.tachiyomi.extension.ar.hijala",
-    "apk": "tachiyomi-ar.hijala-v1.4.8.apk",
+    "apk": "tachiyomi-ar.hijala-v1.4.30.apk",
     "lang": "ar",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6761,9 +6781,9 @@
       {
         "name": "Hijala",
         "lang": "ar",
-        "id": "4536808529544021974",
-        "baseUrl": "https://hijala.blogspot.com",
-        "versionId": 1
+        "id": "917436262447415426",
+        "baseUrl": "https://www.hijala.com",
+        "versionId": 2
       }
     ]
   },
@@ -7950,10 +7970,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
-    "apk": "tachiyomi-en.asurascans-v1.4.31.apk",
+    "apk": "tachiyomi-en.asurascans-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9158,10 +9178,10 @@
   {
     "name": "Tachiyomi: Flame Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.flamecomics",
-    "apk": "tachiyomi-en.flamecomics-v1.4.30.apk",
+    "apk": "tachiyomi-en.flamecomics-v1.4.31.apk",
     "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10598,10 +10618,10 @@
   {
     "name": "Tachiyomi: Luminous Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.luminousscans",
-    "apk": "tachiyomi-en.luminousscans-v1.4.33.apk",
+    "apk": "tachiyomi-en.luminousscans-v1.4.34.apk",
     "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15985,10 +16005,10 @@
   {
     "name": "Tachiyomi: Rizz Comic",
     "pkg": "eu.kanade.tachiyomi.extension.en.rizzcomic",
-    "apk": "tachiyomi-en.rizzcomic-v1.4.30.apk",
+    "apk": "tachiyomi-en.rizzcomic-v1.4.31.apk",
     "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15996,9 +16016,9 @@
       {
         "name": "Rizz Comic",
         "lang": "en",
-        "id": "5157422019650176998",
+        "id": "1222303582140858680",
         "baseUrl": "https://rizzcomic.com",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
@@ -18465,26 +18485,6 @@
         "lang": "es",
         "id": "8075825407840893676",
         "baseUrl": "https://koinoboriscan.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Kumanga",
-    "pkg": "eu.kanade.tachiyomi.extension.es.kumanga",
-    "apk": "tachiyomi-es.kumanga-v1.4.11.apk",
-    "lang": "es",
-    "code": 11,
-    "version": "1.4.11",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Kumanga",
-        "lang": "es",
-        "id": "5818858964600650549",
-        "baseUrl": "https://www.kumanga.com",
         "versionId": 1
       }
     ]
@@ -25467,10 +25467,10 @@
   {
     "name": "Tachiyomi: SlimeRead",
     "pkg": "eu.kanade.tachiyomi.extension.pt.slimeread",
-    "apk": "tachiyomi-pt.slimeread-v1.4.4.apk",
+    "apk": "tachiyomi-pt.slimeread-v1.4.5.apk",
     "lang": "pt-BR",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28027,10 +28027,10 @@
   {
     "name": "Tachiyomi: NhatTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nhattruyen",
-    "apk": "tachiyomi-vi.nhattruyen-v1.4.19.apk",
+    "apk": "tachiyomi-vi.nhattruyen-v1.4.20.apk",
     "lang": "vi",
-    "code": 19,
-    "version": "1.4.19",
+    "code": 20,
+    "version": "1.4.20",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28039,7 +28039,7 @@
         "name": "NhatTruyen",
         "lang": "vi",
         "id": "6861496002170366525",
-        "baseUrl": "https://nhattruyento.com",
+        "baseUrl": "https://nhattruyenup.com",
         "versionId": 1
       }
     ]
@@ -28487,10 +28487,10 @@
   {
     "name": "Tachiyomi: Dm5",
     "pkg": "eu.kanade.tachiyomi.extension.zh.dm5",
-    "apk": "tachiyomi-zh.dm5-v1.4.1.apk",
+    "apk": "tachiyomi-zh.dm5-v1.4.2.apk",
     "lang": "zh",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28907,10 +28907,10 @@
   {
     "name": "Tachiyomi: Roumanwu",
     "pkg": "eu.kanade.tachiyomi.extension.zh.roumanwu",
-    "apk": "tachiyomi-zh.roumanwu-v1.4.7.apk",
+    "apk": "tachiyomi-zh.roumanwu-v1.4.8.apk",
     "lang": "zh",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28919,7 +28919,7 @@
         "name": "肉漫屋",
         "lang": "zh",
         "id": "3647420805839021718",
-        "baseUrl": "https://roum10.xyz",
+        "baseUrl": "https://roum12.xyz",
         "versionId": 1
       }
     ]
