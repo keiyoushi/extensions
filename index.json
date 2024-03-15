@@ -6750,10 +6750,10 @@
   {
     "name": "Tachiyomi: Hentai Slayer",
     "pkg": "eu.kanade.tachiyomi.extension.ar.hentaislayer",
-    "apk": "tachiyomi-ar.hentaislayer-v1.4.1.apk",
+    "apk": "tachiyomi-ar.hentaislayer-v1.4.2.apk",
     "lang": "ar",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27887,10 +27887,10 @@
   {
     "name": "Tachiyomi: Dua Leo Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.dualeotruyen",
-    "apk": "tachiyomi-vi.dualeotruyen-v1.4.2.apk",
+    "apk": "tachiyomi-vi.dualeotruyen-v1.4.3.apk",
     "lang": "vi",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27899,7 +27899,7 @@
         "name": "Dưa Leo Truyện",
         "lang": "vi",
         "id": "1039830224122325226",
-        "baseUrl": "https://dualeotruyennet.com",
+        "baseUrl": "https://dualeotruyenkk.com",
         "versionId": 1
       }
     ]
