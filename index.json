@@ -6930,10 +6930,10 @@
   {
     "name": "Tachiyomi: Manga Flame",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaflame",
-    "apk": "tachiyomi-ar.mangaflame-v1.4.31.apk",
+    "apk": "tachiyomi-ar.mangaflame-v1.4.32.apk",
     "lang": "ar",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6942,7 +6942,7 @@
         "name": "Manga Flame",
         "lang": "ar",
         "id": "1501237443119573205",
-        "baseUrl": "https://mangaflame.org",
+        "baseUrl": "https://arisescans.com",
         "versionId": 1
       }
     ]
@@ -7348,18 +7348,18 @@
     ]
   },
   {
-    "name": "Tachiyomi: Ozul Scans",
+    "name": "Tachiyomi: King Of Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.ozulscans",
-    "apk": "tachiyomi-ar.ozulscans-v1.4.32.apk",
+    "apk": "tachiyomi-ar.ozulscans-v1.4.33.apk",
     "lang": "ar",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Ozul Scans",
+        "name": "King Of Manga",
         "lang": "ar",
         "id": "3453769904666687440",
         "baseUrl": "https://kingofmanga.com",
@@ -8748,6 +8748,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Doujin.io - J18",
+    "pkg": "eu.kanade.tachiyomi.extension.en.doujinio",
+    "apk": "tachiyomi-en.doujinio-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Doujin.io - J18",
+        "lang": "en",
+        "id": "2738692054520731722",
+        "baseUrl": "https://doujin.io",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Doujins",
     "pkg": "eu.kanade.tachiyomi.extension.en.doujins",
     "apk": "tachiyomi-en.doujins-v1.4.5.apk",
@@ -8858,10 +8878,10 @@
   {
     "name": "Tachiyomi: EarlyManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.earlymanga",
-    "apk": "tachiyomi-en.earlymanga-v1.4.26.apk",
+    "apk": "tachiyomi-en.earlymanga-v1.4.27.apk",
     "lang": "en",
-    "code": 26,
-    "version": "1.4.26",
+    "code": 27,
+    "version": "1.4.27",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27987,10 +28007,10 @@
   {
     "name": "Tachiyomi: NetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyen",
-    "apk": "tachiyomi-vi.nettruyen-v1.4.29.apk",
+    "apk": "tachiyomi-vi.nettruyen-v1.4.30.apk",
     "lang": "vi",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27999,7 +28019,7 @@
         "name": "NetTruyen",
         "lang": "vi",
         "id": "5198966899163361086",
-        "baseUrl": "https://www.nettruyenee.com",
+        "baseUrl": "https://www.nettruyenff.com",
         "versionId": 1
       }
     ]
@@ -28067,10 +28087,10 @@
   {
     "name": "Tachiyomi: SayHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.sayhentai",
-    "apk": "tachiyomi-vi.sayhentai-v1.4.4.apk",
+    "apk": "tachiyomi-vi.sayhentai-v1.4.5.apk",
     "lang": "vi",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28079,7 +28099,7 @@
         "name": "SayHentai",
         "lang": "vi",
         "id": "4370817879994829481",
-        "baseUrl": "https://sayhentai.club",
+        "baseUrl": "https://sayhentai.pro",
         "versionId": 1
       }
     ]
