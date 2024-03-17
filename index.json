@@ -25147,10 +25147,10 @@
   {
     "name": "Tachiyomi: Nocturne Summer",
     "pkg": "eu.kanade.tachiyomi.extension.pt.nocturnesummer",
-    "apk": "tachiyomi-pt.nocturnesummer-v1.4.35.apk",
+    "apk": "tachiyomi-pt.nocturnesummer-v1.4.36.apk",
     "lang": "pt-BR",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25159,7 +25159,7 @@
         "name": "Nocturne Summer",
         "lang": "pt-BR",
         "id": "5501311187877950699",
-        "baseUrl": "https://nocsummer.com.br",
+        "baseUrl": "https://nocfsb.com",
         "versionId": 1
       }
     ]
