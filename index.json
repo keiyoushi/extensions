@@ -6588,21 +6588,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Beast Scans",
+    "name": "Tachiyomi: Umi Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.beastscans",
-    "apk": "tachiyomi-ar.beastscans-v1.4.31.apk",
+    "apk": "tachiyomi-ar.beastscans-v1.4.32.apk",
     "lang": "ar",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Beast Scans",
+        "name": "Umi Manga",
         "lang": "ar",
         "id": "6404296554681042513",
-        "baseUrl": "https://beastscans.net",
+        "baseUrl": "https://www.umimanga.com",
         "versionId": 1
       }
     ]
@@ -6823,26 +6823,6 @@
         "lang": "ar",
         "id": "230017529540228175",
         "baseUrl": "https://fl-ares.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: King of Shojo",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.kingofshojo",
-    "apk": "tachiyomi-ar.kingofshojo-v1.4.31.apk",
-    "lang": "ar",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "King of Shojo",
-        "lang": "ar",
-        "id": "5071402517183328880",
-        "baseUrl": "https://kingofshojo.com",
         "versionId": 1
       }
     ]
@@ -7750,10 +7730,10 @@
   {
     "name": "Tachiyomi: Anchira",
     "pkg": "eu.kanade.tachiyomi.extension.en.anchira",
-    "apk": "tachiyomi-en.anchira-v1.4.10.apk",
+    "apk": "tachiyomi-en.anchira-v1.4.11.apk",
     "lang": "en",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8283,6 +8263,26 @@
         "lang": "en",
         "id": "1732195708718687963",
         "baseUrl": "https://cloudrecess.io",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Clown Corps",
+    "pkg": "eu.kanade.tachiyomi.extension.en.clowncorps",
+    "apk": "tachiyomi-en.clowncorps-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Clown Corps",
+        "lang": "en",
+        "id": "285164574089229147",
+        "baseUrl": "https://clowncorps.net",
         "versionId": 1
       }
     ]
@@ -10271,6 +10271,26 @@
         "lang": "en",
         "id": "5520021760150818261",
         "baseUrl": "https://killsixbilliondemons.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: King of Shojo",
+    "pkg": "eu.kanade.tachiyomi.extension.en.kingofshojo",
+    "apk": "tachiyomi-en.kingofshojo-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "King of Shojo",
+        "lang": "en",
+        "id": "9153097368891994905",
+        "baseUrl": "https://kingofshojo.com",
         "versionId": 1
       }
     ]
@@ -22257,6 +22277,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: SobatManKu",
+    "pkg": "eu.kanade.tachiyomi.extension.id.sobatmanku",
+    "apk": "tachiyomi-id.sobatmanku-v1.4.9.apk",
+    "lang": "id",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "SobatManKu",
+        "lang": "id",
+        "id": "1617341519382333346",
+        "baseUrl": "https://www.sobatmanku19.cab",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Soul Scans",
     "pkg": "eu.kanade.tachiyomi.extension.id.soulscans",
     "apk": "tachiyomi-id.soulscans-v1.4.31.apk",
@@ -23887,10 +23927,10 @@
   {
     "name": "Tachiyomi: Bakai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.bakai",
-    "apk": "tachiyomi-pt.bakai-v1.4.2.apk",
+    "apk": "tachiyomi-pt.bakai-v1.4.3.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
