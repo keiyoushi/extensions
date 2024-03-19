@@ -17492,10 +17492,10 @@
   {
     "name": "Tachiyomi: XOXO Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.xoxocomics",
-    "apk": "tachiyomi-en.xoxocomics-v1.4.7.apk",
+    "apk": "tachiyomi-en.xoxocomics-v1.4.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22919,10 +22919,10 @@
   {
     "name": "Tachiyomi: JManga",
     "pkg": "eu.kanade.tachiyomi.extension.ja.jmanga",
-    "apk": "tachiyomi-ja.jmanga-v1.4.5.apk",
+    "apk": "tachiyomi-ja.jmanga-v1.4.6.apk",
     "lang": "ja",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28047,10 +28047,10 @@
   {
     "name": "Tachiyomi: NetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyen",
-    "apk": "tachiyomi-vi.nettruyen-v1.4.30.apk",
+    "apk": "tachiyomi-vi.nettruyen-v1.4.31.apk",
     "lang": "vi",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28060,6 +28060,46 @@
         "lang": "vi",
         "id": "5198966899163361086",
         "baseUrl": "https://www.nettruyenff.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: NetTruyenCO (unoriginal)",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyenco",
+    "apk": "tachiyomi-vi.nettruyenco-v1.4.5.apk",
+    "lang": "vi",
+    "code": 5,
+    "version": "1.4.5",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "NetTruyenCO (unoriginal)",
+        "lang": "vi",
+        "id": "3563992092786616290",
+        "baseUrl": "https://nettruyenco.vn",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: NetTruyenX (unoriginal)",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyenx",
+    "apk": "tachiyomi-vi.nettruyenx-v1.4.5.apk",
+    "lang": "vi",
+    "code": 5,
+    "version": "1.4.5",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "NetTruyenX (unoriginal)",
+        "lang": "vi",
+        "id": "3129953610837449394",
+        "baseUrl": "https://nettruyenx.com",
         "versionId": 1
       }
     ]
@@ -28087,10 +28127,10 @@
   {
     "name": "Tachiyomi: NhatTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nhattruyen",
-    "apk": "tachiyomi-vi.nhattruyen-v1.4.20.apk",
+    "apk": "tachiyomi-vi.nhattruyen-v1.4.21.apk",
     "lang": "vi",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28100,6 +28140,26 @@
         "lang": "vi",
         "id": "6861496002170366525",
         "baseUrl": "https://nhattruyenup.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: NhatTruyenS (unoriginal)",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.nhattruyens",
+    "apk": "tachiyomi-vi.nhattruyens-v1.4.5.apk",
+    "lang": "vi",
+    "code": 5,
+    "version": "1.4.5",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "NhatTruyenS (unoriginal)",
+        "lang": "vi",
+        "id": "3351211853254823251",
+        "baseUrl": "https://nhattruyens.com",
         "versionId": 1
       }
     ]
