@@ -18410,6 +18410,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Inmoral No Fansub",
+    "pkg": "eu.kanade.tachiyomi.extension.es.inmoralnofansub",
+    "apk": "tachiyomi-es.inmoralnofansub-v1.4.35.apk",
+    "lang": "es",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Inmoral No Fansub",
+        "lang": "es",
+        "id": "8208158742361191627",
+        "baseUrl": "https://inmoralnofansub.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Inmortal Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.inmortalscan",
     "apk": "tachiyomi-es.inmortalscan-v1.4.35.apk",
@@ -18425,6 +18445,26 @@
         "lang": "es",
         "id": "8879875375160764811",
         "baseUrl": "https://manga.mundodrama.site",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Jeaz Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.es.jeazscans",
+    "apk": "tachiyomi-es.jeazscans-v1.4.35.apk",
+    "lang": "es",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "JeazScans",
+        "lang": "es",
+        "id": "5292079548510508306",
+        "baseUrl": "https://jeazscansv1.com",
         "versionId": 1
       }
     ]
@@ -18665,6 +18705,26 @@
         "lang": "es",
         "id": "1420213267345607410",
         "baseUrl": "https://lector.lolivault.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Lucky Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.es.luckymanga",
+    "apk": "tachiyomi-es.luckymanga-v1.4.35.apk",
+    "lang": "es",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Lucky Manga",
+        "lang": "es",
+        "id": "2509147107864330846",
+        "baseUrl": "https://luckymanga.com",
         "versionId": 1
       }
     ]
@@ -23692,14 +23752,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki329.net",
+        "baseUrl": "https://manatoki330.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki329.com",
+        "baseUrl": "https://newtoki330.com",
         "versionId": 1
       }
     ]
