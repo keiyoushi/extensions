@@ -8978,10 +8978,10 @@
   {
     "name": "Tachiyomi: Elarc Toon",
     "pkg": "eu.kanade.tachiyomi.extension.en.elarcpage",
-    "apk": "tachiyomi-en.elarcpage-v1.4.34.apk",
+    "apk": "tachiyomi-en.elarcpage-v1.4.35.apk",
     "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8990,7 +8990,7 @@
         "name": "Elarc Toon",
         "lang": "en",
         "id": "5482125641807211052",
-        "baseUrl": "https://elarctoon.com",
+        "baseUrl": "https://elarctoons.com",
         "versionId": 1
       }
     ]
@@ -28067,10 +28067,10 @@
   {
     "name": "Tachiyomi: LXHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.lxhentai",
-    "apk": "tachiyomi-vi.lxhentai-v1.4.1.apk",
+    "apk": "tachiyomi-vi.lxhentai-v1.4.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28079,7 +28079,7 @@
         "name": "LXHentai",
         "lang": "vi",
         "id": "6495630445796108150",
-        "baseUrl": "https://lxmanga.net",
+        "baseUrl": "https://lxmanga88.com",
         "versionId": 1
       }
     ]
