@@ -6970,10 +6970,10 @@
   {
     "name": "Tachiyomi: MangaLionz",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalionz",
-    "apk": "tachiyomi-ar.mangalionz-v1.4.38.apk",
+    "apk": "tachiyomi-ar.mangalionz-v1.4.39.apk",
     "lang": "ar",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6982,7 +6982,7 @@
         "name": "MangaLionz",
         "lang": "ar",
         "id": "2589550143244611118",
-        "baseUrl": "https://mangalionz.org",
+        "baseUrl": "https://manga-lionz.com",
         "versionId": 1
       }
     ]
@@ -18352,11 +18352,11 @@
   {
     "name": "Tachiyomi: InariManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.inarimanga",
-    "apk": "tachiyomi-es.inarimanga-v1.4.38.apk",
+    "apk": "tachiyomi-es.inarimanga-v1.4.39.apk",
     "lang": "es",
-    "code": 38,
-    "version": "1.4.38",
-    "nsfw": 0,
+    "code": 39,
+    "version": "1.4.39",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -18364,7 +18364,7 @@
         "name": "InariManga",
         "lang": "es",
         "id": "7949577653918285764",
-        "baseUrl": "https://inarimanga.net",
+        "baseUrl": "https://visorinari.com",
         "versionId": 2
       }
     ]
@@ -18650,18 +18650,18 @@
     ]
   },
   {
-    "name": "Tachiyomi: Legends No Fansub",
+    "name": "Tachiyomi: LegnMangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.legendsnofansub",
-    "apk": "tachiyomi-es.legendsnofansub-v1.4.36.apk",
+    "apk": "tachiyomi-es.legendsnofansub-v1.4.37.apk",
     "lang": "es",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 1,
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Legends No Fansub",
+        "name": "LegnMangas",
         "lang": "es",
         "id": "9078720153732517844",
         "baseUrl": "https://legnmangas.com",
@@ -27687,10 +27687,10 @@
   {
     "name": "Tachiyomi: Gri Melek",
     "pkg": "eu.kanade.tachiyomi.extension.tr.siyahmelek",
-    "apk": "tachiyomi-tr.siyahmelek-v1.4.39.apk",
+    "apk": "tachiyomi-tr.siyahmelek-v1.4.40.apk",
     "lang": "tr",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27699,7 +27699,7 @@
         "name": "Gri Melek",
         "lang": "tr",
         "id": "6419959498055001014",
-        "baseUrl": "https://grimelek.net",
+        "baseUrl": "https://grimelek.co",
         "versionId": 1
       }
     ]
