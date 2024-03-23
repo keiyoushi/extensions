@@ -6930,10 +6930,10 @@
   {
     "name": "Tachiyomi: Mangalek",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalek",
-    "apk": "tachiyomi-ar.mangalek-v1.4.39.apk",
+    "apk": "tachiyomi-ar.mangalek-v1.4.40.apk",
     "lang": "ar",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6942,7 +6942,7 @@
         "name": "مانجا ليك",
         "lang": "ar",
         "id": "918460697583900080",
-        "baseUrl": "https://manga-lek.net",
+        "baseUrl": "https://lekmanga.net",
         "versionId": 1
       }
     ]
