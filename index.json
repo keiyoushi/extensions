@@ -27707,10 +27707,10 @@
   {
     "name": "Tachiyomi: SummerToon",
     "pkg": "eu.kanade.tachiyomi.extension.tr.summertoon",
-    "apk": "tachiyomi-tr.summertoon-v1.4.31.apk",
+    "apk": "tachiyomi-tr.summertoon-v1.4.32.apk",
     "lang": "tr",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27719,7 +27719,7 @@
         "name": "SummerToon",
         "lang": "tr",
         "id": "1346985078461508977",
-        "baseUrl": "https://summertoon.net",
+        "baseUrl": "https://summertoon.me",
         "versionId": 1
       }
     ]
