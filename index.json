@@ -6748,6 +6748,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: GMANGA (unoriginal)",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.gmangasite",
+    "apk": "tachiyomi-ar.gmangasite-v1.4.35.apk",
+    "lang": "ar",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "GMANGA (unoriginal)",
+        "lang": "ar",
+        "id": "6673243060631219217",
+        "baseUrl": "https://gmanga.site",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Hentai Slayer",
     "pkg": "eu.kanade.tachiyomi.extension.ar.hentaislayer",
     "apk": "tachiyomi-ar.hentaislayer-v1.4.2.apk",
