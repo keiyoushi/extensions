@@ -6728,26 +6728,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: GMANGA",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.gmanga",
-    "apk": "tachiyomi-ar.gmanga-v1.4.15.apk",
-    "lang": "ar",
-    "code": 15,
-    "version": "1.4.15",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "GMANGA",
-        "lang": "ar",
-        "id": "1409224500478594796",
-        "baseUrl": "https://gmanga.org",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: GMANGA (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.ar.gmangasite",
     "apk": "tachiyomi-ar.gmangasite-v1.4.35.apk",
@@ -8343,26 +8323,6 @@
         "lang": "en",
         "id": "1896428900030795228",
         "baseUrl": "https://www.collectedcurios.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Colored Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.en.coloredmanga",
-    "apk": "tachiyomi-en.coloredmanga-v1.4.37.apk",
-    "lang": "en",
-    "code": 37,
-    "version": "1.4.37",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Colored Manga",
-        "lang": "en",
-        "id": "8808685646100968349",
-        "baseUrl": "https://coloredmanga.com",
         "versionId": 1
       }
     ]
@@ -12131,66 +12091,6 @@
         "lang": "en",
         "id": "1024627298672457456",
         "baseUrl": "https://manganato.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Manganelo.biz",
-    "pkg": "eu.kanade.tachiyomi.extension.en.manganelobiz",
-    "apk": "tachiyomi-en.manganelobiz-v1.4.35.apk",
-    "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Manganelo.biz",
-        "lang": "en",
-        "id": "5831334114384711441",
-        "baseUrl": "https://manganelo.biz",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaNelos.com",
-    "pkg": "eu.kanade.tachiyomi.extension.en.manganeloscom",
-    "apk": "tachiyomi-en.manganeloscom-v1.4.2.apk",
-    "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaNelos.com",
-        "lang": "en",
-        "id": "2737012136740119374",
-        "baseUrl": "http://manganelos.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Manganelo.website (unoriginal)",
-    "pkg": "eu.kanade.tachiyomi.extension.en.manganelowebsite",
-    "apk": "tachiyomi-en.manganelowebsite-v1.4.35.apk",
-    "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Manganelo.website (unoriginal)",
-        "lang": "en",
-        "id": "867672316666931634",
-        "baseUrl": "https://manganelo.website",
         "versionId": 1
       }
     ]
@@ -18932,10 +18832,10 @@
   {
     "name": "Tachiyomi: Mangas.in",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangasin",
-    "apk": "tachiyomi-es.mangasin-v1.4.13.apk",
+    "apk": "tachiyomi-es.mangasin-v1.4.14.apk",
     "lang": "es",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20057,26 +19957,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Glory Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.gloryscans",
-    "apk": "tachiyomi-fr.gloryscans-v1.4.30.apk",
-    "lang": "fr",
-    "code": 30,
-    "version": "1.4.30",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Glory Scans",
-        "lang": "fr",
-        "id": "7575883729326516715",
-        "baseUrl": "https://gloryscans.fr",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Hentai-Scantrad",
     "pkg": "eu.kanade.tachiyomi.extension.fr.hentaiscantrad",
     "apk": "tachiyomi-fr.hentaiscantrad-v1.4.36.apk",
@@ -20352,26 +20232,6 @@
         "lang": "fr",
         "id": "4803238581797687746",
         "baseUrl": "https://mangas-origines.fr",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: ManhwaFreak",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.manhwafreakfr",
-    "apk": "tachiyomi-fr.manhwafreakfr-v1.4.30.apk",
-    "lang": "fr",
-    "code": 30,
-    "version": "1.4.30",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ManhwaFreak",
-        "lang": "fr",
-        "id": "2731908108021591605",
-        "baseUrl": "https://manhwafreak.fr",
         "versionId": 1
       }
     ]
@@ -26585,26 +26445,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: WayManga",
-    "pkg": "eu.kanade.tachiyomi.extension.ru.waymanga",
-    "apk": "tachiyomi-ru.waymanga-v1.4.4.apk",
-    "lang": "ru",
-    "code": 4,
-    "version": "1.4.4",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "WayManga",
-        "lang": "ru",
-        "id": "962761774454514960",
-        "baseUrl": "https://waymanga.ru",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: YagamiProject",
     "pkg": "eu.kanade.tachiyomi.extension.ru.yagamiproject",
     "apk": "tachiyomi-ru.yagamiproject-v1.4.5.apk",
@@ -28380,26 +28220,6 @@
         "lang": "vi",
         "id": "2553532324170433933",
         "baseUrl": "https://truyenqqvn.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: TruyenTranhLH",
-    "pkg": "eu.kanade.tachiyomi.extension.vi.truyentranhlh",
-    "apk": "tachiyomi-vi.truyentranhlh-v1.4.12.apk",
-    "lang": "vi",
-    "code": 12,
-    "version": "1.4.12",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "TruyenTranhLH",
-        "lang": "vi",
-        "id": "7969606392351831672",
-        "baseUrl": "https://truyenlh.com",
         "versionId": 1
       }
     ]
