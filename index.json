@@ -8350,10 +8350,10 @@
   {
     "name": "Tachiyomi: ComicExtra",
     "pkg": "eu.kanade.tachiyomi.extension.en.comicextra",
-    "apk": "tachiyomi-en.comicextra-v1.4.14.apk",
+    "apk": "tachiyomi-en.comicextra-v1.4.15.apk",
     "lang": "en",
-    "code": 14,
-    "version": "1.4.14",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8362,7 +8362,7 @@
         "name": "ComicExtra",
         "lang": "en",
         "id": "4316139130808778432",
-        "baseUrl": "https://comicextra.me",
+        "baseUrl": "https://comicextra.org",
         "versionId": 1
       }
     ]
@@ -23632,14 +23632,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki330.net",
+        "baseUrl": "https://manatoki331.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki330.com",
+        "baseUrl": "https://newtoki331.com",
         "versionId": 1
       }
     ]
