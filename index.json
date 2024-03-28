@@ -26167,11 +26167,11 @@
   {
     "name": "Tachiyomi: Mangahub",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangahub",
-    "apk": "tachiyomi-ru.mangahub-v1.4.17.apk",
+    "apk": "tachiyomi-ru.mangahub-v1.4.18.apk",
     "lang": "ru",
-    "code": 17,
-    "version": "1.4.17",
-    "nsfw": 0,
+    "code": 18,
+    "version": "1.4.18",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
