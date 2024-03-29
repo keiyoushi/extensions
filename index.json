@@ -11736,26 +11736,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaJar",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangajar",
-    "apk": "tachiyomi-en.mangajar-v1.4.9.apk",
-    "lang": "en",
-    "code": 9,
-    "version": "1.4.9",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaJar",
-        "lang": "en",
-        "id": "3095228123105662017",
-        "baseUrl": "https://mangajar.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Mangakakalot",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangakakalot",
     "apk": "tachiyomi-en.mangakakalot-v1.4.8.apk",
@@ -16345,10 +16325,10 @@
   {
     "name": "Tachiyomi: StoneScape",
     "pkg": "eu.kanade.tachiyomi.extension.en.stonescape",
-    "apk": "tachiyomi-en.stonescape-v1.4.35.apk",
+    "apk": "tachiyomi-en.stonescape-v1.4.36.apk",
     "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17092,10 +17072,10 @@
   {
     "name": "Tachiyomi: VyvyManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.vyvymanga",
-    "apk": "tachiyomi-en.vyvymanga-v1.4.4.apk",
+    "apk": "tachiyomi-en.vyvymanga-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17104,7 +17084,7 @@
         "name": "VyvyManga",
         "lang": "en",
         "id": "6958928548959982041",
-        "baseUrl": "https://vyvymanga.net",
+        "baseUrl": "https://vymanga.net",
         "versionId": 1
       }
     ]
@@ -17612,11 +17592,11 @@
   {
     "name": "Tachiyomi: Zinmanga",
     "pkg": "eu.kanade.tachiyomi.extension.en.zinmanga",
-    "apk": "tachiyomi-en.zinmanga-v1.4.36.apk",
+    "apk": "tachiyomi-en.zinmanga-v1.4.37.apk",
     "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 0,
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17624,7 +17604,7 @@
         "name": "Zinmanga",
         "lang": "en",
         "id": "5990114708086767078",
-        "baseUrl": "https://zinmanga.com",
+        "baseUrl": "https://mangazin.org",
         "versionId": 1
       }
     ]
@@ -18065,6 +18045,26 @@
         "lang": "es",
         "id": "1024617013674150903",
         "baseUrl": "https://es.mi2manga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: EternalMangas",
+    "pkg": "eu.kanade.tachiyomi.extension.es.eternalmangas",
+    "apk": "tachiyomi-es.eternalmangas-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "EternalMangas",
+        "lang": "es",
+        "id": "1533901034425595323",
+        "baseUrl": "https://eternalmangas.com",
         "versionId": 1
       }
     ]
@@ -18692,10 +18692,10 @@
   {
     "name": "Tachiyomi: MangaEsp",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangaesp",
-    "apk": "tachiyomi-es.mangaesp-v1.4.2.apk",
+    "apk": "tachiyomi-es.mangaesp-v1.4.3.apk",
     "lang": "es",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21479,10 +21479,10 @@
   {
     "name": "Tachiyomi: Mangaku",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangaku",
-    "apk": "tachiyomi-id.mangaku-v1.4.9.apk",
+    "apk": "tachiyomi-id.mangaku-v1.4.10.apk",
     "lang": "id",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21491,7 +21491,7 @@
         "name": "Mangaku",
         "lang": "id",
         "id": "5933657200789309472",
-        "baseUrl": "https://mangaku.mom",
+        "baseUrl": "https://mangaku.lat",
         "versionId": 1
       }
     ]
