@@ -6047,6 +6047,33 @@
     ]
   },
   {
+    "name": "Tachiyomi: Union Mangas",
+    "pkg": "eu.kanade.tachiyomi.extension.all.unionmangas",
+    "apk": "tachiyomi-all.unionmangas-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Union Mangas",
+        "lang": "it",
+        "id": "4064631681598909946",
+        "baseUrl": "https://unionmangas.xyz",
+        "versionId": 1
+      },
+      {
+        "name": "Union Mangas",
+        "lang": "pt-BR",
+        "id": "713742945087030177",
+        "baseUrl": "https://unionmangas.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Vinne Veritas - CCC",
     "pkg": "eu.kanade.tachiyomi.extension.all.vinnieVeritas",
     "apk": "tachiyomi-all.vinnieVeritas-v1.4.2.apk",
@@ -9098,10 +9125,10 @@
   {
     "name": "Tachiyomi: EZmanga",
     "pkg": "eu.kanade.tachiyomi.extension.en.ezmanga",
-    "apk": "tachiyomi-en.ezmanga-v1.4.35.apk",
+    "apk": "tachiyomi-en.ezmanga-v1.4.36.apk",
     "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9109,9 +9136,9 @@
       {
         "name": "EZmanga",
         "lang": "en",
-        "id": "3558795161298058489",
+        "id": "2387068795127765925",
         "baseUrl": "https://ezmanga.net",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
@@ -9578,10 +9605,10 @@
   {
     "name": "Tachiyomi: Hentai2Read",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentai2read",
-    "apk": "tachiyomi-en.hentai2read-v1.4.15.apk",
+    "apk": "tachiyomi-en.hentai2read-v1.4.16.apk",
     "lang": "en",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10231,6 +10258,26 @@
         "lang": "en",
         "id": "3133607736276627986",
         "baseUrl": "https://twokinds.keenspot.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Kewn Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.kewnscans",
+    "apk": "tachiyomi-en.kewnscans-v1.4.2.apk",
+    "lang": "en",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Kewn Scans",
+        "lang": "en",
+        "id": "2816768640766208312",
+        "baseUrl": "https://kewnscans.org",
         "versionId": 1
       }
     ]
@@ -11578,10 +11625,10 @@
   {
     "name": "Tachiyomi: Mangago",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangago",
-    "apk": "tachiyomi-en.mangago-v1.4.13.apk",
+    "apk": "tachiyomi-en.mangago-v1.4.14.apk",
     "lang": "en",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19777,6 +19824,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Anteiku Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.anteikuscan",
+    "apk": "tachiyomi-fr.anteikuscan-v1.4.2.apk",
+    "lang": "fr",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Anteiku Scan",
+        "lang": "fr",
+        "id": "6862358116849040580",
+        "baseUrl": "https://anteikuscan.fr",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: AralosBD",
     "pkg": "eu.kanade.tachiyomi.extension.fr.aralosbd",
     "apk": "tachiyomi-fr.aralosbd-v1.4.6.apk",
@@ -19852,6 +19919,26 @@
         "lang": "fr",
         "id": "1278839293404078533",
         "baseUrl": "https://bentoscan.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ED Scanlation",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.edscanlation",
+    "apk": "tachiyomi-fr.edscanlation-v1.4.2.apk",
+    "lang": "fr",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ED Scanlation",
+        "lang": "fr",
+        "id": "1412829273125470960",
+        "baseUrl": "https://edscanlation.fr",
         "versionId": 1
       }
     ]
