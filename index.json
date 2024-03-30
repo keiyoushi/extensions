@@ -12670,26 +12670,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaRosie",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangarosie",
-    "apk": "tachiyomi-en.mangarosie-v1.4.35.apk",
-    "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaRosie",
-        "lang": "en",
-        "id": "4327493825260308651",
-        "baseUrl": "https://mangarosie.in",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MangaRuby.com",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangarubycom",
     "apk": "tachiyomi-en.mangarubycom-v1.4.35.apk",
@@ -14285,26 +14265,6 @@
         "lang": "en",
         "id": "2996355679809406034",
         "baseUrl": "https://mortalsgroove.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Muctau",
-    "pkg": "eu.kanade.tachiyomi.extension.en.muctau",
-    "apk": "tachiyomi-en.muctau-v1.4.39.apk",
-    "lang": "en",
-    "code": 39,
-    "version": "1.4.39",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Muctau",
-        "lang": "en",
-        "id": "7823085456375483030",
-        "baseUrl": "https://bibimanga.com",
         "versionId": 1
       }
     ]
@@ -18199,10 +18159,10 @@
   {
     "name": "Tachiyomi: HentaiMode",
     "pkg": "eu.kanade.tachiyomi.extension.es.hentaimode",
-    "apk": "tachiyomi-es.hentaimode-v1.4.1.apk",
+    "apk": "tachiyomi-es.hentaimode-v1.4.2.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19097,21 +19057,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: MonarcaManga",
+    "name": "Tachiyomi: Visormonarca",
     "pkg": "eu.kanade.tachiyomi.extension.es.monarcamanga",
-    "apk": "tachiyomi-es.monarcamanga-v1.4.35.apk",
+    "apk": "tachiyomi-es.monarcamanga-v1.4.36.apk",
     "lang": "es",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "MonarcaManga",
+        "name": "Visormonarca",
         "lang": "es",
-        "id": "2562646828412798234",
-        "baseUrl": "https://monarcamanga.com",
+        "id": "7343561451743119799",
+        "baseUrl": "https://visormonarca.com",
         "versionId": 1
       }
     ]
@@ -19199,10 +19159,10 @@
   {
     "name": "Tachiyomi: Plot Twist No Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.es.plottwistnofansub",
-    "apk": "tachiyomi-es.plottwistnofansub-v1.4.1.apk",
+    "apk": "tachiyomi-es.plottwistnofansub-v1.4.2.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25287,26 +25247,6 @@
         "lang": "pt-BR",
         "id": "2793173076509203436",
         "baseUrl": "https://norterose.com.br",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: One Piece Ex",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.opex",
-    "apk": "tachiyomi-pt.opex-v1.4.7.apk",
-    "lang": "pt-BR",
-    "code": 7,
-    "version": "1.4.7",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "One Piece Ex",
-        "lang": "pt-BR",
-        "id": "5426816291828695711",
-        "baseUrl": "https://onepieceex.net",
         "versionId": 1
       }
     ]
