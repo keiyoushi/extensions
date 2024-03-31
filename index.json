@@ -6957,10 +6957,10 @@
   {
     "name": "Tachiyomi: Mangalek",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalek",
-    "apk": "tachiyomi-ar.mangalek-v1.4.40.apk",
+    "apk": "tachiyomi-ar.mangalek-v1.4.41.apk",
     "lang": "ar",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6969,7 +6969,7 @@
         "name": "مانجا ليك",
         "lang": "ar",
         "id": "918460697583900080",
-        "baseUrl": "https://lekmanga.net",
+        "baseUrl": "https://lekmanga.net#, https://lekmanga.org#, https://like-manga.net#, https://lekmanga.com",
         "versionId": 1
       }
     ]
@@ -25494,10 +25494,10 @@
   {
     "name": "Tachiyomi: Sinensis Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sinensis",
-    "apk": "tachiyomi-pt.sinensis-v1.4.41.apk",
+    "apk": "tachiyomi-pt.sinensis-v1.4.42.apk",
     "lang": "pt-BR",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25505,8 +25505,8 @@
       {
         "name": "Sinensis Scan",
         "lang": "pt-BR",
-        "id": "3891513807564817914",
-        "baseUrl": "https://sinensisscan.net",
+        "id": "1096735163865907877",
+        "baseUrl": "https://sinensistoon.com",
         "versionId": 1
       }
     ]
