@@ -18239,10 +18239,10 @@
   {
     "name": "Tachiyomi: Ikigai Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
-    "apk": "tachiyomi-es.ikigaimangas-v1.4.3.apk",
+    "apk": "tachiyomi-es.ikigaimangas-v1.4.4.apk",
     "lang": "es",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27434,10 +27434,10 @@
   {
     "name": "Tachiyomi: MangaWT",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangawt",
-    "apk": "tachiyomi-tr.mangawt-v1.4.36.apk",
+    "apk": "tachiyomi-tr.mangawt-v1.4.37.apk",
     "lang": "tr",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27446,7 +27446,7 @@
         "name": "MangaWT",
         "lang": "tr",
         "id": "9068262319581900273",
-        "baseUrl": "https://mangawt.com",
+        "baseUrl": "https://mangawt.net",
         "versionId": 1
       }
     ]
@@ -28014,10 +28014,10 @@
   {
     "name": "Tachiyomi: NetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyen",
-    "apk": "tachiyomi-vi.nettruyen-v1.4.32.apk",
+    "apk": "tachiyomi-vi.nettruyen-v1.4.33.apk",
     "lang": "vi",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28026,7 +28026,7 @@
         "name": "NetTruyen",
         "lang": "vi",
         "id": "5198966899163361086",
-        "baseUrl": "https://www.nettruyenff.com",
+        "baseUrl": "https://www.nettruyenhh.com",
         "versionId": 1
       }
     ]
