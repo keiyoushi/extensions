@@ -6677,10 +6677,10 @@
   {
     "name": "Tachiyomi: Dilar",
     "pkg": "eu.kanade.tachiyomi.extension.ar.dilar",
-    "apk": "tachiyomi-ar.dilar-v1.4.3.apk",
+    "apk": "tachiyomi-ar.dilar-v1.4.4.apk",
     "lang": "ar",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15345,6 +15345,26 @@
         "lang": "en",
         "id": "7185601298150078890",
         "baseUrl": "https://readcomicsonline.ru",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ReadComic.Top",
+    "pkg": "eu.kanade.tachiyomi.extension.en.readcomictop",
+    "apk": "tachiyomi-en.readcomictop-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ReadComic.Top",
+        "lang": "en",
+        "id": "5643703880742306988",
+        "baseUrl": "https://readcomic.top",
         "versionId": 1
       }
     ]
