@@ -19579,10 +19579,10 @@
   {
     "name": "Tachiyomi: TenkaiScan",
     "pkg": "eu.kanade.tachiyomi.extension.es.tenkaiscan",
-    "apk": "tachiyomi-es.tenkaiscan-v1.4.35.apk",
+    "apk": "tachiyomi-es.tenkaiscan-v1.4.36.apk",
     "lang": "es",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19590,9 +19590,9 @@
       {
         "name": "TenkaiScan",
         "lang": "es",
-        "id": "4133545021282986386",
+        "id": "5992780069311625546",
         "baseUrl": "https://tenkaiscan.net",
-        "versionId": 2
+        "versionId": 3
       }
     ]
   },
@@ -28034,10 +28034,10 @@
   {
     "name": "Tachiyomi: HentaiVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivn",
-    "apk": "tachiyomi-vi.hentaivn-v1.4.31.apk",
+    "apk": "tachiyomi-vi.hentaivn-v1.4.32.apk",
     "lang": "vi",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28046,7 +28046,7 @@
         "name": "HentaiVN",
         "lang": "vi",
         "id": "6560768551969686205",
-        "baseUrl": "https://hentaivn.tv",
+        "baseUrl": "https://henvn.tv",
         "versionId": 1
       }
     ]
