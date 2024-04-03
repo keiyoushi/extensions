@@ -10785,10 +10785,10 @@
   {
     "name": "Tachiyomi: Magus Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.magusmanga",
-    "apk": "tachiyomi-en.magusmanga-v1.4.33.apk",
+    "apk": "tachiyomi-en.magusmanga-v1.4.34.apk",
     "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10797,7 +10797,7 @@
         "name": "Magus Manga",
         "lang": "en",
         "id": "7792477462646075400",
-        "baseUrl": "https://vofeg.com",
+        "baseUrl": "https://neroscans.com",
         "versionId": 1
       }
     ]
@@ -23759,14 +23759,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki331.net",
+        "baseUrl": "https://manatoki332.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki331.com",
+        "baseUrl": "https://newtoki332.com",
         "versionId": 1
       }
     ]
@@ -28054,10 +28054,10 @@
   {
     "name": "Tachiyomi: LXHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.lxhentai",
-    "apk": "tachiyomi-vi.lxhentai-v1.4.2.apk",
+    "apk": "tachiyomi-vi.lxhentai-v1.4.3.apk",
     "lang": "vi",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28066,7 +28066,7 @@
         "name": "LXHentai",
         "lang": "vi",
         "id": "6495630445796108150",
-        "baseUrl": "https://lxmanga88.com",
+        "baseUrl": "https://lxmanga.cc",
         "versionId": 1
       }
     ]
