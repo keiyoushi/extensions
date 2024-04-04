@@ -28534,10 +28534,10 @@
   {
     "name": "Tachiyomi: BoyLove",
     "pkg": "eu.kanade.tachiyomi.extension.zh.boylove",
-    "apk": "tachiyomi-zh.boylove-v1.4.10.apk",
+    "apk": "tachiyomi-zh.boylove-v1.4.11.apk",
     "lang": "zh",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28546,7 +28546,7 @@
         "name": "香香腐宅",
         "lang": "zh",
         "id": "1471112097704477289",
-        "baseUrl": "https://boylov.xyz",
+        "baseUrl": "https://boylove1.mobi",
         "versionId": 1
       }
     ]
