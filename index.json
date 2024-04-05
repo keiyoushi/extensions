@@ -20624,6 +20624,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Soft Epsilon Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.softepsilonscan",
+    "apk": "tachiyomi-fr.softepsilonscan-v1.4.35.apk",
+    "lang": "fr",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Soft Epsilon Scan",
+        "lang": "fr",
+        "id": "4969929389259348100",
+        "baseUrl": "https://soft.epsilonscan.fr",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Sushi-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.sushiscan",
     "apk": "tachiyomi-fr.sushiscan-v1.4.41.apk",
