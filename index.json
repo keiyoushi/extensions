@@ -17859,10 +17859,10 @@
   {
     "name": "Tachiyomi: Cerberus Series",
     "pkg": "eu.kanade.tachiyomi.extension.es.cerberusseries",
-    "apk": "tachiyomi-es.cerberusseries-v1.4.1.apk",
+    "apk": "tachiyomi-es.cerberusseries-v1.4.30.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17870,9 +17870,9 @@
       {
         "name": "Cerberus Series",
         "lang": "es",
-        "id": "144471574235575421",
+        "id": "1814471239661920836",
         "baseUrl": "https://cerberuseries.xyz",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
@@ -22466,10 +22466,10 @@
   {
     "name": "Tachiyomi: YuraManga",
     "pkg": "eu.kanade.tachiyomi.extension.id.yuramanga",
-    "apk": "tachiyomi-id.yuramanga-v1.4.1.apk",
+    "apk": "tachiyomi-id.yuramanga-v1.4.35.apk",
     "lang": "id",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22477,9 +22477,9 @@
       {
         "name": "YuraManga",
         "lang": "id",
-        "id": "3501103307256331225",
-        "baseUrl": "https://www.yuramanga.my.id",
-        "versionId": 1
+        "id": "6228870626707463887",
+        "baseUrl": "https://yuramanga.my.id",
+        "versionId": 2
       }
     ]
   },
