@@ -20477,6 +20477,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Reaper Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.reaperscans",
+    "apk": "tachiyomi-fr.reaperscans-v1.4.35.apk",
+    "lang": "fr",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Reaper Scans",
+        "lang": "fr",
+        "id": "8222507730733516974",
+        "baseUrl": "https://reaperscans.fr",
+        "versionId": 2
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Scan Hentai FR",
     "pkg": "eu.kanade.tachiyomi.extension.fr.scanhentaifr",
     "apk": "tachiyomi-fr.scanhentaifr-v1.4.35.apk",
