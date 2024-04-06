@@ -7628,6 +7628,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Toomics.Top",
+    "pkg": "eu.kanade.tachiyomi.extension.de.toomicstop",
+    "apk": "tachiyomi-de.toomicstop-v1.4.1.apk",
+    "lang": "de",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Toomics.Top",
+        "lang": "de",
+        "id": "7630549934562919592",
+        "baseUrl": "https://toomics.top",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: WieManga",
     "pkg": "eu.kanade.tachiyomi.extension.de.wiemanga",
     "apk": "tachiyomi-de.wiemanga-v1.4.5.apk",
@@ -8643,6 +8663,26 @@
         "lang": "en",
         "id": "8273498201739375095",
         "baseUrl": "https://darkscans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: DAYcomics.me",
+    "pkg": "eu.kanade.tachiyomi.extension.en.daycomicsme",
+    "apk": "tachiyomi-en.daycomicsme-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "DAYcomics.me",
+        "lang": "en",
+        "id": "8459432501224665152",
+        "baseUrl": "https://daycomics.me",
         "versionId": 1
       }
     ]
@@ -9971,6 +10011,26 @@
         "lang": "en",
         "id": "5652636928388608981",
         "baseUrl": "https://manga.honkaiimpact3.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: HotComics",
+    "pkg": "eu.kanade.tachiyomi.extension.en.hotcomics",
+    "apk": "tachiyomi-en.hotcomics-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "HotComics",
+        "lang": "en",
+        "id": "6335003343669033128",
+        "baseUrl": "https://hotcomics.me",
         "versionId": 1
       }
     ]
@@ -16738,6 +16798,46 @@
         "lang": "en",
         "id": "4014304631701903182",
         "baseUrl": "https://todaymic.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ToomicsFree.com",
+    "pkg": "eu.kanade.tachiyomi.extension.en.toomicsfree",
+    "apk": "tachiyomi-en.toomicsfree-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ToomicsFree.com",
+        "lang": "en",
+        "id": "5400581014087936275",
+        "baseUrl": "https://toomicsfree.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ToomicsFree.info",
+    "pkg": "eu.kanade.tachiyomi.extension.en.toomicsfreeinfo",
+    "apk": "tachiyomi-en.toomicsfreeinfo-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ToomicsFree.info",
+        "lang": "en",
+        "id": "5224189528997072591",
+        "baseUrl": "https://toomicsfree.info",
         "versionId": 1
       }
     ]
