@@ -16423,6 +16423,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Spmanhwa",
+    "pkg": "eu.kanade.tachiyomi.extension.en.spmanhwa",
+    "apk": "tachiyomi-en.spmanhwa-v1.4.35.apk",
+    "lang": "en",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Spmanhwa",
+        "lang": "en",
+        "id": "4735212915018805501",
+        "baseUrl": "https://spmanhwa.online",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: StoneScape",
     "pkg": "eu.kanade.tachiyomi.extension.en.stonescape",
     "apk": "tachiyomi-en.stonescape-v1.4.36.apk",
@@ -19105,6 +19125,26 @@
         "lang": "es",
         "id": "1799937978722902186",
         "baseUrl": "https://manhuako.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manhua Online",
+    "pkg": "eu.kanade.tachiyomi.extension.es.manhuaonline",
+    "apk": "tachiyomi-es.manhuaonline-v1.4.35.apk",
+    "lang": "es",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manhua Online",
+        "lang": "es",
+        "id": "5713083996691468192",
+        "baseUrl": "https://manhuaonline.org",
         "versionId": 1
       }
     ]
@@ -24167,10 +24207,10 @@
   {
     "name": "Tachiyomi: Blackout Comics",
     "pkg": "eu.kanade.tachiyomi.extension.pt.blackoutcomics",
-    "apk": "tachiyomi-pt.blackoutcomics-v1.4.2.apk",
+    "apk": "tachiyomi-pt.blackoutcomics-v1.4.3.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24880,6 +24920,26 @@
         "lang": "pt-BR",
         "id": "3823669266857536564",
         "baseUrl": "https://ladyestelarscan.com.br",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Leitor de Mangá",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.leitordemanga",
+    "apk": "tachiyomi-pt.leitordemanga-v1.4.35.apk",
+    "lang": "pt-BR",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Leitor de Mangá",
+        "lang": "pt-BR",
+        "id": "2818837330174796449",
+        "baseUrl": "https://leitordemanga.com",
         "versionId": 1
       }
     ]
