@@ -28507,10 +28507,10 @@
   {
     "name": "Tachiyomi: Truyen Hentai 18+",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenhentai18",
-    "apk": "tachiyomi-vi.truyenhentai18-v1.4.1.apk",
+    "apk": "tachiyomi-vi.truyenhentai18-v1.4.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28519,7 +28519,7 @@
         "name": "Truyện Hentai 18+",
         "lang": "vi",
         "id": "6484094278517548634",
-        "baseUrl": "https://truyenhentai18.net",
+        "baseUrl": "https://truyenhentai18.org",
         "versionId": 1
       }
     ]
