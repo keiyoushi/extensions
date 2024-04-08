@@ -14545,10 +14545,10 @@
   {
     "name": "Tachiyomi: Night Comic",
     "pkg": "eu.kanade.tachiyomi.extension.en.nightcomic",
-    "apk": "tachiyomi-en.nightcomic-v1.4.36.apk",
+    "apk": "tachiyomi-en.nightcomic-v1.4.37.apk",
     "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -14557,7 +14557,7 @@
         "name": "Night Comic",
         "lang": "en",
         "id": "4672546343857366352",
-        "baseUrl": "https://www.nightcomic.com",
+        "baseUrl": "https://nightcomic.com",
         "versionId": 1
       }
     ]
