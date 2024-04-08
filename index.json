@@ -6770,10 +6770,10 @@
   {
     "name": "Tachiyomi: Hentai Slayer",
     "pkg": "eu.kanade.tachiyomi.extension.ar.hentaislayer",
-    "apk": "tachiyomi-ar.hentaislayer-v1.4.2.apk",
+    "apk": "tachiyomi-ar.hentaislayer-v1.4.3.apk",
     "lang": "ar",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8288,26 +8288,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: CloudRecess",
-    "pkg": "eu.kanade.tachiyomi.extension.en.cloudrecess",
-    "apk": "tachiyomi-en.cloudrecess-v1.4.2.apk",
-    "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "CloudRecess",
-        "lang": "en",
-        "id": "1732195708718687963",
-        "baseUrl": "https://cloudrecess.io",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Clown Corps",
     "pkg": "eu.kanade.tachiyomi.extension.en.clowncorps",
     "apk": "tachiyomi-en.clowncorps-v1.4.1.apk",
@@ -9251,6 +9231,26 @@
         "lang": "en",
         "id": "6350607071566689772",
         "baseUrl": "https://flamecomics.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: FleksyScans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.fleksyscans",
+    "apk": "tachiyomi-en.fleksyscans-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "FleksyScans",
+        "lang": "en",
+        "id": "6749457495000986955",
+        "baseUrl": "https://flexscans.com",
         "versionId": 1
       }
     ]
@@ -16165,10 +16165,10 @@
   {
     "name": "Tachiyomi: Scylla Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.scyllascans",
-    "apk": "tachiyomi-en.scyllascans-v1.4.9.apk",
+    "apk": "tachiyomi-en.scyllascans-v1.4.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16176,9 +16176,9 @@
       {
         "name": "Scylla Scans",
         "lang": "en",
-        "id": "1226318899020270912",
+        "id": "9064193520444097799",
         "baseUrl": "https://scyllascans.org",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
@@ -20379,10 +20379,10 @@
   {
     "name": "Tachiyomi: Lelscan-VF",
     "pkg": "eu.kanade.tachiyomi.extension.fr.lelscanvf",
-    "apk": "tachiyomi-fr.lelscanvf-v1.4.13.apk",
+    "apk": "tachiyomi-fr.lelscanvf-v1.4.14.apk",
     "lang": "fr",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20390,9 +20390,9 @@
       {
         "name": "Lelscan-VF",
         "lang": "fr",
-        "id": "1122841295940549140",
-        "baseUrl": "https://lelscanvf.cc",
-        "versionId": 1
+        "id": "4874205281198767614",
+        "baseUrl": "https://lelscanfr.com",
+        "versionId": 2
       }
     ]
   },
