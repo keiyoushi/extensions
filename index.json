@@ -27865,6 +27865,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Serein Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.sereinscan",
+    "apk": "tachiyomi-tr.sereinscan-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Serein Scan",
+        "lang": "tr",
+        "id": "1993924607457500259",
+        "baseUrl": "https://sereinscan.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: SeriManga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.serimanga",
     "apk": "tachiyomi-tr.serimanga-v1.4.4.apk",
