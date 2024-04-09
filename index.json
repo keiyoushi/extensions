@@ -8388,6 +8388,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Comic Fans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.comicfans",
+    "apk": "tachiyomi-en.comicfans-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Comic Fans",
+        "lang": "en",
+        "id": "6384682650402262211",
+        "baseUrl": "https://comicfans.io",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manhuagold",
     "pkg": "eu.kanade.tachiyomi.extension.en.comickiba",
     "apk": "tachiyomi-en.comickiba-v1.4.34.apk",
@@ -14745,10 +14765,10 @@
   {
     "name": "Tachiyomi: Omega Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.omegascans",
-    "apk": "tachiyomi-en.omegascans-v1.4.40.apk",
+    "apk": "tachiyomi-en.omegascans-v1.4.41.apk",
     "lang": "en",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16665,10 +16685,10 @@
   {
     "name": "Tachiyomi: Temple Scan",
     "pkg": "eu.kanade.tachiyomi.extension.en.templescan",
-    "apk": "tachiyomi-en.templescan-v1.4.39.apk",
+    "apk": "tachiyomi-en.templescan-v1.4.40.apk",
     "lang": "en",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18592,10 +18612,10 @@
   {
     "name": "Tachiyomi: Jeaz Scans",
     "pkg": "eu.kanade.tachiyomi.extension.es.jeazscans",
-    "apk": "tachiyomi-es.jeazscans-v1.4.35.apk",
+    "apk": "tachiyomi-es.jeazscans-v1.4.36.apk",
     "lang": "es",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18604,7 +18624,7 @@
         "name": "JeazScans",
         "lang": "es",
         "id": "5292079548510508306",
-        "baseUrl": "https://jeazscansv1.com",
+        "baseUrl": "https://jeazscansv2.com",
         "versionId": 1
       }
     ]
@@ -20539,10 +20559,10 @@
   {
     "name": "Tachiyomi: Perf Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.perfscan",
-    "apk": "tachiyomi-fr.perfscan-v1.4.22.apk",
+    "apk": "tachiyomi-fr.perfscan-v1.4.23.apk",
     "lang": "fr",
-    "code": 22,
-    "version": "1.4.22",
+    "code": 23,
+    "version": "1.4.23",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28947,10 +28967,10 @@
   {
     "name": "Tachiyomi: Happymh",
     "pkg": "eu.kanade.tachiyomi.extension.zh.happymh",
-    "apk": "tachiyomi-zh.happymh-v1.4.9.apk",
+    "apk": "tachiyomi-zh.happymh-v1.4.10.apk",
     "lang": "zh",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
