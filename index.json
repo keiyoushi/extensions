@@ -14243,6 +14243,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Meow Meow Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.en.meowmeowcomics",
+    "apk": "tachiyomi-en.meowmeowcomics-v1.4.35.apk",
+    "lang": "en",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Meow Meow Comics",
+        "lang": "en",
+        "id": "8809460110389415793",
+        "baseUrl": "https://meowmeowcomics.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Midnight Mess Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.midnightmessscans",
     "apk": "tachiyomi-en.midnightmessscans-v1.4.41.apk",
@@ -16725,10 +16745,10 @@
   {
     "name": "Tachiyomi: The Blank Scanlation",
     "pkg": "eu.kanade.tachiyomi.extension.en.theblank",
-    "apk": "tachiyomi-en.theblank-v1.4.35.apk",
+    "apk": "tachiyomi-en.theblank-v1.4.36.apk",
     "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19092,10 +19112,10 @@
   {
     "name": "Tachiyomi: Mangas No Sekai",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangasnosekai",
-    "apk": "tachiyomi-es.mangasnosekai-v1.4.43.apk",
+    "apk": "tachiyomi-es.mangasnosekai-v1.4.44.apk",
     "lang": "es",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27045,6 +27065,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: ManhuaKey",
+    "pkg": "eu.kanade.tachiyomi.extension.th.manhuakey",
+    "apk": "tachiyomi-th.manhuakey-v1.4.35.apk",
+    "lang": "th",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ManhuaKey",
+        "lang": "th",
+        "id": "8056131118089201650",
+        "baseUrl": "https://www.manhuakey.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MikuDoujin",
     "pkg": "eu.kanade.tachiyomi.extension.th.mikudoujin",
     "apk": "tachiyomi-th.mikudoujin-v1.4.5.apk",
@@ -28347,10 +28387,10 @@
   {
     "name": "Tachiyomi: NetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyen",
-    "apk": "tachiyomi-vi.nettruyen-v1.4.33.apk",
+    "apk": "tachiyomi-vi.nettruyen-v1.4.34.apk",
     "lang": "vi",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28359,7 +28399,7 @@
         "name": "NetTruyen",
         "lang": "vi",
         "id": "5198966899163361086",
-        "baseUrl": "https://www.nettruyenhh.com",
+        "baseUrl": "https://www.nettruyentt.com",
         "versionId": 1
       }
     ]
