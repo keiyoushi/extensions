@@ -6930,10 +6930,10 @@
   {
     "name": "Tachiyomi: Manga Flame",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaflame",
-    "apk": "tachiyomi-ar.mangaflame-v1.4.32.apk",
+    "apk": "tachiyomi-ar.mangaflame-v1.4.33.apk",
     "lang": "ar",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6942,7 +6942,7 @@
         "name": "Manga Flame",
         "lang": "ar",
         "id": "1501237443119573205",
-        "baseUrl": "https://arisescans.com",
+        "baseUrl": "https://mangaflame.org",
         "versionId": 1
       }
     ]
@@ -16665,10 +16665,10 @@
   {
     "name": "Tachiyomi: TCB Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.tcbscans",
-    "apk": "tachiyomi-en.tcbscans-v1.4.6.apk",
+    "apk": "tachiyomi-en.tcbscans-v1.4.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16677,7 +16677,7 @@
         "name": "TCB Scans",
         "lang": "en",
         "id": "1435116756378369709",
-        "baseUrl": "https://onepiecechapters.com",
+        "baseUrl": "https://tcbscans.com",
         "versionId": 1
       }
     ]
@@ -27965,6 +27965,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Shijie Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.shijiescans",
+    "apk": "tachiyomi-tr.shijiescans-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Shijie Scans",
+        "lang": "tr",
+        "id": "876756264275379458",
+        "baseUrl": "https://shijiescans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Gri Melek",
     "pkg": "eu.kanade.tachiyomi.extension.tr.siyahmelek",
     "apk": "tachiyomi-tr.siyahmelek-v1.4.40.apk",
@@ -28307,10 +28327,10 @@
   {
     "name": "Tachiyomi: CBHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaicube",
-    "apk": "tachiyomi-vi.hentaicube-v1.4.42.apk",
+    "apk": "tachiyomi-vi.hentaicube-v1.4.43.apk",
     "lang": "vi",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28319,7 +28339,7 @@
         "name": "CBHentai",
         "lang": "vi",
         "id": "823638192569572166",
-        "baseUrl": "https://cbhentai.net",
+        "baseUrl": "https://hentaicb.one",
         "versionId": 1
       }
     ]
