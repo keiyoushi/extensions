@@ -8208,6 +8208,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Blazescans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.blazescans",
+    "apk": "tachiyomi-en.blazescans-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Blazescans",
+        "lang": "en",
+        "id": "3912200442923601567",
+        "baseUrl": "https://blazescans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: BoxManhwa",
     "pkg": "eu.kanade.tachiyomi.extension.en.boxmanhwa",
     "apk": "tachiyomi-en.boxmanhwa-v1.4.13.apk",
@@ -13038,6 +13058,26 @@
         "lang": "en",
         "id": "3036856906143480208",
         "baseUrl": "https://mangatoo.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaTop",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangatop",
+    "apk": "tachiyomi-en.mangatop-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaTop",
+        "lang": "en",
+        "id": "85127596998931837",
+        "baseUrl": "https://mangatop.to",
         "versionId": 1
       }
     ]
