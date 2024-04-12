@@ -19792,10 +19792,10 @@
   {
     "name": "Tachiyomi: Temple Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.templescanesp",
-    "apk": "tachiyomi-es.templescanesp-v1.4.33.apk",
+    "apk": "tachiyomi-es.templescanesp-v1.4.34.apk",
     "lang": "es",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19803,9 +19803,9 @@
       {
         "name": "Temple Scan",
         "lang": "es",
-        "id": "4711394377881167920",
+        "id": "2192798608624726013",
         "baseUrl": "https://templescanesp.net",
-        "versionId": 2
+        "versionId": 3
       }
     ]
   },
@@ -25220,6 +25220,26 @@
         "lang": "pt-BR",
         "id": "7624757094973334315",
         "baseUrl": "https://maidscan.com.br",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Maid Secret",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.maidsecret",
+    "apk": "tachiyomi-pt.maidsecret-v1.4.35.apk",
+    "lang": "pt-BR",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Maid Secret",
+        "lang": "pt-BR",
+        "id": "5894093237697427052",
+        "baseUrl": "https://maidsecret.com",
         "versionId": 1
       }
     ]
