@@ -27845,6 +27845,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Merlin Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.merlinscans",
+    "apk": "tachiyomi-tr.merlinscans-v1.4.35.apk",
+    "lang": "tr",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Merlin Scans",
+        "lang": "tr",
+        "id": "8373525628494692390",
+        "baseUrl": "https://merlinscans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Mikrokosmos Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mikrokosmosfansub",
     "apk": "tachiyomi-tr.mikrokosmosfansub-v1.4.9.apk",
