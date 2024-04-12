@@ -16243,21 +16243,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Scylla Scans",
+    "name": "Tachiyomi: Scylla Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.scyllascans",
-    "apk": "tachiyomi-en.scyllascans-v1.4.10.apk",
+    "apk": "tachiyomi-en.scyllascans-v1.4.11.apk",
     "lang": "en",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Scylla Scans",
+        "name": "Scylla Comics",
         "lang": "en",
-        "id": "9064193520444097799",
-        "baseUrl": "https://scyllascans.org",
+        "id": "3634760289659570824",
+        "baseUrl": "https://scyllacomics.xyz",
         "versionId": 2
       }
     ]
@@ -25340,6 +25340,26 @@
         "lang": "pt-BR",
         "id": "7865569692125193686",
         "baseUrl": "https://rogmangas.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Terra",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mangaterra",
+    "apk": "tachiyomi-pt.mangaterra-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Terra",
+        "lang": "pt-BR",
+        "id": "1518947307457699169",
+        "baseUrl": "https://manga-terra.com",
         "versionId": 1
       }
     ]
