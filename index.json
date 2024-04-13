@@ -1396,6 +1396,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: CosplayTele",
+    "pkg": "eu.kanade.tachiyomi.extension.all.cosplaytele",
+    "apk": "tachiyomi-all.cosplaytele-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "CosplayTele",
+        "lang": "all",
+        "id": "7395748658970167454",
+        "baseUrl": "https://cosplaytele.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Cubari",
     "pkg": "eu.kanade.tachiyomi.extension.all.cubari",
     "apk": "tachiyomi-all.cubari-v1.4.24.apk",
@@ -28280,6 +28300,26 @@
         "lang": "tr",
         "id": "2325858799672782297",
         "baseUrl": "https://webtoontr.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Zenith Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.zenithscans",
+    "apk": "tachiyomi-tr.zenithscans-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Zenith Scans",
+        "lang": "tr",
+        "id": "1669762383546832433",
+        "baseUrl": "https://zenithscans.com",
         "versionId": 1
       }
     ]
