@@ -18572,10 +18572,10 @@
   {
     "name": "Tachiyomi: InariManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.inarimanga",
-    "apk": "tachiyomi-es.inarimanga-v1.4.39.apk",
+    "apk": "tachiyomi-es.inarimanga-v1.4.40.apk",
     "lang": "es",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18584,7 +18584,7 @@
         "name": "InariManga",
         "lang": "es",
         "id": "7949577653918285764",
-        "baseUrl": "https://visorinari.com",
+        "baseUrl": "https://rukavinari.org",
         "versionId": 2
       }
     ]
@@ -19152,10 +19152,10 @@
   {
     "name": "Tachiyomi: Mangas No Sekai",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangasnosekai",
-    "apk": "tachiyomi-es.mangasnosekai-v1.4.47.apk",
+    "apk": "tachiyomi-es.mangasnosekai-v1.4.48.apk",
     "lang": "es",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19490,26 +19490,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: RagnarokScan",
-    "pkg": "eu.kanade.tachiyomi.extension.es.ragnarokscan",
-    "apk": "tachiyomi-es.ragnarokscan-v1.4.36.apk",
-    "lang": "es",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "RagnarokScan",
-        "lang": "es",
-        "id": "7538067796524850139",
-        "baseUrl": "https://ragnarokscan.com",
-        "versionId": 2
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Ragnarok Scanlation",
     "pkg": "eu.kanade.tachiyomi.extension.es.ragnarokscanlation",
     "apk": "tachiyomi-es.ragnarokscanlation-v1.4.36.apk",
@@ -19792,10 +19772,10 @@
   {
     "name": "Tachiyomi: Temple Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.templescanesp",
-    "apk": "tachiyomi-es.templescanesp-v1.4.34.apk",
+    "apk": "tachiyomi-es.templescanesp-v1.4.35.apk",
     "lang": "es",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26300,6 +26280,26 @@
         "lang": "pt-BR",
         "id": "1110902633414269556",
         "baseUrl": "https://wonderlandscan.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: XXX Yaoi",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.xxxyaoi",
+    "apk": "tachiyomi-pt.xxxyaoi-v1.4.35.apk",
+    "lang": "pt-BR",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "XXX Yaoi",
+        "lang": "pt-BR",
+        "id": "2490962516027621137",
+        "baseUrl": "https://3xyaoi.com",
         "versionId": 1
       }
     ]
