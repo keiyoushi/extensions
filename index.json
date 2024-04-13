@@ -8890,10 +8890,10 @@
   {
     "name": "Tachiyomi: Drake Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.drakescans",
-    "apk": "tachiyomi-en.drakescans-v1.4.39.apk",
+    "apk": "tachiyomi-en.drakescans-v1.4.40.apk",
     "lang": "en",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8901,9 +8901,9 @@
       {
         "name": "Drake Scans",
         "lang": "en",
-        "id": "2763484419787956351",
+        "id": "8284219650954312474",
         "baseUrl": "https://drakescans.com",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
@@ -17846,6 +17846,26 @@
         "id": "1345447568467813585",
         "baseUrl": "https://zinchanmanga.net",
         "versionId": 2
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ZinChanManga.com",
+    "pkg": "eu.kanade.tachiyomi.extension.en.zinchanmangacom",
+    "apk": "tachiyomi-en.zinchanmangacom-v1.4.35.apk",
+    "lang": "en",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ZinChanManga.com",
+        "lang": "en",
+        "id": "8436939591318965973",
+        "baseUrl": "https://zinchanmanga.com",
+        "versionId": 1
       }
     ]
   },
