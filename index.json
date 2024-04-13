@@ -6588,21 +6588,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: ARESNOV",
+    "name": "Tachiyomi: SCARManga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.aresnov",
-    "apk": "tachiyomi-ar.aresnov-v1.4.31.apk",
+    "apk": "tachiyomi-ar.aresnov-v1.4.32.apk",
     "lang": "ar",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "ARESNOV",
+        "name": "SCARManga",
         "lang": "ar",
         "id": "1046935749022479891",
-        "baseUrl": "https://manhuascarlet.com",
+        "baseUrl": "https://scarmanga.com",
         "versionId": 1
       }
     ]
