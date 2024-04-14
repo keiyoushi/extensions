@@ -7948,21 +7948,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Arven Scans",
+    "name": "Tachiyomi: Vortex Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arvenscans",
-    "apk": "tachiyomi-en.arvenscans-v1.4.30.apk",
+    "apk": "tachiyomi-en.arvenscans-v1.4.31.apk",
     "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Arven Scans",
+        "name": "Vortex Scans",
         "lang": "en",
-        "id": "6386907714376807971",
-        "baseUrl": "https://arvenscans.com",
+        "id": "2559570015828016575",
+        "baseUrl": "https://vortexscans.com",
         "versionId": 1
       }
     ]
@@ -19192,10 +19192,10 @@
   {
     "name": "Tachiyomi: Mangas No Sekai",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangasnosekai",
-    "apk": "tachiyomi-es.mangasnosekai-v1.4.48.apk",
+    "apk": "tachiyomi-es.mangasnosekai-v1.4.49.apk",
     "lang": "es",
-    "code": 48,
-    "version": "1.4.48",
+    "code": 49,
+    "version": "1.4.49",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25427,10 +25427,10 @@
   {
     "name": "Tachiyomi: Mode Scanlator",
     "pkg": "eu.kanade.tachiyomi.extension.pt.modescanlator",
-    "apk": "tachiyomi-pt.modescanlator-v1.4.4.apk",
+    "apk": "tachiyomi-pt.modescanlator-v1.4.23.apk",
     "lang": "pt-BR",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 23,
+    "version": "1.4.23",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25438,9 +25438,9 @@
       {
         "name": "Mode Scanlator",
         "lang": "pt-BR",
-        "id": "69798647429122656",
+        "id": "6745627125404578928",
         "baseUrl": "https://modescanlator.com",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
@@ -25780,26 +25780,6 @@
         "lang": "pt-BR",
         "id": "3275945866985875190",
         "baseUrl": "https://portalyaoi.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Portuga Mangas",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.portugamangas",
-    "apk": "tachiyomi-pt.portugamangas-v1.4.2.apk",
-    "lang": "pt-BR",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Portuga Mangas",
-        "lang": "pt-BR",
-        "id": "5049746906421102055",
-        "baseUrl": "https://portugamanga.online",
         "versionId": 1
       }
     ]
