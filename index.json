@@ -6828,26 +6828,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Hizomanga",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.hizomanga",
-    "apk": "tachiyomi-ar.hizomanga-v1.4.37.apk",
-    "lang": "ar",
-    "code": 37,
-    "version": "1.4.37",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Hizomanga",
-        "lang": "ar",
-        "id": "3299958336217533379",
-        "baseUrl": "https://hizomanga.me",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: ARESManga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.iimanga",
     "apk": "tachiyomi-ar.iimanga-v1.4.33.apk",
@@ -7363,26 +7343,6 @@
         "lang": "ar",
         "id": "335499577904379512",
         "baseUrl": "https://onma.top",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: King Of Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.ozulscans",
-    "apk": "tachiyomi-ar.ozulscans-v1.4.34.apk",
-    "lang": "ar",
-    "code": 34,
-    "version": "1.4.34",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "King Of Manga",
-        "lang": "ar",
-        "id": "3453769904666687440",
-        "baseUrl": "https://king-ofmanga.com",
         "versionId": 1
       }
     ]
@@ -8450,10 +8410,10 @@
   {
     "name": "Tachiyomi: Manhuagold",
     "pkg": "eu.kanade.tachiyomi.extension.en.comickiba",
-    "apk": "tachiyomi-en.comickiba-v1.4.34.apk",
+    "apk": "tachiyomi-en.comickiba-v1.4.35.apk",
     "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8461,9 +8421,9 @@
       {
         "name": "Manhuagold",
         "lang": "en",
-        "id": "2245117540917385914",
-        "baseUrl": "https://manhuagold.com",
-        "versionId": 1
+        "id": "8344842649524747099",
+        "baseUrl": "https://manhuagold.top",
+        "versionId": 2
       }
     ]
   },
@@ -10411,6 +10371,26 @@
         "lang": "en",
         "id": "5520021760150818261",
         "baseUrl": "https://killsixbilliondemons.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: King Of Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.kingofmanga",
+    "apk": "tachiyomi-en.kingofmanga-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "King Of Manga",
+        "lang": "en",
+        "id": "3566897024227380398",
+        "baseUrl": "https://king-ofmanga.com",
         "versionId": 1
       }
     ]
@@ -13605,10 +13585,10 @@
   {
     "name": "Tachiyomi: ManhuaPlus (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhuaplusorg",
-    "apk": "tachiyomi-en.manhuaplusorg-v1.4.1.apk",
+    "apk": "tachiyomi-en.manhuaplusorg-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18310,26 +18290,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Eromiau",
-    "pkg": "eu.kanade.tachiyomi.extension.es.eromiau",
-    "apk": "tachiyomi-es.eromiau-v1.4.35.apk",
-    "lang": "es",
-    "code": 35,
-    "version": "1.4.35",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Eromiau",
-        "lang": "es",
-        "id": "7532305797477636173",
-        "baseUrl": "https://www.eromiau.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Es.Mi2Manga",
     "pkg": "eu.kanade.tachiyomi.extension.es.esmi2manga",
     "apk": "tachiyomi-es.esmi2manga-v1.4.35.apk",
@@ -18930,26 +18890,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Last Knight Translation",
-    "pkg": "eu.kanade.tachiyomi.extension.es.lkscanlation",
-    "apk": "tachiyomi-es.lkscanlation-v1.4.35.apk",
-    "lang": "es",
-    "code": 35,
-    "version": "1.4.35",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Last Knight Translation",
-        "lang": "es",
-        "id": "4608749082635217570",
-        "baseUrl": "https://lkscanlation.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Lolivault",
     "pkg": "eu.kanade.tachiyomi.extension.es.lolivault",
     "apk": "tachiyomi-es.lolivault-v1.4.3.apk",
@@ -19005,26 +18945,6 @@
         "lang": "es",
         "id": "6167683270485370369",
         "baseUrl": "https://httpmangacrab2.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Mangadoor",
-    "pkg": "eu.kanade.tachiyomi.extension.es.mangadoor",
-    "apk": "tachiyomi-es.mangadoor-v1.4.12.apk",
-    "lang": "es",
-    "code": 12,
-    "version": "1.4.12",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Mangadoor",
-        "lang": "es",
-        "id": "5598298311107274167",
-        "baseUrl": "https://mangadoor.com",
         "versionId": 1
       }
     ]
@@ -19112,10 +19032,10 @@
   {
     "name": "Tachiyomi: MangaOni",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangamx",
-    "apk": "tachiyomi-es.mangamx-v1.4.15.apk",
+    "apk": "tachiyomi-es.mangamx-v1.4.16.apk",
     "lang": "es",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19125,26 +19045,6 @@
         "lang": "es",
         "id": "2202687009511923782",
         "baseUrl": "https://manga-oni.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaPT",
-    "pkg": "eu.kanade.tachiyomi.extension.es.mangapt",
-    "apk": "tachiyomi-es.mangapt-v1.4.35.apk",
-    "lang": "es",
-    "code": 35,
-    "version": "1.4.35",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaPT",
-        "lang": "es",
-        "id": "4501201462814418979",
-        "baseUrl": "https://mangapt.com",
         "versionId": 1
       }
     ]
@@ -19252,10 +19152,10 @@
   {
     "name": "Tachiyomi: Manhua Online",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhuaonline",
-    "apk": "tachiyomi-es.manhuaonline-v1.4.35.apk",
+    "apk": "tachiyomi-es.manhuaonline-v1.4.36.apk",
     "lang": "es",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19630,6 +19530,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: RyujinManga",
+    "pkg": "eu.kanade.tachiyomi.extension.es.ryujinmanga",
+    "apk": "tachiyomi-es.ryujinmanga-v1.4.30.apk",
+    "lang": "es",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "RyujinManga",
+        "lang": "es",
+        "id": "8426075893449463003",
+        "baseUrl": "https://ryujinmanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: SamuraiScan",
     "pkg": "eu.kanade.tachiyomi.extension.es.samuraiscan",
     "apk": "tachiyomi-es.samuraiscan-v1.4.39.apk",
@@ -19725,26 +19645,6 @@
         "lang": "es",
         "id": "2625405366577148715",
         "baseUrl": "https://shadowmangas.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Shayami",
-    "pkg": "eu.kanade.tachiyomi.extension.es.shayami",
-    "apk": "tachiyomi-es.shayami-v1.4.35.apk",
-    "lang": "es",
-    "code": 35,
-    "version": "1.4.35",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Shayami",
-        "lang": "es",
-        "id": "3984924321110067740",
-        "baseUrl": "https://shayami.com",
         "versionId": 1
       }
     ]
@@ -19970,26 +19870,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Tumangaonline.site",
-    "pkg": "eu.kanade.tachiyomi.extension.es.tumangaonlinesite",
-    "apk": "tachiyomi-es.tumangaonlinesite-v1.4.35.apk",
-    "lang": "es",
-    "code": 35,
-    "version": "1.4.35",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Tumangaonline.site",
-        "lang": "es",
-        "id": "8850093899291265785",
-        "baseUrl": "https://tumangaonline.site",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: TuManhwas.Club",
     "pkg": "eu.kanade.tachiyomi.extension.es.tumanhwasclub",
     "apk": "tachiyomi-es.tumanhwasclub-v1.4.1.apk",
@@ -20025,26 +19905,6 @@
         "lang": "es",
         "id": "6185754253712667540",
         "baseUrl": "https://lectorunitoon.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Unitoon Oficial",
-    "pkg": "eu.kanade.tachiyomi.extension.es.unitoonoficial",
-    "apk": "tachiyomi-es.unitoonoficial-v1.4.35.apk",
-    "lang": "es",
-    "code": 35,
-    "version": "1.4.35",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Unitoon Oficial",
-        "lang": "es",
-        "id": "2422714322713320966",
-        "baseUrl": "https://unitoonoficial.com",
         "versionId": 1
       }
     ]
@@ -23437,6 +23297,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manga Koma",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.mangakoma",
+    "apk": "tachiyomi-ja.mangakoma-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Koma",
+        "lang": "ja",
+        "id": "7992028141782192896",
+        "baseUrl": "https://mangakoma01.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manga-Mate",
     "pkg": "eu.kanade.tachiyomi.extension.ja.mangamate",
     "apk": "tachiyomi-ja.mangamate-v1.4.30.apk",
@@ -23592,6 +23472,26 @@
         "lang": "ja",
         "id": "1056568527385317039",
         "baseUrl": "https://webcomic.ohtabooks.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Raw1001",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.raw1001",
+    "apk": "tachiyomi-ja.raw1001-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Raw1001",
+        "lang": "ja",
+        "id": "3349575794425308347",
+        "baseUrl": "https://raw1001.net",
         "versionId": 1
       }
     ]
@@ -28427,10 +28327,10 @@
   {
     "name": "Tachiyomi: DocTruyen5s",
     "pkg": "eu.kanade.tachiyomi.extension.vi.doctruyen5s",
-    "apk": "tachiyomi-vi.doctruyen5s-v1.4.2.apk",
+    "apk": "tachiyomi-vi.doctruyen5s-v1.4.3.apk",
     "lang": "vi",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
