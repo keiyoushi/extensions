@@ -24325,6 +24325,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Coven Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.covenscan",
+    "apk": "tachiyomi-pt.covenscan-v1.4.35.apk",
+    "lang": "pt-BR",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Coven Scan",
+        "lang": "pt-BR",
+        "id": "5558728935088189480",
+        "baseUrl": "https://cvnscan.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: CrystalComics",
     "pkg": "eu.kanade.tachiyomi.extension.pt.crystalcomics",
     "apk": "tachiyomi-pt.crystalcomics-v1.4.35.apk",
