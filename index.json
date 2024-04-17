@@ -7750,10 +7750,10 @@
   {
     "name": "Tachiyomi: Anchira",
     "pkg": "eu.kanade.tachiyomi.extension.en.anchira",
-    "apk": "tachiyomi-en.anchira-v1.4.11.apk",
+    "apk": "tachiyomi-en.anchira-v1.4.12.apk",
     "lang": "en",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23952,14 +23952,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki333.net",
+        "baseUrl": "https://manatoki334.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki333.com",
+        "baseUrl": "https://newtoki334.com",
         "versionId": 1
       }
     ]
@@ -25307,10 +25307,10 @@
   {
     "name": "Tachiyomi: Manhastro",
     "pkg": "eu.kanade.tachiyomi.extension.pt.manhastro",
-    "apk": "tachiyomi-pt.manhastro-v1.4.38.apk",
+    "apk": "tachiyomi-pt.manhastro-v1.4.39.apk",
     "lang": "pt-BR",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25600,6 +25600,26 @@
         "lang": "pt-BR",
         "id": "2793173076509203436",
         "baseUrl": "https://norterose.com.br",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: One Piece TECA",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.onepieceteca",
+    "apk": "tachiyomi-pt.onepieceteca-v1.4.35.apk",
+    "lang": "pt-BR",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "One Piece TECA",
+        "lang": "pt-BR",
+        "id": "8410680598481767598",
+        "baseUrl": "https://onepieceteca.com",
         "versionId": 1
       }
     ]
