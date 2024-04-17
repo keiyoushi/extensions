@@ -9018,10 +9018,10 @@
   {
     "name": "Tachiyomi: Elarc Toon",
     "pkg": "eu.kanade.tachiyomi.extension.en.elarcpage",
-    "apk": "tachiyomi-en.elarcpage-v1.4.35.apk",
+    "apk": "tachiyomi-en.elarcpage-v1.4.36.apk",
     "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28427,10 +28427,10 @@
   {
     "name": "Tachiyomi: HentaiVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivn",
-    "apk": "tachiyomi-vi.hentaivn-v1.4.32.apk",
+    "apk": "tachiyomi-vi.hentaivn-v1.4.33.apk",
     "lang": "vi",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28439,7 +28439,7 @@
         "name": "HentaiVN",
         "lang": "vi",
         "id": "6560768551969686205",
-        "baseUrl": "https://henvn.tv",
+        "baseUrl": "https://hentaihvn.tv",
         "versionId": 1
       }
     ]
