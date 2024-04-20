@@ -6668,6 +6668,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Crow Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.crowscans",
+    "apk": "tachiyomi-ar.crowscans-v1.4.30.apk",
+    "lang": "ar",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Crow Scans",
+        "lang": "ar",
+        "id": "8085516350523326657",
+        "baseUrl": "https://crowscans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Detective Conan Ar",
     "pkg": "eu.kanade.tachiyomi.extension.ar.detectiveconanar",
     "apk": "tachiyomi-ar.detectiveconanar-v1.4.37.apk",
@@ -19630,6 +19650,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Senshi Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.es.senshimanga",
+    "apk": "tachiyomi-es.senshimanga-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Senshi Manga",
+        "lang": "es",
+        "id": "5781693635940874072",
+        "baseUrl": "https://senshimanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Shadow Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.shadowmangas",
     "apk": "tachiyomi-es.shadowmangas-v1.4.31.apk",
@@ -24260,26 +24300,6 @@
         "lang": "pt-BR",
         "id": "501567080700867400",
         "baseUrl": "https://originals.omelete.com.br/bruttal",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Burning Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.burningscans",
-    "apk": "tachiyomi-pt.burningscans-v1.4.35.apk",
-    "lang": "pt-BR",
-    "code": 35,
-    "version": "1.4.35",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Burning Scans",
-        "lang": "pt-BR",
-        "id": "8851689631230470839",
-        "baseUrl": "https://burningscans.com",
         "versionId": 1
       }
     ]
