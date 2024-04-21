@@ -13245,10 +13245,10 @@
   {
     "name": "Tachiyomi: Manga Weebs",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaweebs",
-    "apk": "tachiyomi-en.mangaweebs-v1.4.43.apk",
+    "apk": "tachiyomi-en.mangaweebs-v1.4.44.apk",
     "lang": "en",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -13257,7 +13257,7 @@
         "name": "Manga Weebs",
         "lang": "en",
         "id": "1741896628057439426",
-        "baseUrl": "https://mangaweebs.in",
+        "baseUrl": "https://mangaweebs.org",
         "versionId": 1
       }
     ]
