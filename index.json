@@ -18552,10 +18552,10 @@
   {
     "name": "Tachiyomi: Ikigai Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
-    "apk": "tachiyomi-es.ikigaimangas-v1.4.5.apk",
+    "apk": "tachiyomi-es.ikigaimangas-v1.4.6.apk",
     "lang": "es",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19070,21 +19070,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaShiina",
+    "name": "Tachiyomi: Manga Mukai",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangashiina",
-    "apk": "tachiyomi-es.mangashiina-v1.4.30.apk",
+    "apk": "tachiyomi-es.mangashiina-v1.4.31.apk",
     "lang": "es",
-    "code": 30,
-    "version": "1.4.30",
-    "nsfw": 0,
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "MangaShiina",
+        "name": "Manga Mukai",
         "lang": "es",
         "id": "711368877221654433",
-        "baseUrl": "https://mangashiina.com",
+        "baseUrl": "https://mangamukai.com",
         "versionId": 1
       }
     ]
@@ -24560,6 +24560,26 @@
         "lang": "pt-BR",
         "id": "1082329368612094336",
         "baseUrl": "https://franxxmangas.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: GALAX Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.galaxscanlator",
+    "apk": "tachiyomi-pt.galaxscanlator-v1.4.9.apk",
+    "lang": "pt-BR",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "GALAX Scans",
+        "lang": "pt-BR",
+        "id": "5553519415877811746",
+        "baseUrl": "https://galaxscanlator.blogspot.com",
         "versionId": 1
       }
     ]
