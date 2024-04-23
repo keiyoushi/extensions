@@ -12963,26 +12963,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaStic",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangastic",
-    "apk": "tachiyomi-en.mangastic-v1.4.38.apk",
-    "lang": "en",
-    "code": 38,
-    "version": "1.4.38",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaStic",
-        "lang": "en",
-        "id": "1201607668482582433",
-        "baseUrl": "https://mangastic9.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Mangasushi",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangasushi",
     "apk": "tachiyomi-en.mangasushi-v1.4.38.apk",
@@ -15063,26 +15043,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Phantom Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.phantomscans",
-    "apk": "tachiyomi-en.phantomscans-v1.4.31.apk",
-    "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Phantom Scans",
-        "lang": "en",
-        "id": "4878002226963927404",
-        "baseUrl": "https://phantomscans.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Pian Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.pianmanga",
     "apk": "tachiyomi-en.pianmanga-v1.4.36.apk",
@@ -16743,26 +16703,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: TeenManhua",
-    "pkg": "eu.kanade.tachiyomi.extension.en.teenmanhua",
-    "apk": "tachiyomi-en.teenmanhua-v1.4.36.apk",
-    "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "TeenManhua",
-        "lang": "en",
-        "id": "4667040294697888218",
-        "baseUrl": "https://teenmanhua.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Temple Scan",
     "pkg": "eu.kanade.tachiyomi.extension.en.templescan",
     "apk": "tachiyomi-en.templescan-v1.4.40.apk",
@@ -18290,6 +18230,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Edens Fairy",
+    "pkg": "eu.kanade.tachiyomi.extension.es.eflee",
+    "apk": "tachiyomi-es.eflee-v1.4.9.apk",
+    "lang": "es",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Edens Fairy",
+        "lang": "es",
+        "id": "4254092506780674237",
+        "baseUrl": "https://www.eflee.co",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Emperor Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.emperorscan",
     "apk": "tachiyomi-es.emperorscan-v1.4.37.apk",
@@ -18552,10 +18512,10 @@
   {
     "name": "Tachiyomi: Ikigai Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
-    "apk": "tachiyomi-es.ikigaimangas-v1.4.6.apk",
+    "apk": "tachiyomi-es.ikigaimangas-v1.4.7.apk",
     "lang": "es",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18725,26 +18685,6 @@
         "lang": "es",
         "id": "3903750533251938295",
         "baseUrl": "https://jobsibe.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: KenhuaScan",
-    "pkg": "eu.kanade.tachiyomi.extension.es.kenhuascan",
-    "apk": "tachiyomi-es.kenhuascan-v1.4.35.apk",
-    "lang": "es",
-    "code": 35,
-    "version": "1.4.35",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "KenhuaScan",
-        "lang": "es",
-        "id": "6669048809649653213",
-        "baseUrl": "https://kenhuav2scan.com",
         "versionId": 1
       }
     ]
@@ -19432,10 +19372,10 @@
   {
     "name": "Tachiyomi: Plot Twist No Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.es.plottwistnofansub",
-    "apk": "tachiyomi-es.plottwistnofansub-v1.4.3.apk",
+    "apk": "tachiyomi-es.plottwistnofansub-v1.4.4.apk",
     "lang": "es",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19585,6 +19525,26 @@
         "lang": "es",
         "id": "4890948689319085079",
         "baseUrl": "https://samuraiscan.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: SapphireScan",
+    "pkg": "eu.kanade.tachiyomi.extension.es.sapphirescan",
+    "apk": "tachiyomi-es.sapphirescan-v1.4.35.apk",
+    "lang": "es",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "SapphireScan",
+        "lang": "es",
+        "id": "8955531858664387570",
+        "baseUrl": "https://sapphirescan.com",
         "versionId": 1
       }
     ]
@@ -24725,6 +24685,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Hikari Ga Nai",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.hikariganai",
+    "apk": "tachiyomi-pt.hikariganai-v1.4.35.apk",
+    "lang": "pt-BR",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hikari Ga Nai",
+        "lang": "pt-BR",
+        "id": "8627121278215838225",
+        "baseUrl": "https://hikariganai.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Hikari Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.hikariscan",
     "apk": "tachiyomi-pt.hikariscan-v1.4.32.apk",
@@ -29639,7 +29619,7 @@
         "name": "zero搬运网",
         "lang": "zh",
         "id": "8743284448117690086",
-        "baseUrl": "http://www.zerobywns.com",
+        "baseUrl": "http://www.zerobyw24.com",
         "versionId": 1
       }
     ]
