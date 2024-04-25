@@ -7030,10 +7030,10 @@
   {
     "name": "Tachiyomi: MangaNoon",
     "pkg": "eu.kanade.tachiyomi.extension.ar.manganoon",
-    "apk": "tachiyomi-ar.manganoon-v1.4.31.apk",
+    "apk": "tachiyomi-ar.manganoon-v1.4.32.apk",
     "lang": "ar",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7042,7 +7042,7 @@
         "name": "مانجا نون",
         "lang": "ar",
         "id": "3244399826714600926",
-        "baseUrl": "https://manjanoon.net",
+        "baseUrl": "https://manjanoon.org",
         "versionId": 1
       }
     ]
@@ -29387,10 +29387,10 @@
   {
     "name": "Tachiyomi: Miaoshang Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.miaoshang",
-    "apk": "tachiyomi-zh.miaoshang-v1.4.6.apk",
+    "apk": "tachiyomi-zh.miaoshang-v1.4.7.apk",
     "lang": "zh",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
