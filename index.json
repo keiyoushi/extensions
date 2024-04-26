@@ -11278,10 +11278,10 @@
   {
     "name": "Tachiyomi: MangaClash",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaclash",
-    "apk": "tachiyomi-en.mangaclash-v1.4.38.apk",
+    "apk": "tachiyomi-en.mangaclash-v1.4.39.apk",
     "lang": "en",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11290,7 +11290,7 @@
         "name": "MangaClash",
         "lang": "en",
         "id": "5214196327345905951",
-        "baseUrl": "https://mangaclash.com",
+        "baseUrl": "https://toonclash.com",
         "versionId": 1
       }
     ]
