@@ -18190,6 +18190,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: DoujinsHell",
+    "pkg": "eu.kanade.tachiyomi.extension.es.doujinshell",
+    "apk": "tachiyomi-es.doujinshell-v1.4.35.apk",
+    "lang": "es",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "DoujinsHell",
+        "lang": "es",
+        "id": "7008709488397053596",
+        "baseUrl": "https://www.doujinshell.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: DragonTranslation.net",
     "pkg": "eu.kanade.tachiyomi.extension.es.dragontranslationnet",
     "apk": "tachiyomi-es.dragontranslationnet-v1.4.35.apk",
