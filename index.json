@@ -942,10 +942,10 @@
   {
     "name": "Tachiyomi: Comick",
     "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
-    "apk": "tachiyomi-all.comickfun-v1.4.42.apk",
+    "apk": "tachiyomi-all.comickfun-v1.4.43.apk",
     "lang": "all",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8508,26 +8508,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Cosmic Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.cosmicscans",
-    "apk": "tachiyomi-en.cosmicscans-v1.4.32.apk",
-    "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Cosmic Scans",
-        "lang": "en",
-        "id": "3936594291139725888",
-        "baseUrl": "https://cosmic-scans.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: CreepyScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.creepyscans",
     "apk": "tachiyomi-en.creepyscans-v1.4.36.apk",
@@ -14343,26 +14323,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MMScans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mmscans",
-    "apk": "tachiyomi-en.mmscans-v1.4.42.apk",
-    "lang": "en",
-    "code": 42,
-    "version": "1.4.42",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MMScans",
-        "lang": "en",
-        "id": "6934130677016281854",
-        "baseUrl": "https://mm-scans.org",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Monochrome Custom",
     "pkg": "eu.kanade.tachiyomi.extension.en.monochromecustom",
     "apk": "tachiyomi-en.monochromecustom-v1.4.4.apk",
@@ -16105,10 +16065,10 @@
   {
     "name": "Tachiyomi: Rizz Comic",
     "pkg": "eu.kanade.tachiyomi.extension.en.rizzcomic",
-    "apk": "tachiyomi-en.rizzcomic-v1.4.32.apk",
+    "apk": "tachiyomi-en.rizzcomic-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16117,7 +16077,7 @@
         "name": "Rizz Comic",
         "lang": "en",
         "id": "1222303582140858680",
-        "baseUrl": "https://rizzcomic.com",
+        "baseUrl": "https://rizzfables.com",
         "versionId": 2
       }
     ]
@@ -17045,11 +17005,11 @@
   {
     "name": "Tachiyomi: Top Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.en.topmanhua",
-    "apk": "tachiyomi-en.topmanhua-v1.4.38.apk",
+    "apk": "tachiyomi-en.topmanhua-v1.4.39.apk",
     "lang": "en",
-    "code": 38,
-    "version": "1.4.38",
-    "nsfw": 0,
+    "code": 39,
+    "version": "1.4.39",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -17057,7 +17017,7 @@
         "name": "Top Manhua",
         "lang": "en",
         "id": "368848319592333339",
-        "baseUrl": "https://topmanhua.com",
+        "baseUrl": "https://mangatop.org",
         "versionId": 1
       }
     ]
@@ -18272,10 +18232,10 @@
   {
     "name": "Tachiyomi: Emperor Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.emperorscan",
-    "apk": "tachiyomi-es.emperorscan-v1.4.37.apk",
+    "apk": "tachiyomi-es.emperorscan-v1.4.38.apk",
     "lang": "es",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18284,7 +18244,7 @@
         "name": "Emperor Scan",
         "lang": "es",
         "id": "4562754350961964148",
-        "baseUrl": "https://emperorscan.com",
+        "baseUrl": "https://emperorscan.org",
         "versionId": 1
       }
     ]
@@ -18732,10 +18692,10 @@
   {
     "name": "Tachiyomi: Knight No Scanlation",
     "pkg": "eu.kanade.tachiyomi.extension.es.knightnoscanlation",
-    "apk": "tachiyomi-es.knightnoscanlation-v1.4.35.apk",
+    "apk": "tachiyomi-es.knightnoscanlation-v1.4.36.apk",
     "lang": "es",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18744,7 +18704,7 @@
         "name": "Knight No Scanlation",
         "lang": "es",
         "id": "6482794816533233181",
-        "baseUrl": "https://knightnoscanlation.com",
+        "baseUrl": "https://lectorkns.com",
         "versionId": 1
       }
     ]
@@ -19270,26 +19230,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MidnightManga",
-    "pkg": "eu.kanade.tachiyomi.extension.es.midnightmanga",
-    "apk": "tachiyomi-es.midnightmanga-v1.4.35.apk",
-    "lang": "es",
-    "code": 35,
-    "version": "1.4.35",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MidnightManga",
-        "lang": "es",
-        "id": "8612248072209265243",
-        "baseUrl": "http://midnightmanga.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Visormonarca",
     "pkg": "eu.kanade.tachiyomi.extension.es.monarcamanga",
     "apk": "tachiyomi-es.monarcamanga-v1.4.36.apk",
@@ -19492,10 +19432,10 @@
   {
     "name": "Tachiyomi: Rightdark Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.rightdarkscan",
-    "apk": "tachiyomi-es.rightdarkscan-v1.4.35.apk",
+    "apk": "tachiyomi-es.rightdarkscan-v1.4.36.apk",
     "lang": "es",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19504,7 +19444,7 @@
         "name": "Rightdark Scan",
         "lang": "es",
         "id": "710924825298427317",
-        "baseUrl": "https://rightdark-scan.com",
+        "baseUrl": "https://darken-scan.com",
         "versionId": 1
       }
     ]
@@ -20057,6 +19997,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Astrames",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.astrames",
+    "apk": "tachiyomi-fr.astrames-v1.4.2.apk",
+    "lang": "fr",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Astrames",
+        "lang": "fr",
+        "id": "4010968801793168266",
+        "baseUrl": "https://astrames.fr",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Harmony-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.bananascan",
     "apk": "tachiyomi-fr.bananascan-v1.4.36.apk",
@@ -20497,6 +20457,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Mangas Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.mangasscans",
+    "apk": "tachiyomi-fr.mangasscans-v1.4.30.apk",
+    "lang": "fr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Mangas Scans",
+        "lang": "fr",
+        "id": "8284543629565327451",
+        "baseUrl": "https://mangas-scans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Pantheon Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.pantheonscan",
     "apk": "tachiyomi-fr.pantheonscan-v1.4.36.apk",
@@ -20613,6 +20593,26 @@
         "id": "8222507730733516974",
         "baseUrl": "https://reaperscans.fr",
         "versionId": 2
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Rimu Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.rimuscans",
+    "apk": "tachiyomi-fr.rimuscans-v1.4.30.apk",
+    "lang": "fr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Rimu Scans",
+        "lang": "fr",
+        "id": "203984087587807085",
+        "baseUrl": "https://rimuscans.fr",
+        "versionId": 1
       }
     ]
   },
@@ -20892,26 +20892,6 @@
         "lang": "hi",
         "id": "1103204227230640533",
         "baseUrl": "https://comicsvalley.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: ComicsWorld",
-    "pkg": "eu.kanade.tachiyomi.extension.hi.comicsworld",
-    "apk": "tachiyomi-hi.comicsworld-v1.4.35.apk",
-    "lang": "hi",
-    "code": 35,
-    "version": "1.4.35",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ComicsWorld",
-        "lang": "hi",
-        "id": "764114338476521079",
-        "baseUrl": "https://comicsworld.in",
         "versionId": 1
       }
     ]
@@ -23379,10 +23359,10 @@
   {
     "name": "Tachiyomi: MANGARAW+",
     "pkg": "eu.kanade.tachiyomi.extension.ja.mangarawplus",
-    "apk": "tachiyomi-ja.mangarawplus-v1.4.36.apk",
+    "apk": "tachiyomi-ja.mangarawplus-v1.4.37.apk",
     "lang": "ja",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23391,7 +23371,7 @@
         "name": "MANGARAW+",
         "lang": "ja",
         "id": "4024106071166095369",
-        "baseUrl": "https://mangarawplus.org",
+        "baseUrl": "https://newmangaraw.com",
         "versionId": 1
       }
     ]
@@ -24561,26 +24541,6 @@
         "id": "5553519415877811746",
         "baseUrl": "https://galaxscanlator.blogspot.com",
         "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Gekkou Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.gekkouscan",
-    "apk": "tachiyomi-pt.gekkouscan-v1.4.37.apk",
-    "lang": "pt-BR",
-    "code": 37,
-    "version": "1.4.37",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Gekkou Scans",
-        "lang": "pt-BR",
-        "id": "38569701795132984",
-        "baseUrl": "https://gekkou.site",
-        "versionId": 2
       }
     ]
   },
@@ -28547,10 +28507,10 @@
   {
     "name": "Tachiyomi: NetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyen",
-    "apk": "tachiyomi-vi.nettruyen-v1.4.34.apk",
+    "apk": "tachiyomi-vi.nettruyen-v1.4.35.apk",
     "lang": "vi",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28559,7 +28519,7 @@
         "name": "NetTruyen",
         "lang": "vi",
         "id": "5198966899163361086",
-        "baseUrl": "https://www.nettruyentt.com",
+        "baseUrl": "https://www.nettruyenvv.com",
         "versionId": 1
       }
     ]
