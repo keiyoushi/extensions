@@ -42,10 +42,10 @@
   {
     "name": "Tachiyomi: AsmHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.asmhentai",
-    "apk": "tachiyomi-all.asmhentai-v1.4.1.apk",
+    "apk": "tachiyomi-all.asmhentai-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2101,6 +2101,54 @@
     ]
   },
   {
+    "name": "Tachiyomi: HentaiFox",
+    "pkg": "eu.kanade.tachiyomi.extension.all.hentaifox",
+    "apk": "tachiyomi-all.hentaifox-v1.4.6.apk",
+    "lang": "all",
+    "code": 6,
+    "version": "1.4.6",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "HentaiFox",
+        "lang": "en",
+        "id": "7945033982379409892",
+        "baseUrl": "https://hentaifox.com",
+        "versionId": 1
+      },
+      {
+        "name": "HentaiFox",
+        "lang": "ja",
+        "id": "8640201438684762638",
+        "baseUrl": "https://hentaifox.com",
+        "versionId": 1
+      },
+      {
+        "name": "HentaiFox",
+        "lang": "zh",
+        "id": "3252050349835097844",
+        "baseUrl": "https://hentaifox.com",
+        "versionId": 1
+      },
+      {
+        "name": "HentaiFox",
+        "lang": "ko",
+        "id": "2146024794445748144",
+        "baseUrl": "https://hentaifox.com",
+        "versionId": 1
+      },
+      {
+        "name": "HentaiFox",
+        "lang": "all",
+        "id": "2697587119837846427",
+        "baseUrl": "https://hentaifox.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: HentaiHand",
     "pkg": "eu.kanade.tachiyomi.extension.all.hentaihand",
     "apk": "tachiyomi-all.hentaihand-v1.4.7.apk",
@@ -2603,10 +2651,10 @@
   {
     "name": "Tachiyomi: IMHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.imhentai",
-    "apk": "tachiyomi-all.imhentai-v1.4.14.apk",
+    "apk": "tachiyomi-all.imhentai-v1.4.15.apk",
     "lang": "all",
-    "code": 14,
-    "version": "1.4.14",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2657,6 +2705,13 @@
         "name": "IMHentai",
         "lang": "ru",
         "id": "7505608677115153818",
+        "baseUrl": "https://imhentai.xxx",
+        "versionId": 1
+      },
+      {
+        "name": "IMHentai",
+        "lang": "all",
+        "id": "3395462671769287908",
         "baseUrl": "https://imhentai.xxx",
         "versionId": 1
       }
@@ -9792,26 +9847,6 @@
         "id": "3234990606508661587",
         "baseUrl": "https://hentaidexy.net",
         "versionId": 2
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: HentaiFox",
-    "pkg": "eu.kanade.tachiyomi.extension.en.hentaifox",
-    "apk": "tachiyomi-en.hentaifox-v1.4.5.apk",
-    "lang": "en",
-    "code": 5,
-    "version": "1.4.5",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "HentaiFox",
-        "lang": "en",
-        "id": "7945033982379409892",
-        "baseUrl": "https://hentaifox.com",
-        "versionId": 1
       }
     ]
   },
