@@ -1,5 +1,25 @@
 [
   {
+    "name": "Tachiyomi: AHottie",
+    "pkg": "eu.kanade.tachiyomi.extension.all.ahottie",
+    "apk": "tachiyomi-all.ahottie-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "AHottie",
+        "lang": "all",
+        "id": "6289731484943315811",
+        "baseUrl": "https://ahottie.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Akuma",
     "pkg": "eu.kanade.tachiyomi.extension.all.akuma",
     "apk": "tachiyomi-all.akuma-v1.4.1.apk",
@@ -7948,6 +7968,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Arya Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.aryascans",
+    "apk": "tachiyomi-en.aryascans-v1.4.35.apk",
+    "lang": "en",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Arya Scans",
+        "lang": "en",
+        "id": "7621724834621233483",
+        "baseUrl": "https://aryascans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: AscalonScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.ascalonscans",
     "apk": "tachiyomi-en.ascalonscans-v1.4.31.apk",
@@ -8850,10 +8890,10 @@
   {
     "name": "Tachiyomi: Drake Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.drakescans",
-    "apk": "tachiyomi-en.drakescans-v1.4.40.apk",
+    "apk": "tachiyomi-en.drakescans-v1.4.41.apk",
     "lang": "en",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8862,7 +8902,7 @@
         "name": "Drake Scans",
         "lang": "en",
         "id": "8284219650954312474",
-        "baseUrl": "https://drakescans.com",
+        "baseUrl": "https://drake-scans.com",
         "versionId": 2
       }
     ]
@@ -21157,6 +21197,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Hwago",
+    "pkg": "eu.kanade.tachiyomi.extension.id.hwago",
+    "apk": "tachiyomi-id.hwago-v1.4.35.apk",
+    "lang": "id",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hwago",
+        "lang": "id",
+        "id": "5490253431755133280",
+        "baseUrl": "https://hwago.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: ReYume",
     "pkg": "eu.kanade.tachiyomi.extension.id.inazumanga",
     "apk": "tachiyomi-id.inazumanga-v1.4.36.apk",
@@ -24287,10 +24347,10 @@
   {
     "name": "Tachiyomi: Cerise Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.cerisescans",
-    "apk": "tachiyomi-pt.cerisescans-v1.4.43.apk",
+    "apk": "tachiyomi-pt.cerisescans-v1.4.44.apk",
     "lang": "pt-BR",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24298,9 +24358,9 @@
       {
         "name": "Cerise Scan",
         "lang": "pt-BR",
-        "id": "8629915907358523454",
-        "baseUrl": "https://cerisescan.net",
-        "versionId": 1
+        "id": "3171660616317060850",
+        "baseUrl": "https://cerisetoon.com",
+        "versionId": 2
       }
     ]
   },
@@ -24980,26 +25040,6 @@
         "lang": "pt-BR",
         "id": "11864058740306611",
         "baseUrl": "https://ler999.blogspot.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Ler Mangá",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.lermanga",
-    "apk": "tachiyomi-pt.lermanga-v1.4.6.apk",
-    "lang": "pt-BR",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Ler Mangá",
-        "lang": "pt-BR",
-        "id": "8835611358722000524",
-        "baseUrl": "https://lermanga.org",
         "versionId": 1
       }
     ]
@@ -27565,6 +27605,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: İmparator Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.imparatormanga",
+    "apk": "tachiyomi-tr.imparatormanga-v1.4.35.apk",
+    "lang": "tr",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "İmparator Manga",
+        "lang": "tr",
+        "id": "3066440669866826504",
+        "baseUrl": "https://www.imparatormanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Jiangzaitoon",
     "pkg": "eu.kanade.tachiyomi.extension.tr.jiangzaitoon",
     "apk": "tachiyomi-tr.jiangzaitoon-v1.4.39.apk",
@@ -27920,6 +27980,26 @@
         "lang": "tr",
         "id": "2783611133798677654",
         "baseUrl": "https://nirvanamanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Raindrop Fansub",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.raindropfansub",
+    "apk": "tachiyomi-tr.raindropfansub-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Raindrop Fansub",
+        "lang": "tr",
+        "id": "5020277403848576351",
+        "baseUrl": "https://www.raindropteamfan.com",
         "versionId": 1
       }
     ]
