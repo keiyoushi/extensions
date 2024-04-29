@@ -9511,6 +9511,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: GEDE Comix",
+    "pkg": "eu.kanade.tachiyomi.extension.en.gedecomix",
+    "apk": "tachiyomi-en.gedecomix-v1.4.36.apk",
+    "lang": "en",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "GEDE Comix",
+        "lang": "en",
+        "id": "3956136651279281107",
+        "baseUrl": "https://gedecomix.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Girls Love Manga!",
     "pkg": "eu.kanade.tachiyomi.extension.en.girlslovemanga",
     "apk": "tachiyomi-en.girlslovemanga-v1.4.36.apk",
@@ -10873,10 +10893,10 @@
   {
     "name": "Tachiyomi: Luminous Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.luminousscans",
-    "apk": "tachiyomi-en.luminousscans-v1.4.35.apk",
+    "apk": "tachiyomi-en.luminousscans-v1.4.36.apk",
     "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10885,7 +10905,7 @@
         "name": "Luminous Scans",
         "lang": "en",
         "id": "1019556752273106311",
-        "baseUrl": "https://lumitoon.com",
+        "baseUrl": "https://luminouscomics.org",
         "versionId": 1
       }
     ]
@@ -19425,6 +19445,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: PrinceEdiciones",
+    "pkg": "eu.kanade.tachiyomi.extension.es.princediciones",
+    "apk": "tachiyomi-es.princediciones-v1.4.36.apk",
+    "lang": "es",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Prince Ediciones",
+        "lang": "es",
+        "id": "428473896711334253",
+        "baseUrl": "https://princediciones.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Ragnarok Scanlation",
     "pkg": "eu.kanade.tachiyomi.extension.es.ragnarokscanlation",
     "apk": "tachiyomi-es.ragnarokscanlation-v1.4.37.apk",
@@ -25160,6 +25200,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Lich Mangas",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.lichmangas",
+    "apk": "tachiyomi-pt.lichmangas-v1.4.36.apk",
+    "lang": "pt-BR",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Lich Mangas",
+        "lang": "pt-BR",
+        "id": "7966314354295297006",
+        "baseUrl": "https://lichmangas.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Li Manga",
     "pkg": "eu.kanade.tachiyomi.extension.pt.limanga",
     "apk": "tachiyomi-pt.limanga-v1.4.31.apk",
@@ -27880,6 +27940,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manga Oku",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.mangaoku",
+    "apk": "tachiyomi-tr.mangaoku-v1.4.36.apk",
+    "lang": "tr",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Oku",
+        "lang": "tr",
+        "id": "2335050007830485750",
+        "baseUrl": "https://mangaoku.info",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manga Şehri",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangasehri",
     "apk": "tachiyomi-tr.mangasehri-v1.4.37.apk",
@@ -28035,6 +28115,26 @@
         "lang": "tr",
         "id": "2783611133798677654",
         "baseUrl": "https://nirvanamanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Pied Piper Fansub",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.piedpiperfansub",
+    "apk": "tachiyomi-tr.piedpiperfansub-v1.4.36.apk",
+    "lang": "tr",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Pied Piper Fansub",
+        "lang": "tr",
+        "id": "1233943641962904597",
+        "baseUrl": "https://piedpiperfansub.me",
         "versionId": 1
       }
     ]
