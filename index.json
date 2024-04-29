@@ -4751,10 +4751,10 @@
   {
     "name": "Tachiyomi: Miau Scan",
     "pkg": "eu.kanade.tachiyomi.extension.all.miauscan",
-    "apk": "tachiyomi-all.miauscan-v1.4.33.apk",
+    "apk": "tachiyomi-all.miauscan-v1.4.34.apk",
     "lang": "all",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4763,14 +4763,14 @@
         "name": "Miau Scan",
         "lang": "es",
         "id": "2886862669347225416",
-        "baseUrl": "https://miauvisor.org",
+        "baseUrl": "https://lectormiau.com",
         "versionId": 1
       },
       {
         "name": "Miau Scan",
         "lang": "pt-BR",
         "id": "6705370418823255358",
-        "baseUrl": "https://miauvisor.org",
+        "baseUrl": "https://lectormiau.com",
         "versionId": 1
       }
     ]
@@ -19645,26 +19645,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Sdl scans",
-    "pkg": "eu.kanade.tachiyomi.extension.es.sdlscans",
-    "apk": "tachiyomi-es.sdlscans-v1.4.36.apk",
-    "lang": "es",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Sdl scans",
-        "lang": "es",
-        "id": "5207801896032830375",
-        "baseUrl": "https://sdlscans.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Senpai Ediciones",
     "pkg": "eu.kanade.tachiyomi.extension.es.senpaiediciones",
     "apk": "tachiyomi-es.senpaiediciones-v1.4.31.apk",
@@ -19767,10 +19747,10 @@
   {
     "name": "Tachiyomi: Tecno Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.tecnoscan",
-    "apk": "tachiyomi-es.tecnoscan-v1.4.36.apk",
+    "apk": "tachiyomi-es.tecnoscan-v1.4.37.apk",
     "lang": "es",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19779,7 +19759,7 @@
         "name": "Tecno Scan",
         "lang": "es",
         "id": "569894214180281035",
-        "baseUrl": "https://tecnoscann.com",
+        "baseUrl": "https://visortecno.com",
         "versionId": 3
       }
     ]
@@ -26022,10 +26002,10 @@
   {
     "name": "Tachiyomi: SlimeRead",
     "pkg": "eu.kanade.tachiyomi.extension.pt.slimeread",
-    "apk": "tachiyomi-pt.slimeread-v1.4.6.apk",
+    "apk": "tachiyomi-pt.slimeread-v1.4.7.apk",
     "lang": "pt-BR",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
