@@ -8423,6 +8423,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Cocomic",
+    "pkg": "eu.kanade.tachiyomi.extension.en.cocomic",
+    "apk": "tachiyomi-en.cocomic-v1.4.36.apk",
+    "lang": "en",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Cocomic",
+        "lang": "en",
+        "id": "3544369893051520689",
+        "baseUrl": "https://cocomic.co",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Coffee Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.coffeemanga",
     "apk": "tachiyomi-en.coffeemanga-v1.4.38.apk",
@@ -9353,10 +9373,10 @@
   {
     "name": "Tachiyomi: FleksyScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.fleksyscans",
-    "apk": "tachiyomi-en.fleksyscans-v1.4.1.apk",
+    "apk": "tachiyomi-en.fleksyscans-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10433,10 +10453,10 @@
   {
     "name": "Tachiyomi: Kewn Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.kewnscans",
-    "apk": "tachiyomi-en.kewnscans-v1.4.2.apk",
+    "apk": "tachiyomi-en.kewnscans-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -14700,10 +14720,10 @@
   {
     "name": "Tachiyomi: NIGHT SCANS",
     "pkg": "eu.kanade.tachiyomi.extension.en.nightscans",
-    "apk": "tachiyomi-en.nightscans-v1.4.33.apk",
+    "apk": "tachiyomi-en.nightscans-v1.4.34.apk",
     "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -14712,7 +14732,7 @@
         "name": "NIGHT SCANS",
         "lang": "en",
         "id": "9064192854751334524",
-        "baseUrl": "https://nightscans.net",
+        "baseUrl": "https://night-scans.com",
         "versionId": 1
       }
     ]
@@ -20428,6 +20448,26 @@
         "id": "4874205281198767614",
         "baseUrl": "https://lelscanfr.com",
         "versionId": 2
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Lunar Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.lunarscans",
+    "apk": "tachiyomi-fr.lunarscans-v1.4.30.apk",
+    "lang": "fr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Lunar Scans",
+        "lang": "fr",
+        "id": "6467358770139619192",
+        "baseUrl": "https://gloryscans.fr",
+        "versionId": 1
       }
     ]
   },
