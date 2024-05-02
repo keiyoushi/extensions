@@ -14165,6 +14165,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manhwa Hentai",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manhwahentai",
+    "apk": "tachiyomi-en.manhwahentai-v1.4.36.apk",
+    "lang": "en",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manhwa Hentai",
+        "lang": "en",
+        "id": "5733146869195184954",
+        "baseUrl": "https://manhwahentai.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manhwahentai.me",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwahentaime",
     "apk": "tachiyomi-en.manhwahentaime-v1.4.39.apk",
