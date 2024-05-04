@@ -11538,26 +11538,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaClash.tv (unoriginal)",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangaclashtv",
-    "apk": "tachiyomi-en.mangaclashtv-v1.4.36.apk",
-    "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaClash.tv (unoriginal)",
-        "lang": "en",
-        "id": "6266492406694831350",
-        "baseUrl": "https://mangaclash.tv",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MangaCultivator",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangacultivator",
     "apk": "tachiyomi-en.mangacultivator-v1.4.38.apk",
@@ -13445,26 +13425,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaUpdates.top (unoriginal)",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangaupdatestop",
-    "apk": "tachiyomi-en.mangaupdatestop-v1.4.36.apk",
-    "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaUpdates.top (unoriginal)",
-        "lang": "en",
-        "id": "1723533139068941145",
-        "baseUrl": "https://mangaupdates.top",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MangaUS",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaus",
     "apk": "tachiyomi-en.mangaus-v1.4.38.apk",
@@ -13880,26 +13840,6 @@
         "lang": "en",
         "id": "2662217302374532650",
         "baseUrl": "https://manhuascan.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: ManhuaScan.info (unoriginal)",
-    "pkg": "eu.kanade.tachiyomi.extension.en.manhuascaninfo",
-    "apk": "tachiyomi-en.manhuascaninfo-v1.4.36.apk",
-    "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ManhuaScan.info (unoriginal)",
-        "lang": "en",
-        "id": "5745093647273736742",
-        "baseUrl": "https://manhuascan.info",
         "versionId": 1
       }
     ]
@@ -19214,10 +19154,10 @@
   {
     "name": "Tachiyomi: Manga Crab",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangacrab",
-    "apk": "tachiyomi-es.mangacrab-v1.4.44.apk",
+    "apk": "tachiyomi-es.mangacrab-v1.4.45.apk",
     "lang": "es",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19226,7 +19166,7 @@
         "name": "Manga Crab",
         "lang": "es",
         "id": "6167683270485370369",
-        "baseUrl": "https://httpmangacrab2.com",
+        "baseUrl": "https://visorcrab.com",
         "versionId": 1
       }
     ]
@@ -19434,10 +19374,10 @@
   {
     "name": "Tachiyomi: Manhua Online",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhuaonline",
-    "apk": "tachiyomi-es.manhuaonline-v1.4.37.apk",
+    "apk": "tachiyomi-es.manhuaonline-v1.4.38.apk",
     "lang": "es",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19446,7 +19386,7 @@
         "name": "Manhua Online",
         "lang": "es",
         "id": "5713083996691468192",
-        "baseUrl": "https://manhuaonline.org",
+        "baseUrl": "https://blog.manhuaonline.org",
         "versionId": 1
       }
     ]
@@ -25389,10 +25329,10 @@
   {
     "name": "Tachiyomi: Kakusei Project",
     "pkg": "eu.kanade.tachiyomi.extension.pt.kakuseiproject",
-    "apk": "tachiyomi-pt.kakuseiproject-v1.4.36.apk",
+    "apk": "tachiyomi-pt.kakuseiproject-v1.4.37.apk",
     "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25401,7 +25341,7 @@
         "name": "Kakusei Project",
         "lang": "pt-BR",
         "id": "4352186290154944735",
-        "baseUrl": "https://kakuseiproject.com.br",
+        "baseUrl": "https://kakuseiproject.com",
         "versionId": 1
       }
     ]
@@ -28609,10 +28549,10 @@
   {
     "name": "Tachiyomi: MangaGezgini",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangagezgini",
-    "apk": "tachiyomi-tr.mangagezgini-v1.4.36.apk",
+    "apk": "tachiyomi-tr.mangagezgini-v1.4.37.apk",
     "lang": "tr",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
