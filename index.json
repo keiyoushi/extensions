@@ -19632,6 +19632,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Mundo Manhwa",
+    "pkg": "eu.kanade.tachiyomi.extension.es.mundomanhwa",
+    "apk": "tachiyomi-es.mundomanhwa-v1.4.36.apk",
+    "lang": "es",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Mundo Manhwa",
+        "lang": "es",
+        "id": "7121772696835562045",
+        "baseUrl": "https://mundomanhwa.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Traducciones Amistosas",
     "pkg": "eu.kanade.tachiyomi.extension.es.nartag",
     "apk": "tachiyomi-es.nartag-v1.4.2.apk",
