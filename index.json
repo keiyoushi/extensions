@@ -7072,10 +7072,10 @@
   {
     "name": "Tachiyomi: Mangalek",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalek",
-    "apk": "tachiyomi-ar.mangalek-v1.4.42.apk",
+    "apk": "tachiyomi-ar.mangalek-v1.4.43.apk",
     "lang": "ar",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7084,7 +7084,7 @@
         "name": "مانجا ليك",
         "lang": "ar",
         "id": "918460697583900080",
-        "baseUrl": "https://lekmanga.net#, https://lekmanga.org#, https://like-manga.net#, https://lekmanga.com",
+        "baseUrl": "https://lekmanga.net#, https://lekmanga.org#, https://like-manga.net#, https://lekmanga.com#, https://manga-leko.org",
         "versionId": 1
       }
     ]
@@ -17385,6 +17385,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: TopManhua.net",
+    "pkg": "eu.kanade.tachiyomi.extension.en.topmanhuanet",
+    "apk": "tachiyomi-en.topmanhuanet-v1.4.36.apk",
+    "lang": "en",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "TopManhua.net",
+        "lang": "en",
+        "id": "6421630287504544593",
+        "baseUrl": "https://topmanhua.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: TopReadManhwa",
     "pkg": "eu.kanade.tachiyomi.extension.en.topreadmanhwa",
     "apk": "tachiyomi-en.topreadmanhwa-v1.4.36.apk",
@@ -20579,6 +20599,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Hentai Origines",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.hentaiorigines",
+    "apk": "tachiyomi-fr.hentaiorigines-v1.4.36.apk",
+    "lang": "fr",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hentai Origines",
+        "lang": "fr",
+        "id": "3875672872924535086",
+        "baseUrl": "https://hentai-origines.fr",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Hentai-Scantrad",
     "pkg": "eu.kanade.tachiyomi.extension.fr.hentaiscantrad",
     "apk": "tachiyomi-fr.hentaiscantrad-v1.4.37.apk",
@@ -22134,6 +22174,26 @@
         "lang": "id",
         "id": "8489420317813224728",
         "baseUrl": "https://komiku.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Komikuzan",
+    "pkg": "eu.kanade.tachiyomi.extension.id.komikuzan",
+    "apk": "tachiyomi-id.komikuzan-v1.4.36.apk",
+    "lang": "id",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Komikuzan",
+        "lang": "id",
+        "id": "951566823854622167",
+        "baseUrl": "https://komikuzan.com",
         "versionId": 1
       }
     ]
@@ -24562,6 +24622,26 @@
         "lang": "ko",
         "id": "6596496791271983268",
         "baseUrl": "https://tkor.dog",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaHoNa",
+    "pkg": "eu.kanade.tachiyomi.extension.pl.mangahona",
+    "apk": "tachiyomi-pl.mangahona-v1.4.36.apk",
+    "lang": "pl",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaHoNa",
+        "lang": "pl",
+        "id": "8922529241027133892",
+        "baseUrl": "https://mangahona.pl",
         "versionId": 1
       }
     ]
