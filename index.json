@@ -6690,6 +6690,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Area Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.areascans",
+    "apk": "tachiyomi-ar.areascans-v1.4.30.apk",
+    "lang": "ar",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Area Scans",
+        "lang": "ar",
+        "id": "241593018172482505",
+        "baseUrl": "https://ar.areascans.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: SCARManga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.aresnov",
     "apk": "tachiyomi-ar.aresnov-v1.4.32.apk",
@@ -6852,10 +6872,10 @@
   {
     "name": "Tachiyomi: Galaxy Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.galaxymanga",
-    "apk": "tachiyomi-ar.galaxymanga-v1.4.32.apk",
+    "apk": "tachiyomi-ar.galaxymanga-v1.4.33.apk",
     "lang": "ar",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19814,10 +19834,10 @@
   {
     "name": "Tachiyomi: RavenManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.ravenmanga",
-    "apk": "tachiyomi-es.ravenmanga-v1.4.1.apk",
+    "apk": "tachiyomi-es.ravenmanga-v1.4.2.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19826,7 +19846,7 @@
         "name": "RavenManga",
         "lang": "es",
         "id": "698913079501532785",
-        "baseUrl": "https://ravenseries.lat",
+        "baseUrl": "https://ravensword.lat",
         "versionId": 1
       }
     ]
@@ -24594,14 +24614,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki335.net",
+        "baseUrl": "https://manatoki336.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki335.com",
+        "baseUrl": "https://newtoki336.com",
         "versionId": 1
       }
     ]
@@ -25849,10 +25869,10 @@
   {
     "name": "Tachiyomi: Maid Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.maidscan",
-    "apk": "tachiyomi-pt.maidscan-v1.4.36.apk",
+    "apk": "tachiyomi-pt.maidscan-v1.4.37.apk",
     "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25861,7 +25881,7 @@
         "name": "Maid Scan",
         "lang": "pt-BR",
         "id": "7624757094973334315",
-        "baseUrl": "https://maidscan.com.br",
+        "baseUrl": "https://maidscans.com",
         "versionId": 1
       }
     ]
@@ -28187,6 +28207,46 @@
     ]
   },
   {
+    "name": "Tachiyomi: Adu Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.adumanga",
+    "apk": "tachiyomi-tr.adumanga-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Adu Manga",
+        "lang": "tr",
+        "id": "1823090555849741450",
+        "baseUrl": "https://www.mangacim.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Afrodit Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.afroditscans",
+    "apk": "tachiyomi-tr.afroditscans-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Afrodit Scans",
+        "lang": "tr",
+        "id": "3683779036959581042",
+        "baseUrl": "https://afroditscans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Allied Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.tr.alliedfansub",
     "apk": "tachiyomi-tr.alliedfansub-v1.4.36.apk",
@@ -28262,6 +28322,26 @@
         "lang": "tr",
         "id": "7380467428978561926",
         "baseUrl": "https://www.araznovel.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Arcura Fansub",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.arcurafansub",
+    "apk": "tachiyomi-tr.arcurafansub-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Arcura Fansub",
+        "lang": "tr",
+        "id": "4787423248001527550",
+        "baseUrl": "https://arcurafansub.com",
         "versionId": 1
       }
     ]
@@ -28402,6 +28482,26 @@
         "lang": "tr",
         "id": "5223802501310383833",
         "baseUrl": "https://manwe.pro",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Gaiatoon",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.gaiatoon",
+    "apk": "tachiyomi-tr.gaiatoon-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Gaiatoon",
+        "lang": "tr",
+        "id": "7364322791901505063",
+        "baseUrl": "https://gaiatoon.com",
         "versionId": 1
       }
     ]
@@ -28667,6 +28767,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: LowerWorld",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.lowerworld",
+    "apk": "tachiyomi-tr.lowerworld-v1.4.36.apk",
+    "lang": "tr",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "LowerWorld",
+        "lang": "tr",
+        "id": "7103024931274472991",
+        "baseUrl": "https://lower-world.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Luna Scans",
     "pkg": "eu.kanade.tachiyomi.extension.tr.lunascans",
     "apk": "tachiyomi-tr.lunascans-v1.4.36.apk",
@@ -28887,6 +29007,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manga Şehri.net",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.mangasehrinet",
+    "apk": "tachiyomi-tr.mangasehrinet-v1.4.36.apk",
+    "lang": "tr",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Şehri.net",
+        "lang": "tr",
+        "id": "2403498411345112019",
+        "baseUrl": "https://mangasehri.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manga Ship",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangaship",
     "apk": "tachiyomi-tr.mangaship-v1.4.3.apk",
@@ -28902,6 +29042,26 @@
         "lang": "tr",
         "id": "7110025728969951060",
         "baseUrl": "https://www.mangaship.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Siginagi",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.mangasiginagi",
+    "apk": "tachiyomi-tr.mangasiginagi-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Siginagi",
+        "lang": "tr",
+        "id": "6874531585347607582",
+        "baseUrl": "https://mangasiginagi.com",
         "versionId": 1
       }
     ]
@@ -28982,6 +29142,26 @@
         "lang": "tr",
         "id": "8373525628494692390",
         "baseUrl": "https://merlinscans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Merlin Shoujo",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.merlinshoujo",
+    "apk": "tachiyomi-tr.merlinshoujo-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Merlin Shoujo",
+        "lang": "tr",
+        "id": "1299870075510457006",
+        "baseUrl": "https://merlinshoujo.com",
         "versionId": 1
       }
     ]
@@ -29102,6 +29282,26 @@
         "lang": "tr",
         "id": "2266890064732906146",
         "baseUrl": "https://opiatoon.biz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Pati Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.patimanga",
+    "apk": "tachiyomi-tr.patimanga-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Pati Manga",
+        "lang": "tr",
+        "id": "6167788720399583825",
+        "baseUrl": "https://www.patimanga.com",
         "versionId": 1
       }
     ]
