@@ -19794,10 +19794,10 @@
   {
     "name": "Tachiyomi: Ragnarok Scanlation",
     "pkg": "eu.kanade.tachiyomi.extension.es.ragnarokscanlation",
-    "apk": "tachiyomi-es.ragnarokscanlation-v1.4.37.apk",
+    "apk": "tachiyomi-es.ragnarokscanlation-v1.4.38.apk",
     "lang": "es",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19805,9 +19805,9 @@
       {
         "name": "Ragnarok Scanlation",
         "lang": "es",
-        "id": "510508500848213737",
-        "baseUrl": "https://ragnarokscanlation.net",
-        "versionId": 1
+        "id": "1348827658894665970",
+        "baseUrl": "https://ragnarokscanlation.org",
+        "versionId": 2
       }
     ]
   },
@@ -26669,10 +26669,10 @@
   {
     "name": "Tachiyomi: Sussy Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sussyscan",
-    "apk": "tachiyomi-pt.sussyscan-v1.4.36.apk",
+    "apk": "tachiyomi-pt.sussyscan-v1.4.37.apk",
     "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
