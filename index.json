@@ -8850,26 +8850,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Dark-scan",
-    "pkg": "eu.kanade.tachiyomi.extension.en.darkscan",
-    "apk": "tachiyomi-en.darkscan-v1.4.36.apk",
-    "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Dark-scan",
-        "lang": "en",
-        "id": "7467592837760360366",
-        "baseUrl": "https://dark-scan.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Dark Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.darkscans",
     "apk": "tachiyomi-en.darkscans-v1.4.37.apk",
@@ -15125,6 +15105,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: NvManga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.nvmanga",
+    "apk": "tachiyomi-en.nvmanga-v1.4.36.apk",
+    "lang": "en",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "NvManga",
+        "lang": "en",
+        "id": "9070959782409248361",
+        "baseUrl": "https://nvmanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Oglaf",
     "pkg": "eu.kanade.tachiyomi.extension.en.oglaf",
     "apk": "tachiyomi-en.oglaf-v1.4.3.apk",
@@ -19914,10 +19914,10 @@
   {
     "name": "Tachiyomi: Rightdark Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.rightdarkscan",
-    "apk": "tachiyomi-es.rightdarkscan-v1.4.37.apk",
+    "apk": "tachiyomi-es.rightdarkscan-v1.4.38.apk",
     "lang": "es",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19926,7 +19926,7 @@
         "name": "Rightdark Scan",
         "lang": "es",
         "id": "710924825298427317",
-        "baseUrl": "https://darken-scan.com",
+        "baseUrl": "https://dark-scan.com",
         "versionId": 1
       }
     ]
@@ -24319,6 +24319,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: RawXZ",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.rawxz",
+    "apk": "tachiyomi-ja.rawxz-v1.4.36.apk",
+    "lang": "ja",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "RawXZ",
+        "lang": "ja",
+        "id": "7950551186567193810",
+        "baseUrl": "https://rawxz.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: RawZ",
     "pkg": "eu.kanade.tachiyomi.extension.ja.rawz",
     "apk": "tachiyomi-ja.rawz-v1.4.1.apk",
@@ -27229,10 +27249,10 @@
   {
     "name": "Tachiyomi: Desu",
     "pkg": "eu.kanade.tachiyomi.extension.ru.desu",
-    "apk": "tachiyomi-ru.desu-v1.4.23.apk",
+    "apk": "tachiyomi-ru.desu-v1.4.24.apk",
     "lang": "ru",
-    "code": 23,
-    "version": "1.4.23",
+    "code": 24,
+    "version": "1.4.24",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28709,10 +28729,10 @@
   {
     "name": "Tachiyomi: Jiangzaitoon",
     "pkg": "eu.kanade.tachiyomi.extension.tr.jiangzaitoon",
-    "apk": "tachiyomi-tr.jiangzaitoon-v1.4.40.apk",
+    "apk": "tachiyomi-tr.jiangzaitoon-v1.4.41.apk",
     "lang": "tr",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28721,7 +28741,7 @@
         "name": "Jiangzaitoon",
         "lang": "tr",
         "id": "2533138448805911283",
-        "baseUrl": "https://jiangzaitoon.info",
+        "baseUrl": "https://jiangzaitoon.dev",
         "versionId": 1
       }
     ]
@@ -29122,6 +29142,26 @@
         "lang": "tr",
         "id": "4990678311970770946",
         "baseUrl": "https://manga-tr.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaTR.net",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.mangatrnet",
+    "apk": "tachiyomi-tr.mangatrnet-v1.4.36.apk",
+    "lang": "tr",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaTR.net",
+        "lang": "tr",
+        "id": "5931997681871831803",
+        "baseUrl": "https://mangatr.net",
         "versionId": 1
       }
     ]
@@ -29743,6 +29783,26 @@
         "id": "1479830960881750685",
         "baseUrl": "https://tortuga-ceviri.com",
         "versionId": 2
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Türkçe Manga Oku",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.turkcemangaoku",
+    "apk": "tachiyomi-tr.turkcemangaoku-v1.4.36.apk",
+    "lang": "tr",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Türkçe Manga Oku",
+        "lang": "tr",
+        "id": "1213201447439140959",
+        "baseUrl": "https://turkcemangaoku.com",
+        "versionId": 1
       }
     ]
   },
