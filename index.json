@@ -6041,10 +6041,10 @@
   {
     "name": "Tachiyomi: Thunder Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.thunderscans",
-    "apk": "tachiyomi-all.thunderscans-v1.4.31.apk",
+    "apk": "tachiyomi-all.thunderscans-v1.4.32.apk",
     "lang": "all",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6053,14 +6053,14 @@
         "name": "Thunder Scans",
         "lang": "ar",
         "id": "3209001028102012989",
-        "baseUrl": "https://thunderscans.com",
+        "baseUrl": "https://ar-thunderepic.com",
         "versionId": 1
       },
       {
         "name": "Thunder Scans",
         "lang": "en",
         "id": "2848420679472350044",
-        "baseUrl": "https://en-thunderscans.com",
+        "baseUrl": "https://en-thunderepic.com",
         "versionId": 1
       }
     ]
@@ -24867,6 +24867,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Brasil Hentai",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.brasilhentai",
+    "apk": "tachiyomi-pt.brasilhentai-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Brasil Hentai",
+        "lang": "pt-BR",
+        "id": "8020430975962445741",
+        "baseUrl": "https://brasilhentai.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Bruttal",
     "pkg": "eu.kanade.tachiyomi.extension.pt.bruttal",
     "apk": "tachiyomi-pt.bruttal-v1.4.6.apk",
@@ -28549,10 +28569,10 @@
   {
     "name": "Tachiyomi: Hattori Manga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.hattorimanga",
-    "apk": "tachiyomi-tr.hattorimanga-v1.4.36.apk",
+    "apk": "tachiyomi-tr.hattorimanga-v1.4.37.apk",
     "lang": "tr",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28560,9 +28580,9 @@
       {
         "name": "Hattori Manga",
         "lang": "tr",
-        "id": "1800748090440992820",
+        "id": "1862736259549588334",
         "baseUrl": "https://hattorimanga.com",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
