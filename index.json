@@ -829,6 +829,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: 3600000 Beauty",
+    "pkg": "eu.kanade.tachiyomi.extension.all.beauty3600000",
+    "apk": "tachiyomi-all.beauty3600000-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "3600000 Beauty",
+        "lang": "all",
+        "id": "5498091984644576825",
+        "baseUrl": "https://3600000.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Buon Dua",
     "pkg": "eu.kanade.tachiyomi.extension.all.buondua",
     "apk": "tachiyomi-all.buondua-v1.4.2.apk",
@@ -9079,10 +9099,10 @@
   {
     "name": "Tachiyomi: Drake Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.drakescans",
-    "apk": "tachiyomi-en.drakescans-v1.4.41.apk",
+    "apk": "tachiyomi-en.drakescans-v1.4.42.apk",
     "lang": "en",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19481,10 +19501,10 @@
   {
     "name": "Tachiyomi: Mantraz Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.mantrazscan",
-    "apk": "tachiyomi-es.mantrazscan-v1.4.36.apk",
+    "apk": "tachiyomi-es.mantrazscan-v1.4.37.apk",
     "lang": "es",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19493,7 +19513,7 @@
         "name": "Mantraz Scan",
         "lang": "es",
         "id": "7172992930543738693",
-        "baseUrl": "https://mantrazscan.com",
+        "baseUrl": "https://mantrazscans.net",
         "versionId": 1
       }
     ]
@@ -20161,10 +20181,10 @@
   {
     "name": "Tachiyomi: Tres Daos Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.tresdaosscan",
-    "apk": "tachiyomi-es.tresdaosscan-v1.4.36.apk",
+    "apk": "tachiyomi-es.tresdaosscan-v1.4.37.apk",
     "lang": "es",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20172,9 +20192,9 @@
       {
         "name": "Tres Daos Scan",
         "lang": "es",
-        "id": "2401274562566953096",
+        "id": "1161787897588139768",
         "baseUrl": "https://tresdaos.com",
-        "versionId": 3
+        "versionId": 4
       }
     ]
   },
