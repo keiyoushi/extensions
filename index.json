@@ -4716,6 +4716,33 @@
     ]
   },
   {
+    "name": "Tachiyomi: ManhwaClub.net",
+    "pkg": "eu.kanade.tachiyomi.extension.all.manhwaclubnet",
+    "apk": "tachiyomi-all.manhwaclubnet-v1.4.36.apk",
+    "lang": "all",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ManhwaClub.net",
+        "lang": "en",
+        "id": "6720687475375335817",
+        "baseUrl": "https://manhwaclub.net",
+        "versionId": 1
+      },
+      {
+        "name": "ManhwaClub.net",
+        "lang": "ko",
+        "id": "3482736208073357647",
+        "baseUrl": "https://manhwaclub.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manhwa-raw",
     "pkg": "eu.kanade.tachiyomi.extension.all.manhwadashraw",
     "apk": "tachiyomi-all.manhwadashraw-v1.4.37.apk",
@@ -8092,10 +8119,10 @@
   {
     "name": "Tachiyomi: Vortex Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arvenscans",
-    "apk": "tachiyomi-en.arvenscans-v1.4.31.apk",
+    "apk": "tachiyomi-en.arvenscans-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10273,6 +10300,26 @@
         "lang": "en",
         "id": "1622300899445122947",
         "baseUrl": "https://hreads.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Hunlight Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.hunlightscans",
+    "apk": "tachiyomi-en.hunlightscans-v1.4.36.apk",
+    "lang": "en",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hunlight Scans",
+        "lang": "en",
+        "id": "5459011197259828024",
+        "baseUrl": "https://hunlight.com",
         "versionId": 1
       }
     ]
@@ -14040,26 +14087,6 @@
         "lang": "en",
         "id": "3313733609433811176",
         "baseUrl": "https://manhwaclan.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: ManhwaClub",
-    "pkg": "eu.kanade.tachiyomi.extension.en.manhwaclub",
-    "apk": "tachiyomi-en.manhwaclub-v1.4.5.apk",
-    "lang": "en",
-    "code": 5,
-    "version": "1.4.5",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ManhwaClub",
-        "lang": "en",
-        "id": "9221787773489226373",
-        "baseUrl": "https://manhwa.club",
         "versionId": 1
       }
     ]
@@ -19054,10 +19081,10 @@
   {
     "name": "Tachiyomi: LeerCapitulo",
     "pkg": "eu.kanade.tachiyomi.extension.es.leercapitulo",
-    "apk": "tachiyomi-es.leercapitulo-v1.4.8.apk",
+    "apk": "tachiyomi-es.leercapitulo-v1.4.9.apk",
     "lang": "es",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19066,7 +19093,7 @@
         "name": "LeerCapitulo",
         "lang": "es",
         "id": "5621901596522308538",
-        "baseUrl": "https://www.leercapitulo.com",
+        "baseUrl": "https://www.leercapitulo.co",
         "versionId": 1
       }
     ]
@@ -24554,14 +24581,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki337.net",
+        "baseUrl": "https://manatoki338.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki337.com",
+        "baseUrl": "https://newtoki338.com",
         "versionId": 1
       }
     ]
@@ -30349,11 +30376,11 @@
   {
     "name": "Tachiyomi: Team Lanh Lung",
     "pkg": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
-    "apk": "tachiyomi-vi.teamlanhlung-v1.4.5.apk",
+    "apk": "tachiyomi-vi.teamlanhlung-v1.4.6.apk",
     "lang": "vi",
-    "code": 5,
-    "version": "1.4.5",
-    "nsfw": 0,
+    "code": 6,
+    "version": "1.4.6",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -30361,7 +30388,7 @@
         "name": "Team Lạnh Lùng",
         "lang": "vi",
         "id": "1832370231745386795",
-        "baseUrl": "https://teamlanhlung.live",
+        "baseUrl": "https://teamlanhlung.club",
         "versionId": 1
       }
     ]
@@ -31189,10 +31216,10 @@
   {
     "name": "Tachiyomi: Roumanwu",
     "pkg": "eu.kanade.tachiyomi.extension.zh.roumanwu",
-    "apk": "tachiyomi-zh.roumanwu-v1.4.8.apk",
+    "apk": "tachiyomi-zh.roumanwu-v1.4.9.apk",
     "lang": "zh",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31201,7 +31228,7 @@
         "name": "肉漫屋",
         "lang": "zh",
         "id": "3647420805839021718",
-        "baseUrl": "https://roum12.xyz",
+        "baseUrl": "https://roum15.xyz",
         "versionId": 1
       }
     ]
