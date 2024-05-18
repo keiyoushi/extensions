@@ -18881,10 +18881,10 @@
   {
     "name": "Tachiyomi: Ikigai Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
-    "apk": "tachiyomi-es.ikigaimangas-v1.4.8.apk",
+    "apk": "tachiyomi-es.ikigaimangas-v1.4.9.apk",
     "lang": "es",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20221,10 +20221,10 @@
   {
     "name": "Tachiyomi: Traducciones Moonlight",
     "pkg": "eu.kanade.tachiyomi.extension.es.traduccionesmoonlight",
-    "apk": "tachiyomi-es.traduccionesmoonlight-v1.4.38.apk",
+    "apk": "tachiyomi-es.traduccionesmoonlight-v1.4.39.apk",
     "lang": "es",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20232,9 +20232,9 @@
       {
         "name": "Traducciones Moonlight",
         "lang": "es",
-        "id": "1949259089540905175",
+        "id": "4349338377187141550",
         "baseUrl": "https://traduccionesmoonlight.com",
-        "versionId": 2
+        "versionId": 3
       }
     ]
   },
