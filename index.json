@@ -16914,10 +16914,10 @@
   {
     "name": "Tachiyomi: Sunshine Butterfly Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.sunshinebutterflyscans",
-    "apk": "tachiyomi-en.sunshinebutterflyscans-v1.4.37.apk",
+    "apk": "tachiyomi-en.sunshinebutterflyscans-v1.4.38.apk",
     "lang": "en",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16925,9 +16925,9 @@
       {
         "name": "Sunshine Butterfly Scans",
         "lang": "en",
-        "id": "270735877209005638",
-        "baseUrl": "https://sunshinebutterflyscan.com",
-        "versionId": 1
+        "id": "9191177608229286435",
+        "baseUrl": "https://wings.sbs",
+        "versionId": 2
       }
     ]
   },
