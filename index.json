@@ -18901,10 +18901,10 @@
   {
     "name": "Tachiyomi: Ikigai Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
-    "apk": "tachiyomi-es.ikigaimangas-v1.4.9.apk",
+    "apk": "tachiyomi-es.ikigaimangas-v1.4.10.apk",
     "lang": "es",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26596,10 +26596,10 @@
   {
     "name": "Tachiyomi: Lura Toon",
     "pkg": "eu.kanade.tachiyomi.extension.pt.randomscan",
-    "apk": "tachiyomi-pt.randomscan-v1.4.47.apk",
+    "apk": "tachiyomi-pt.randomscan-v1.4.48.apk",
     "lang": "pt-BR",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26608,7 +26608,7 @@
         "name": "Lura Toon",
         "lang": "pt-BR",
         "id": "5618833222165156043",
-        "baseUrl": "https://luratoon.com",
+        "baseUrl": "https://lura-toons.com",
         "versionId": 1
       }
     ]
@@ -30394,26 +30394,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Ngon Phong",
-    "pkg": "eu.kanade.tachiyomi.extension.vi.ngonphong",
-    "apk": "tachiyomi-vi.ngonphong-v1.4.4.apk",
-    "lang": "vi",
-    "code": 4,
-    "version": "1.4.4",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Ngôn Phong",
-        "lang": "vi",
-        "id": "7268977637085631557",
-        "baseUrl": "https://www.ngonphong.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: NhatTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nhattruyen",
     "apk": "tachiyomi-vi.nhattruyen-v1.4.22.apk",
@@ -30449,26 +30429,6 @@
         "lang": "vi",
         "id": "3351211853254823251",
         "baseUrl": "https://nhattruyenss.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: O Cu Meo",
-    "pkg": "eu.kanade.tachiyomi.extension.vi.ocumeo",
-    "apk": "tachiyomi-vi.ocumeo-v1.4.5.apk",
-    "lang": "vi",
-    "code": 5,
-    "version": "1.4.5",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Ổ Cú Mèo",
-        "lang": "vi",
-        "id": "8330490015365279279",
-        "baseUrl": "https://www.ocumeo.store",
         "versionId": 1
       }
     ]
