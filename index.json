@@ -16374,10 +16374,10 @@
   {
     "name": "Tachiyomi: Reaper Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.reaperscans",
-    "apk": "tachiyomi-en.reaperscans-v1.4.48.apk",
+    "apk": "tachiyomi-en.reaperscans-v1.4.49.apk",
     "lang": "en",
-    "code": 48,
-    "version": "1.4.48",
+    "code": 49,
+    "version": "1.4.49",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17294,10 +17294,10 @@
   {
     "name": "Tachiyomi: Toonily",
     "pkg": "eu.kanade.tachiyomi.extension.en.toonily",
-    "apk": "tachiyomi-en.toonily-v1.4.47.apk",
+    "apk": "tachiyomi-en.toonily-v1.4.48.apk",
     "lang": "en",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18514,26 +18514,6 @@
         "lang": "es",
         "id": "1626637101814976364",
         "baseUrl": "https://datgarscanlation.blogspot.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: DeManhuas",
-    "pkg": "eu.kanade.tachiyomi.extension.es.demanhuas",
-    "apk": "tachiyomi-es.demanhuas-v1.4.36.apk",
-    "lang": "es",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "DeManhuas",
-        "lang": "es",
-        "id": "1729131004302291954",
-        "baseUrl": "https://demanhuas.com",
         "versionId": 1
       }
     ]
@@ -19914,26 +19894,6 @@
         "lang": "es",
         "id": "8426075893449463003",
         "baseUrl": "https://ryujinmanga.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: SamuraiScan",
-    "pkg": "eu.kanade.tachiyomi.extension.es.samuraiscan",
-    "apk": "tachiyomi-es.samuraiscan-v1.4.40.apk",
-    "lang": "es",
-    "code": 40,
-    "version": "1.4.40",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "SamuraiScan",
-        "lang": "es",
-        "id": "4890948689319085079",
-        "baseUrl": "https://samuraiscan.org",
         "versionId": 1
       }
     ]
@@ -22341,6 +22301,26 @@
         "lang": "id",
         "id": "5716614438725518956",
         "baseUrl": "https://www.maid.my.id",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Can",
+    "pkg": "eu.kanade.tachiyomi.extension.id.mangacan",
+    "apk": "tachiyomi-id.mangacan-v1.4.30.apk",
+    "lang": "id",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Can",
+        "lang": "id",
+        "id": "4396938423130345004",
+        "baseUrl": "https://mangacanblog.com",
         "versionId": 1
       }
     ]
@@ -25016,10 +24996,10 @@
   {
     "name": "Tachiyomi: Brasil Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.brasilhentai",
-    "apk": "tachiyomi-pt.brasilhentai-v1.4.1.apk",
+    "apk": "tachiyomi-pt.brasilhentai-v1.4.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28736,10 +28716,10 @@
   {
     "name": "Tachiyomi: Hattori Manga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.hattorimanga",
-    "apk": "tachiyomi-tr.hattorimanga-v1.4.37.apk",
+    "apk": "tachiyomi-tr.hattorimanga-v1.4.38.apk",
     "lang": "tr",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
