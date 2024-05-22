@@ -6677,6 +6677,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Arabs Doujin",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.arabsdoujin",
+    "apk": "tachiyomi-ar.arabsdoujin-v1.4.9.apk",
+    "lang": "ar",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Arabs Doujin",
+        "lang": "ar",
+        "id": "6818709036814540480",
+        "baseUrl": "https://www.arabsdoujin.online",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Arabs Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.ar.arabshentai",
     "apk": "tachiyomi-ar.arabshentai-v1.4.2.apk",
@@ -19514,6 +19534,26 @@
         "lang": "es",
         "id": "1271152520868648259",
         "baseUrl": "https://mangaxico.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manhua Espanol",
+    "pkg": "eu.kanade.tachiyomi.extension.es.manhuaespanol",
+    "apk": "tachiyomi-es.manhuaespanol-v1.4.36.apk",
+    "lang": "es",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manhua Español",
+        "lang": "es",
+        "id": "2364814682206423293",
+        "baseUrl": "https://manhuaespanol.com",
         "versionId": 1
       }
     ]
