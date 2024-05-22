@@ -982,10 +982,10 @@
   {
     "name": "Tachiyomi: Comick",
     "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
-    "apk": "tachiyomi-all.comickfun-v1.4.44.apk",
+    "apk": "tachiyomi-all.comickfun-v1.4.45.apk",
     "lang": "all",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4684,10 +4684,10 @@
   {
     "name": "Tachiyomi: Manhwa18.cc",
     "pkg": "eu.kanade.tachiyomi.extension.all.manhwa18cc",
-    "apk": "tachiyomi-all.manhwa18cc-v1.4.40.apk",
+    "apk": "tachiyomi-all.manhwa18cc-v1.4.41.apk",
     "lang": "all",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6211,10 +6211,10 @@
   {
     "name": "Tachiyomi: Union Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.all.unionmangas",
-    "apk": "tachiyomi-all.unionmangas-v1.4.2.apk",
+    "apk": "tachiyomi-all.unionmangas-v1.4.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6999,10 +6999,10 @@
   {
     "name": "Tachiyomi: Hijala",
     "pkg": "eu.kanade.tachiyomi.extension.ar.hijala",
-    "apk": "tachiyomi-ar.hijala-v1.4.31.apk",
+    "apk": "tachiyomi-ar.hijala-v1.4.32.apk",
     "lang": "ar",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7010,9 +7010,9 @@
       {
         "name": "Hijala",
         "lang": "ar",
-        "id": "7593186392118593943",
-        "baseUrl": "https://www.hijala.com",
-        "versionId": 3
+        "id": "917436262447415426",
+        "baseUrl": "https://hijala.com",
+        "versionId": 2
       }
     ]
   },
@@ -7437,6 +7437,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manga Trend",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangatrend",
+    "apk": "tachiyomi-ar.mangatrend-v1.4.30.apk",
+    "lang": "ar",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Trend",
+        "lang": "ar",
+        "id": "3509183087698743427",
+        "baseUrl": "https://mangaatrend.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manhatic",
     "pkg": "eu.kanade.tachiyomi.extension.ar.manhatic",
     "apk": "tachiyomi-ar.manhatic-v1.4.36.apk",
@@ -7452,6 +7472,26 @@
         "lang": "ar",
         "id": "152314873890577786",
         "baseUrl": "https://manhatic.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manhatok",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.manhatok",
+    "apk": "tachiyomi-ar.manhatok-v1.4.9.apk",
+    "lang": "ar",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manhatok",
+        "lang": "ar",
+        "id": "743599002989616408",
+        "baseUrl": "https://manhatok.blogspot.com",
         "versionId": 1
       }
     ]
@@ -7732,6 +7772,26 @@
         "lang": "ar",
         "id": "1677221088317532348",
         "baseUrl": "https://yonabar.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Yuri Moon Sub",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.yurimoonsub",
+    "apk": "tachiyomi-ar.yurimoonsub-v1.4.9.apk",
+    "lang": "ar",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Yuri Moon Sub",
+        "lang": "ar",
+        "id": "7833471811016150678",
+        "baseUrl": "https://yurimoonsub.blogspot.com",
         "versionId": 1
       }
     ]
@@ -9019,10 +9079,10 @@
   {
     "name": "Tachiyomi: DMC Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.dmcscans",
-    "apk": "tachiyomi-en.dmcscans-v1.4.9.apk",
+    "apk": "tachiyomi-en.dmcscans-v1.4.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -13214,10 +13274,10 @@
   {
     "name": "Tachiyomi: MangaSco",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangasco",
-    "apk": "tachiyomi-en.mangasco-v1.4.38.apk",
+    "apk": "tachiyomi-en.mangasco-v1.4.39.apk",
     "lang": "en",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -13226,7 +13286,7 @@
         "name": "MangaSco",
         "lang": "en",
         "id": "2832458433399665913",
-        "baseUrl": "https://manhwasco.net",
+        "baseUrl": "https://mgsco.org",
         "versionId": 1
       }
     ]
@@ -18401,10 +18461,10 @@
   {
     "name": "Tachiyomi: Celestial Moon",
     "pkg": "eu.kanade.tachiyomi.extension.es.celestialmoon",
-    "apk": "tachiyomi-es.celestialmoon-v1.4.9.apk",
+    "apk": "tachiyomi-es.celestialmoon-v1.4.10.apk",
     "lang": "es",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19481,10 +19541,10 @@
   {
     "name": "Tachiyomi: SamuraiScan",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhuaonline",
-    "apk": "tachiyomi-es.manhuaonline-v1.4.39.apk",
+    "apk": "tachiyomi-es.manhuaonline-v1.4.40.apk",
     "lang": "es",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19493,7 +19553,7 @@
         "name": "SamuraiScan",
         "lang": "es",
         "id": "5713083996691468192",
-        "baseUrl": "https://blog.manhuaonline.org",
+        "baseUrl": "https://spanish.visorsmr.com",
         "versionId": 1
       }
     ]
@@ -19741,10 +19801,10 @@
   {
     "name": "Tachiyomi: Plot Twist No Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.es.plottwistnofansub",
-    "apk": "tachiyomi-es.plottwistnofansub-v1.4.5.apk",
+    "apk": "tachiyomi-es.plottwistnofansub-v1.4.6.apk",
     "lang": "es",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20708,10 +20768,10 @@
   {
     "name": "Tachiyomi: Japscan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.japscan",
-    "apk": "tachiyomi-fr.japscan-v1.4.44.apk",
+    "apk": "tachiyomi-fr.japscan-v1.4.45.apk",
     "lang": "fr",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21766,6 +21826,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Kishisan",
+    "pkg": "eu.kanade.tachiyomi.extension.id.kishisan",
+    "apk": "tachiyomi-id.kishisan-v1.4.9.apk",
+    "lang": "id",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Kishisan",
+        "lang": "id",
+        "id": "9039531611231960252",
+        "baseUrl": "https://www.kishisan.site",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: KlikManga",
     "pkg": "eu.kanade.tachiyomi.extension.id.klikmanga",
     "apk": "tachiyomi-id.klikmanga-v1.4.38.apk",
@@ -22468,10 +22548,10 @@
   {
     "name": "Tachiyomi: MangaTale",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangatale",
-    "apk": "tachiyomi-id.mangatale-v1.4.32.apk",
+    "apk": "tachiyomi-id.mangatale-v1.4.33.apk",
     "lang": "id",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22841,6 +22921,26 @@
         "lang": "id",
         "id": "5360960267485387879",
         "baseUrl": "https://ngomik.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Nimemob",
+    "pkg": "eu.kanade.tachiyomi.extension.id.nimemob",
+    "apk": "tachiyomi-id.nimemob-v1.4.9.apk",
+    "lang": "id",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Nimemob",
+        "lang": "id",
+        "id": "5462598084556032393",
+        "baseUrl": "https://www.nimemob.my.id",
         "versionId": 1
       }
     ]
@@ -25774,6 +25874,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Ler Hentai",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.lerhentai",
+    "apk": "tachiyomi-pt.lerhentai-v1.4.36.apk",
+    "lang": "pt-BR",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Ler Hentai",
+        "lang": "pt-BR",
+        "id": "2222846466996397768",
+        "baseUrl": "https://lerhentai.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Ler Mangá Online",
     "pkg": "eu.kanade.tachiyomi.extension.pt.lermangaonline",
     "apk": "tachiyomi-pt.lermangaonline-v1.4.1.apk",
@@ -26096,10 +26216,10 @@
   {
     "name": "Tachiyomi: Manga Terra",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangaterra",
-    "apk": "tachiyomi-pt.mangaterra-v1.4.1.apk",
+    "apk": "tachiyomi-pt.mangaterra-v1.4.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26116,10 +26236,10 @@
   {
     "name": "Tachiyomi: Manhastro",
     "pkg": "eu.kanade.tachiyomi.extension.pt.manhastro",
-    "apk": "tachiyomi-pt.manhastro-v1.4.40.apk",
+    "apk": "tachiyomi-pt.manhastro-v1.4.41.apk",
     "lang": "pt-BR",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26309,26 +26429,6 @@
         "lang": "pt-BR",
         "id": "1251235374170808039",
         "baseUrl": "https://nazarickscan.com.br",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Nexo Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.nexoscans",
-    "apk": "tachiyomi-pt.nexoscans-v1.4.38.apk",
-    "lang": "pt-BR",
-    "code": 38,
-    "version": "1.4.38",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Nexo Scans",
-        "lang": "pt-BR",
-        "id": "3589167245092122415",
-        "baseUrl": "https://nexoscans.net",
         "versionId": 1
       }
     ]
