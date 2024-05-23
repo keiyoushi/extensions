@@ -18459,6 +18459,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Bymichi Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.es.bymichiscan",
+    "apk": "tachiyomi-es.bymichiscan-v1.4.30.apk",
+    "lang": "es",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Bymichi Scan",
+        "lang": "es",
+        "id": "4436777272781358384",
+        "baseUrl": "https://bymichiby.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Cartel de Manhwas",
     "pkg": "eu.kanade.tachiyomi.extension.es.carteldemanhwas",
     "apk": "tachiyomi-es.carteldemanhwas-v1.4.36.apk",
@@ -25056,10 +25076,10 @@
   {
     "name": "Tachiyomi: Aurora Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.aurorascan",
-    "apk": "tachiyomi-pt.aurorascan-v1.4.7.apk",
+    "apk": "tachiyomi-pt.aurorascan-v1.4.8.apk",
     "lang": "pt-BR",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25196,10 +25216,10 @@
   {
     "name": "Tachiyomi: Cerise Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.cerisescans",
-    "apk": "tachiyomi-pt.cerisescans-v1.4.47.apk",
+    "apk": "tachiyomi-pt.cerisescans-v1.4.48.apk",
     "lang": "pt-BR",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25256,10 +25276,10 @@
   {
     "name": "Tachiyomi: Dango Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.dangoscan",
-    "apk": "tachiyomi-pt.dangoscan-v1.4.7.apk",
+    "apk": "tachiyomi-pt.dangoscan-v1.4.8.apk",
     "lang": "pt-BR",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25414,21 +25434,41 @@
     ]
   },
   {
-    "name": "Tachiyomi: Flower Manga",
+    "name": "Tachiyomi: FlowerManga.net",
     "pkg": "eu.kanade.tachiyomi.extension.pt.flowermanga",
-    "apk": "tachiyomi-pt.flowermanga-v1.4.37.apk",
+    "apk": "tachiyomi-pt.flowermanga-v1.4.38.apk",
     "lang": "pt-BR",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Flower Manga",
+        "name": "FlowerManga.net",
         "lang": "pt-BR",
         "id": "2421010180391442293",
         "baseUrl": "https://flowermanga.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: FlowerManga.com",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.flowermangadotcom",
+    "apk": "tachiyomi-pt.flowermangadotcom-v1.4.36.apk",
+    "lang": "pt-BR",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "FlowerManga.com",
+        "lang": "pt-BR",
+        "id": "566631359588932077",
+        "baseUrl": "https://flowermanga.com",
         "versionId": 1
       }
     ]
@@ -25670,6 +25710,26 @@
         "id": "2379514871370953957",
         "baseUrl": "https://hiper.cool",
         "versionId": 2
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Hot Cabaret Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.hotcabaretscan",
+    "apk": "tachiyomi-pt.hotcabaretscan-v1.4.36.apk",
+    "lang": "pt-BR",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hot Cabaret Scan",
+        "lang": "pt-BR",
+        "id": "8778000927023046626",
+        "baseUrl": "https://hotcabaretscan.com",
+        "versionId": 1
       }
     ]
   },
@@ -26456,10 +26516,10 @@
   {
     "name": "Tachiyomi: Nazarick Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.nazarickscan",
-    "apk": "tachiyomi-pt.nazarickscan-v1.4.7.apk",
+    "apk": "tachiyomi-pt.nazarickscan-v1.4.8.apk",
     "lang": "pt-BR",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26674,6 +26734,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Prazeres Violentos",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.prazeresviolentos",
+    "apk": "tachiyomi-pt.prazeresviolentos-v1.4.36.apk",
+    "lang": "pt-BR",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Prazeres Violentos",
+        "lang": "pt-BR",
+        "id": "942491686131882974",
+        "baseUrl": "https://prazeresviolentos.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Demon Sect",
     "pkg": "eu.kanade.tachiyomi.extension.pt.prismascans",
     "apk": "tachiyomi-pt.prismascans-v1.4.42.apk",
@@ -26716,10 +26796,10 @@
   {
     "name": "Tachiyomi: Lura Toon",
     "pkg": "eu.kanade.tachiyomi.extension.pt.randomscan",
-    "apk": "tachiyomi-pt.randomscan-v1.4.48.apk",
+    "apk": "tachiyomi-pt.randomscan-v1.4.50.apk",
     "lang": "pt-BR",
-    "code": 48,
-    "version": "1.4.48",
+    "code": 50,
+    "version": "1.4.50",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26756,10 +26836,10 @@
   {
     "name": "Tachiyomi: RF Dragon Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.rfdragonscan",
-    "apk": "tachiyomi-pt.rfdragonscan-v1.4.7.apk",
+    "apk": "tachiyomi-pt.rfdragonscan-v1.4.8.apk",
     "lang": "pt-BR",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26816,10 +26896,10 @@
   {
     "name": "Tachiyomi: Sinensis Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sinensis",
-    "apk": "tachiyomi-pt.sinensis-v1.4.45.apk",
+    "apk": "tachiyomi-pt.sinensis-v1.4.46.apk",
     "lang": "pt-BR",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27136,10 +27216,10 @@
   {
     "name": "Tachiyomi: Wicked Witch Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.wickedwitchscannovo",
-    "apk": "tachiyomi-pt.wickedwitchscannovo-v1.4.8.apk",
+    "apk": "tachiyomi-pt.wickedwitchscannovo-v1.4.9.apk",
     "lang": "pt-BR",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27296,10 +27376,10 @@
   {
     "name": "Tachiyomi: Yugen Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yugenmangas",
-    "apk": "tachiyomi-pt.yugenmangas-v1.4.38.apk",
+    "apk": "tachiyomi-pt.yugenmangas-v1.4.39.apk",
     "lang": "pt-BR",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
