@@ -9199,10 +9199,10 @@
   {
     "name": "Tachiyomi: Dynasty",
     "pkg": "eu.kanade.tachiyomi.extension.en.dynasty",
-    "apk": "tachiyomi-en.dynasty-v1.4.23.apk",
+    "apk": "tachiyomi-en.dynasty-v1.4.24.apk",
     "lang": "en",
-    "code": 23,
-    "version": "1.4.23",
+    "code": 24,
+    "version": "1.4.24",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19121,10 +19121,10 @@
   {
     "name": "Tachiyomi: Jeaz Scans",
     "pkg": "eu.kanade.tachiyomi.extension.es.jeazscans",
-    "apk": "tachiyomi-es.jeazscans-v1.4.37.apk",
+    "apk": "tachiyomi-es.jeazscans-v1.4.38.apk",
     "lang": "es",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19133,7 +19133,7 @@
         "name": "JeazScans",
         "lang": "es",
         "id": "5292079548510508306",
-        "baseUrl": "https://jeazscansv2.com",
+        "baseUrl": "https://jeazscansv1.com",
         "versionId": 1
       }
     ]
@@ -23266,21 +23266,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Siimanga",
+    "name": "Tachiyomi: Siikomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.siimanga",
-    "apk": "tachiyomi-id.siimanga-v1.4.36.apk",
+    "apk": "tachiyomi-id.siimanga-v1.4.37.apk",
     "lang": "id",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Siimanga",
+        "name": "Siikomik",
         "lang": "id",
         "id": "5693774260946188681",
-        "baseUrl": "https://siimanga.cyou",
+        "baseUrl": "https://siikomik.com",
         "versionId": 1
       }
     ]
@@ -25350,6 +25350,26 @@
         "id": "5356614925537900346",
         "baseUrl": "https://diskusscan.com",
         "versionId": 2
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Dream Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.dreamscan",
+    "apk": "tachiyomi-pt.dreamscan-v1.4.36.apk",
+    "lang": "pt-br",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Dream Scan",
+        "lang": "pt-br",
+        "id": "2058412298484770949",
+        "baseUrl": "https://dreamscan.com.br",
+        "versionId": 1
       }
     ]
   },
