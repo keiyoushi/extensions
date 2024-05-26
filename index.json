@@ -7597,26 +7597,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: PotatoManga",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.potatomanga",
-    "apk": "tachiyomi-ar.potatomanga-v1.4.32.apk",
-    "lang": "ar",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "PotatoManga",
-        "lang": "ar",
-        "id": "5991269639191456094",
-        "baseUrl": "https://ar.potatomanga.xyz",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: RE Manga (Arabic)",
     "pkg": "eu.kanade.tachiyomi.extension.ar.remangaarabic",
     "apk": "tachiyomi-ar.remangaarabic-v1.4.2.apk",
