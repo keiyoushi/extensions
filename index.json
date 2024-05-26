@@ -7397,26 +7397,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaTak",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.mangatak",
-    "apk": "tachiyomi-ar.mangatak-v1.4.31.apk",
-    "lang": "ar",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaTak",
-        "lang": "ar",
-        "id": "4940266815923515755",
-        "baseUrl": "https://mangatak.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Manga Tales",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangatales",
     "apk": "tachiyomi-ar.mangatales-v1.4.3.apk",
@@ -19361,10 +19341,10 @@
   {
     "name": "Tachiyomi: Manga Crab",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangacrab",
-    "apk": "tachiyomi-es.mangacrab-v1.4.45.apk",
+    "apk": "tachiyomi-es.mangacrab-v1.4.46.apk",
     "lang": "es",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19373,7 +19353,7 @@
         "name": "Manga Crab",
         "lang": "es",
         "id": "6167683270485370369",
-        "baseUrl": "https://visorcrab.com",
+        "baseUrl": "https://wikicrab.xyz",
         "versionId": 1
       }
     ]
@@ -24148,10 +24128,10 @@
   {
     "name": "Tachiyomi: Manga-Mate",
     "pkg": "eu.kanade.tachiyomi.extension.ja.mangamate",
-    "apk": "tachiyomi-ja.mangamate-v1.4.30.apk",
+    "apk": "tachiyomi-ja.mangamate-v1.4.31.apk",
     "lang": "ja",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24301,6 +24281,26 @@
         "lang": "ja",
         "id": "1056568527385317039",
         "baseUrl": "https://webcomic.ohtabooks.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Pixiv Comic",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.pixivcomic",
+    "apk": "tachiyomi-ja.pixivcomic-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Pixivコミック",
+        "lang": "ja",
+        "id": "2937751339618832603",
+        "baseUrl": "https://comic.pixiv.net",
         "versionId": 1
       }
     ]
@@ -24821,14 +24821,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki338.net",
+        "baseUrl": "https://manatoki339.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki338.com",
+        "baseUrl": "https://newtoki339.com",
         "versionId": 1
       }
     ]
@@ -26936,10 +26936,10 @@
   {
     "name": "Tachiyomi: SlimeRead",
     "pkg": "eu.kanade.tachiyomi.extension.pt.slimeread",
-    "apk": "tachiyomi-pt.slimeread-v1.4.9.apk",
+    "apk": "tachiyomi-pt.slimeread-v1.4.10.apk",
     "lang": "pt-BR",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -30516,10 +30516,10 @@
   {
     "name": "Tachiyomi: LXHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.lxhentai",
-    "apk": "tachiyomi-vi.lxhentai-v1.4.4.apk",
+    "apk": "tachiyomi-vi.lxhentai-v1.4.5.apk",
     "lang": "vi",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -30528,7 +30528,7 @@
         "name": "LXHentai",
         "lang": "vi",
         "id": "6495630445796108150",
-        "baseUrl": "https://lxmanga.club",
+        "baseUrl": "https://lxmanga.icu",
         "versionId": 1
       }
     ]
@@ -30550,26 +30550,6 @@
         "id": "5818973680777851987",
         "baseUrl": "https://manhuarockz.com",
         "versionId": 2
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: NetTruyen",
-    "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyen",
-    "apk": "tachiyomi-vi.nettruyen-v1.4.35.apk",
-    "lang": "vi",
-    "code": 35,
-    "version": "1.4.35",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "NetTruyen",
-        "lang": "vi",
-        "id": "5198966899163361086",
-        "baseUrl": "https://www.nettruyenvv.com",
-        "versionId": 1
       }
     ]
   },
@@ -30676,10 +30656,10 @@
   {
     "name": "Tachiyomi: SayHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.sayhentai",
-    "apk": "tachiyomi-vi.sayhentai-v1.4.5.apk",
+    "apk": "tachiyomi-vi.sayhentai-v1.4.6.apk",
     "lang": "vi",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -30688,7 +30668,7 @@
         "name": "SayHentai",
         "lang": "vi",
         "id": "4370817879994829481",
-        "baseUrl": "https://sayhentai.pro",
+        "baseUrl": "https://sayhentai.co",
         "versionId": 1
       }
     ]
@@ -30796,10 +30776,10 @@
   {
     "name": "Tachiyomi: TruyenVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenvn",
-    "apk": "tachiyomi-vi.truyenvn-v1.4.36.apk",
+    "apk": "tachiyomi-vi.truyenvn-v1.4.37.apk",
     "lang": "vi",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -30808,7 +30788,7 @@
         "name": "TruyenVN",
         "lang": "vi",
         "id": "5758845301840022147",
-        "baseUrl": "https://truyenvn.lol",
+        "baseUrl": "https://truyenvn.xyz",
         "versionId": 1
       }
     ]
