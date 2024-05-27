@@ -17959,6 +17959,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Yaoihub",
+    "pkg": "eu.kanade.tachiyomi.extension.en.yaoihub",
+    "apk": "tachiyomi-en.yaoihub-v1.4.36.apk",
+    "lang": "en",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Yaoihub",
+        "lang": "en",
+        "id": "6718273076571980404",
+        "baseUrl": "https://yaoihub.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Yaoi.mobi",
     "pkg": "eu.kanade.tachiyomi.extension.en.yaoimanga",
     "apk": "tachiyomi-en.yaoimanga-v1.4.40.apk",
@@ -20648,10 +20668,10 @@
   {
     "name": "Tachiyomi: FR-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.frdashscan",
-    "apk": "tachiyomi-fr.frdashscan-v1.4.41.apk",
+    "apk": "tachiyomi-fr.frdashscan-v1.4.42.apk",
     "lang": "fr",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
