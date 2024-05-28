@@ -29696,10 +29696,10 @@
   {
     "name": "Tachiyomi: Nivera Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.tr.niverafansub",
-    "apk": "tachiyomi-tr.niverafansub-v1.4.36.apk",
+    "apk": "tachiyomi-tr.niverafansub-v1.4.37.apk",
     "lang": "tr",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -29708,7 +29708,7 @@
         "name": "Nivera Fansub",
         "lang": "tr",
         "id": "3875676731760385630",
-        "baseUrl": "https://niverafansub.co",
+        "baseUrl": "https://niverafansub.net",
         "versionId": 1
       }
     ]
