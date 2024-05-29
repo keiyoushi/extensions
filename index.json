@@ -1934,6 +1934,40 @@
     ]
   },
   {
+    "name": "Tachiyomi: EternalMangas",
+    "pkg": "eu.kanade.tachiyomi.extension.all.eternalmangas",
+    "apk": "tachiyomi-all.eternalmangas-v1.4.2.apk",
+    "lang": "all",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "EternalMangas",
+        "lang": "es",
+        "id": "1533901034425595323",
+        "baseUrl": "https://eternalmangas.com",
+        "versionId": 1
+      },
+      {
+        "name": "EternalMangas",
+        "lang": "en",
+        "id": "5438790096530288259",
+        "baseUrl": "https://eternalmangas.com",
+        "versionId": 1
+      },
+      {
+        "name": "EternalMangas",
+        "lang": "pt-BR",
+        "id": "4895816221191932497",
+        "baseUrl": "https://eternalmangas.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Everia.club",
     "pkg": "eu.kanade.tachiyomi.extension.all.everiaclub",
     "apk": "tachiyomi-all.everiaclub-v1.4.9.apk",
@@ -12974,10 +13008,10 @@
   {
     "name": "Tachiyomi: MangaGeko",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangarawclub",
-    "apk": "tachiyomi-en.mangarawclub-v1.4.22.apk",
+    "apk": "tachiyomi-en.mangarawclub-v1.4.23.apk",
     "lang": "en",
-    "code": 22,
-    "version": "1.4.22",
+    "code": 23,
+    "version": "1.4.23",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18739,32 +18773,12 @@
     ]
   },
   {
-    "name": "Tachiyomi: EternalMangas",
-    "pkg": "eu.kanade.tachiyomi.extension.es.eternalmangas",
-    "apk": "tachiyomi-es.eternalmangas-v1.4.1.apk",
-    "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "EternalMangas",
-        "lang": "es",
-        "id": "1533901034425595323",
-        "baseUrl": "https://eternalmangas.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Foy Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.foyscan",
-    "apk": "tachiyomi-es.foyscan-v1.4.1.apk",
+    "apk": "tachiyomi-es.foyscan-v1.4.2.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19361,10 +19375,10 @@
   {
     "name": "Tachiyomi: MangaEsp",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangaesp",
-    "apk": "tachiyomi-es.mangaesp-v1.4.3.apk",
+    "apk": "tachiyomi-es.mangaesp-v1.4.4.apk",
     "lang": "es",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20181,10 +20195,10 @@
   {
     "name": "Tachiyomi: Temple Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.templescanesp",
-    "apk": "tachiyomi-es.templescanesp-v1.4.35.apk",
+    "apk": "tachiyomi-es.templescanesp-v1.4.36.apk",
     "lang": "es",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20301,10 +20315,10 @@
   {
     "name": "Tachiyomi: Traducciones Moonlight",
     "pkg": "eu.kanade.tachiyomi.extension.es.traduccionesmoonlight",
-    "apk": "tachiyomi-es.traduccionesmoonlight-v1.4.39.apk",
+    "apk": "tachiyomi-es.traduccionesmoonlight-v1.4.40.apk",
     "lang": "es",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20808,10 +20822,10 @@
   {
     "name": "Tachiyomi: Japscan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.japscan",
-    "apk": "tachiyomi-fr.japscan-v1.4.45.apk",
+    "apk": "tachiyomi-fr.japscan-v1.4.46.apk",
     "lang": "fr",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22166,6 +22180,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Komik Pix",
+    "pkg": "eu.kanade.tachiyomi.extension.id.komikpix",
+    "apk": "tachiyomi-id.komikpix-v1.4.30.apk",
+    "lang": "id",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Komik Pix",
+        "lang": "id",
+        "id": "8680556114735349983",
+        "baseUrl": "https://komikpix.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: KomikPlay",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikplay",
     "apk": "tachiyomi-id.komikplay-v1.4.2.apk",
@@ -23021,6 +23055,26 @@
         "lang": "id",
         "id": "6327374097013138583",
         "baseUrl": "https://onepieceberwarna.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Ota Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.id.otascans",
+    "apk": "tachiyomi-id.otascans-v1.4.30.apk",
+    "lang": "id",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Ota Scans",
+        "lang": "id",
+        "id": "2170345400165397182",
+        "baseUrl": "https://yurilab.my.id",
         "versionId": 1
       }
     ]
@@ -30196,10 +30250,10 @@
   {
     "name": "Tachiyomi: Webtoon Hatti",
     "pkg": "eu.kanade.tachiyomi.extension.tr.webtoonhatti",
-    "apk": "tachiyomi-tr.webtoonhatti-v1.4.38.apk",
+    "apk": "tachiyomi-tr.webtoonhatti-v1.4.39.apk",
     "lang": "tr",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
