@@ -31008,21 +31008,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Baozimh.org",
+    "name": "Tachiyomi: GoDa",
     "pkg": "eu.kanade.tachiyomi.extension.zh.baozimhorg",
-    "apk": "tachiyomi-zh.baozimhorg-v1.4.28.apk",
+    "apk": "tachiyomi-zh.baozimhorg-v1.4.29.apk",
     "lang": "zh",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "包子漫画导航",
+        "name": "GoDa漫画",
         "lang": "zh",
         "id": "774030471139699415",
-        "baseUrl": "https://baozimh.org",
+        "baseUrl": "https://baozimh.org#, https://godamh.com#, https://m.baozimh.one",
         "versionId": 1
       }
     ]
