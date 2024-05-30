@@ -18515,10 +18515,10 @@
   {
     "name": "Tachiyomi: Celestial Moon",
     "pkg": "eu.kanade.tachiyomi.extension.es.celestialmoon",
-    "apk": "tachiyomi-es.celestialmoon-v1.4.10.apk",
+    "apk": "tachiyomi-es.celestialmoon-v1.4.30.apk",
     "lang": "es",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18526,9 +18526,9 @@
       {
         "name": "Celestial Moon",
         "lang": "es",
-        "id": "6179789955975847842",
-        "baseUrl": "https://www.celestialmoonscan.com",
-        "versionId": 1
+        "id": "7771256386177960897",
+        "baseUrl": "https://celestialmoonscan.es",
+        "versionId": 2
       }
     ]
   },
@@ -24702,10 +24702,10 @@
   {
     "name": "Tachiyomi: Web Comic Gamma",
     "pkg": "eu.kanade.tachiyomi.extension.ja.webcomicgamma",
-    "apk": "tachiyomi-ja.webcomicgamma-v1.4.7.apk",
+    "apk": "tachiyomi-ja.webcomicgamma-v1.4.8.apk",
     "lang": "ja",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24722,10 +24722,10 @@
   {
     "name": "Tachiyomi: Web Comic Gamma Plus",
     "pkg": "eu.kanade.tachiyomi.extension.ja.webcomicgammaplus",
-    "apk": "tachiyomi-ja.webcomicgammaplus-v1.4.7.apk",
+    "apk": "tachiyomi-ja.webcomicgammaplus-v1.4.8.apk",
     "lang": "ja",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25650,10 +25650,10 @@
   {
     "name": "Tachiyomi: Guilda Tier Draw",
     "pkg": "eu.kanade.tachiyomi.extension.pt.guildatierdraw",
-    "apk": "tachiyomi-pt.guildatierdraw-v1.4.9.apk",
+    "apk": "tachiyomi-pt.guildatierdraw-v1.4.10.apk",
     "lang": "pt-BR",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25662,7 +25662,7 @@
         "name": "Guilda Tier Draw",
         "lang": "pt-BR",
         "id": "1064707676167186705",
-        "baseUrl": "https://www.guildatierdraw.com",
+        "baseUrl": "https://www.guildatierdraw.top",
         "versionId": 1
       }
     ]
@@ -28963,6 +28963,26 @@
         "lang": "tr",
         "id": "4962507861930922611",
         "baseUrl": "https://garciamanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Ghost Fansub",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.ghostfansub",
+    "apk": "tachiyomi-tr.ghostfansub-v1.4.36.apk",
+    "lang": "tr",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Ghost Fansub",
+        "lang": "tr",
+        "id": "6069851710123943559",
+        "baseUrl": "https://ghostfansub.co",
         "versionId": 1
       }
     ]
