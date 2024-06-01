@@ -2456,10 +2456,10 @@
   {
     "name": "Tachiyomi: Hitomi",
     "pkg": "eu.kanade.tachiyomi.extension.all.hitomi",
-    "apk": "tachiyomi-all.hitomi-v1.4.26.apk",
+    "apk": "tachiyomi-all.hitomi-v1.4.27.apk",
     "lang": "all",
-    "code": 26,
-    "version": "1.4.26",
+    "code": 27,
+    "version": "1.4.27",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8213,10 +8213,10 @@
   {
     "name": "Tachiyomi: Vortex Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arvenscans",
-    "apk": "tachiyomi-en.arvenscans-v1.4.32.apk",
+    "apk": "tachiyomi-en.arvenscans-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8225,7 +8225,7 @@
         "name": "Vortex Scans",
         "lang": "en",
         "id": "2559570015828016575",
-        "baseUrl": "https://vortexscans.com",
+        "baseUrl": "https://vortexscans.org",
         "versionId": 1
       }
     ]
@@ -9794,6 +9794,26 @@
         "lang": "en",
         "id": "1347225231744942120",
         "baseUrl": "https://globalbloging.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Goda",
+    "pkg": "eu.kanade.tachiyomi.extension.en.goda",
+    "apk": "tachiyomi-en.goda-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Goda",
+        "lang": "en",
+        "id": "4273874799952447458",
+        "baseUrl": "https://manhuascans.org",
         "versionId": 1
       }
     ]
@@ -12161,10 +12181,10 @@
   {
     "name": "Tachiyomi: Mangago",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangago",
-    "apk": "tachiyomi-en.mangago-v1.4.14.apk",
+    "apk": "tachiyomi-en.mangago-v1.4.15.apk",
     "lang": "en",
-    "code": 14,
-    "version": "1.4.14",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24895,14 +24915,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki339.net",
+        "baseUrl": "https://manatoki340.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki339.com",
+        "baseUrl": "https://newtoki340.com",
         "versionId": 1
       }
     ]
@@ -31030,10 +31050,10 @@
   {
     "name": "Tachiyomi: GoDa",
     "pkg": "eu.kanade.tachiyomi.extension.zh.baozimhorg",
-    "apk": "tachiyomi-zh.baozimhorg-v1.4.29.apk",
+    "apk": "tachiyomi-zh.baozimhorg-v1.4.30.apk",
     "lang": "zh",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31243,6 +31263,26 @@
         "lang": "zh",
         "id": "4222375517460530289",
         "baseUrl": "https://www.dongmanmanhua.cn",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: 18Manhua",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.eighteenmanhua",
+    "apk": "tachiyomi-zh.eighteenmanhua-v1.4.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "18漫画",
+        "lang": "zh",
+        "id": "5706270060628375954",
+        "baseUrl": "https://18mh.org",
         "versionId": 1
       }
     ]
