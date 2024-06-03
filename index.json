@@ -22,10 +22,10 @@
   {
     "name": "Tachiyomi: Akuma",
     "pkg": "eu.kanade.tachiyomi.extension.all.akuma",
-    "apk": "tachiyomi-all.akuma-v1.4.1.apk",
+    "apk": "tachiyomi-all.akuma-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -34,6 +34,181 @@
         "name": "Akuma",
         "lang": "all",
         "id": "1843646695111412994",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "en",
+        "id": "8524619729907384865",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "id",
+        "id": "1707768678643970514",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "jv",
+        "id": "3825200464570758229",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "ca",
+        "id": "186393818771246102",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "ceb",
+        "id": "5014742859693294263",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "cs",
+        "id": "3989593922015638091",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "da",
+        "id": "5988433661218368889",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "de",
+        "id": "8524245811050879736",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "et",
+        "id": "8167173986295647123",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "es",
+        "id": "5371778608318819884",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "eo",
+        "id": "77326570497325152",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "fr",
+        "id": "9222445553932717105",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "it",
+        "id": "5085561039221748061",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "hi",
+        "id": "1099564256126272699",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "hu",
+        "id": "1422819830508615430",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "pl",
+        "id": "8163761313345392776",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "pt",
+        "id": "5253884715906393116",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "vi",
+        "id": "1740877429814102450",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "tr",
+        "id": "2760962895634785428",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "ru",
+        "id": "7045343433771927648",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "uk",
+        "id": "5229751861519354976",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "ar",
+        "id": "8600626646399125374",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "ko",
+        "id": "8353987132172753017",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "zh",
+        "id": "7558912456429140642",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "ja",
+        "id": "5330127039501257395",
         "baseUrl": "https://akuma.moe",
         "versionId": 1
       }
