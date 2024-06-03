@@ -3804,10 +3804,10 @@
   {
     "name": "Tachiyomi: MangaFire",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangafire",
-    "apk": "tachiyomi-all.mangafire-v1.4.4.apk",
+    "apk": "tachiyomi-all.mangafire-v1.4.5.apk",
     "lang": "all",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11356,10 +11356,10 @@
   {
     "name": "Tachiyomi: Lua Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.luascans",
-    "apk": "tachiyomi-en.luascans-v1.4.31.apk",
+    "apk": "tachiyomi-en.luascans-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19990,10 +19990,10 @@
   {
     "name": "Tachiyomi: Noblesse Translations",
     "pkg": "eu.kanade.tachiyomi.extension.es.noblessetranslations",
-    "apk": "tachiyomi-es.noblessetranslations-v1.4.38.apk",
+    "apk": "tachiyomi-es.noblessetranslations-v1.4.39.apk",
     "lang": "es",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20002,7 +20002,7 @@
         "name": "Noblesse Translations",
         "lang": "es",
         "id": "5125011410949702843",
-        "baseUrl": "https://www.noblessev1.com",
+        "baseUrl": "https://www.nobledicion.com",
         "versionId": 1
       }
     ]
@@ -25605,17 +25605,17 @@
   {
     "name": "Tachiyomi: Dream Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.dreamscan",
-    "apk": "tachiyomi-pt.dreamscan-v1.4.36.apk",
-    "lang": "pt-br",
-    "code": 36,
-    "version": "1.4.36",
+    "apk": "tachiyomi-pt.dreamscan-v1.4.37.apk",
+    "lang": "pt-BR",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
         "name": "Dream Scan",
-        "lang": "pt-br",
+        "lang": "pt-BR",
         "id": "2058412298484770949",
         "baseUrl": "https://dreamscan.com.br",
         "versionId": 1
@@ -27065,10 +27065,10 @@
   {
     "name": "Tachiyomi: Lura Toon",
     "pkg": "eu.kanade.tachiyomi.extension.pt.randomscan",
-    "apk": "tachiyomi-pt.randomscan-v1.4.52.apk",
+    "apk": "tachiyomi-pt.randomscan-v1.4.53.apk",
     "lang": "pt-BR",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -30945,10 +30945,10 @@
   {
     "name": "Tachiyomi: Team Lanh Lung",
     "pkg": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
-    "apk": "tachiyomi-vi.teamlanhlung-v1.4.6.apk",
+    "apk": "tachiyomi-vi.teamlanhlung-v1.4.7.apk",
     "lang": "vi",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -30957,7 +30957,7 @@
         "name": "Team Lạnh Lùng",
         "lang": "vi",
         "id": "1832370231745386795",
-        "baseUrl": "https://teamlanhlung.club",
+        "baseUrl": "https://teamlanhlung.info",
         "versionId": 1
       }
     ]
