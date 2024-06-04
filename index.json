@@ -24526,10 +24526,10 @@
   {
     "name": "Tachiyomi: MANGARAW+",
     "pkg": "eu.kanade.tachiyomi.extension.ja.mangarawplus",
-    "apk": "tachiyomi-ja.mangarawplus-v1.4.38.apk",
+    "apk": "tachiyomi-ja.mangarawplus-v1.4.39.apk",
     "lang": "ja",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24538,7 +24538,7 @@
         "name": "MANGARAW+",
         "lang": "ja",
         "id": "4024106071166095369",
-        "baseUrl": "https://newmangaraw.com",
+        "baseUrl": "https://newmangaraw.net",
         "versionId": 1
       }
     ]
