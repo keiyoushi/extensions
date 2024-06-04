@@ -2330,6 +2330,75 @@
     ]
   },
   {
+    "name": "Tachiyomi: HentaiEra",
+    "pkg": "eu.kanade.tachiyomi.extension.all.hentaiera",
+    "apk": "tachiyomi-all.hentaiera-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "HentaiEra",
+        "lang": "en",
+        "id": "647637185891033517",
+        "baseUrl": "https://hentaiera.com",
+        "versionId": 1
+      },
+      {
+        "name": "HentaiEra",
+        "lang": "ja",
+        "id": "2492666945996599997",
+        "baseUrl": "https://hentaiera.com",
+        "versionId": 1
+      },
+      {
+        "name": "HentaiEra",
+        "lang": "es",
+        "id": "1720815810677381837",
+        "baseUrl": "https://hentaiera.com",
+        "versionId": 1
+      },
+      {
+        "name": "HentaiEra",
+        "lang": "fr",
+        "id": "6887659515539839354",
+        "baseUrl": "https://hentaiera.com",
+        "versionId": 1
+      },
+      {
+        "name": "HentaiEra",
+        "lang": "ko",
+        "id": "5930644847758440964",
+        "baseUrl": "https://hentaiera.com",
+        "versionId": 1
+      },
+      {
+        "name": "HentaiEra",
+        "lang": "de",
+        "id": "1901100795183424105",
+        "baseUrl": "https://hentaiera.com",
+        "versionId": 1
+      },
+      {
+        "name": "HentaiEra",
+        "lang": "ru",
+        "id": "4966955732363898584",
+        "baseUrl": "https://hentaiera.com",
+        "versionId": 1
+      },
+      {
+        "name": "HentaiEra",
+        "lang": "all",
+        "id": "5238899243957092391",
+        "baseUrl": "https://hentaiera.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: HentaiFox",
     "pkg": "eu.kanade.tachiyomi.extension.all.hentaifox",
     "apk": "tachiyomi-all.hentaifox-v1.4.7.apk",
@@ -2631,10 +2700,10 @@
   {
     "name": "Tachiyomi: Hitomi",
     "pkg": "eu.kanade.tachiyomi.extension.all.hitomi",
-    "apk": "tachiyomi-all.hitomi-v1.4.29.apk",
+    "apk": "tachiyomi-all.hitomi-v1.4.30.apk",
     "lang": "all",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19028,6 +19097,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Harem de Kira",
+    "pkg": "eu.kanade.tachiyomi.extension.es.haremdekira",
+    "apk": "tachiyomi-es.haremdekira-v1.4.36.apk",
+    "lang": "es",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Harem de Kira",
+        "lang": "es",
+        "id": "2403199754180170151",
+        "baseUrl": "https://haremscann.es",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: HeavenManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.heavenmanga",
     "apk": "tachiyomi-es.heavenmanga-v1.4.7.apk",
@@ -19363,6 +19452,26 @@
         "lang": "es",
         "id": "8075825407840893676",
         "baseUrl": "https://koinoboriscan.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Ladron Corps",
+    "pkg": "eu.kanade.tachiyomi.extension.es.ladroncorps",
+    "apk": "tachiyomi-es.ladroncorps-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Ladron Corps",
+        "lang": "es",
+        "id": "497308182259043215",
+        "baseUrl": "https://www.ladroncorps.com",
         "versionId": 1
       }
     ]
@@ -25245,11 +25354,11 @@
   {
     "name": "Tachiyomi: Argos Comics",
     "pkg": "eu.kanade.tachiyomi.extension.pt.argoscomics",
-    "apk": "tachiyomi-pt.argoscomics-v1.4.37.apk",
+    "apk": "tachiyomi-pt.argoscomics-v1.4.38.apk",
     "lang": "pt-BR",
-    "code": 37,
-    "version": "1.4.37",
-    "nsfw": 1,
+    "code": 38,
+    "version": "1.4.38",
+    "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -25258,6 +25367,26 @@
         "lang": "pt-BR",
         "id": "1728054086965963225",
         "baseUrl": "https://argoscomics.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Argos Hentai",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.argoshentai",
+    "apk": "tachiyomi-pt.argoshentai-v1.4.36.apk",
+    "lang": "pt-BR",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Argos Hentai",
+        "lang": "pt-BR",
+        "id": "4098235600934784466",
+        "baseUrl": "https://argoshentai.xyz",
         "versionId": 1
       }
     ]
@@ -25678,6 +25807,26 @@
         "lang": "pt-BR",
         "id": "4455455706731547485",
         "baseUrl": "https://fayscans.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Fenix Project",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.fenixproject",
+    "apk": "tachiyomi-pt.fenixproject-v1.4.36.apk",
+    "lang": "pt-BR",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Fenix Project",
+        "lang": "pt-BR",
+        "id": "8852449878379679769",
+        "baseUrl": "https://fenixproject.xyz",
         "versionId": 1
       }
     ]
@@ -27805,10 +27954,10 @@
   {
     "name": "Tachiyomi: HentaiLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.hentailib",
-    "apk": "tachiyomi-ru.hentailib-v1.4.44.apk",
+    "apk": "tachiyomi-ru.hentailib-v1.4.45.apk",
     "lang": "ru",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27905,10 +28054,10 @@
   {
     "name": "Tachiyomi: MangaLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangalib",
-    "apk": "tachiyomi-ru.mangalib-v1.4.99.apk",
+    "apk": "tachiyomi-ru.mangalib-v1.4.100.apk",
     "lang": "ru",
-    "code": 99,
-    "version": "1.4.99",
+    "code": 100,
+    "version": "1.4.100",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27917,7 +28066,7 @@
         "name": "MangaLib",
         "lang": "ru",
         "id": "6111047689498497237",
-        "baseUrl": "https://mangalib.me",
+        "baseUrl": "https://test-front.mangalib.me",
         "versionId": 1
       }
     ]
@@ -28225,10 +28374,10 @@
   {
     "name": "Tachiyomi: YaoiLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.yaoilib",
-    "apk": "tachiyomi-ru.yaoilib-v1.4.29.apk",
+    "apk": "tachiyomi-ru.yaoilib-v1.4.30.apk",
     "lang": "ru",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28237,7 +28386,7 @@
         "name": "YaoiLib",
         "lang": "ru",
         "id": "2730544188738947015",
-        "baseUrl": "https://v2.slashlib.me",
+        "baseUrl": "https://test-front.slashlib.me",
         "versionId": 1
       }
     ]
@@ -31957,7 +32106,7 @@
         "name": "zero搬运网",
         "lang": "zh",
         "id": "8743284448117690086",
-        "baseUrl": "http://www.zerobyw24.com",
+        "baseUrl": "http://www.zerobywzz.com",
         "versionId": 1
       }
     ]
