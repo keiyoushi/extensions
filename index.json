@@ -22,10 +22,10 @@
   {
     "name": "Tachiyomi: Akuma",
     "pkg": "eu.kanade.tachiyomi.extension.all.akuma",
-    "apk": "tachiyomi-all.akuma-v1.4.2.apk",
+    "apk": "tachiyomi-all.akuma-v1.4.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -139,6 +139,13 @@
         "name": "Akuma",
         "lang": "hu",
         "id": "1422819830508615430",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "nl",
+        "id": "5610655855358487221",
         "baseUrl": "https://akuma.moe",
         "versionId": 1
       },
