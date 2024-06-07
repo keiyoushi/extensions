@@ -8462,6 +8462,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Arven Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.arvencomics",
+    "apk": "tachiyomi-en.arvencomics-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Arven Scans",
+        "lang": "en",
+        "id": "6386907714376807971",
+        "baseUrl": "https://arvencomics.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Vortex Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arvenscans",
     "apk": "tachiyomi-en.arvenscans-v1.4.33.apk",
@@ -31121,10 +31141,10 @@
   {
     "name": "Tachiyomi: SayHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.sayhentai",
-    "apk": "tachiyomi-vi.sayhentai-v1.4.6.apk",
+    "apk": "tachiyomi-vi.sayhentai-v1.4.7.apk",
     "lang": "vi",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31133,7 +31153,7 @@
         "name": "SayHentai",
         "lang": "vi",
         "id": "4370817879994829481",
-        "baseUrl": "https://sayhentai.co",
+        "baseUrl": "https://sayhentai.life",
         "versionId": 1
       }
     ]
@@ -31241,10 +31261,10 @@
   {
     "name": "Tachiyomi: TruyenVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenvn",
-    "apk": "tachiyomi-vi.truyenvn-v1.4.37.apk",
+    "apk": "tachiyomi-vi.truyenvn-v1.4.38.apk",
     "lang": "vi",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31253,7 +31273,7 @@
         "name": "TruyenVN",
         "lang": "vi",
         "id": "5758845301840022147",
-        "baseUrl": "https://truyenvn.xyz",
+        "baseUrl": "https://truyenvn.me",
         "versionId": 1
       }
     ]
