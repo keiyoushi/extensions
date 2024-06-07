@@ -7464,10 +7464,10 @@
   {
     "name": "Tachiyomi: Mangalink",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalink",
-    "apk": "tachiyomi-ar.mangalink-v1.4.38.apk",
+    "apk": "tachiyomi-ar.mangalink-v1.4.39.apk",
     "lang": "ar",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7476,7 +7476,7 @@
         "name": "مانجا لينك",
         "lang": "ar",
         "id": "3568795724496898351",
-        "baseUrl": "https://manga-link.com",
+        "baseUrl": "https://link-manga.com",
         "versionId": 1
       }
     ]
