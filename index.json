@@ -22,10 +22,10 @@
   {
     "name": "Tachiyomi: Akuma",
     "pkg": "eu.kanade.tachiyomi.extension.all.akuma",
-    "apk": "tachiyomi-all.akuma-v1.4.3.apk",
+    "apk": "tachiyomi-all.akuma-v1.4.4.apk",
     "lang": "all",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11472,10 +11472,10 @@
   {
     "name": "Tachiyomi: Lua Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.luascans",
-    "apk": "tachiyomi-en.luascans-v1.4.32.apk",
+    "apk": "tachiyomi-en.luascans-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20526,10 +20526,10 @@
   {
     "name": "Tachiyomi: Temple Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.templescanesp",
-    "apk": "tachiyomi-es.templescanesp-v1.4.36.apk",
+    "apk": "tachiyomi-es.templescanesp-v1.4.37.apk",
     "lang": "es",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26979,6 +26979,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Mugiwaras Oficial",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mugiwarasoficial",
+    "apk": "tachiyomi-pt.mugiwarasoficial-v1.4.36.apk",
+    "lang": "pt-BR",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Mugiwaras Oficial",
+        "lang": "pt-BR",
+        "id": "2079534153507614534",
+        "baseUrl": "https://mugiwarasoficial.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Muito Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.muitohentai",
     "apk": "tachiyomi-pt.muitohentai-v1.4.2.apk",
@@ -27719,6 +27739,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Vapo Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.vaposcans",
+    "apk": "tachiyomi-pt.vaposcans-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Vapo Scans",
+        "lang": "pt-BR",
+        "id": "7797433692990004349",
+        "baseUrl": "https://vaposcans.site",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Wicked Witch Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.wickedwitchscannovo",
     "apk": "tachiyomi-pt.wickedwitchscannovo-v1.4.10.apk",
@@ -27941,10 +27981,10 @@
   {
     "name": "Tachiyomi: AllHentai",
     "pkg": "eu.kanade.tachiyomi.extension.ru.allhentai",
-    "apk": "tachiyomi-ru.allhentai-v1.4.44.apk",
+    "apk": "tachiyomi-ru.allhentai-v1.4.46.apk",
     "lang": "ru",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27953,7 +27993,7 @@
         "name": "AllHentai",
         "lang": "ru",
         "id": "1809051393403180443",
-        "baseUrl": "https://z.allhen.online",
+        "baseUrl": "https://z.ahen.me",
         "versionId": 1
       }
     ]
@@ -28241,10 +28281,10 @@
   {
     "name": "Tachiyomi: MintManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mintmanga",
-    "apk": "tachiyomi-ru.mintmanga-v1.4.68.apk",
+    "apk": "tachiyomi-ru.mintmanga-v1.4.69.apk",
     "lang": "ru",
-    "code": 68,
-    "version": "1.4.68",
+    "code": 69,
+    "version": "1.4.69",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28301,10 +28341,10 @@
   {
     "name": "Tachiyomi: ReadManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.readmanga",
-    "apk": "tachiyomi-ru.readmanga-v1.4.68.apk",
+    "apk": "tachiyomi-ru.readmanga-v1.4.69.apk",
     "lang": "ru",
-    "code": 68,
-    "version": "1.4.68",
+    "code": 69,
+    "version": "1.4.69",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28321,10 +28361,10 @@
   {
     "name": "Tachiyomi: RuMIX",
     "pkg": "eu.kanade.tachiyomi.extension.ru.rumix",
-    "apk": "tachiyomi-ru.rumix-v1.4.23.apk",
+    "apk": "tachiyomi-ru.rumix-v1.4.24.apk",
     "lang": "ru",
-    "code": 23,
-    "version": "1.4.23",
+    "code": 24,
+    "version": "1.4.24",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28341,10 +28381,10 @@
   {
     "name": "Tachiyomi: SelfManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.selfmanga",
-    "apk": "tachiyomi-ru.selfmanga-v1.4.44.apk",
+    "apk": "tachiyomi-ru.selfmanga-v1.4.45.apk",
     "lang": "ru",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31021,10 +31061,10 @@
   {
     "name": "Tachiyomi: LXHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.lxhentai",
-    "apk": "tachiyomi-vi.lxhentai-v1.4.5.apk",
+    "apk": "tachiyomi-vi.lxhentai-v1.4.6.apk",
     "lang": "vi",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31033,7 +31073,7 @@
         "name": "LXHentai",
         "lang": "vi",
         "id": "6495630445796108150",
-        "baseUrl": "https://lxmanga.icu",
+        "baseUrl": "https://lxmanga.cfd",
         "versionId": 1
       }
     ]
@@ -31341,10 +31381,10 @@
   {
     "name": "Tachiyomi: XXManhwa",
     "pkg": "eu.kanade.tachiyomi.extension.vi.xxmanhwa",
-    "apk": "tachiyomi-vi.xxmanhwa-v1.4.1.apk",
+    "apk": "tachiyomi-vi.xxmanhwa-v1.4.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31353,7 +31393,7 @@
         "name": "XXManhwa",
         "lang": "vi",
         "id": "1922561574226594511",
-        "baseUrl": "https://xxmanhwa.net",
+        "baseUrl": "https://xxmanhwas.net",
         "versionId": 1
       }
     ]
