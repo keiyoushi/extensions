@@ -7862,26 +7862,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Pewpiece",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.pewpiece",
-    "apk": "tachiyomi-ar.pewpiece-v1.4.36.apk",
-    "lang": "ar",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Pewpiece",
-        "lang": "ar",
-        "id": "1867360785737017984",
-        "baseUrl": "https://pewpiece.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: RE Manga (Arabic)",
     "pkg": "eu.kanade.tachiyomi.extension.ar.remangaarabic",
     "apk": "tachiyomi-ar.remangaarabic-v1.4.2.apk",
@@ -8817,26 +8797,6 @@
         "lang": "en",
         "id": "7888539760648428292",
         "baseUrl": "https://boxmanhwa.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: BoysLove",
-    "pkg": "eu.kanade.tachiyomi.extension.en.boyslove",
-    "apk": "tachiyomi-en.boyslove-v1.4.39.apk",
-    "lang": "en",
-    "code": 39,
-    "version": "1.4.39",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "BoysLove",
-        "lang": "en",
-        "id": "8068520237045196996",
-        "baseUrl": "https://boyslove.me",
         "versionId": 1
       }
     ]
@@ -19826,10 +19786,10 @@
   {
     "name": "Tachiyomi: Mangas No Sekai",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangasnosekai",
-    "apk": "tachiyomi-es.mangasnosekai-v1.4.50.apk",
+    "apk": "tachiyomi-es.mangasnosekai-v1.4.51.apk",
     "lang": "es",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 51,
+    "version": "1.4.51",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25246,14 +25206,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki340.net",
+        "baseUrl": "https://manatoki341.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki340.com",
+        "baseUrl": "https://newtoki341.com",
         "versionId": 1
       }
     ]
@@ -30934,26 +30894,6 @@
         "lang": "uk",
         "id": "7444761572611117628",
         "baseUrl": "https://manga.in.ua",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: A3 Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.vi.a3manga",
-    "apk": "tachiyomi-vi.a3manga-v1.4.5.apk",
-    "lang": "vi",
-    "code": 5,
-    "version": "1.4.5",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "A3 Manga",
-        "lang": "vi",
-        "id": "7038613508327290426",
-        "baseUrl": "https://www.a3manga.store",
         "versionId": 1
       }
     ]
