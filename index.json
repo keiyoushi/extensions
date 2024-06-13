@@ -20266,10 +20266,10 @@
   {
     "name": "Tachiyomi: Rightdark Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.rightdarkscan",
-    "apk": "tachiyomi-es.rightdarkscan-v1.4.38.apk",
+    "apk": "tachiyomi-es.rightdarkscan-v1.4.39.apk",
     "lang": "es",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20278,7 +20278,7 @@
         "name": "Rightdark Scan",
         "lang": "es",
         "id": "710924825298427317",
-        "baseUrl": "https://dark-scan.com",
+        "baseUrl": "https://darken-scan.com",
         "versionId": 1
       }
     ]
