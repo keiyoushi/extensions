@@ -2707,10 +2707,10 @@
   {
     "name": "Tachiyomi: Hitomi",
     "pkg": "eu.kanade.tachiyomi.extension.all.hitomi",
-    "apk": "tachiyomi-all.hitomi-v1.4.30.apk",
+    "apk": "tachiyomi-all.hitomi-v1.4.31.apk",
     "lang": "all",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7524,10 +7524,10 @@
   {
     "name": "Tachiyomi: Manga Pro",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangapro",
-    "apk": "tachiyomi-ar.mangapro-v1.4.31.apk",
+    "apk": "tachiyomi-ar.mangapro-v1.4.32.apk",
     "lang": "ar",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7536,7 +7536,7 @@
         "name": "Manga Pro",
         "lang": "ar",
         "id": "5754899064993511012",
-        "baseUrl": "https://mangapro.club",
+        "baseUrl": "https://promanga.pro",
         "versionId": 3
       }
     ]
@@ -14699,10 +14699,10 @@
   {
     "name": "Tachiyomi: AQUA Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwaworld",
-    "apk": "tachiyomi-en.manhwaworld-v1.4.37.apk",
+    "apk": "tachiyomi-en.manhwaworld-v1.4.38.apk",
     "lang": "en",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17157,6 +17157,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: SpyFakku",
+    "pkg": "eu.kanade.tachiyomi.extension.en.spyfakku",
+    "apk": "tachiyomi-en.spyfakku-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "SpyFakku",
+        "lang": "en",
+        "id": "6202325652827735606",
+        "baseUrl": "https://spy.fakku.cc",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: StoneScape",
     "pkg": "eu.kanade.tachiyomi.extension.en.stonescape",
     "apk": "tachiyomi-en.stonescape-v1.4.37.apk",
@@ -18500,26 +18520,6 @@
         "id": "1987105317893699901",
         "baseUrl": "https://zinmanga.net",
         "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: ZinManga.io",
-    "pkg": "eu.kanade.tachiyomi.extension.en.zinmanhwa",
-    "apk": "tachiyomi-en.zinmanhwa-v1.4.35.apk",
-    "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ZinManga.io",
-        "lang": "en",
-        "id": "6775331705718088413",
-        "baseUrl": "https://zinmanga.io",
-        "versionId": 2
       }
     ]
   },
@@ -25399,6 +25399,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Argos Comics.com.br",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.argoscomicscombr",
+    "apk": "tachiyomi-pt.argoscomicscombr-v1.4.36.apk",
+    "lang": "pt-BR",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Argos Comics.com.br",
+        "lang": "pt-BR",
+        "id": "8353950955580996081",
+        "baseUrl": "https://argoscomics.com.br",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Argos Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.argoshentai",
     "apk": "tachiyomi-pt.argoshentai-v1.4.36.apk",
@@ -26439,26 +26459,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Ler Mangá Online",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.lermangaonline",
-    "apk": "tachiyomi-pt.lermangaonline-v1.4.1.apk",
-    "lang": "pt-BR",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Ler Mangá Online",
-        "lang": "pt-BR",
-        "id": "2698137748638081931",
-        "baseUrl": "https://lermangaonline.com.br",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Ler Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.pt.lermangas",
     "apk": "tachiyomi-pt.lermangas-v1.4.36.apk",
@@ -26514,26 +26514,6 @@
         "lang": "pt-BR",
         "id": "7966314354295297006",
         "baseUrl": "https://lichmangas.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Li Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.limanga",
-    "apk": "tachiyomi-pt.limanga-v1.4.31.apk",
-    "lang": "pt-BR",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Li Manga",
-        "lang": "pt-BR",
-        "id": "3940062922306941474",
-        "baseUrl": "https://limanga.net",
         "versionId": 1
       }
     ]
@@ -26714,26 +26694,6 @@
         "lang": "pt-BR",
         "id": "3930085636692943299",
         "baseUrl": "https://mangaonline.biz",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Mangás Chan",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.mangaschan",
-    "apk": "tachiyomi-pt.mangaschan-v1.4.33.apk",
-    "lang": "pt-BR",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Mangás Chan",
-        "lang": "pt-BR",
-        "id": "2691607827452752161",
-        "baseUrl": "https://mangaschan.net",
         "versionId": 1
       }
     ]
@@ -29574,6 +29534,26 @@
         "lang": "tr",
         "id": "3066440669866826504",
         "baseUrl": "https://www.imparatormanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Jellyring",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.jellyring",
+    "apk": "tachiyomi-tr.jellyring-v1.4.36.apk",
+    "lang": "tr",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Jellyring",
+        "lang": "tr",
+        "id": "5814450662895410087",
+        "baseUrl": "https://jellyring.co",
         "versionId": 1
       }
     ]
