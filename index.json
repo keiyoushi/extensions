@@ -5070,10 +5070,10 @@
   {
     "name": "Tachiyomi: Meitua.top",
     "pkg": "eu.kanade.tachiyomi.extension.all.meituatop",
-    "apk": "tachiyomi-all.meituatop-v1.4.5.apk",
+    "apk": "tachiyomi-all.meituatop-v1.4.6.apk",
     "lang": "all",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -5082,7 +5082,7 @@
         "name": "Meitua.top",
         "lang": "all",
         "id": "2066652761751053456",
-        "baseUrl": "https://meitu1.xyz",
+        "baseUrl": "https://mt1.meitu1.sbs",
         "versionId": 1
       }
     ]
@@ -10372,10 +10372,10 @@
   {
     "name": "Tachiyomi: HentaiNexus",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentainexus",
-    "apk": "tachiyomi-en.hentainexus-v1.4.10.apk",
+    "apk": "tachiyomi-en.hentainexus-v1.4.11.apk",
     "lang": "en",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10890,21 +10890,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Kai Scans",
+    "name": "Tachiyomi: Umi Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.kaiscans",
-    "apk": "tachiyomi-en.kaiscans-v1.4.32.apk",
+    "apk": "tachiyomi-en.kaiscans-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Kai Scans",
+        "name": "Umi Scans",
         "lang": "en",
         "id": "4825368993215448425",
-        "baseUrl": "https://kaiscans.com",
+        "baseUrl": "https://umiscans.org",
         "versionId": 1
       }
     ]
@@ -13239,10 +13239,10 @@
   {
     "name": "Tachiyomi: MangaGeko",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangarawclub",
-    "apk": "tachiyomi-en.mangarawclub-v1.4.23.apk",
+    "apk": "tachiyomi-en.mangarawclub-v1.4.24.apk",
     "lang": "en",
-    "code": 23,
-    "version": "1.4.23",
+    "code": 24,
+    "version": "1.4.24",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -13251,7 +13251,7 @@
         "name": "MangaGeko",
         "lang": "en",
         "id": "734865402529567092",
-        "baseUrl": "https://www.mgeko.com",
+        "baseUrl": "https://www.mgeko.cc",
         "versionId": 1
       }
     ]
@@ -16699,10 +16699,10 @@
   {
     "name": "Tachiyomi: Reset Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.resetscans",
-    "apk": "tachiyomi-en.resetscans-v1.4.37.apk",
+    "apk": "tachiyomi-en.resetscans-v1.4.38.apk",
     "lang": "en",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16711,7 +16711,7 @@
         "name": "Reset Scans",
         "lang": "en",
         "id": "8894279497795073184",
-        "baseUrl": "https://reset-scans.xyz",
+        "baseUrl": "https://resetscan.com",
         "versionId": 1
       }
     ]
@@ -27421,10 +27421,10 @@
   {
     "name": "Tachiyomi: Sussy Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sussyscan",
-    "apk": "tachiyomi-pt.sussyscan-v1.4.37.apk",
+    "apk": "tachiyomi-pt.sussyscan-v1.4.38.apk",
     "lang": "pt-BR",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27433,7 +27433,7 @@
         "name": "Sussy Scan",
         "lang": "pt-BR",
         "id": "6746766016404376139",
-        "baseUrl": "https://sussyscan.com",
+        "baseUrl": "https://old.sussytoons.com",
         "versionId": 1
       }
     ]
