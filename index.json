@@ -19226,10 +19226,10 @@
   {
     "name": "Tachiyomi: Ikigai Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
-    "apk": "tachiyomi-es.ikigaimangas-v1.4.10.apk",
+    "apk": "tachiyomi-es.ikigaimangas-v1.4.11.apk",
     "lang": "es",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19238,7 +19238,7 @@
         "name": "Ikigai Mangas",
         "lang": "es",
         "id": "3546919326830738510",
-        "baseUrl": "https://visorikigai.net",
+        "baseUrl": "https://es.ikigaiweb.lat",
         "versionId": 1
       }
     ]
@@ -19366,10 +19366,10 @@
   {
     "name": "Tachiyomi: Jeaz Scans",
     "pkg": "eu.kanade.tachiyomi.extension.es.jeazscans",
-    "apk": "tachiyomi-es.jeazscans-v1.4.38.apk",
+    "apk": "tachiyomi-es.jeazscans-v1.4.39.apk",
     "lang": "es",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19378,7 +19378,7 @@
         "name": "JeazScans",
         "lang": "es",
         "id": "5292079548510508306",
-        "baseUrl": "https://jeazscansv1.com",
+        "baseUrl": "https://jeaz.twobluescans.com",
         "versionId": 1
       }
     ]
@@ -20464,26 +20464,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Tecno Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.es.tecnoscan",
-    "apk": "tachiyomi-es.tecnoscan-v1.4.38.apk",
-    "lang": "es",
-    "code": 38,
-    "version": "1.4.38",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Tecno Scan",
-        "lang": "es",
-        "id": "591563750306327645",
-        "baseUrl": "https://visortecno.com",
-        "versionId": 4
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Temple Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.templescanesp",
     "apk": "tachiyomi-es.templescanesp-v1.4.37.apk",
@@ -20626,10 +20606,10 @@
   {
     "name": "Tachiyomi: Tres Daos Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.tresdaosscan",
-    "apk": "tachiyomi-es.tresdaosscan-v1.4.37.apk",
+    "apk": "tachiyomi-es.tresdaosscan-v1.4.38.apk",
     "lang": "es",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24471,6 +24451,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaGun",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.mangagun",
+    "apk": "tachiyomi-ja.mangagun-v1.4.9.apk",
+    "lang": "ja",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaGun",
+        "lang": "ja",
+        "id": "3811800324362294701",
+        "baseUrl": "https://mangagun.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manga Koma",
     "pkg": "eu.kanade.tachiyomi.extension.ja.mangakoma",
     "apk": "tachiyomi-ja.mangakoma-v1.4.3.apk",
@@ -25494,6 +25494,26 @@
         "lang": "pt-BR",
         "id": "5353540588175036262",
         "baseUrl": "https://astrumscans.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Atemporal",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.atemporal",
+    "apk": "tachiyomi-pt.atemporal-v1.4.36.apk",
+    "lang": "pt-BR",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Atemporal",
+        "lang": "pt-BR",
+        "id": "4457222405258030659",
+        "baseUrl": "https://atemporal.cloud",
         "versionId": 1
       }
     ]
@@ -26639,6 +26659,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manga BR",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mangabr",
+    "apk": "tachiyomi-pt.mangabr-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga BR",
+        "lang": "pt-BR",
+        "id": "7274686836824763801",
+        "baseUrl": "https://mangabr.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Mangá Kun",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangakun",
     "apk": "tachiyomi-pt.mangakun-v1.4.30.apk",
@@ -26741,10 +26781,10 @@
   {
     "name": "Tachiyomi: Manga Terra",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangaterra",
-    "apk": "tachiyomi-pt.mangaterra-v1.4.2.apk",
+    "apk": "tachiyomi-pt.mangaterra-v1.4.3.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
