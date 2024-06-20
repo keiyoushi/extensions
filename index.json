@@ -17137,6 +17137,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Spider Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.spiderscans",
+    "apk": "tachiyomi-en.spiderscans-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Spider Scans",
+        "lang": "en",
+        "id": "2240869475538192134",
+        "baseUrl": "https://spiderscans.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Spmanhwa",
     "pkg": "eu.kanade.tachiyomi.extension.en.spmanhwa",
     "apk": "tachiyomi-en.spmanhwa-v1.4.36.apk",
@@ -19584,6 +19604,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: LMTO Online",
+    "pkg": "eu.kanade.tachiyomi.extension.es.lmtoonline",
+    "apk": "tachiyomi-es.lmtoonline-v1.4.36.apk",
+    "lang": "es",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "LMTO Online",
+        "lang": "es",
+        "id": "3752522006902890093",
+        "baseUrl": "https://lmtos.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Lolivault",
     "pkg": "eu.kanade.tachiyomi.extension.es.lolivault",
     "apk": "tachiyomi-es.lolivault-v1.4.3.apk",
@@ -20679,6 +20719,26 @@
         "lang": "es",
         "id": "8004442288770923365",
         "baseUrl": "https://tumanhwas.club",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Ukiyo Toon",
+    "pkg": "eu.kanade.tachiyomi.extension.es.ukiyotoon",
+    "apk": "tachiyomi-es.ukiyotoon-v1.4.30.apk",
+    "lang": "es",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Ukiyo Toon",
+        "lang": "es",
+        "id": "1299783041302939790",
+        "baseUrl": "https://ukiyotoon.com",
         "versionId": 1
       }
     ]
@@ -23071,6 +23131,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manhwa List",
+    "pkg": "eu.kanade.tachiyomi.extension.id.manhwalistid",
+    "apk": "tachiyomi-id.manhwalistid-v1.4.30.apk",
+    "lang": "id",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manhwa List",
+        "lang": "id",
+        "id": "3111049819536223391",
+        "baseUrl": "https://manhwalist.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Tenshi.id",
     "pkg": "eu.kanade.tachiyomi.extension.id.masterkomik",
     "apk": "tachiyomi-id.masterkomik-v1.4.34.apk",
@@ -25206,14 +25286,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki341.net",
+        "baseUrl": "https://manatoki342.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki341.com",
+        "baseUrl": "https://newtoki342.com",
         "versionId": 1
       }
     ]
@@ -25381,10 +25461,10 @@
   {
     "name": "Tachiyomi: Argos Comics",
     "pkg": "eu.kanade.tachiyomi.extension.pt.argoscomics",
-    "apk": "tachiyomi-pt.argoscomics-v1.4.38.apk",
+    "apk": "tachiyomi-pt.argoscomics-v1.4.39.apk",
     "lang": "pt-BR",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25393,7 +25473,7 @@
         "name": "Argos Comics",
         "lang": "pt-BR",
         "id": "1728054086965963225",
-        "baseUrl": "https://argoscomics.com",
+        "baseUrl": "https://argoscomic.com",
         "versionId": 1
       }
     ]
@@ -25941,10 +26021,10 @@
   {
     "name": "Tachiyomi: FlowerManga.com",
     "pkg": "eu.kanade.tachiyomi.extension.pt.flowermangadotcom",
-    "apk": "tachiyomi-pt.flowermangadotcom-v1.4.36.apk",
+    "apk": "tachiyomi-pt.flowermangadotcom-v1.4.37.apk",
     "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25953,7 +26033,7 @@
         "name": "FlowerManga.com",
         "lang": "pt-BR",
         "id": "566631359588932077",
-        "baseUrl": "https://flowermanga.com",
+        "baseUrl": "https://flowermangas.com",
         "versionId": 1
       }
     ]
@@ -27241,10 +27321,10 @@
   {
     "name": "Tachiyomi: Demon Sect",
     "pkg": "eu.kanade.tachiyomi.extension.pt.prismascans",
-    "apk": "tachiyomi-pt.prismascans-v1.4.43.apk",
+    "apk": "tachiyomi-pt.prismascans-v1.4.44.apk",
     "lang": "pt-BR",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27461,10 +27541,10 @@
   {
     "name": "Tachiyomi: Sussy Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sussyscan",
-    "apk": "tachiyomi-pt.sussyscan-v1.4.38.apk",
+    "apk": "tachiyomi-pt.sussyscan-v1.4.39.apk",
     "lang": "pt-BR",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27473,7 +27553,7 @@
         "name": "Sussy Scan",
         "lang": "pt-BR",
         "id": "6746766016404376139",
-        "baseUrl": "https://old.sussytoons.com",
+        "baseUrl": "https://oldi.sussytoons.com",
         "versionId": 1
       }
     ]
@@ -32081,10 +32161,10 @@
   {
     "name": "Tachiyomi: Roumanwu",
     "pkg": "eu.kanade.tachiyomi.extension.zh.roumanwu",
-    "apk": "tachiyomi-zh.roumanwu-v1.4.9.apk",
+    "apk": "tachiyomi-zh.roumanwu-v1.4.10.apk",
     "lang": "zh",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32093,7 +32173,7 @@
         "name": "肉漫屋",
         "lang": "zh",
         "id": "3647420805839021718",
-        "baseUrl": "https://roum15.xyz",
+        "baseUrl": "https://roum16.xyz",
         "versionId": 1
       }
     ]
