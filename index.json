@@ -8562,6 +8562,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Asura Scans.gg (unoriginal)",
+    "pkg": "eu.kanade.tachiyomi.extension.en.asurascansgg",
+    "apk": "tachiyomi-en.asurascansgg-v1.4.36.apk",
+    "lang": "en",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Asura Scans.gg (unoriginal)",
+        "lang": "en",
+        "id": "437562890335216133",
+        "baseUrl": "https://asurascansgg.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Asura Scans.us (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascansus",
     "apk": "tachiyomi-en.asurascansus-v1.4.36.apk",
@@ -19966,10 +19986,10 @@
   {
     "name": "Tachiyomi: ManhwaWeb",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhwaweb",
-    "apk": "tachiyomi-es.manhwaweb-v1.4.3.apk",
+    "apk": "tachiyomi-es.manhwaweb-v1.4.4.apk",
     "lang": "es",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20146,10 +20166,10 @@
   {
     "name": "Tachiyomi: Noblesse Translations",
     "pkg": "eu.kanade.tachiyomi.extension.es.noblessetranslations",
-    "apk": "tachiyomi-es.noblessetranslations-v1.4.39.apk",
+    "apk": "tachiyomi-es.noblessetranslations-v1.4.40.apk",
     "lang": "es",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20158,7 +20178,7 @@
         "name": "Noblesse Translations",
         "lang": "es",
         "id": "5125011410949702843",
-        "baseUrl": "https://www.nobledicion.com",
+        "baseUrl": "https://www.actualizamrd.com",
         "versionId": 1
       }
     ]
@@ -21493,10 +21513,10 @@
   {
     "name": "Tachiyomi: Raijin Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.raijinscans",
-    "apk": "tachiyomi-fr.raijinscans-v1.4.37.apk",
+    "apk": "tachiyomi-fr.raijinscans-v1.4.38.apk",
     "lang": "fr",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21505,7 +21525,7 @@
         "name": "Raijin Scans",
         "lang": "fr",
         "id": "8373267671495516033",
-        "baseUrl": "https://raijinscans.com",
+        "baseUrl": "https://raijinscans.fr",
         "versionId": 1
       }
     ]
@@ -22313,10 +22333,10 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-v1.4.57.apk",
+    "apk": "tachiyomi-id.komikcast-v1.4.58.apk",
     "lang": "id",
-    "code": 57,
-    "version": "1.4.57",
+    "code": 58,
+    "version": "1.4.58",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22325,7 +22345,7 @@
         "name": "Komik Cast",
         "lang": "id",
         "id": "972717448578983812",
-        "baseUrl": "https://komikcast.lol",
+        "baseUrl": "https://komikcast.moe",
         "versionId": 1
       }
     ]
@@ -25459,6 +25479,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Ancient Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.ancientcomics",
+    "apk": "tachiyomi-pt.ancientcomics-v1.4.30.apk",
+    "lang": "pt-BR",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Ancient Comics",
+        "lang": "pt-BR",
+        "id": "7167900542000557092",
+        "baseUrl": "https://ancientcomics.com.br",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: AnimeXNovel",
     "pkg": "eu.kanade.tachiyomi.extension.pt.animexnovel",
     "apk": "tachiyomi-pt.animexnovel-v1.4.9.apk",
@@ -26839,46 +26879,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Mangás Online",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.mangasonline",
-    "apk": "tachiyomi-pt.mangasonline-v1.4.30.apk",
-    "lang": "pt-BR",
-    "code": 30,
-    "version": "1.4.30",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Mangás Online",
-        "lang": "pt-BR",
-        "id": "2782054023338547343",
-        "baseUrl": "https://mangasonline.cc",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: ROG Mangás",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.mangasoverall",
-    "apk": "tachiyomi-pt.mangasoverall-v1.4.37.apk",
-    "lang": "pt-BR",
-    "code": 37,
-    "version": "1.4.37",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ROG Mangás",
-        "lang": "pt-BR",
-        "id": "7865569692125193686",
-        "baseUrl": "https://rogmangas.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Manga Terra",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangaterra",
     "apk": "tachiyomi-pt.mangaterra-v1.4.3.apk",
@@ -27381,10 +27381,10 @@
   {
     "name": "Tachiyomi: Lura Toon",
     "pkg": "eu.kanade.tachiyomi.extension.pt.randomscan",
-    "apk": "tachiyomi-pt.randomscan-v1.4.53.apk",
+    "apk": "tachiyomi-pt.randomscan-v1.4.54.apk",
     "lang": "pt-BR",
-    "code": 53,
-    "version": "1.4.53",
+    "code": 54,
+    "version": "1.4.54",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27501,10 +27501,10 @@
   {
     "name": "Tachiyomi: SlimeRead",
     "pkg": "eu.kanade.tachiyomi.extension.pt.slimeread",
-    "apk": "tachiyomi-pt.slimeread-v1.4.11.apk",
+    "apk": "tachiyomi-pt.slimeread-v1.4.12.apk",
     "lang": "pt-BR",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27521,10 +27521,10 @@
   {
     "name": "Tachiyomi: SSSScanlator",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sssscanlator",
-    "apk": "tachiyomi-pt.sssscanlator-v1.4.32.apk",
+    "apk": "tachiyomi-pt.sssscanlator-v1.4.33.apk",
     "lang": "pt-BR",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -29414,6 +29414,26 @@
         "lang": "tr",
         "id": "8197601389298395496",
         "baseUrl": "https://clover-manga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Deccal Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.deccalscans",
+    "apk": "tachiyomi-tr.deccalscans-v1.4.36.apk",
+    "lang": "tr",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Deccal Scans",
+        "lang": "tr",
+        "id": "5108750459460884561",
+        "baseUrl": "https://deccalscans.net",
         "versionId": 1
       }
     ]
