@@ -10512,10 +10512,10 @@
   {
     "name": "Tachiyomi: Hiperdex",
     "pkg": "eu.kanade.tachiyomi.extension.en.hiperdex",
-    "apk": "tachiyomi-en.hiperdex-v1.4.48.apk",
+    "apk": "tachiyomi-en.hiperdex-v1.4.49.apk",
     "lang": "en",
-    "code": 48,
-    "version": "1.4.48",
+    "code": 49,
+    "version": "1.4.49",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10524,7 +10524,7 @@
         "name": "Hiperdex",
         "lang": "en",
         "id": "3064755045370217842",
-        "baseUrl": "https://hiperdex.com",
+        "baseUrl": "https://hiperdex.top",
         "versionId": 1
       }
     ]
@@ -21831,6 +21831,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Toon FR",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.toonfr",
+    "apk": "tachiyomi-fr.toonfr-v1.4.36.apk",
+    "lang": "fr",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Toon FR",
+        "lang": "fr",
+        "id": "3235818654344600611",
+        "baseUrl": "https://toonfr.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: VF Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.vfscan",
     "apk": "tachiyomi-fr.vfscan-v1.4.30.apk",
@@ -23493,10 +23513,10 @@
   {
     "name": "Tachiyomi: Pojok Manga",
     "pkg": "eu.kanade.tachiyomi.extension.id.pojokmanga",
-    "apk": "tachiyomi-id.pojokmanga-v1.4.41.apk",
+    "apk": "tachiyomi-id.pojokmanga-v1.4.42.apk",
     "lang": "id",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23505,7 +23525,7 @@
         "name": "Pojok Manga",
         "lang": "id",
         "id": "5486262618423256587",
-        "baseUrl": "https://pojokmanga.net",
+        "baseUrl": "https://pojokmanga.org",
         "versionId": 1
       }
     ]
@@ -25233,6 +25253,26 @@
         "lang": "ja",
         "id": "2227240489801599645",
         "baseUrl": "https://yanmaga.jp",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: AgiToon",
+    "pkg": "eu.kanade.tachiyomi.extension.ko.agitoon",
+    "apk": "tachiyomi-ko.agitoon-v1.4.1.apk",
+    "lang": "ko",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "아지툰",
+        "lang": "ko",
+        "id": "5023170521036838702",
+        "baseUrl": "https://agitoon.in",
         "versionId": 1
       }
     ]
@@ -31921,10 +31961,10 @@
   {
     "name": "Tachiyomi: Jinman Tiantang",
     "pkg": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
-    "apk": "tachiyomi-zh.jinmantiantang-v1.4.42.apk",
+    "apk": "tachiyomi-zh.jinmantiantang-v1.4.43.apk",
     "lang": "zh",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
