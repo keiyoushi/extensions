@@ -18944,6 +18944,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Doujins.lat",
+    "pkg": "eu.kanade.tachiyomi.extension.es.doujinslat",
+    "apk": "tachiyomi-es.doujinslat-v1.4.30.apk",
+    "lang": "es",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Doujins.lat",
+        "lang": "es",
+        "id": "5798479633919910717",
+        "baseUrl": "https://doujins.lat",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: DragonTranslation.net",
     "pkg": "eu.kanade.tachiyomi.extension.es.dragontranslationnet",
     "apk": "tachiyomi-es.dragontranslationnet-v1.4.36.apk",
@@ -21011,6 +21031,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Etheral Radiance",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.etheralradiance",
+    "apk": "tachiyomi-fr.etheralradiance-v1.4.30.apk",
+    "lang": "fr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Etheral Radiance",
+        "lang": "fr",
+        "id": "517915389163695971",
+        "baseUrl": "https://www.etheralradiance.eu",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Legacy Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.flamescansfr",
     "apk": "tachiyomi-fr.flamescansfr-v1.4.31.apk",
@@ -21986,6 +22026,26 @@
         "lang": "id",
         "id": "1692273855027402309",
         "baseUrl": "https://boosei.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Comic 21",
+    "pkg": "eu.kanade.tachiyomi.extension.id.comic21",
+    "apk": "tachiyomi-id.comic21-v1.4.30.apk",
+    "lang": "id",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Comic 21",
+        "lang": "id",
+        "id": "7455962594443123249",
+        "baseUrl": "https://comic21.me",
         "versionId": 1
       }
     ]
@@ -23611,26 +23671,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Shea Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.id.sheamanga",
-    "apk": "tachiyomi-id.sheamanga-v1.4.34.apk",
-    "lang": "id",
-    "code": 34,
-    "version": "1.4.34",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Shea Manga",
-        "lang": "id",
-        "id": "1599261660262942345",
-        "baseUrl": "https://sheakomik.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Shinigami",
     "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
     "apk": "tachiyomi-id.shinigami-v1.4.57.apk",
@@ -24673,10 +24713,10 @@
   {
     "name": "Tachiyomi: MANGARAW+",
     "pkg": "eu.kanade.tachiyomi.extension.ja.mangarawplus",
-    "apk": "tachiyomi-ja.mangarawplus-v1.4.39.apk",
+    "apk": "tachiyomi-ja.mangarawplus-v1.4.40.apk",
     "lang": "ja",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24685,7 +24725,7 @@
         "name": "MANGARAW+",
         "lang": "ja",
         "id": "4024106071166095369",
-        "baseUrl": "https://newmangaraw.net",
+        "baseUrl": "https://mangarawpedia.com",
         "versionId": 1
       }
     ]
@@ -29174,6 +29214,26 @@
         "lang": "th",
         "id": "8174267898467838103",
         "baseUrl": "http://www.xn--l3c0azab5a2gta.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Tanuki-Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.th.tanukimanga",
+    "apk": "tachiyomi-th.tanukimanga-v1.4.30.apk",
+    "lang": "th",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Tanuki-Manga",
+        "lang": "th",
+        "id": "422195356897516502",
+        "baseUrl": "https://www.tanuki-manga.com",
         "versionId": 1
       }
     ]
