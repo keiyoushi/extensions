@@ -20724,6 +20724,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: TuMangas.net",
+    "pkg": "eu.kanade.tachiyomi.extension.es.tumangasnet",
+    "apk": "tachiyomi-es.tumangasnet-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "TuMangas.net",
+        "lang": "es",
+        "id": "4022908652442604214",
+        "baseUrl": "https://tumangas.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: TuManhwas",
     "pkg": "eu.kanade.tachiyomi.extension.es.tumanhwas",
     "apk": "tachiyomi-es.tumanhwas-v1.4.1.apk",
