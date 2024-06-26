@@ -6496,10 +6496,10 @@
   {
     "name": "Tachiyomi: Union Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.all.unionmangas",
-    "apk": "tachiyomi-all.unionmangas-v1.4.4.apk",
+    "apk": "tachiyomi-all.unionmangas-v1.4.5.apk",
     "lang": "all",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23673,10 +23673,10 @@
   {
     "name": "Tachiyomi: Shinigami",
     "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
-    "apk": "tachiyomi-id.shinigami-v1.4.57.apk",
+    "apk": "tachiyomi-id.shinigami-v1.4.58.apk",
     "lang": "id",
-    "code": 57,
-    "version": "1.4.57",
+    "code": 58,
+    "version": "1.4.58",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23685,7 +23685,7 @@
         "name": "Shinigami",
         "lang": "id",
         "id": "3411809758861089969",
-        "baseUrl": "https://shinigamitoon.id",
+        "baseUrl": "https://shinigamitoon.app",
         "versionId": 1
       }
     ]
@@ -25781,10 +25781,10 @@
   {
     "name": "Tachiyomi: Blackout Comics",
     "pkg": "eu.kanade.tachiyomi.extension.pt.blackoutcomics",
-    "apk": "tachiyomi-pt.blackoutcomics-v1.4.3.apk",
+    "apk": "tachiyomi-pt.blackoutcomics-v1.4.4.apk",
     "lang": "pt-BR",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26981,10 +26981,10 @@
   {
     "name": "Tachiyomi: Manhastro",
     "pkg": "eu.kanade.tachiyomi.extension.pt.manhastro",
-    "apk": "tachiyomi-pt.manhastro-v1.4.41.apk",
+    "apk": "tachiyomi-pt.manhastro-v1.4.42.apk",
     "lang": "pt-BR",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -29479,6 +29479,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Ayatoon",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.ayatoon",
+    "apk": "tachiyomi-tr.ayatoon-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Ayatoon",
+        "lang": "tr",
+        "id": "8301299231315622380",
+        "baseUrl": "https://ayatoon.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Çizgi Roman Arşivi",
     "pkg": "eu.kanade.tachiyomi.extension.tr.cizgiromanarsivi",
     "apk": "tachiyomi-tr.cizgiromanarsivi-v1.4.36.apk",
@@ -29674,6 +29694,26 @@
         "lang": "tr",
         "id": "2400652084227773997",
         "baseUrl": "https://glorymanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Gölge Bahçesi",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.golgebahcesi",
+    "apk": "tachiyomi-tr.golgebahcesi-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Gölge Bahçesi",
+        "lang": "tr",
+        "id": "9140435144936721031",
+        "baseUrl": "https://golgebahcesi.com",
         "versionId": 1
       }
     ]
@@ -30154,6 +30194,26 @@
         "lang": "tr",
         "id": "2335050007830485750",
         "baseUrl": "https://mangaoku.info",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Oku TR",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.mangaokutr",
+    "apk": "tachiyomi-tr.mangaokutr-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Oku TR",
+        "lang": "tr",
+        "id": "3486302556987174977",
+        "baseUrl": "https://mangaokutr.com",
         "versionId": 1
       }
     ]
