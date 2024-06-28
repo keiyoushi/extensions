@@ -29281,10 +29281,10 @@
   {
     "name": "Tachiyomi: Adu Manga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.adumanga",
-    "apk": "tachiyomi-tr.adumanga-v1.4.30.apk",
+    "apk": "tachiyomi-tr.adumanga-v1.4.31.apk",
     "lang": "tr",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -29293,7 +29293,7 @@
         "name": "Adu Manga",
         "lang": "tr",
         "id": "1823090555849741450",
-        "baseUrl": "https://www.mangacim.com",
+        "baseUrl": "https://adumanga.com",
         "versionId": 1
       }
     ]
