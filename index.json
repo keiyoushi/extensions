@@ -6073,10 +6073,10 @@
   {
     "name": "Tachiyomi: Pururin",
     "pkg": "eu.kanade.tachiyomi.extension.all.pururin",
-    "apk": "tachiyomi-all.pururin-v1.4.8.apk",
+    "apk": "tachiyomi-all.pururin-v1.4.9.apk",
     "lang": "all",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12052,10 +12052,10 @@
   {
     "name": "Tachiyomi: Manga Demon",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangademon",
-    "apk": "tachiyomi-en.mangademon-v1.4.11.apk",
+    "apk": "tachiyomi-en.mangademon-v1.4.12.apk",
     "lang": "en",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12064,7 +12064,7 @@
         "name": "Manga Demon",
         "lang": "en",
         "id": "8089306398534489202",
-        "baseUrl": "https://comicdemons.com",
+        "baseUrl": "https://mgdemon.org",
         "versionId": 1
       }
     ]
@@ -19906,10 +19906,10 @@
   {
     "name": "Tachiyomi: Manhua Espanol",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhuaespanol",
-    "apk": "tachiyomi-es.manhuaespanol-v1.4.36.apk",
+    "apk": "tachiyomi-es.manhuaespanol-v1.4.37.apk",
     "lang": "es",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19918,7 +19918,7 @@
         "name": "Manhua Español",
         "lang": "es",
         "id": "2364814682206423293",
-        "baseUrl": "https://manhuaespanol.com",
+        "baseUrl": "https://lectorespanol.com",
         "versionId": 1
       }
     ]
@@ -23313,10 +23313,10 @@
   {
     "name": "Tachiyomi: MG Komik",
     "pkg": "eu.kanade.tachiyomi.extension.id.mgkomik",
-    "apk": "tachiyomi-id.mgkomik-v1.4.49.apk",
+    "apk": "tachiyomi-id.mgkomik-v1.4.50.apk",
     "lang": "id",
-    "code": 49,
-    "version": "1.4.49",
+    "code": 50,
+    "version": "1.4.50",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -29619,6 +29619,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Epikman",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.epikman",
+    "apk": "tachiyomi-tr.epikman-v1.4.9.apk",
+    "lang": "tr",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Epikman",
+        "lang": "tr",
+        "id": "3922936570039059387",
+        "baseUrl": "https://www.epikman.ga",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: ManWe",
     "pkg": "eu.kanade.tachiyomi.extension.tr.evascans",
     "apk": "tachiyomi-tr.evascans-v1.4.37.apk",
@@ -30159,26 +30179,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manga Keyfi",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.mangakeyfi",
-    "apk": "tachiyomi-tr.mangakeyfi-v1.4.36.apk",
-    "lang": "tr",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Manga Keyfi",
-        "lang": "tr",
-        "id": "3908248304003777497",
-        "baseUrl": "https://mangakeyfi.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Manga Kings",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangakings",
     "apk": "tachiyomi-tr.mangakings-v1.4.30.apk",
@@ -30439,26 +30439,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Merlin Shoujo",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.merlinshoujo",
-    "apk": "tachiyomi-tr.merlinshoujo-v1.4.30.apk",
-    "lang": "tr",
-    "code": 30,
-    "version": "1.4.30",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Merlin Shoujo",
-        "lang": "tr",
-        "id": "1299870075510457006",
-        "baseUrl": "https://merlinshoujo.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Mikrokosmos Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mikrokosmosfansub",
     "apk": "tachiyomi-tr.mikrokosmosfansub-v1.4.9.apk",
@@ -30561,10 +30541,10 @@
   {
     "name": "Tachiyomi: Nivera Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.tr.niverafansub",
-    "apk": "tachiyomi-tr.niverafansub-v1.4.37.apk",
+    "apk": "tachiyomi-tr.niverafansub-v1.4.38.apk",
     "lang": "tr",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -30573,7 +30553,7 @@
         "name": "Nivera Fansub",
         "lang": "tr",
         "id": "3875676731760385630",
-        "baseUrl": "https://niverafansub.net",
+        "baseUrl": "https://niverafansub.org",
         "versionId": 1
       }
     ]
@@ -32261,10 +32241,10 @@
   {
     "name": "Tachiyomi: Manwa",
     "pkg": "eu.kanade.tachiyomi.extension.zh.manwa",
-    "apk": "tachiyomi-zh.manwa-v1.4.4.apk",
+    "apk": "tachiyomi-zh.manwa-v1.4.5.apk",
     "lang": "zh",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32273,7 +32253,7 @@
         "name": "漫蛙",
         "lang": "zh",
         "id": "1795888684783606321",
-        "baseUrl": "https://manwa.me",
+        "baseUrl": "https://manwa.fun",
         "versionId": 1
       }
     ]
