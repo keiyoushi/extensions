@@ -9810,26 +9810,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: FleksyScans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.fleksyscans",
-    "apk": "tachiyomi-en.fleksyscans-v1.4.2.apk",
-    "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "FleksyScans",
-        "lang": "en",
-        "id": "6749457495000986955",
-        "baseUrl": "https://flexscans.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Flix Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.flixscans",
     "apk": "tachiyomi-en.flixscans-v1.4.6.apk",
@@ -18726,10 +18706,10 @@
   {
     "name": "Tachiyomi: Brakeout",
     "pkg": "eu.kanade.tachiyomi.extension.es.brakeout",
-    "apk": "tachiyomi-es.brakeout-v1.4.1.apk",
+    "apk": "tachiyomi-es.brakeout-v1.4.2.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20406,10 +20386,10 @@
   {
     "name": "Tachiyomi: ScamberTraslator",
     "pkg": "eu.kanade.tachiyomi.extension.es.scambertraslator",
-    "apk": "tachiyomi-es.scambertraslator-v1.4.39.apk",
+    "apk": "tachiyomi-es.scambertraslator-v1.4.40.apk",
     "lang": "es",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20418,7 +20398,7 @@
         "name": "ScamberTraslator",
         "lang": "es",
         "id": "3398083103656242593",
-        "baseUrl": "https://scambertraslator.com",
+        "baseUrl": "https://visorscamber-scans.com",
         "versionId": 1
       }
     ]
@@ -22773,10 +22753,10 @@
   {
     "name": "Tachiyomi: Komiktap",
     "pkg": "eu.kanade.tachiyomi.extension.id.komiktap",
-    "apk": "tachiyomi-id.komiktap-v1.4.31.apk",
+    "apk": "tachiyomi-id.komiktap-v1.4.32.apk",
     "lang": "id",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22785,7 +22765,7 @@
         "name": "Komiktap",
         "lang": "id",
         "id": "8162933120097302217",
-        "baseUrl": "https://komiktap.me",
+        "baseUrl": "https://komiktap.info",
         "versionId": 1
       }
     ]
@@ -28054,26 +28034,6 @@
         "lang": "pt-BR",
         "id": "4490140647146605230",
         "baseUrl": "https://ycscan.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Yomu Mangás",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.yomumangas",
-    "apk": "tachiyomi-pt.yomumangas-v1.4.3.apk",
-    "lang": "pt-BR",
-    "code": 3,
-    "version": "1.4.3",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Yomu Mangás",
-        "lang": "pt-BR",
-        "id": "1636954121036022614",
-        "baseUrl": "https://yomumangas.com",
         "versionId": 1
       }
     ]
