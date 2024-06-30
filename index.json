@@ -31137,10 +31137,10 @@
   {
     "name": "Tachiyomi: TonizuToon",
     "pkg": "eu.kanade.tachiyomi.extension.tr.tonizutoon",
-    "apk": "tachiyomi-tr.tonizutoon-v1.4.37.apk",
+    "apk": "tachiyomi-tr.tonizutoon-v1.4.38.apk",
     "lang": "tr",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31149,7 +31149,7 @@
         "name": "TonizuToon",
         "lang": "tr",
         "id": "5222101826721428426",
-        "baseUrl": "https://tonizu.com",
+        "baseUrl": "https://tonizu.xyz",
         "versionId": 1
       }
     ]
