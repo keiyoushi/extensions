@@ -2250,6 +2250,33 @@
     ]
   },
   {
+    "name": "Tachiyomi: Galaxy",
+    "pkg": "eu.kanade.tachiyomi.extension.all.galaxy",
+    "apk": "tachiyomi-all.galaxy-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Galaxy Webtoon",
+        "lang": "en",
+        "id": "2602904659965278831",
+        "baseUrl": "https://galaxyaction.net",
+        "versionId": 1
+      },
+      {
+        "name": "Galaxy Manga",
+        "lang": "ar",
+        "id": "2729515745226258240",
+        "baseUrl": "https://galaxymanga.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Grabber Zone",
     "pkg": "eu.kanade.tachiyomi.extension.all.grabberzone",
     "apk": "tachiyomi-all.grabberzone-v1.4.36.apk",
@@ -7438,26 +7465,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Galaxy Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.galaxymanga",
-    "apk": "tachiyomi-ar.galaxymanga-v1.4.34.apk",
-    "lang": "ar",
-    "code": 34,
-    "version": "1.4.34",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "جالاكسي مانجا",
-        "lang": "ar",
-        "id": "2729515745226258240",
-        "baseUrl": "https://flixscans.net",
-        "versionId": 2
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Gatemanga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.gatemanga",
     "apk": "tachiyomi-ar.gatemanga-v1.4.38.apk",
@@ -7733,6 +7740,26 @@
         "lang": "ar",
         "id": "3244399826714600926",
         "baseUrl": "https://manjanoon.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaPeak",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangapeak",
+    "apk": "tachiyomi-ar.mangapeak-v1.4.36.apk",
+    "lang": "ar",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaPeak",
+        "lang": "ar",
+        "id": "4230561864524668567",
+        "baseUrl": "https://mangapeak.org",
         "versionId": 1
       }
     ]
@@ -10021,26 +10048,6 @@
         "lang": "en",
         "id": "6350607071566689772",
         "baseUrl": "https://flamecomics.me",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Flix Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.flixscans",
-    "apk": "tachiyomi-en.flixscans-v1.4.6.apk",
-    "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Flix Scans",
-        "lang": "en",
-        "id": "2602904659965278831",
-        "baseUrl": "https://flixscans.org",
         "versionId": 1
       }
     ]
@@ -12428,10 +12435,10 @@
   {
     "name": "Tachiyomi: Mangaforfree.com",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaforfreecom",
-    "apk": "tachiyomi-en.mangaforfreecom-v1.4.37.apk",
+    "apk": "tachiyomi-en.mangaforfreecom-v1.4.38.apk",
     "lang": "en",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20142,10 +20149,10 @@
   {
     "name": "Tachiyomi: SamuraiScan",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhuaonline",
-    "apk": "tachiyomi-es.manhuaonline-v1.4.41.apk",
+    "apk": "tachiyomi-es.manhuaonline-v1.4.42.apk",
     "lang": "es",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20154,7 +20161,7 @@
         "name": "SamuraiScan",
         "lang": "es",
         "id": "5713083996691468192",
-        "baseUrl": "https://spanish.visorsmr.com",
+        "baseUrl": "https://samuraiscan.ragnarokscanlation.net",
         "versionId": 1
       }
     ]
@@ -26537,10 +26544,10 @@
   {
     "name": "Tachiyomi: Hentai Teca",
     "pkg": "eu.kanade.tachiyomi.extension.pt.hentaiteca",
-    "apk": "tachiyomi-pt.hentaiteca-v1.4.37.apk",
+    "apk": "tachiyomi-pt.hentaiteca-v1.4.38.apk",
     "lang": "pt-BR",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
