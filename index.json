@@ -6193,6 +6193,159 @@
     ]
   },
   {
+    "name": "Tachiyomi: PandaChaika",
+    "pkg": "eu.kanade.tachiyomi.extension.all.pandachaika",
+    "apk": "tachiyomi-all.pandachaika-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "PandaChaika",
+        "lang": "all",
+        "id": "8212157560459310944",
+        "baseUrl": "https://panda.chaika.moe",
+        "versionId": 1
+      },
+      {
+        "name": "PandaChaika",
+        "lang": "en",
+        "id": "3599272016034823454",
+        "baseUrl": "https://panda.chaika.moe",
+        "versionId": 1
+      },
+      {
+        "name": "PandaChaika",
+        "lang": "zh",
+        "id": "7139811400769884559",
+        "baseUrl": "https://panda.chaika.moe",
+        "versionId": 1
+      },
+      {
+        "name": "PandaChaika",
+        "lang": "ko",
+        "id": "7369333952028993476",
+        "baseUrl": "https://panda.chaika.moe",
+        "versionId": 1
+      },
+      {
+        "name": "PandaChaika",
+        "lang": "es",
+        "id": "627361661169334808",
+        "baseUrl": "https://panda.chaika.moe",
+        "versionId": 1
+      },
+      {
+        "name": "PandaChaika",
+        "lang": "ru",
+        "id": "5221951741432177903",
+        "baseUrl": "https://panda.chaika.moe",
+        "versionId": 1
+      },
+      {
+        "name": "PandaChaika",
+        "lang": "pt",
+        "id": "1651657038100823298",
+        "baseUrl": "https://panda.chaika.moe",
+        "versionId": 1
+      },
+      {
+        "name": "PandaChaika",
+        "lang": "fr",
+        "id": "7652967240448142818",
+        "baseUrl": "https://panda.chaika.moe",
+        "versionId": 1
+      },
+      {
+        "name": "PandaChaika",
+        "lang": "th",
+        "id": "1932020840797180157",
+        "baseUrl": "https://panda.chaika.moe",
+        "versionId": 1
+      },
+      {
+        "name": "PandaChaika",
+        "lang": "vi",
+        "id": "2772885510390273147",
+        "baseUrl": "https://panda.chaika.moe",
+        "versionId": 1
+      },
+      {
+        "name": "PandaChaika",
+        "lang": "ja",
+        "id": "3512076228855715276",
+        "baseUrl": "https://panda.chaika.moe",
+        "versionId": 1
+      },
+      {
+        "name": "PandaChaika",
+        "lang": "id",
+        "id": "2553504349329211397",
+        "baseUrl": "https://panda.chaika.moe",
+        "versionId": 1
+      },
+      {
+        "name": "PandaChaika",
+        "lang": "ar",
+        "id": "6895465518314218980",
+        "baseUrl": "https://panda.chaika.moe",
+        "versionId": 1
+      },
+      {
+        "name": "PandaChaika",
+        "lang": "uk",
+        "id": "1808484200237690514",
+        "baseUrl": "https://panda.chaika.moe",
+        "versionId": 1
+      },
+      {
+        "name": "PandaChaika",
+        "lang": "tr",
+        "id": "6830559705127350757",
+        "baseUrl": "https://panda.chaika.moe",
+        "versionId": 1
+      },
+      {
+        "name": "PandaChaika",
+        "lang": "cs",
+        "id": "4709631253767612322",
+        "baseUrl": "https://panda.chaika.moe",
+        "versionId": 1
+      },
+      {
+        "name": "PandaChaika",
+        "lang": "tl",
+        "id": "6984430285308868948",
+        "baseUrl": "https://panda.chaika.moe",
+        "versionId": 1
+      },
+      {
+        "name": "PandaChaika",
+        "lang": "fi",
+        "id": "5347846950927890201",
+        "baseUrl": "https://panda.chaika.moe",
+        "versionId": 1
+      },
+      {
+        "name": "PandaChaika",
+        "lang": "jv",
+        "id": "5421363896303671586",
+        "baseUrl": "https://panda.chaika.moe",
+        "versionId": 1
+      },
+      {
+        "name": "PandaChaika",
+        "lang": "el",
+        "id": "8814661622406768937",
+        "baseUrl": "https://panda.chaika.moe",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Pepper&Carrot",
     "pkg": "eu.kanade.tachiyomi.extension.all.peppercarrot",
     "apk": "tachiyomi-all.peppercarrot-v1.4.2.apk",
@@ -11675,10 +11828,10 @@
   {
     "name": "Tachiyomi: Luminous Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.luminousscans",
-    "apk": "tachiyomi-en.luminousscans-v1.4.36.apk",
+    "apk": "tachiyomi-en.luminousscans-v1.4.37.apk",
     "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11687,7 +11840,7 @@
         "name": "Luminous Scans",
         "lang": "en",
         "id": "1019556752273106311",
-        "baseUrl": "https://luminouscomics.org",
+        "baseUrl": "https://luminous-scans.com",
         "versionId": 1
       }
     ]
@@ -20429,10 +20582,10 @@
   {
     "name": "Tachiyomi: Plot Twist No Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.es.plottwistnofansub",
-    "apk": "tachiyomi-es.plottwistnofansub-v1.4.6.apk",
+    "apk": "tachiyomi-es.plottwistnofansub-v1.4.7.apk",
     "lang": "es",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20441,7 +20594,7 @@
         "name": "Plot Twist No Fansub",
         "lang": "es",
         "id": "6935004473807791201",
-        "baseUrl": "https://www.plotfansub.com",
+        "baseUrl": "https://plotnf.com",
         "versionId": 1
       }
     ]
@@ -20629,10 +20782,10 @@
   {
     "name": "Tachiyomi: Senpai Ediciones",
     "pkg": "eu.kanade.tachiyomi.extension.es.senpaiediciones",
-    "apk": "tachiyomi-es.senpaiediciones-v1.4.31.apk",
+    "apk": "tachiyomi-es.senpaiediciones-v1.4.32.apk",
     "lang": "es",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20641,7 +20794,7 @@
         "name": "Senpai Ediciones",
         "lang": "es",
         "id": "5823367250265948060",
-        "baseUrl": "https://senpaiediciones.com",
+        "baseUrl": "https://senpaimangas.online",
         "versionId": 1
       }
     ]
