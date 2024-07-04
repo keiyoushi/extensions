@@ -17775,10 +17775,10 @@
   {
     "name": "Tachiyomi: TCB Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.tcbscans",
-    "apk": "tachiyomi-en.tcbscans-v1.4.7.apk",
+    "apk": "tachiyomi-en.tcbscans-v1.4.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17787,7 +17787,7 @@
         "name": "TCB Scans",
         "lang": "en",
         "id": "1435116756378369709",
-        "baseUrl": "https://tcbscans.com",
+        "baseUrl": "https://tcbscans.me",
         "versionId": 1
       }
     ]
