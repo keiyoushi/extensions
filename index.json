@@ -12806,6 +12806,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaHen",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangahen",
+    "apk": "tachiyomi-en.mangahen-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaHen",
+        "lang": "en",
+        "id": "6602595408477221375",
+        "baseUrl": "https://manga-hen.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manga Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangahentai",
     "apk": "tachiyomi-en.mangahentai-v1.4.39.apk",
@@ -21389,10 +21409,10 @@
   {
     "name": "Tachiyomi: Epsilon Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.epsilonscan",
-    "apk": "tachiyomi-fr.epsilonscan-v1.4.36.apk",
+    "apk": "tachiyomi-fr.epsilonscan-v1.4.37.apk",
     "lang": "fr",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21401,7 +21421,7 @@
         "name": "Epsilon Scan",
         "lang": "fr",
         "id": "2577248042661857530",
-        "baseUrl": "https://epsilonscan.fr",
+        "baseUrl": "https://epsilonscan.to",
         "versionId": 2
       }
     ]
@@ -22149,10 +22169,10 @@
   {
     "name": "Tachiyomi: Soft Epsilon Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.softepsilonscan",
-    "apk": "tachiyomi-fr.softepsilonscan-v1.4.36.apk",
+    "apk": "tachiyomi-fr.softepsilonscan-v1.4.37.apk",
     "lang": "fr",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22161,7 +22181,7 @@
         "name": "Soft Epsilon Scan",
         "lang": "fr",
         "id": "4969929389259348100",
-        "baseUrl": "https://soft.epsilonscan.fr",
+        "baseUrl": "https://epsilonsoft.to",
         "versionId": 1
       }
     ]
