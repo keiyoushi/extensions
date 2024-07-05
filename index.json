@@ -2252,10 +2252,10 @@
   {
     "name": "Tachiyomi: Galaxy",
     "pkg": "eu.kanade.tachiyomi.extension.all.galaxy",
-    "apk": "tachiyomi-all.galaxy-v1.4.1.apk",
+    "apk": "tachiyomi-all.galaxy-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2271,7 +2271,7 @@
         "name": "Galaxy Manga",
         "lang": "ar",
         "id": "2729515745226258240",
-        "baseUrl": "https://galaxymanga.net",
+        "baseUrl": "https://ayoub-zrr.xyz",
         "versionId": 1
       }
     ]
@@ -7500,10 +7500,10 @@
   {
     "name": "Tachiyomi: Umi Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.beastscans",
-    "apk": "tachiyomi-ar.beastscans-v1.4.32.apk",
+    "apk": "tachiyomi-ar.beastscans-v1.4.33.apk",
     "lang": "ar",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16475,10 +16475,10 @@
   {
     "name": "Tachiyomi: ReadComicOnline",
     "pkg": "eu.kanade.tachiyomi.extension.en.readcomiconline",
-    "apk": "tachiyomi-en.readcomiconline-v1.4.19.apk",
+    "apk": "tachiyomi-en.readcomiconline-v1.4.20.apk",
     "lang": "en",
-    "code": 19,
-    "version": "1.4.19",
+    "code": 20,
+    "version": "1.4.20",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18213,26 +18213,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: UltraLight Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.ultralightscans",
-    "apk": "tachiyomi-en.ultralightscans-v1.4.6.apk",
-    "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "UltraLight Scans",
-        "lang": "en",
-        "id": "3324431994888040758",
-        "baseUrl": "https://readlight.org/",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: vgperson",
     "pkg": "eu.kanade.tachiyomi.extension.en.vgperson",
     "apk": "tachiyomi-en.vgperson-v1.4.6.apk",
@@ -19662,10 +19642,10 @@
   {
     "name": "Tachiyomi: Ikigai Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
-    "apk": "tachiyomi-es.ikigaimangas-v1.4.11.apk",
+    "apk": "tachiyomi-es.ikigaimangas-v1.4.12.apk",
     "lang": "es",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19674,7 +19654,7 @@
         "name": "Ikigai Mangas",
         "lang": "es",
         "id": "3546919326830738510",
-        "baseUrl": "https://es.ikigaiweb.lat",
+        "baseUrl": "https://visualikigai.com",
         "versionId": 1
       }
     ]
@@ -20822,10 +20802,10 @@
   {
     "name": "Tachiyomi: Senshi Manga",
     "pkg": "eu.kanade.tachiyomi.extension.es.senshimanga",
-    "apk": "tachiyomi-es.senshimanga-v1.4.1.apk",
+    "apk": "tachiyomi-es.senshimanga-v1.4.2.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22809,10 +22789,10 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-v1.4.58.apk",
+    "apk": "tachiyomi-id.komikcast-v1.4.59.apk",
     "lang": "id",
-    "code": 58,
-    "version": "1.4.58",
+    "code": 59,
+    "version": "1.4.59",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22821,7 +22801,7 @@
         "name": "Komik Cast",
         "lang": "id",
         "id": "972717448578983812",
-        "baseUrl": "https://komikcast.moe",
+        "baseUrl": "https://komikcast.mom",
         "versionId": 1
       }
     ]
@@ -23589,10 +23569,10 @@
   {
     "name": "Tachiyomi: ManhwaLand.mom",
     "pkg": "eu.kanade.tachiyomi.extension.id.manhwalandmom",
-    "apk": "tachiyomi-id.manhwalandmom-v1.4.35.apk",
+    "apk": "tachiyomi-id.manhwalandmom-v1.4.36.apk",
     "lang": "id",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23601,7 +23581,7 @@
         "name": "ManhwaLand.mom",
         "lang": "id",
         "id": "4281611327457686416",
-        "baseUrl": "https://manhwaland.lat",
+        "baseUrl": "https://www.manhwaland.space",
         "versionId": 1
       }
     ]
@@ -24149,10 +24129,10 @@
   {
     "name": "Tachiyomi: Siikomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.siimanga",
-    "apk": "tachiyomi-id.siimanga-v1.4.37.apk",
+    "apk": "tachiyomi-id.siimanga-v1.4.38.apk",
     "lang": "id",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24160,9 +24140,9 @@
       {
         "name": "Siikomik",
         "lang": "id",
-        "id": "5693774260946188681",
+        "id": "877264191661067329",
         "baseUrl": "https://siikomik.com",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
@@ -26077,10 +26057,10 @@
   {
     "name": "Tachiyomi: Arthur Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.arthurscan",
-    "apk": "tachiyomi-pt.arthurscan-v1.4.40.apk",
+    "apk": "tachiyomi-pt.arthurscan-v1.4.41.apk",
     "lang": "pt-BR",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
