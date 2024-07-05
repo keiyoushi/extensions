@@ -19662,10 +19662,10 @@
   {
     "name": "Tachiyomi: Ikigai Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
-    "apk": "tachiyomi-es.ikigaimangas-v1.4.11.apk",
+    "apk": "tachiyomi-es.ikigaimangas-v1.4.12.apk",
     "lang": "es",
     "code": 11,
-    "version": "1.4.11",
+    "version": "1.4.12",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19674,8 +19674,8 @@
         "name": "Ikigai Mangas",
         "lang": "es",
         "id": "3546919326830738510",
-        "baseUrl": "https://es.ikigaiweb.lat",
-        "versionId": 1
+        "baseUrl": "https://visualikigai.com",
+        "versionId": 2
       }
     ]
   },
