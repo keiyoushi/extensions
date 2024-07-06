@@ -9338,6 +9338,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: ColoredManga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.coloredmanga",
+    "apk": "tachiyomi-en.coloredmanga-v1.4.3.apk",
+    "lang": "en",
+    "code": 3,
+    "version": "1.4.3",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ColoredManga",
+        "lang": "en",
+        "id": "8295785688378137067",
+        "baseUrl": "https://coloredmanga.net",
+        "versionId": 2
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Comic1000",
     "pkg": "eu.kanade.tachiyomi.extension.en.comic1000",
     "apk": "tachiyomi-en.comic1000-v1.4.1.apk",
@@ -17693,21 +17713,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Surya Scans",
+    "name": "Tachiyomi: Genz Toons",
     "pkg": "eu.kanade.tachiyomi.extension.en.suryascans",
-    "apk": "tachiyomi-en.suryascans-v1.4.33.apk",
+    "apk": "tachiyomi-en.suryascans-v1.4.34.apk",
     "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Surya Scans",
+        "name": "Genz Toons",
         "lang": "en",
         "id": "2909429739457928148",
-        "baseUrl": "https://suryatoon.com",
+        "baseUrl": "https://genztoons.com",
         "versionId": 1
       }
     ]
@@ -30150,6 +30170,26 @@
         "lang": "tr",
         "id": "546920749196078093",
         "baseUrl": "https://hayalistic.com.tr",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Hentaing",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.hentaing",
+    "apk": "tachiyomi-tr.hentaing-v1.4.36.apk",
+    "lang": "tr",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hentaing",
+        "lang": "tr",
+        "id": "3518858173957835738",
+        "baseUrl": "https://hentaing.org",
         "versionId": 1
       }
     ]
