@@ -18442,10 +18442,10 @@
   {
     "name": "Tachiyomi: WebNovel",
     "pkg": "eu.kanade.tachiyomi.extension.en.webnovel",
-    "apk": "tachiyomi-en.webnovel-v1.4.9.apk",
+    "apk": "tachiyomi-en.webnovel-v1.4.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28675,6 +28675,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaBuff",
+    "pkg": "eu.kanade.tachiyomi.extension.ru.mangabuff",
+    "apk": "tachiyomi-ru.mangabuff-v1.4.1.apk",
+    "lang": "ru",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaBuff",
+        "lang": "ru",
+        "id": "4008409601887986192",
+        "baseUrl": "https://mangabuff.ru",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaChan",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangachan",
     "apk": "tachiyomi-ru.mangachan-v1.4.17.apk",
@@ -29310,6 +29330,26 @@
         "lang": "th",
         "id": "6102454165244031412",
         "baseUrl": "https://makimaaaaa.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga168",
+    "pkg": "eu.kanade.tachiyomi.extension.th.manga168",
+    "apk": "tachiyomi-th.manga168-v1.4.30.apk",
+    "lang": "th",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga168",
+        "lang": "th",
+        "id": "8294739153755503988",
+        "baseUrl": "https://manga168.com",
         "versionId": 1
       }
     ]
