@@ -17135,10 +17135,10 @@
   {
     "name": "Tachiyomi: Reset Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.resetscans",
-    "apk": "tachiyomi-en.resetscans-v1.4.38.apk",
+    "apk": "tachiyomi-en.resetscans-v1.4.39.apk",
     "lang": "en",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17147,7 +17147,7 @@
         "name": "Reset Scans",
         "lang": "en",
         "id": "8894279497795073184",
-        "baseUrl": "https://resetscan.com",
+        "baseUrl": "https://reset-scans.co",
         "versionId": 1
       }
     ]
