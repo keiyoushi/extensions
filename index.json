@@ -20342,10 +20342,10 @@
   {
     "name": "Tachiyomi: SamuraiScan",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhuaonline",
-    "apk": "tachiyomi-es.manhuaonline-v1.4.42.apk",
+    "apk": "tachiyomi-es.manhuaonline-v1.4.43.apk",
     "lang": "es",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20354,7 +20354,7 @@
         "name": "SamuraiScan",
         "lang": "es",
         "id": "5713083996691468192",
-        "baseUrl": "https://samuraiscan.ragnarokscanlation.net",
+        "baseUrl": "https://spanish.visorsmr.com",
         "versionId": 1
       }
     ]
@@ -24089,10 +24089,10 @@
   {
     "name": "Tachiyomi: Shinigami",
     "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
-    "apk": "tachiyomi-id.shinigami-v1.4.58.apk",
+    "apk": "tachiyomi-id.shinigami-v1.4.59.apk",
     "lang": "id",
-    "code": 58,
-    "version": "1.4.58",
+    "code": 59,
+    "version": "1.4.59",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24101,7 +24101,7 @@
         "name": "Shinigami",
         "lang": "id",
         "id": "3411809758861089969",
-        "baseUrl": "https://shinigamitoon.app",
+        "baseUrl": "https://shinigami01.com",
         "versionId": 1
       }
     ]
@@ -29915,6 +29915,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Asura Scans TR",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.asurascanstr",
+    "apk": "tachiyomi-tr.asurascanstr-v1.4.36.apk",
+    "lang": "tr",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Asura Scans TR",
+        "lang": "tr",
+        "id": "174388226839740265",
+        "baseUrl": "https://asurascans.com.tr",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Athena Manga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.athenamanga",
     "apk": "tachiyomi-tr.athenamanga-v1.4.30.apk",
@@ -31735,6 +31755,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Fecomic",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.fecomic",
+    "apk": "tachiyomi-vi.fecomic-v1.4.36.apk",
+    "lang": "vi",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Fecomic",
+        "lang": "vi",
+        "id": "5167500504203693125",
+        "baseUrl": "https://fecomicc.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: CBHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaicube",
     "apk": "tachiyomi-vi.hentaicube-v1.4.44.apk",
@@ -32969,7 +33009,7 @@
         "name": "zero搬运网",
         "lang": "zh",
         "id": "8743284448117690086",
-        "baseUrl": "http://www.zerobywzz.com",
+        "baseUrl": "http://www.zerobyw8.com",
         "versionId": 1
       }
     ]
