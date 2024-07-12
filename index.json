@@ -11466,6 +11466,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: King of Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.kingofscans",
+    "apk": "tachiyomi-en.kingofscans-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "King of Scans",
+        "lang": "en",
+        "id": "1601814206268646793",
+        "baseUrl": "https://kingofscans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: King of Shojo",
     "pkg": "eu.kanade.tachiyomi.extension.en.kingofshojo",
     "apk": "tachiyomi-en.kingofshojo-v1.4.30.apk",
@@ -14648,6 +14668,26 @@
         "lang": "en",
         "id": "5075089422240578347",
         "baseUrl": "https://manhuaplus.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manhuascan.us",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manhuascanus",
+    "apk": "tachiyomi-en.manhuascanus-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manhuascan.us",
+        "lang": "en",
+        "id": "6542792852936422236",
+        "baseUrl": "https://manhuascan.us",
         "versionId": 1
       }
     ]
@@ -22587,6 +22627,46 @@
     ]
   },
   {
+    "name": "Tachiyomi: Doujinku",
+    "pkg": "eu.kanade.tachiyomi.extension.id.doujinku",
+    "apk": "tachiyomi-id.doujinku-v1.4.30.apk",
+    "lang": "id",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Doujinku",
+        "lang": "id",
+        "id": "4688509366795716377",
+        "baseUrl": "https://doujinku.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Futari",
+    "pkg": "eu.kanade.tachiyomi.extension.id.futari",
+    "apk": "tachiyomi-id.futari-v1.4.30.apk",
+    "lang": "id",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Futari",
+        "lang": "id",
+        "id": "1614420663316197917",
+        "baseUrl": "https://futari.info",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Hensekai",
     "pkg": "eu.kanade.tachiyomi.extension.id.hensekai",
     "apk": "tachiyomi-id.hensekai-v1.4.1.apk",
@@ -22887,6 +22967,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: KomikGO",
+    "pkg": "eu.kanade.tachiyomi.extension.id.komikgo",
+    "apk": "tachiyomi-id.komikgo-v1.4.30.apk",
+    "lang": "id",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "KomikGO",
+        "lang": "id",
+        "id": "1149122786753672849",
+        "baseUrl": "https://komikgo.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Komik Gue",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikgue",
     "apk": "tachiyomi-id.komikgue-v1.4.36.apk",
@@ -22922,6 +23022,26 @@
         "lang": "id",
         "id": "4974695717580493197",
         "baseUrl": "https://www.komikid.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Komikindo",
+    "pkg": "eu.kanade.tachiyomi.extension.id.komikindo",
+    "apk": "tachiyomi-id.komikindo-v1.4.30.apk",
+    "lang": "id",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Komikindo",
+        "lang": "id",
+        "id": "1210328269637877420",
+        "baseUrl": "https://komikindo.sbs",
         "versionId": 1
       }
     ]
@@ -25937,10 +26057,10 @@
   {
     "name": "Tachiyomi: Algodão Doce",
     "pkg": "eu.kanade.tachiyomi.extension.pt.algodaodoce",
-    "apk": "tachiyomi-pt.algodaodoce-v1.4.36.apk",
+    "apk": "tachiyomi-pt.algodaodoce-v1.4.37.apk",
     "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25949,7 +26069,7 @@
         "name": "Algodão Doce",
         "lang": "pt-BR",
         "id": "8976659270314261457",
-        "baseUrl": "https://algodaodocescan.com.br",
+        "baseUrl": "https://xn--algododoce-j5a.com",
         "versionId": 1
       }
     ]
@@ -29195,6 +29315,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Doujin69",
+    "pkg": "eu.kanade.tachiyomi.extension.th.doujin69",
+    "apk": "tachiyomi-th.doujin69-v1.4.30.apk",
+    "lang": "th",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Doujin69",
+        "lang": "th",
+        "id": "216615711286665281",
+        "baseUrl": "https://doujin69.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Doujin-Lc",
     "pkg": "eu.kanade.tachiyomi.extension.th.doujinlc",
     "apk": "tachiyomi-th.doujinlc-v1.4.36.apk",
@@ -29710,6 +29850,26 @@
         "lang": "th",
         "id": "422195356897516502",
         "baseUrl": "https://www.tanuki-manga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ToomTam-Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.th.toomtammanga",
+    "apk": "tachiyomi-th.toomtammanga-v1.4.30.apk",
+    "lang": "th",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ToomTam-Manga",
+        "lang": "th",
+        "id": "5640783863041818405",
+        "baseUrl": "https://toomtam-manga.com",
         "versionId": 1
       }
     ]
