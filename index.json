@@ -9658,6 +9658,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Dark Science",
+    "pkg": "eu.kanade.tachiyomi.extension.en.darkscience",
+    "apk": "tachiyomi-en.darkscience-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Dark Science",
+        "lang": "en",
+        "id": "2059482759352416637",
+        "baseUrl": "https://dresdencodak.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: DAYcomics.me",
     "pkg": "eu.kanade.tachiyomi.extension.en.daycomicsme",
     "apk": "tachiyomi-en.daycomicsme-v1.4.1.apk",
