@@ -4219,10 +4219,10 @@
   {
     "name": "Tachiyomi: MangaPark",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangapark",
-    "apk": "tachiyomi-all.mangapark-v1.4.19.apk",
+    "apk": "tachiyomi-all.mangapark-v1.4.20.apk",
     "lang": "all",
-    "code": 19,
-    "version": "1.4.19",
+    "code": 20,
+    "version": "1.4.20",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15913,6 +15913,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Nyrax Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.nyraxmanga",
+    "apk": "tachiyomi-en.nyraxmanga-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Nyrax Manga",
+        "lang": "en",
+        "id": "475657908968876226",
+        "baseUrl": "https://nyraxmanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Oglaf",
     "pkg": "eu.kanade.tachiyomi.extension.en.oglaf",
     "apk": "tachiyomi-en.oglaf-v1.4.3.apk",
@@ -17828,6 +17848,26 @@
         "lang": "en",
         "id": "4098334577101891258",
         "baseUrl": "https://swordscomic.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Taadd",
+    "pkg": "eu.kanade.tachiyomi.extension.en.taadd",
+    "apk": "tachiyomi-en.taadd-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Taadd",
+        "lang": "en",
+        "id": "2664952092828683259",
+        "baseUrl": "https://www.taadd.com",
         "versionId": 1
       }
     ]
@@ -21329,10 +21369,10 @@
   {
     "name": "Tachiyomi: AnimeSama",
     "pkg": "eu.kanade.tachiyomi.extension.fr.animesama",
-    "apk": "tachiyomi-fr.animesama-v1.4.1.apk",
+    "apk": "tachiyomi-fr.animesama-v1.4.2.apk",
     "lang": "fr",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -30775,26 +30815,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manga Diyari",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.mangadiyari",
-    "apk": "tachiyomi-tr.mangadiyari-v1.4.38.apk",
-    "lang": "tr",
-    "code": 38,
-    "version": "1.4.38",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Manga Diyari",
-        "lang": "tr",
-        "id": "5516684264903221076",
-        "baseUrl": "https://manga-diyari.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Manga Efendisi",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangaefendisi",
     "apk": "tachiyomi-tr.mangaefendisi-v1.4.30.apk",
@@ -31290,6 +31310,26 @@
         "lang": "tr",
         "id": "8123060697636346672",
         "baseUrl": "https://piedpiperfansubyy.me",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Pijamalı Koi",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.pijamalikoi",
+    "apk": "tachiyomi-tr.pijamalikoi-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Pijamalı Koi",
+        "lang": "tr",
+        "id": "1807856640457849215",
+        "baseUrl": "https://pijamalikoi.com/m",
         "versionId": 1
       }
     ]
