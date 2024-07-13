@@ -8060,10 +8060,10 @@
   {
     "name": "Tachiyomi: MangaSwat",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaswat",
-    "apk": "tachiyomi-ar.mangaswat-v1.4.48.apk",
+    "apk": "tachiyomi-ar.mangaswat-v1.4.49.apk",
     "lang": "ar",
-    "code": 48,
-    "version": "1.4.48",
+    "code": 49,
+    "version": "1.4.49",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8072,7 +8072,7 @@
         "name": "MangaSwat",
         "lang": "ar",
         "id": "264168699090292138",
-        "baseUrl": "https://normoyun.com",
+        "baseUrl": "https://t1manga.com",
         "versionId": 1
       }
     ]
