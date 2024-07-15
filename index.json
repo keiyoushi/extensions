@@ -9860,10 +9860,10 @@
   {
     "name": "Tachiyomi: Drake Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.drakescans",
-    "apk": "tachiyomi-en.drakescans-v1.4.42.apk",
+    "apk": "tachiyomi-en.drakescans-v1.4.43.apk",
     "lang": "en",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9872,7 +9872,7 @@
         "name": "Drake Scans",
         "lang": "en",
         "id": "8284219650954312474",
-        "baseUrl": "https://drake-scans.com",
+        "baseUrl": "https://drakecomic.com",
         "versionId": 2
       }
     ]
@@ -10028,10 +10028,10 @@
   {
     "name": "Tachiyomi: Elarc Toon",
     "pkg": "eu.kanade.tachiyomi.extension.en.elarcpage",
-    "apk": "tachiyomi-en.elarcpage-v1.4.38.apk",
+    "apk": "tachiyomi-en.elarcpage-v1.4.39.apk",
     "lang": "en",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10040,7 +10040,7 @@
         "name": "Elarc Toon",
         "lang": "en",
         "id": "5482125641807211052",
-        "baseUrl": "https://elarctoons.ink",
+        "baseUrl": "https://elarctoons.biz",
         "versionId": 1
       }
     ]
@@ -19100,6 +19100,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: AnonimusTLS",
+    "pkg": "eu.kanade.tachiyomi.extension.es.anonimustls",
+    "apk": "tachiyomi-es.anonimustls-v1.4.2.apk",
+    "lang": "es",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "AnonimusTLS",
+        "lang": "es",
+        "id": "5043875245172228536",
+        "baseUrl": "https://anonimustls.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: ApollComics",
     "pkg": "eu.kanade.tachiyomi.extension.es.apollcomics",
     "apk": "tachiyomi-es.apollcomics-v1.4.39.apk",
@@ -20662,10 +20682,10 @@
   {
     "name": "Tachiyomi: NekoScans",
     "pkg": "eu.kanade.tachiyomi.extension.es.nekoscans",
-    "apk": "tachiyomi-es.nekoscans-v1.4.30.apk",
+    "apk": "tachiyomi-es.nekoscans-v1.4.31.apk",
     "lang": "es",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20673,9 +20693,9 @@
       {
         "name": "NekoScans",
         "lang": "es",
-        "id": "7508363780557085181",
-        "baseUrl": "https://nekoscans.com",
-        "versionId": 1
+        "id": "4461682841795852378",
+        "baseUrl": "https://nekoscanlationlector.blogspot.com",
+        "versionId": 2
       }
     ]
   },
@@ -20942,10 +20962,10 @@
   {
     "name": "Tachiyomi: Senshi Manga",
     "pkg": "eu.kanade.tachiyomi.extension.es.senshimanga",
-    "apk": "tachiyomi-es.senshimanga-v1.4.2.apk",
+    "apk": "tachiyomi-es.senshimanga-v1.4.3.apk",
     "lang": "es",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26022,14 +26042,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki343.net",
+        "baseUrl": "https://manatoki345.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki343.com",
+        "baseUrl": "https://newtoki345.com",
         "versionId": 1
       }
     ]
@@ -27137,10 +27157,10 @@
   {
     "name": "Tachiyomi: Sagrado Império da Britannia",
     "pkg": "eu.kanade.tachiyomi.extension.pt.imperiodabritannia",
-    "apk": "tachiyomi-pt.imperiodabritannia-v1.4.36.apk",
+    "apk": "tachiyomi-pt.imperiodabritannia-v1.4.37.apk",
     "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27957,10 +27977,10 @@
   {
     "name": "Tachiyomi: Pink Sea Unicorn",
     "pkg": "eu.kanade.tachiyomi.extension.pt.pinkseaunicorn",
-    "apk": "tachiyomi-pt.pinkseaunicorn-v1.4.36.apk",
+    "apk": "tachiyomi-pt.pinkseaunicorn-v1.4.37.apk",
     "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28370,26 +28390,6 @@
         "lang": "pt-BR",
         "id": "7640190247679480703",
         "baseUrl": "https://tatakaescan.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Toshi wa Yume",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.toshiwayume",
-    "apk": "tachiyomi-pt.toshiwayume-v1.4.3.apk",
-    "lang": "pt-BR",
-    "code": 3,
-    "version": "1.4.3",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Toshi wa Yume",
-        "lang": "pt-BR",
-        "id": "6607269351580733772",
-        "baseUrl": "https://leitoronline.toshiwayume.com.br",
         "versionId": 1
       }
     ]
@@ -31517,10 +31517,10 @@
   {
     "name": "Tachiyomi: Gri Melek",
     "pkg": "eu.kanade.tachiyomi.extension.tr.siyahmelek",
-    "apk": "tachiyomi-tr.siyahmelek-v1.4.41.apk",
+    "apk": "tachiyomi-tr.siyahmelek-v1.4.42.apk",
     "lang": "tr",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31529,7 +31529,7 @@
         "name": "Gri Melek",
         "lang": "tr",
         "id": "6419959498055001014",
-        "baseUrl": "https://grimelek.co",
+        "baseUrl": "https://grimelek.org",
         "versionId": 1
       }
     ]
@@ -32197,10 +32197,10 @@
   {
     "name": "Tachiyomi: SayHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.sayhentai",
-    "apk": "tachiyomi-vi.sayhentai-v1.4.7.apk",
+    "apk": "tachiyomi-vi.sayhentai-v1.4.8.apk",
     "lang": "vi",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32209,7 +32209,7 @@
         "name": "SayHentai",
         "lang": "vi",
         "id": "4370817879994829481",
-        "baseUrl": "https://sayhentai.life",
+        "baseUrl": "https://sayhentai.one",
         "versionId": 1
       }
     ]
