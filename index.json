@@ -16615,10 +16615,10 @@
   {
     "name": "Tachiyomi: ReadComicOnline",
     "pkg": "eu.kanade.tachiyomi.extension.en.readcomiconline",
-    "apk": "tachiyomi-en.readcomiconline-v1.4.25.apk",
+    "apk": "tachiyomi-en.readcomiconline-v1.4.26.apk",
     "lang": "en",
-    "code": 25,
-    "version": "1.4.25",
+    "code": 26,
+    "version": "1.4.26",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24289,10 +24289,10 @@
   {
     "name": "Tachiyomi: Shinigami",
     "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
-    "apk": "tachiyomi-id.shinigami-v1.4.59.apk",
+    "apk": "tachiyomi-id.shinigami-v1.4.60.apk",
     "lang": "id",
-    "code": 59,
-    "version": "1.4.59",
+    "code": 60,
+    "version": "1.4.60",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24301,7 +24301,7 @@
         "name": "Shinigami",
         "lang": "id",
         "id": "3411809758861089969",
-        "baseUrl": "https://shinigami01.com",
+        "baseUrl": "https://shinigami02.com",
         "versionId": 1
       }
     ]
