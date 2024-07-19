@@ -10328,11 +10328,11 @@
   {
     "name": "Tachiyomi: FreeMangaTop",
     "pkg": "eu.kanade.tachiyomi.extension.en.freemangatop",
-    "apk": "tachiyomi-en.freemangatop-v1.4.38.apk",
+    "apk": "tachiyomi-en.freemangatop-v1.4.39.apk",
     "lang": "en",
-    "code": 38,
-    "version": "1.4.38",
-    "nsfw": 0,
+    "code": 39,
+    "version": "1.4.39",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -10581,6 +10581,26 @@
         "lang": "en",
         "id": "4006397036545425884",
         "baseUrl": "https://www.blastwave-comic.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Hachi",
+    "pkg": "eu.kanade.tachiyomi.extension.en.hachi",
+    "apk": "tachiyomi-en.hachi-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hachi",
+        "lang": "en",
+        "id": "2152577698467173647",
+        "baseUrl": "https://hachi.moe",
         "versionId": 1
       }
     ]
@@ -20420,26 +20440,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manhua Espanol",
-    "pkg": "eu.kanade.tachiyomi.extension.es.manhuaespanol",
-    "apk": "tachiyomi-es.manhuaespanol-v1.4.37.apk",
-    "lang": "es",
-    "code": 37,
-    "version": "1.4.37",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Manhua Español",
-        "lang": "es",
-        "id": "2364814682206423293",
-        "baseUrl": "https://lectorespanol.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: ManhuaKO",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhuako",
     "apk": "tachiyomi-es.manhuako-v1.4.1.apk",
@@ -20542,10 +20542,10 @@
   {
     "name": "Tachiyomi: Mantraz Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.mantrazscan",
-    "apk": "tachiyomi-es.mantrazscan-v1.4.37.apk",
+    "apk": "tachiyomi-es.mantrazscan-v1.4.38.apk",
     "lang": "es",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20554,7 +20554,7 @@
         "name": "Mantraz Scan",
         "lang": "es",
         "id": "7172992930543738693",
-        "baseUrl": "https://mantrazscans.net",
+        "baseUrl": "https://panconcola.com",
         "versionId": 1
       }
     ]
