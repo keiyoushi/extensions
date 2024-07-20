@@ -8060,10 +8060,10 @@
   {
     "name": "Tachiyomi: MangaSwat",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaswat",
-    "apk": "tachiyomi-ar.mangaswat-v1.4.49.apk",
+    "apk": "tachiyomi-ar.mangaswat-v1.4.50.apk",
     "lang": "ar",
-    "code": 49,
-    "version": "1.4.49",
+    "code": 50,
+    "version": "1.4.50",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8072,7 +8072,7 @@
         "name": "MangaSwat",
         "lang": "ar",
         "id": "264168699090292138",
-        "baseUrl": "https://t1manga.com",
+        "baseUrl": "https://maxlevelteam.com",
         "versionId": 1
       }
     ]
@@ -10788,10 +10788,10 @@
   {
     "name": "Tachiyomi: HentaiHere",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentaihere",
-    "apk": "tachiyomi-en.hentaihere-v1.4.4.apk",
+    "apk": "tachiyomi-en.hentaihere-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16773,26 +16773,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: ReadGojo",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readgojo",
-    "apk": "tachiyomi-en.readgojo-v1.4.30.apk",
-    "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ReadGojo",
-        "lang": "en",
-        "id": "4935725841214594400",
-        "baseUrl": "https://readgojo.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Read Haikyuu!! Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readhaikyuumangaonline",
     "apk": "tachiyomi-en.readhaikyuumangaonline-v1.4.4.apk",
@@ -20962,10 +20942,10 @@
   {
     "name": "Tachiyomi: Senshi Manga",
     "pkg": "eu.kanade.tachiyomi.extension.es.senshimanga",
-    "apk": "tachiyomi-es.senshimanga-v1.4.3.apk",
+    "apk": "tachiyomi-es.senshimanga-v1.4.4.apk",
     "lang": "es",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20974,7 +20954,7 @@
         "name": "Senshi Manga",
         "lang": "es",
         "id": "5781693635940874072",
-        "baseUrl": "https://senshimanga.com",
+        "baseUrl": "https://senshimanga.capibaratraductor.com",
         "versionId": 1
       }
     ]
