@@ -11346,21 +11346,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Umi Scans",
+    "name": "Tachiyomi: Kai Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.kaiscans",
-    "apk": "tachiyomi-en.kaiscans-v1.4.33.apk",
+    "apk": "tachiyomi-en.kaiscans-v1.4.34.apk",
     "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Umi Scans",
+        "name": "Kai Scans",
         "lang": "en",
         "id": "4825368993215448425",
-        "baseUrl": "https://umiscans.org",
+        "baseUrl": "https://kaiscans.org",
         "versionId": 1
       }
     ]
