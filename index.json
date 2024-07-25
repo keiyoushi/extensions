@@ -8940,10 +8940,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
-    "apk": "tachiyomi-en.asurascans-v1.4.34.apk",
+    "apk": "tachiyomi-en.asurascans-v1.4.35.apk",
     "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9673,6 +9673,26 @@
         "lang": "en",
         "id": "2059482759352416637",
         "baseUrl": "https://dresdencodak.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Darths & Droids",
+    "pkg": "eu.kanade.tachiyomi.extension.en.darthsdroids",
+    "apk": "tachiyomi-en.darthsdroids-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Darths & Droids",
+        "lang": "en",
+        "id": "1395072850055110585",
+        "baseUrl": "https://www.darthsanddroids.net",
         "versionId": 1
       }
     ]
