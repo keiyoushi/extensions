@@ -16553,6 +16553,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Read Comics Book",
+    "pkg": "eu.kanade.tachiyomi.extension.en.readcomicsbook",
+    "apk": "tachiyomi-en.readcomicsbook-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Read Comics Book",
+        "lang": "en",
+        "id": "796465500821767187",
+        "baseUrl": "https://readcomicsplus.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Read Comics Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readcomicsonline",
     "apk": "tachiyomi-en.readcomicsonline-v1.4.11.apk",
