@@ -15015,10 +15015,10 @@
   {
     "name": "Tachiyomi: Manhwahentai.me",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwahentaime",
-    "apk": "tachiyomi-en.manhwahentaime-v1.4.39.apk",
+    "apk": "tachiyomi-en.manhwahentaime-v1.4.40.apk",
     "lang": "en",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19742,10 +19742,10 @@
   {
     "name": "Tachiyomi: Ikigai Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
-    "apk": "tachiyomi-es.ikigaimangas-v1.4.12.apk",
+    "apk": "tachiyomi-es.ikigaimangas-v1.4.13.apk",
     "lang": "es",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19754,7 +19754,7 @@
         "name": "Ikigai Mangas",
         "lang": "es",
         "id": "3546919326830738510",
-        "baseUrl": "https://visualikigai.com",
+        "baseUrl": "https://ikigaimangas.meope.com",
         "versionId": 1
       }
     ]
@@ -20882,10 +20882,10 @@
   {
     "name": "Tachiyomi: Senshi Manga",
     "pkg": "eu.kanade.tachiyomi.extension.es.senshimanga",
-    "apk": "tachiyomi-es.senshimanga-v1.4.4.apk",
+    "apk": "tachiyomi-es.senshimanga-v1.4.5.apk",
     "lang": "es",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20894,7 +20894,7 @@
         "name": "Senshi Manga",
         "lang": "es",
         "id": "5781693635940874072",
-        "baseUrl": "https://senshimanga.capibaratraductor.com",
+        "baseUrl": "https://visorsenshi.com",
         "versionId": 1
       }
     ]
@@ -28590,6 +28590,26 @@
         "lang": "pt-BR",
         "id": "4490140647146605230",
         "baseUrl": "https://ycscan.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Yaoi Fan Club",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.yaoifanclub",
+    "apk": "tachiyomi-pt.yaoifanclub-v1.4.9.apk",
+    "lang": "pt-BR",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Yaoi Fan Club",
+        "lang": "pt-BR",
+        "id": "3609380518472019202",
+        "baseUrl": "https://www.yaoifanclub.com",
         "versionId": 1
       }
     ]
