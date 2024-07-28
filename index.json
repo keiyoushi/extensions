@@ -8938,6 +8938,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Astra Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.astrascans",
+    "apk": "tachiyomi-en.astrascans-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Astra Scans",
+        "lang": "en",
+        "id": "8151430323343538599",
+        "baseUrl": "https://astrascans.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
     "apk": "tachiyomi-en.asurascans-v1.4.37.apk",
@@ -11428,10 +11448,10 @@
   {
     "name": "Tachiyomi: 18Kami",
     "pkg": "eu.kanade.tachiyomi.extension.en.kami18",
-    "apk": "tachiyomi-en.kami18-v1.4.1.apk",
+    "apk": "tachiyomi-en.kami18-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25547,26 +25567,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: RawMangas",
-    "pkg": "eu.kanade.tachiyomi.extension.ja.rawmangas",
-    "apk": "tachiyomi-ja.rawmangas-v1.4.37.apk",
-    "lang": "ja",
-    "code": 37,
-    "version": "1.4.37",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "RawMangas",
-        "lang": "ja",
-        "id": "7855405611446100010",
-        "baseUrl": "https://raw-mangas.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Raw Otaku",
     "pkg": "eu.kanade.tachiyomi.extension.ja.rawotaku",
     "apk": "tachiyomi-ja.rawotaku-v1.4.1.apk",
@@ -25982,14 +25982,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki345.net",
+        "baseUrl": "https://manatoki347.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki345.com",
+        "baseUrl": "https://newtoki347.com",
         "versionId": 1
       }
     ]
@@ -31315,6 +31315,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Prunus Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.prunusscans",
+    "apk": "tachiyomi-tr.prunusscans-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Prunus Scans",
+        "lang": "tr",
+        "id": "5108984068740807235",
+        "baseUrl": "https://prunusscans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Raindrop Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.tr.raindropfansub",
     "apk": "tachiyomi-tr.raindropfansub-v1.4.30.apk",
@@ -32197,10 +32217,10 @@
   {
     "name": "Tachiyomi: Team Lanh Lung",
     "pkg": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
-    "apk": "tachiyomi-vi.teamlanhlung-v1.4.8.apk",
+    "apk": "tachiyomi-vi.teamlanhlung-v1.4.9.apk",
     "lang": "vi",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32209,7 +32229,7 @@
         "name": "Team Lạnh Lùng",
         "lang": "vi",
         "id": "1832370231745386795",
-        "baseUrl": "https://teamlanhlung.life",
+        "baseUrl": "https://teamlanhlung.blog",
         "versionId": 1
       }
     ]
