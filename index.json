@@ -8860,10 +8860,10 @@
   {
     "name": "Tachiyomi: Vortex Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arvenscans",
-    "apk": "tachiyomi-en.arvenscans-v1.4.34.apk",
+    "apk": "tachiyomi-en.arvenscans-v1.4.35.apk",
     "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9013,6 +9013,26 @@
         "lang": "en",
         "id": "5972356691480259456",
         "baseUrl": "https://asurascans.us",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Atsumaru",
+    "pkg": "eu.kanade.tachiyomi.extension.en.atsumaru",
+    "apk": "tachiyomi-en.atsumaru-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Atsumaru",
+        "lang": "en",
+        "id": "6354986011843597399",
+        "baseUrl": "https://atsu.moe",
         "versionId": 1
       }
     ]
@@ -11146,26 +11166,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Immortal Updates",
-    "pkg": "eu.kanade.tachiyomi.extension.en.immortalupdates",
-    "apk": "tachiyomi-en.immortalupdates-v1.4.42.apk",
-    "lang": "en",
-    "code": 42,
-    "version": "1.4.42",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Immortal Updates",
-        "lang": "en",
-        "id": "3215387755256146567",
-        "baseUrl": "https://immortalupdates.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Infernal Void Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.infernalvoidscans",
     "apk": "tachiyomi-en.infernalvoidscans-v1.4.38.apk",
@@ -12848,10 +12848,10 @@
   {
     "name": "Tachiyomi: Manga Galaxy",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangagalaxy",
-    "apk": "tachiyomi-en.mangagalaxy-v1.4.40.apk",
+    "apk": "tachiyomi-en.mangagalaxy-v1.4.41.apk",
     "lang": "en",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -13021,26 +13021,6 @@
         "lang": "en",
         "id": "3901872639081578162",
         "baseUrl": "https://mangahere.onl",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaHot",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangahot",
-    "apk": "tachiyomi-en.mangahot-v1.4.1.apk",
-    "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaHot",
-        "lang": "en",
-        "id": "1536742225206613908",
-        "baseUrl": "https://mangahot.to",
         "versionId": 1
       }
     ]
@@ -22909,10 +22889,10 @@
   {
     "name": "Tachiyomi: Kiryuu",
     "pkg": "eu.kanade.tachiyomi.extension.id.kiryuu",
-    "apk": "tachiyomi-id.kiryuu-v1.4.36.apk",
+    "apk": "tachiyomi-id.kiryuu-v1.4.37.apk",
     "lang": "id",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22921,7 +22901,7 @@
         "name": "Kiryuu",
         "lang": "id",
         "id": "3639673976007021338",
-        "baseUrl": "https://kiryuu.id",
+        "baseUrl": "https://kiryuu.org",
         "versionId": 1
       }
     ]
@@ -25687,26 +25667,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: ReadManga.at",
-    "pkg": "eu.kanade.tachiyomi.extension.ja.readmangaat",
-    "apk": "tachiyomi-ja.readmangaat-v1.4.1.apk",
-    "lang": "ja",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ReadManga.at",
-        "lang": "ja",
-        "id": "8946965540308751173",
-        "baseUrl": "https://readmanga.at",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: SaikoMangaRaw",
     "pkg": "eu.kanade.tachiyomi.extension.ja.saikomangaraw",
     "apk": "tachiyomi-ja.saikomangaraw-v1.4.36.apk",
@@ -26715,6 +26675,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: ExHentai.net.br",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.exhentainetbr",
+    "apk": "tachiyomi-pt.exhentainetbr-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ExHentai.net.br",
+        "lang": "pt-BR",
+        "id": "1408140394859123923",
+        "baseUrl": "https://exhentai.net.br",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Fay Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.fayscans",
     "apk": "tachiyomi-pt.fayscans-v1.4.38.apk",
@@ -27410,6 +27390,26 @@
         "lang": "pt-BR",
         "id": "785489692920959121",
         "baseUrl": "https://limboscan.com.br",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Limited Time Project",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.limitedtimeproject",
+    "apk": "tachiyomi-pt.limitedtimeproject-v1.4.36.apk",
+    "lang": "pt-BR",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Limited Time Project",
+        "lang": "pt-BR",
+        "id": "2796582817878682756",
+        "baseUrl": "https://limitedtimeproject.com",
         "versionId": 1
       }
     ]
@@ -30535,21 +30535,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Hentaing",
+    "name": "Tachiyomi: Hentai Keyfi",
     "pkg": "eu.kanade.tachiyomi.extension.tr.hentaing",
-    "apk": "tachiyomi-tr.hentaing-v1.4.36.apk",
+    "apk": "tachiyomi-tr.hentaing-v1.4.37.apk",
     "lang": "tr",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Hentaing",
+        "name": "Hentai Keyfi",
         "lang": "tr",
         "id": "3518858173957835738",
-        "baseUrl": "https://hentaing.org",
+        "baseUrl": "https://hentaikeyfi.com",
         "versionId": 1
       }
     ]
