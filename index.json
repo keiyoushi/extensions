@@ -1164,10 +1164,10 @@
   {
     "name": "Tachiyomi: Comick",
     "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
-    "apk": "tachiyomi-all.comickfun-v1.4.46.apk",
+    "apk": "tachiyomi-all.comickfun-v1.4.47.apk",
     "lang": "all",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10146,6 +10146,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Eros Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.erosscans",
+    "apk": "tachiyomi-en.erosscans-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Eros Scans",
+        "lang": "en",
+        "id": "1124131000360667434",
+        "baseUrl": "https://erosscans.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Evil Flowers",
     "pkg": "eu.kanade.tachiyomi.extension.en.evilflowers",
     "apk": "tachiyomi-en.evilflowers-v1.4.4.apk",
@@ -12048,10 +12068,10 @@
   {
     "name": "Tachiyomi: Madokami",
     "pkg": "eu.kanade.tachiyomi.extension.en.madokami",
-    "apk": "tachiyomi-en.madokami-v1.4.8.apk",
+    "apk": "tachiyomi-en.madokami-v1.4.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17695,10 +17715,10 @@
   {
     "name": "Tachiyomi: SpyFakku",
     "pkg": "eu.kanade.tachiyomi.extension.en.spyfakku",
-    "apk": "tachiyomi-en.spyfakku-v1.4.3.apk",
+    "apk": "tachiyomi-en.spyfakku-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17707,7 +17727,7 @@
         "name": "SpyFakku",
         "lang": "en",
         "id": "6202325652827735606",
-        "baseUrl": "https://fakku.cc",
+        "baseUrl": "https://w1.fakku.cc",
         "versionId": 1
       }
     ]
@@ -20522,10 +20542,10 @@
   {
     "name": "Tachiyomi: ManhwaWeb",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhwaweb",
-    "apk": "tachiyomi-es.manhwaweb-v1.4.4.apk",
+    "apk": "tachiyomi-es.manhwaweb-v1.4.5.apk",
     "lang": "es",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28077,10 +28097,10 @@
   {
     "name": "Tachiyomi: Demon Sect",
     "pkg": "eu.kanade.tachiyomi.extension.pt.prismascans",
-    "apk": "tachiyomi-pt.prismascans-v1.4.44.apk",
+    "apk": "tachiyomi-pt.prismascans-v1.4.45.apk",
     "lang": "pt-BR",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
