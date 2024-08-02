@@ -17175,10 +17175,10 @@
   {
     "name": "Tachiyomi: Reaper Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.reaperscans",
-    "apk": "tachiyomi-en.reaperscans-v1.4.49.apk",
+    "apk": "tachiyomi-en.reaperscans-v1.4.50.apk",
     "lang": "en",
-    "code": 49,
-    "version": "1.4.49",
+    "code": 50,
+    "version": "1.4.50",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17188,7 +17188,7 @@
         "lang": "en",
         "id": "5177220001642863679",
         "baseUrl": "https://reaperscans.com",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
@@ -21409,10 +21409,10 @@
   {
     "name": "Tachiyomi: AnimeSama",
     "pkg": "eu.kanade.tachiyomi.extension.fr.animesama",
-    "apk": "tachiyomi-fr.animesama-v1.4.2.apk",
+    "apk": "tachiyomi-fr.animesama-v1.4.3.apk",
     "lang": "fr",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
