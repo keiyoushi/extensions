@@ -13773,26 +13773,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manga-Raw.info (unoriginal)",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangarawinfo",
-    "apk": "tachiyomi-en.mangarawinfo-v1.4.36.apk",
-    "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Manga-Raw.info (unoriginal)",
-        "lang": "en",
-        "id": "8673240631696117549",
-        "baseUrl": "https://manga-raw.info",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Manga Read",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaread",
     "apk": "tachiyomi-en.mangaread-v1.4.37.apk",
