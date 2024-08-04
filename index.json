@@ -10226,21 +10226,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Fire Scans",
+    "name": "Tachiyomi: Firecomics",
     "pkg": "eu.kanade.tachiyomi.extension.en.firescans",
-    "apk": "tachiyomi-en.firescans-v1.4.37.apk",
+    "apk": "tachiyomi-en.firescans-v1.4.38.apk",
     "lang": "en",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Fire Scans",
+        "name": "Firecomics",
         "lang": "en",
         "id": "5761461704760730187",
-        "baseUrl": "https://firescans.xyz",
+        "baseUrl": "https://firecomics.org",
         "versionId": 1
       }
     ]
