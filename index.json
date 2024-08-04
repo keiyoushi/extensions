@@ -5150,26 +5150,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaTop.site",
-    "pkg": "eu.kanade.tachiyomi.extension.all.mangatopsite",
-    "apk": "tachiyomi-all.mangatopsite-v1.4.36.apk",
-    "lang": "all",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaTop.site",
-        "lang": "all",
-        "id": "4781162843278763907",
-        "baseUrl": "https://mangatop.site",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Manga UP!",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangaup",
     "apk": "tachiyomi-all.mangaup-v1.4.3.apk",
@@ -7818,6 +7798,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaHub",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangahub",
+    "apk": "tachiyomi-ar.mangahub-v1.4.9.apk",
+    "lang": "ar",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaHub",
+        "lang": "ar",
+        "id": "9160891278578525988",
+        "baseUrl": "https://www.mangahub.link",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Mangalek",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalek",
     "apk": "tachiyomi-ar.mangalek-v1.4.43.apk",
@@ -8738,26 +8738,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Ansh Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.anshscans",
-    "apk": "tachiyomi-en.anshscans-v1.4.37.apk",
-    "lang": "en",
-    "code": 37,
-    "version": "1.4.37",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Ansh Scans",
-        "lang": "en",
-        "id": "3056101017681524725",
-        "baseUrl": "https://anshscans.org",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: A Pair Of 2+",
     "pkg": "eu.kanade.tachiyomi.extension.en.apairof2",
     "apk": "tachiyomi-en.apairof2-v1.4.32.apk",
@@ -9474,26 +9454,6 @@
         "id": "8344842649524747099",
         "baseUrl": "https://manhuagold.top",
         "versionId": 2
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Comic Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.comicscans",
-    "apk": "tachiyomi-en.comicscans-v1.4.36.apk",
-    "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Comic Scans",
-        "lang": "en",
-        "id": "7731095642323580771",
-        "baseUrl": "https://www.comicscans.org",
-        "versionId": 1
       }
     ]
   },
@@ -19540,26 +19500,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Edens Fairy",
-    "pkg": "eu.kanade.tachiyomi.extension.es.eflee",
-    "apk": "tachiyomi-es.eflee-v1.4.9.apk",
-    "lang": "es",
-    "code": 9,
-    "version": "1.4.9",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Edens Fairy",
-        "lang": "es",
-        "id": "4254092506780674237",
-        "baseUrl": "https://www.eflee.co",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Emperor Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.emperorscan",
     "apk": "tachiyomi-es.emperorscan-v1.4.39.apk",
@@ -23507,6 +23447,46 @@
     ]
   },
   {
+    "name": "Tachiyomi: LumosKomik",
+    "pkg": "eu.kanade.tachiyomi.extension.id.lumoskomik",
+    "apk": "tachiyomi-id.lumoskomik-v1.4.36.apk",
+    "lang": "id",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "LumosKomik",
+        "lang": "id",
+        "id": "2530259860313477889",
+        "baseUrl": "https://lumoskomik.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Magerin",
+    "pkg": "eu.kanade.tachiyomi.extension.id.magerin",
+    "apk": "tachiyomi-id.magerin-v1.4.9.apk",
+    "lang": "id",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Magerin",
+        "lang": "id",
+        "id": "5418246941693454778",
+        "baseUrl": "https://www.magerin.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Maid - Manga",
     "pkg": "eu.kanade.tachiyomi.extension.id.maidmanga",
     "apk": "tachiyomi-id.maidmanga-v1.4.11.apk",
@@ -26157,10 +26137,10 @@
   {
     "name": "Tachiyomi: Ancient Comics",
     "pkg": "eu.kanade.tachiyomi.extension.pt.ancientcomics",
-    "apk": "tachiyomi-pt.ancientcomics-v1.4.31.apk",
+    "apk": "tachiyomi-pt.ancientcomics-v1.4.36.apk",
     "lang": "pt-BR",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26168,9 +26148,9 @@
       {
         "name": "Ancient Comics",
         "lang": "pt-BR",
-        "id": "7167900542000557092",
+        "id": "7356378181040378811",
         "baseUrl": "https://ancientcomics.com.br",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
@@ -28090,6 +28070,26 @@
         "lang": "pt-BR",
         "id": "8168108118738519332",
         "baseUrl": "https://dsectcomics.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: PussyToons",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.pussytoons",
+    "apk": "tachiyomi-pt.pussytoons-v1.4.36.apk",
+    "lang": "pt-BR",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "PussyToons",
+        "lang": "pt-BR",
+        "id": "8533555037487814194",
+        "baseUrl": "https://pussy.sussytoons.com",
         "versionId": 1
       }
     ]
@@ -30595,6 +30595,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Hyperion Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.hyperionscans",
+    "apk": "tachiyomi-tr.hyperionscans-v1.4.9.apk",
+    "lang": "tr",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hyperion Scans",
+        "lang": "tr",
+        "id": "7453005250085443406",
+        "baseUrl": "https://www.hyperionscans.site",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: İmparator Manga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.imparatormanga",
     "apk": "tachiyomi-tr.imparatormanga-v1.4.36.apk",
@@ -30930,6 +30950,26 @@
         "lang": "tr",
         "id": "2335050007830485750",
         "baseUrl": "https://mangaoku.info",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Okusana",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.mangaokusana",
+    "apk": "tachiyomi-tr.mangaokusana-v1.4.36.apk",
+    "lang": "tr",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Okusana",
+        "lang": "tr",
+        "id": "1407729548300005235",
+        "baseUrl": "https://mangaokusana.com",
         "versionId": 1
       }
     ]
