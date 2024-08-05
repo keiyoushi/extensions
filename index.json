@@ -265,10 +265,10 @@
   {
     "name": "Tachiyomi: Bato.to",
     "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
-    "apk": "tachiyomi-all.batoto-v1.4.36.apk",
+    "apk": "tachiyomi-all.batoto-v1.4.37.apk",
     "lang": "all",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2185,6 +2185,26 @@
         "lang": "all",
         "id": "9185590742756804817",
         "baseUrl": "https://www.femjoyhunter.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: FoamGirl",
+    "pkg": "eu.kanade.tachiyomi.extension.all.foamgirl",
+    "apk": "tachiyomi-all.foamgirl-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "FoamGirl",
+        "lang": "all",
+        "id": "5874068195320206396",
+        "baseUrl": "https://foamgirl.net",
         "versionId": 1
       }
     ]
@@ -8673,6 +8693,26 @@
         "lang": "en",
         "id": "8547397037512613554",
         "baseUrl": "https://allporncomic.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Altay Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.altayscans",
+    "apk": "tachiyomi-en.altayscans-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Altay Scans",
+        "lang": "en",
+        "id": "8471554162358724437",
+        "baseUrl": "https://altayscans.com",
         "versionId": 1
       }
     ]
@@ -19380,6 +19420,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Dark Room Fansub",
+    "pkg": "eu.kanade.tachiyomi.extension.es.darkroomfansub",
+    "apk": "tachiyomi-es.darkroomfansub-v1.4.9.apk",
+    "lang": "es",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Dark Room Fansub",
+        "lang": "es",
+        "id": "2769673412724723872",
+        "baseUrl": "https://lector-darkroomfansub.blogspot.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Dat-Gar Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.datgarscanlation",
     "apk": "tachiyomi-es.datgarscanlation-v1.4.9.apk",
@@ -20020,26 +20080,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: LectorManga",
-    "pkg": "eu.kanade.tachiyomi.extension.es.lectormanga",
-    "apk": "tachiyomi-es.lectormanga-v1.4.40.apk",
-    "lang": "es",
-    "code": 40,
-    "version": "1.4.40",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "LectorManga",
-        "lang": "es",
-        "id": "7925520943983324764",
-        "baseUrl": "https://lectormanga.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: LectorManga.lat",
     "pkg": "eu.kanade.tachiyomi.extension.es.lectormangalat",
     "apk": "tachiyomi-es.lectormangalat-v1.4.36.apk",
@@ -20055,6 +20095,33 @@
         "lang": "es",
         "id": "3701714196729780447",
         "baseUrl": "https://www.lectormanga.lat",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: TuMangaOnline / LectorManga",
+    "pkg": "eu.kanade.tachiyomi.extension.es.lectortmo",
+    "apk": "tachiyomi-es.lectortmo-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "LectorManga",
+        "lang": "es",
+        "id": "7925520943983324764",
+        "baseUrl": "https://lectormanga.com",
+        "versionId": 1
+      },
+      {
+        "name": "TuMangaOnline",
+        "lang": "es",
+        "id": "4146344224513899730",
+        "baseUrl": "https://visortmo.com",
         "versionId": 1
       }
     ]
@@ -21156,26 +21223,6 @@
         "id": "1161787897588139768",
         "baseUrl": "https://tresdaos.com",
         "versionId": 4
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: TuMangaOnline",
-    "pkg": "eu.kanade.tachiyomi.extension.es.tumangaonline",
-    "apk": "tachiyomi-es.tumangaonline-v1.4.55.apk",
-    "lang": "es",
-    "code": 55,
-    "version": "1.4.55",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "TuMangaOnline",
-        "lang": "es",
-        "id": "4146344224513899730",
-        "baseUrl": "https://visortmo.com",
-        "versionId": 1
       }
     ]
   },
@@ -27437,10 +27484,10 @@
   {
     "name": "Tachiyomi: Lunar Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.lunarscan",
-    "apk": "tachiyomi-pt.lunarscan-v1.4.37.apk",
+    "apk": "tachiyomi-pt.lunarscan-v1.4.38.apk",
     "lang": "pt-BR",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27449,7 +27496,7 @@
         "name": "Lunar Scan",
         "lang": "pt-BR",
         "id": "5914813814432882097",
-        "baseUrl": "https://lunarscan.com.br",
+        "baseUrl": "https://lunarrscan.com",
         "versionId": 1
       }
     ]
@@ -28077,10 +28124,10 @@
   {
     "name": "Tachiyomi: PussyToons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.pussytoons",
-    "apk": "tachiyomi-pt.pussytoons-v1.4.36.apk",
+    "apk": "tachiyomi-pt.pussytoons-v1.4.37.apk",
     "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
