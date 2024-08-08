@@ -8300,10 +8300,10 @@
   {
     "name": "Tachiyomi: Rocks Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.rocksmanga",
-    "apk": "tachiyomi-ar.rocksmanga-v1.4.36.apk",
+    "apk": "tachiyomi-ar.rocksmanga-v1.4.37.apk",
     "lang": "ar",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8312,7 +8312,7 @@
         "name": "Rocks Manga",
         "lang": "ar",
         "id": "3301038340499911137",
-        "baseUrl": "https://rocks-manga.com",
+        "baseUrl": "https://rocksmanga.com",
         "versionId": 1
       }
     ]
@@ -10748,10 +10748,10 @@
   {
     "name": "Tachiyomi: Hentai2Read",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentai2read",
-    "apk": "tachiyomi-en.hentai2read-v1.4.16.apk",
+    "apk": "tachiyomi-en.hentai2read-v1.4.17.apk",
     "lang": "en",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12466,21 +12466,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaClick",
+    "name": "Tachiyomi: MangaHall",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaclick",
-    "apk": "tachiyomi-en.mangaclick-v1.4.36.apk",
+    "apk": "tachiyomi-en.mangaclick-v1.4.37.apk",
     "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "MangaClick",
+        "name": "MangaHall",
         "lang": "en",
         "id": "1234573178818746503",
-        "baseUrl": "https://mangaclick.org",
+        "baseUrl": "https://mangahall.org",
         "versionId": 1
       }
     ]
@@ -15035,10 +15035,10 @@
   {
     "name": "Tachiyomi: Manhwahentai.me",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwahentaime",
-    "apk": "tachiyomi-en.manhwahentaime-v1.4.41.apk",
+    "apk": "tachiyomi-en.manhwahentaime-v1.4.42.apk",
     "lang": "en",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15315,10 +15315,10 @@
   {
     "name": "Tachiyomi: ManyToon",
     "pkg": "eu.kanade.tachiyomi.extension.en.manytoon",
-    "apk": "tachiyomi-en.manytoon-v1.4.42.apk",
+    "apk": "tachiyomi-en.manytoon-v1.4.43.apk",
     "lang": "en",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22316,10 +22316,10 @@
   {
     "name": "Tachiyomi: Sushi-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.sushiscan",
-    "apk": "tachiyomi-fr.sushiscan-v1.4.41.apk",
+    "apk": "tachiyomi-fr.sushiscan-v1.4.42.apk",
     "lang": "fr",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22556,10 +22556,10 @@
   {
     "name": "Tachiyomi: Comicaso",
     "pkg": "eu.kanade.tachiyomi.extension.id.comicaso",
-    "apk": "tachiyomi-id.comicaso-v1.4.30.apk",
+    "apk": "tachiyomi-id.comicaso-v1.4.31.apk",
     "lang": "id",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22568,7 +22568,7 @@
         "name": "Comicaso",
         "lang": "id",
         "id": "8105901253428833094",
-        "baseUrl": "https://comicaso.com",
+        "baseUrl": "https://comicaso.org",
         "versionId": 1
       }
     ]
@@ -22629,6 +22629,26 @@
         "lang": "id",
         "id": "6559481336553833282",
         "baseUrl": "https://cosmicscans.id",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: CrotPedia",
+    "pkg": "eu.kanade.tachiyomi.extension.id.crotpedia",
+    "apk": "tachiyomi-id.crotpedia-v1.4.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "CrotPedia",
+        "lang": "id",
+        "id": "4023890583976163058",
+        "baseUrl": "https://crotpedia.net",
         "versionId": 1
       }
     ]
@@ -23776,10 +23796,10 @@
   {
     "name": "Tachiyomi: ManhwaDesu",
     "pkg": "eu.kanade.tachiyomi.extension.id.manhwadesu",
-    "apk": "tachiyomi-id.manhwadesu-v1.4.34.apk",
+    "apk": "tachiyomi-id.manhwadesu-v1.4.35.apk",
     "lang": "id",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23788,7 +23808,7 @@
         "name": "ManhwaDesu",
         "lang": "id",
         "id": "8258394658125354785",
-        "baseUrl": "https://manhwadesu.one",
+        "baseUrl": "https://manhwadesu.cc",
         "versionId": 1
       }
     ]
@@ -31624,10 +31644,10 @@
   {
     "name": "Tachiyomi: Gri Melek",
     "pkg": "eu.kanade.tachiyomi.extension.tr.siyahmelek",
-    "apk": "tachiyomi-tr.siyahmelek-v1.4.43.apk",
+    "apk": "tachiyomi-tr.siyahmelek-v1.4.44.apk",
     "lang": "tr",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31636,7 +31656,7 @@
         "name": "Gri Melek",
         "lang": "tr",
         "id": "6419959498055001014",
-        "baseUrl": "https://grimelek.mom",
+        "baseUrl": "https://grimelek.me",
         "versionId": 1
       }
     ]
