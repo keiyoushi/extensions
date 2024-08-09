@@ -2582,10 +2582,10 @@
   {
     "name": "Tachiyomi: Hentai Cosplay",
     "pkg": "eu.kanade.tachiyomi.extension.all.hentaicosplay",
-    "apk": "tachiyomi-all.hentaicosplay-v1.4.3.apk",
+    "apk": "tachiyomi-all.hentaicosplay-v1.4.4.apk",
     "lang": "all",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2594,7 +2594,7 @@
         "name": "Hentai Cosplay",
         "lang": "all",
         "id": "3422463439145930309",
-        "baseUrl": "https://hentai-cosplays.com",
+        "baseUrl": "https://hentai-cosplay-xxx.com",
         "versionId": 1
       }
     ]
@@ -7940,10 +7940,10 @@
   {
     "name": "Tachiyomi: Manga Pro",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangapro",
-    "apk": "tachiyomi-ar.mangapro-v1.4.32.apk",
+    "apk": "tachiyomi-ar.mangapro-v1.4.33.apk",
     "lang": "ar",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9400,10 +9400,10 @@
   {
     "name": "Tachiyomi: ColoredManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.coloredmanga",
-    "apk": "tachiyomi-en.coloredmanga-v1.4.3.apk",
+    "apk": "tachiyomi-en.coloredmanga-v1.4.35.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11226,26 +11226,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: InstaManhwa",
-    "pkg": "eu.kanade.tachiyomi.extension.en.instamanhwa",
-    "apk": "tachiyomi-en.instamanhwa-v1.4.38.apk",
-    "lang": "en",
-    "code": 38,
-    "version": "1.4.38",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "InstaManhwa",
-        "lang": "en",
-        "id": "1510825044590659396",
-        "baseUrl": "https://www.instamanhwa.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Iris Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.irisscans",
     "apk": "tachiyomi-en.irisscans-v1.4.30.apk",
@@ -12608,10 +12588,10 @@
   {
     "name": "Tachiyomi: Manga District",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangadistrict",
-    "apk": "tachiyomi-en.mangadistrict-v1.4.41.apk",
+    "apk": "tachiyomi-en.mangadistrict-v1.4.42.apk",
     "lang": "en",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17935,10 +17915,10 @@
   {
     "name": "Tachiyomi: Temple Scan",
     "pkg": "eu.kanade.tachiyomi.extension.en.templescan",
-    "apk": "tachiyomi-en.templescan-v1.4.43.apk",
+    "apk": "tachiyomi-en.templescan-v1.4.44.apk",
     "lang": "en",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
