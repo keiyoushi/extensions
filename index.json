@@ -11608,10 +11608,10 @@
   {
     "name": "Tachiyomi: Koharu",
     "pkg": "eu.kanade.tachiyomi.extension.en.koharu",
-    "apk": "tachiyomi-en.koharu-v1.4.5.apk",
+    "apk": "tachiyomi-en.koharu-v1.4.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17675,10 +17675,10 @@
   {
     "name": "Tachiyomi: SpyFakku",
     "pkg": "eu.kanade.tachiyomi.extension.en.spyfakku",
-    "apk": "tachiyomi-en.spyfakku-v1.4.5.apk",
+    "apk": "tachiyomi-en.spyfakku-v1.4.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17687,7 +17687,7 @@
         "name": "SpyFakku",
         "lang": "en",
         "id": "6202325652827735606",
-        "baseUrl": "https://w1.fakku.cc",
+        "baseUrl": "https://fakku.cc",
         "versionId": 1
       }
     ]
@@ -25989,14 +25989,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki347.net",
+        "baseUrl": "https://manatoki348.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki347.com",
+        "baseUrl": "https://newtoki348.com",
         "versionId": 1
       }
     ]
