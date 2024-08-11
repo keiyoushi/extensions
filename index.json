@@ -10826,6 +10826,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: HentaiDex",
+    "pkg": "eu.kanade.tachiyomi.extension.en.hentaidex",
+    "apk": "tachiyomi-en.hentaidex-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "HentaiDex",
+        "lang": "en",
+        "id": "948056929092229440",
+        "baseUrl": "https://dexhentai.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Hentaidexy",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentaidexy",
     "apk": "tachiyomi-en.hentaidexy-v1.4.32.apk",
@@ -14968,6 +14988,26 @@
         "lang": "en",
         "id": "7672439791159944710",
         "baseUrl": "https://www.manhwaden.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ManhwaFreak.xyz",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manhwafreakxyz",
+    "apk": "tachiyomi-en.manhwafreakxyz-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ManhwaFreak.xyz",
+        "lang": "en",
+        "id": "1666775798731704958",
+        "baseUrl": "https://manhwafreak.xyz",
         "versionId": 1
       }
     ]
