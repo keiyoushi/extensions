@@ -29202,6 +29202,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: MultiManga",
+    "pkg": "eu.kanade.tachiyomi.extension.ru.multimanga",
+    "apk": "tachiyomi-ru.multimanga-v1.4.1.apk",
+    "lang": "ru",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MultiManga",
+        "lang": "ru",
+        "id": "3563652811323747247",
+        "baseUrl": "https://multi-manga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: NewManga(Newbie)",
     "pkg": "eu.kanade.tachiyomi.extension.ru.newbie",
     "apk": "tachiyomi-ru.newbie-v1.4.19.apk",
