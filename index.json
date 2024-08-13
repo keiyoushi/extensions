@@ -17533,26 +17533,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: ShoujoHearts",
-    "pkg": "eu.kanade.tachiyomi.extension.en.shoujohearts",
-    "apk": "tachiyomi-en.shoujohearts-v1.4.38.apk",
-    "lang": "en",
-    "code": 38,
-    "version": "1.4.38",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ShoujoHearts",
-        "lang": "en",
-        "id": "6545217522384225054",
-        "baseUrl": "https://shoujohearts.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Silent Manga Audition",
     "pkg": "eu.kanade.tachiyomi.extension.en.silentmangaaudition",
     "apk": "tachiyomi-en.silentmangaaudition-v1.4.5.apk",
