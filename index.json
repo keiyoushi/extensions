@@ -22,10 +22,10 @@
   {
     "name": "Tachiyomi: Akuma",
     "pkg": "eu.kanade.tachiyomi.extension.all.akuma",
-    "apk": "tachiyomi-all.akuma-v1.4.4.apk",
+    "apk": "tachiyomi-all.akuma-v1.4.5.apk",
     "lang": "all",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2111,6 +2111,26 @@
         "lang": "all",
         "id": "6842598531101194683",
         "baseUrl": "https://www.elitebabes.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Eromanhwa",
+    "pkg": "eu.kanade.tachiyomi.extension.all.eromanhwa",
+    "apk": "tachiyomi-all.eromanhwa-v1.4.36.apk",
+    "lang": "all",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Eromanhwa",
+        "lang": "en",
+        "id": "3597355706480775153",
+        "baseUrl": "https://eromanhwa.org",
         "versionId": 1
       }
     ]
@@ -9400,10 +9420,10 @@
   {
     "name": "Tachiyomi: ColoredManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.coloredmanga",
-    "apk": "tachiyomi-en.coloredmanga-v1.4.35.apk",
+    "apk": "tachiyomi-en.coloredmanga-v1.4.36.apk",
     "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11628,10 +11648,10 @@
   {
     "name": "Tachiyomi: Koharu",
     "pkg": "eu.kanade.tachiyomi.extension.en.koharu",
-    "apk": "tachiyomi-en.koharu-v1.4.6.apk",
+    "apk": "tachiyomi-en.koharu-v1.4.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12608,10 +12628,10 @@
   {
     "name": "Tachiyomi: Manga District",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangadistrict",
-    "apk": "tachiyomi-en.mangadistrict-v1.4.42.apk",
+    "apk": "tachiyomi-en.mangadistrict-v1.4.43.apk",
     "lang": "en",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26001,6 +26021,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: BlackToon",
+    "pkg": "eu.kanade.tachiyomi.extension.ko.blacktoon",
+    "apk": "tachiyomi-ko.blacktoon-v1.4.1.apk",
+    "lang": "ko",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "블랙툰",
+        "lang": "ko",
+        "id": "7080800841003944426",
+        "baseUrl": "https://blacktoon.me",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manhwa Raw",
     "pkg": "eu.kanade.tachiyomi.extension.ko.manhwaraw",
     "apk": "tachiyomi-ko.manhwaraw-v1.4.38.apk",
@@ -26089,14 +26129,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki348.net",
+        "baseUrl": "https://manatoki349.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki348.com",
+        "baseUrl": "https://newtoki349.com",
         "versionId": 1
       }
     ]
@@ -26404,10 +26444,10 @@
   {
     "name": "Tachiyomi: Atemporal",
     "pkg": "eu.kanade.tachiyomi.extension.pt.atemporal",
-    "apk": "tachiyomi-pt.atemporal-v1.4.36.apk",
+    "apk": "tachiyomi-pt.atemporal-v1.4.37.apk",
     "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -30402,26 +30442,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Çizgi Roman Arşivi",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.cizgiromanarsivi",
-    "apk": "tachiyomi-tr.cizgiromanarsivi-v1.4.36.apk",
-    "lang": "tr",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Çizgi Roman Arşivi",
-        "lang": "tr",
-        "id": "1898551316786250768",
-        "baseUrl": "https://cizgiromanarsivi.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Clover Manga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.clovermanga",
     "apk": "tachiyomi-tr.clovermanga-v1.4.38.apk",
@@ -31437,6 +31457,26 @@
         "lang": "tr",
         "id": "2732049206654972364",
         "baseUrl": "https://moondaisyscans.biz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Nabi Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.nabiscans",
+    "apk": "tachiyomi-tr.nabiscans-v1.4.36.apk",
+    "lang": "tr",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Nabi Scans",
+        "lang": "tr",
+        "id": "6244146609158555771",
+        "baseUrl": "https://nabiscans.com",
         "versionId": 1
       }
     ]
