@@ -5689,10 +5689,10 @@
   {
     "name": "Tachiyomi: NHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.nhentai",
-    "apk": "tachiyomi-all.nhentai-v1.4.43.apk",
+    "apk": "tachiyomi-all.nhentai-v1.4.44.apk",
     "lang": "all",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17595,10 +17595,10 @@
   {
     "name": "Tachiyomi: SpyFakku",
     "pkg": "eu.kanade.tachiyomi.extension.en.spyfakku",
-    "apk": "tachiyomi-en.spyfakku-v1.4.6.apk",
+    "apk": "tachiyomi-en.spyfakku-v1.4.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17607,7 +17607,7 @@
         "name": "SpyFakku",
         "lang": "en",
         "id": "6202325652827735606",
-        "baseUrl": "https://fakku.cc",
+        "baseUrl": "https://hentalk.pw",
         "versionId": 1
       }
     ]
@@ -29737,6 +29737,26 @@
         "lang": "th",
         "id": "5134611019768985781",
         "baseUrl": "https://www.popsmanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ReaperTrans",
+    "pkg": "eu.kanade.tachiyomi.extension.th.reapertrans",
+    "apk": "tachiyomi-th.reapertrans-v1.4.30.apk",
+    "lang": "th",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ReaperTrans",
+        "lang": "th",
+        "id": "9050053825457509475",
+        "baseUrl": "https://reapertrans.com",
         "versionId": 1
       }
     ]
