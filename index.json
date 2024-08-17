@@ -19760,6 +19760,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: InariPikav",
+    "pkg": "eu.kanade.tachiyomi.extension.es.inarimanga",
+    "apk": "tachiyomi-es.inarimanga-v1.4.41.apk",
+    "lang": "es",
+    "code": 41,
+    "version": "1.4.41",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Inari Pikav",
+        "lang": "es",
+        "id": "7949577653918285764",
+        "baseUrl": "https://inaripikav.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: InfraFandub",
     "pkg": "eu.kanade.tachiyomi.extension.es.infrafandub",
     "apk": "tachiyomi-es.infrafandub-v1.4.37.apk",
