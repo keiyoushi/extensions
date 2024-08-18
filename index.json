@@ -11466,6 +11466,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Kappa Beast",
+    "pkg": "eu.kanade.tachiyomi.extension.en.kappabeast",
+    "apk": "tachiyomi-en.kappabeast-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Kappa Beast",
+        "lang": "en",
+        "id": "5603525525580919366",
+        "baseUrl": "https://kappabeast.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: keenspot",
     "pkg": "eu.kanade.tachiyomi.extension.en.keenspot",
     "apk": "tachiyomi-en.keenspot-v1.4.3.apk",
