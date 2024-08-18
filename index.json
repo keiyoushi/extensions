@@ -5689,10 +5689,10 @@
   {
     "name": "Tachiyomi: NHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.nhentai",
-    "apk": "tachiyomi-all.nhentai-v1.4.44.apk",
+    "apk": "tachiyomi-all.nhentai-v1.4.45.apk",
     "lang": "all",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8460,10 +8460,10 @@
   {
     "name": "Tachiyomi: YonaBar",
     "pkg": "eu.kanade.tachiyomi.extension.ar.yonabar",
-    "apk": "tachiyomi-ar.yonabar-v1.4.38.apk",
+    "apk": "tachiyomi-ar.yonabar-v1.4.39.apk",
     "lang": "ar",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8472,7 +8472,7 @@
         "name": "YonaBar",
         "lang": "ar",
         "id": "1677221088317532348",
-        "baseUrl": "https://yonabar.com",
+        "baseUrl": "https://yonabar.xyz",
         "versionId": 1
       }
     ]
@@ -8480,10 +8480,10 @@
   {
     "name": "Tachiyomi: Yuri Moon Sub",
     "pkg": "eu.kanade.tachiyomi.extension.ar.yurimoonsub",
-    "apk": "tachiyomi-ar.yurimoonsub-v1.4.9.apk",
+    "apk": "tachiyomi-ar.yurimoonsub-v1.4.10.apk",
     "lang": "ar",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16535,10 +16535,10 @@
   {
     "name": "Tachiyomi: ReadComicNet",
     "pkg": "eu.kanade.tachiyomi.extension.en.readcomicnet",
-    "apk": "tachiyomi-en.readcomicnet-v1.4.1.apk",
+    "apk": "tachiyomi-en.readcomicnet-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25456,10 +25456,10 @@
   {
     "name": "Tachiyomi: RawINU",
     "pkg": "eu.kanade.tachiyomi.extension.ja.rawinu",
-    "apk": "tachiyomi-ja.rawinu-v1.4.9.apk",
+    "apk": "tachiyomi-ja.rawinu-v1.4.10.apk",
     "lang": "ja",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -30137,6 +30137,26 @@
         "lang": "tr",
         "id": "8197601389298395496",
         "baseUrl": "https://clover-manga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Culture Subs",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.culturesubs",
+    "apk": "tachiyomi-tr.culturesubs-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Culture Subs",
+        "lang": "tr",
+        "id": "4083365677180717217",
+        "baseUrl": "https://culturesubs.com",
         "versionId": 1
       }
     ]
