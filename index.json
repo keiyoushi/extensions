@@ -7640,10 +7640,10 @@
   {
     "name": "Tachiyomi: Empire Webtoon",
     "pkg": "eu.kanade.tachiyomi.extension.ar.empirewebtoon",
-    "apk": "tachiyomi-ar.empirewebtoon-v1.4.39.apk",
+    "apk": "tachiyomi-ar.empirewebtoon-v1.4.40.apk",
     "lang": "ar",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7652,7 +7652,7 @@
         "name": "Empire Webtoon",
         "lang": "ar",
         "id": "2655166136445570124",
-        "baseUrl": "https://webtoonsempireron.com",
+        "baseUrl": "https://webtoonempire-ron.com",
         "versionId": 1
       }
     ]
