@@ -22596,10 +22596,10 @@
   {
     "name": "Tachiyomi: Doujinku",
     "pkg": "eu.kanade.tachiyomi.extension.id.doujinku",
-    "apk": "tachiyomi-id.doujinku-v1.4.30.apk",
+    "apk": "tachiyomi-id.doujinku-v1.4.31.apk",
     "lang": "id",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22608,7 +22608,7 @@
         "name": "Doujinku",
         "lang": "id",
         "id": "4688509366795716377",
-        "baseUrl": "https://doujinku.org",
+        "baseUrl": "https://doujinku.xyz",
         "versionId": 1
       }
     ]
