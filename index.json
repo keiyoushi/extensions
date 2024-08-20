@@ -23974,6 +23974,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: NgamenKomik",
+    "pkg": "eu.kanade.tachiyomi.extension.id.ngamenkomik",
+    "apk": "tachiyomi-id.ngamenkomik-v1.4.9.apk",
+    "lang": "id",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "NgamenKomik",
+        "lang": "id",
+        "id": "4607768416266139943",
+        "baseUrl": "https://ngamenkomik05.blogspot.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Ngomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.ngomik",
     "apk": "tachiyomi-id.ngomik-v1.4.33.apk",
@@ -25136,10 +25156,10 @@
   {
     "name": "Tachiyomi: Manga1000",
     "pkg": "eu.kanade.tachiyomi.extension.ja.manga1000",
-    "apk": "tachiyomi-ja.manga1000-v1.4.11.apk",
+    "apk": "tachiyomi-ja.manga1000-v1.4.12.apk",
     "lang": "ja",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
