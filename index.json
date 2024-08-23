@@ -3449,10 +3449,10 @@
   {
     "name": "Tachiyomi: LANraragi",
     "pkg": "eu.kanade.tachiyomi.extension.all.lanraragi",
-    "apk": "tachiyomi-all.lanraragi-v1.4.17.apk",
+    "apk": "tachiyomi-all.lanraragi-v1.4.18.apk",
     "lang": "all",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10266,21 +10266,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Firecomics",
+    "name": "Tachiyomi: Firescans",
     "pkg": "eu.kanade.tachiyomi.extension.en.firescans",
-    "apk": "tachiyomi-en.firescans-v1.4.38.apk",
+    "apk": "tachiyomi-en.firescans-v1.4.39.apk",
     "lang": "en",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Firecomics",
+        "name": "Firescans",
         "lang": "en",
         "id": "5761461704760730187",
-        "baseUrl": "https://firecomics.org",
+        "baseUrl": "https://firescans.xyz",
         "versionId": 1
       }
     ]
@@ -25949,14 +25949,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki349.net",
+        "baseUrl": "https://manatoki350.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki349.com",
+        "baseUrl": "https://newtoki350.com",
         "versionId": 1
       }
     ]
@@ -30724,10 +30724,10 @@
   {
     "name": "Tachiyomi: Luna Scans",
     "pkg": "eu.kanade.tachiyomi.extension.tr.lunascans",
-    "apk": "tachiyomi-tr.lunascans-v1.4.36.apk",
+    "apk": "tachiyomi-tr.lunascans-v1.4.37.apk",
     "lang": "tr",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -30736,7 +30736,7 @@
         "name": "Luna Scans",
         "lang": "tr",
         "id": "6989973853577548620",
-        "baseUrl": "https://lunascans.fun",
+        "baseUrl": "https://lunascans.org",
         "versionId": 1
       }
     ]
