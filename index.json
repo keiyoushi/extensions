@@ -20067,6 +20067,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Leer Comics Online",
+    "pkg": "eu.kanade.tachiyomi.extension.es.leercomicsonline",
+    "apk": "tachiyomi-es.leercomicsonline-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Leer Comics Online",
+        "lang": "es",
+        "id": "9032773415343199791",
+        "baseUrl": "https://leercomicsonline.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: LeerMangasXYZ",
     "pkg": "eu.kanade.tachiyomi.extension.es.leermangasxyz",
     "apk": "tachiyomi-es.leermangasxyz-v1.4.1.apk",
