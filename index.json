@@ -1503,6 +1503,33 @@
     ]
   },
   {
+    "name": "Tachiyomi: ComicsKingdom",
+    "pkg": "eu.kanade.tachiyomi.extension.all.comicskingdom",
+    "apk": "tachiyomi-all.comicskingdom-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Comics Kingdom",
+        "lang": "en",
+        "id": "3350274514125477391",
+        "baseUrl": "https://wp.comicskingdom.com",
+        "versionId": 1
+      },
+      {
+        "name": "Comics Kingdom",
+        "lang": "es",
+        "id": "6467305425630534148",
+        "baseUrl": "https://wp.comicskingdom.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Comicz.net v2",
     "pkg": "eu.kanade.tachiyomi.extension.all.comicznetv2",
     "apk": "tachiyomi-all.comicznetv2-v1.4.36.apk",
@@ -7940,10 +7967,10 @@
   {
     "name": "Tachiyomi: MangaNoon",
     "pkg": "eu.kanade.tachiyomi.extension.ar.manganoon",
-    "apk": "tachiyomi-ar.manganoon-v1.4.34.apk",
+    "apk": "tachiyomi-ar.manganoon-v1.4.35.apk",
     "lang": "ar",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7952,7 +7979,7 @@
         "name": "مانجا نون",
         "lang": "ar",
         "id": "3244399826714600926",
-        "baseUrl": "https://noonscan.net",
+        "baseUrl": "https://manjanoon.xyz",
         "versionId": 1
       }
     ]
@@ -8120,10 +8147,10 @@
   {
     "name": "Tachiyomi: MangaSwat",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaswat",
-    "apk": "tachiyomi-ar.mangaswat-v1.4.52.apk",
+    "apk": "tachiyomi-ar.mangaswat-v1.4.53.apk",
     "lang": "ar",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8132,7 +8159,7 @@
         "name": "MangaSwat",
         "lang": "ar",
         "id": "264168699090292138",
-        "baseUrl": "https://tatwt.com",
+        "baseUrl": "https://healteer.com",
         "versionId": 1
       }
     ]
@@ -8353,6 +8380,26 @@
         "lang": "ar",
         "id": "3301038340499911137",
         "baseUrl": "https://rocksmanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Scans 4u",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.scans4u",
+    "apk": "tachiyomi-ar.scans4u-v1.4.4.apk",
+    "lang": "ar",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Scans 4u",
+        "lang": "ar",
+        "id": "2102721599186482805",
+        "baseUrl": "https://4uscans.com",
         "versionId": 1
       }
     ]
@@ -15735,10 +15782,10 @@
   {
     "name": "Tachiyomi: NIGHT SCANS",
     "pkg": "eu.kanade.tachiyomi.extension.en.nightscans",
-    "apk": "tachiyomi-en.nightscans-v1.4.37.apk",
+    "apk": "tachiyomi-en.nightscans-v1.4.38.apk",
     "lang": "en",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15747,7 +15794,7 @@
         "name": "NIGHT SCANS",
         "lang": "en",
         "id": "9064192854751334524",
-        "baseUrl": "https://night-scans.com",
+        "baseUrl": "https://nightsup.net",
         "versionId": 1
       }
     ]
@@ -22256,10 +22303,10 @@
   {
     "name": "Tachiyomi: Sushiscan.fr",
     "pkg": "eu.kanade.tachiyomi.extension.fr.sushiscanfr",
-    "apk": "tachiyomi-fr.sushiscanfr-v1.4.32.apk",
+    "apk": "tachiyomi-fr.sushiscanfr-v1.4.33.apk",
     "lang": "fr",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26524,10 +26571,10 @@
   {
     "name": "Tachiyomi: Diskus Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.diskusscan",
-    "apk": "tachiyomi-pt.diskusscan-v1.4.41.apk",
+    "apk": "tachiyomi-pt.diskusscan-v1.4.42.apk",
     "lang": "pt-BR",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27004,10 +27051,10 @@
   {
     "name": "Tachiyomi: Hunters Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.huntersscans",
-    "apk": "tachiyomi-pt.huntersscans-v1.4.39.apk",
+    "apk": "tachiyomi-pt.huntersscans-v1.4.40.apk",
     "lang": "pt-BR",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27016,7 +27063,7 @@
         "name": "Hunters Scan",
         "lang": "pt-BR",
         "id": "7310576253330700902",
-        "baseUrl": "https://huntersscan.net",
+        "baseUrl": "https://hunterscomics.com",
         "versionId": 1
       }
     ]
@@ -27984,10 +28031,10 @@
   {
     "name": "Tachiyomi: Demon Sect",
     "pkg": "eu.kanade.tachiyomi.extension.pt.prismascans",
-    "apk": "tachiyomi-pt.prismascans-v1.4.45.apk",
+    "apk": "tachiyomi-pt.prismascans-v1.4.46.apk",
     "lang": "pt-BR",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27996,7 +28043,7 @@
         "name": "Demon Sect",
         "lang": "pt-BR",
         "id": "8168108118738519332",
-        "baseUrl": "https://dsectcomics.org",
+        "baseUrl": "https://seitacelestial.com",
         "versionId": 1
       }
     ]
