@@ -12033,21 +12033,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Luminous Scans",
+    "name": "Tachiyomi: Radiant Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.luminousscans",
-    "apk": "tachiyomi-en.luminousscans-v1.4.38.apk",
+    "apk": "tachiyomi-en.luminousscans-v1.4.39.apk",
     "lang": "en",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Luminous Scans",
+        "name": "Radiant Scans",
         "lang": "en",
         "id": "1019556752273106311",
-        "baseUrl": "https://luminous-scans.com",
+        "baseUrl": "https://radiantscans.com",
         "versionId": 1
       }
     ]
@@ -28671,10 +28671,10 @@
   {
     "name": "Tachiyomi: Yugen Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yugenmangas",
-    "apk": "tachiyomi-pt.yugenmangas-v1.4.40.apk",
+    "apk": "tachiyomi-pt.yugenmangas-v1.4.41.apk",
     "lang": "pt-BR",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28682,9 +28682,9 @@
       {
         "name": "Yugen Mangás",
         "lang": "pt-BR",
-        "id": "386974442889227227",
-        "baseUrl": "https://yugenapp.lat",
-        "versionId": 1
+        "id": "8900485893586998299",
+        "baseUrl": "https://yugenweb.com",
+        "versionId": 2
       }
     ]
   },
@@ -28731,10 +28731,10 @@
   {
     "name": "Tachiyomi: AllHentai",
     "pkg": "eu.kanade.tachiyomi.extension.ru.allhentai",
-    "apk": "tachiyomi-ru.allhentai-v1.4.46.apk",
+    "apk": "tachiyomi-ru.allhentai-v1.4.47.apk",
     "lang": "ru",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -29051,10 +29051,10 @@
   {
     "name": "Tachiyomi: MintManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mintmanga",
-    "apk": "tachiyomi-ru.mintmanga-v1.4.69.apk",
+    "apk": "tachiyomi-ru.mintmanga-v1.4.70.apk",
     "lang": "ru",
-    "code": 69,
-    "version": "1.4.69",
+    "code": 70,
+    "version": "1.4.70",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -29063,7 +29063,7 @@
         "name": "MintManga",
         "lang": "ru",
         "id": "6",
-        "baseUrl": "https://mintmanga.com",
+        "baseUrl": "https://1.mintmanga.com",
         "versionId": 1
       }
     ]
@@ -29131,10 +29131,10 @@
   {
     "name": "Tachiyomi: ReadManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.readmanga",
-    "apk": "tachiyomi-ru.readmanga-v1.4.69.apk",
+    "apk": "tachiyomi-ru.readmanga-v1.4.70.apk",
     "lang": "ru",
-    "code": 69,
-    "version": "1.4.69",
+    "code": 70,
+    "version": "1.4.70",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -29151,10 +29151,10 @@
   {
     "name": "Tachiyomi: RuMIX",
     "pkg": "eu.kanade.tachiyomi.extension.ru.rumix",
-    "apk": "tachiyomi-ru.rumix-v1.4.24.apk",
+    "apk": "tachiyomi-ru.rumix-v1.4.25.apk",
     "lang": "ru",
-    "code": 24,
-    "version": "1.4.24",
+    "code": 25,
+    "version": "1.4.25",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -29169,12 +29169,32 @@
     ]
   },
   {
+    "name": "Tachiyomi: SeiManga",
+    "pkg": "eu.kanade.tachiyomi.extension.ru.seimanga",
+    "apk": "tachiyomi-ru.seimanga-v1.4.24.apk",
+    "lang": "ru",
+    "code": 24,
+    "version": "1.4.24",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "SeiManga",
+        "lang": "ru",
+        "id": "6340120447386662351",
+        "baseUrl": "https://1.seimanga.me",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: SelfManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.selfmanga",
-    "apk": "tachiyomi-ru.selfmanga-v1.4.45.apk",
+    "apk": "tachiyomi-ru.selfmanga-v1.4.46.apk",
     "lang": "ru",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
