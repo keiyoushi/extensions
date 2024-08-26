@@ -3440,6 +3440,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Kiutaku",
+    "pkg": "eu.kanade.tachiyomi.extension.all.kiutaku",
+    "apk": "tachiyomi-all.kiutaku-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Kiutaku",
+        "lang": "all",
+        "id": "3040035304874076216",
+        "baseUrl": "https://kiutaku.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Komga",
     "pkg": "eu.kanade.tachiyomi.extension.all.komga",
     "apk": "tachiyomi-all.komga-v1.4.57.apk",
@@ -6836,10 +6856,10 @@
   {
     "name": "Tachiyomi: Thunder Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.thunderscans",
-    "apk": "tachiyomi-all.thunderscans-v1.4.34.apk",
+    "apk": "tachiyomi-all.thunderscans-v1.4.35.apk",
     "lang": "all",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6848,7 +6868,7 @@
         "name": "Thunder Scans",
         "lang": "ar",
         "id": "3209001028102012989",
-        "baseUrl": "https://thunderscans.com",
+        "baseUrl": "https://ar-thunderepic.com",
         "versionId": 1
       },
       {
@@ -8387,10 +8407,10 @@
   {
     "name": "Tachiyomi: Scans 4u",
     "pkg": "eu.kanade.tachiyomi.extension.ar.scans4u",
-    "apk": "tachiyomi-ar.scans4u-v1.4.4.apk",
+    "apk": "tachiyomi-ar.scans4u-v1.4.5.apk",
     "lang": "ar",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10275,10 +10295,10 @@
   {
     "name": "Tachiyomi: EZmanga",
     "pkg": "eu.kanade.tachiyomi.extension.en.ezmanga",
-    "apk": "tachiyomi-en.ezmanga-v1.4.39.apk",
+    "apk": "tachiyomi-en.ezmanga-v1.4.40.apk",
     "lang": "en",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11555,10 +11575,10 @@
   {
     "name": "Tachiyomi: Kewn Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.kewnscans",
-    "apk": "tachiyomi-en.kewnscans-v1.4.5.apk",
+    "apk": "tachiyomi-en.kewnscans-v1.4.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11648,26 +11668,6 @@
         "lang": "en",
         "id": "3112384885023225761",
         "baseUrl": "https://kissmanga.in",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Kiutaku",
-    "pkg": "eu.kanade.tachiyomi.extension.en.kiutaku",
-    "apk": "tachiyomi-en.kiutaku-v1.4.1.apk",
-    "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Kiutaku",
-        "lang": "en",
-        "id": "3040035304874076216",
-        "baseUrl": "https://kiutaku.com",
         "versionId": 1
       }
     ]
@@ -11815,10 +11815,10 @@
   {
     "name": "Tachiyomi: Laid Back Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.laidbackscans",
-    "apk": "tachiyomi-en.laidbackscans-v1.4.4.apk",
+    "apk": "tachiyomi-en.laidbackscans-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12135,10 +12135,10 @@
   {
     "name": "Tachiyomi: Magus Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.magusmanga",
-    "apk": "tachiyomi-en.magusmanga-v1.4.38.apk",
+    "apk": "tachiyomi-en.magusmanga-v1.4.39.apk",
     "lang": "en",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12146,9 +12146,9 @@
       {
         "name": "Magus Manga",
         "lang": "en",
-        "id": "7792477462646075400",
-        "baseUrl": "https://recipeslik.online",
-        "versionId": 1
+        "id": "8637252306330424523",
+        "baseUrl": "https://magustoon.com",
+        "versionId": 2
       }
     ]
   },
@@ -15702,10 +15702,10 @@
   {
     "name": "Tachiyomi: Necro Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.necroscans",
-    "apk": "tachiyomi-en.necroscans-v1.4.4.apk",
+    "apk": "tachiyomi-en.necroscans-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17262,10 +17262,10 @@
   {
     "name": "Tachiyomi: Rudra Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.rudrascans",
-    "apk": "tachiyomi-en.rudrascans-v1.4.5.apk",
+    "apk": "tachiyomi-en.rudrascans-v1.4.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18649,10 +18649,10 @@
   {
     "name": "Tachiyomi: Wicked Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.wickedscans",
-    "apk": "tachiyomi-en.wickedscans-v1.4.4.apk",
+    "apk": "tachiyomi-en.wickedscans-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21343,10 +21343,10 @@
   {
     "name": "Tachiyomi: Anteiku Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.anteikuscan",
-    "apk": "tachiyomi-fr.anteikuscan-v1.4.4.apk",
+    "apk": "tachiyomi-fr.anteikuscan-v1.4.5.apk",
     "lang": "fr",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21403,10 +21403,10 @@
   {
     "name": "Tachiyomi: Astrames",
     "pkg": "eu.kanade.tachiyomi.extension.fr.astrames",
-    "apk": "tachiyomi-fr.astrames-v1.4.4.apk",
+    "apk": "tachiyomi-fr.astrames-v1.4.5.apk",
     "lang": "fr",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21463,10 +21463,10 @@
   {
     "name": "Tachiyomi: ED Scanlation",
     "pkg": "eu.kanade.tachiyomi.extension.fr.edscanlation",
-    "apk": "tachiyomi-fr.edscanlation-v1.4.4.apk",
+    "apk": "tachiyomi-fr.edscanlation-v1.4.5.apk",
     "lang": "fr",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22263,10 +22263,10 @@
   {
     "name": "Tachiyomi: Starbound Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.starboundscans",
-    "apk": "tachiyomi-fr.starboundscans-v1.4.4.apk",
+    "apk": "tachiyomi-fr.starboundscans-v1.4.5.apk",
     "lang": "fr",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22363,10 +22363,10 @@
   {
     "name": "Tachiyomi: VF Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.vfscan",
-    "apk": "tachiyomi-fr.vfscan-v1.4.30.apk",
+    "apk": "tachiyomi-fr.vfscan-v1.4.31.apk",
     "lang": "fr",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22375,7 +22375,7 @@
         "name": "VF Scan",
         "lang": "fr",
         "id": "2324108146057034074",
-        "baseUrl": "https://www.vfscan.cc",
+        "baseUrl": "https://www.vfscan.net",
         "versionId": 1
       }
     ]
@@ -31631,10 +31631,10 @@
   {
     "name": "Tachiyomi: Gri Melek",
     "pkg": "eu.kanade.tachiyomi.extension.tr.siyahmelek",
-    "apk": "tachiyomi-tr.siyahmelek-v1.4.44.apk",
+    "apk": "tachiyomi-tr.siyahmelek-v1.4.45.apk",
     "lang": "tr",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31643,7 +31643,7 @@
         "name": "Gri Melek",
         "lang": "tr",
         "id": "6419959498055001014",
-        "baseUrl": "https://grimelek.me",
+        "baseUrl": "https://grimelek.pro",
         "versionId": 1
       }
     ]
