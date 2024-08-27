@@ -22523,10 +22523,10 @@
   {
     "name": "Tachiyomi: Comicaso",
     "pkg": "eu.kanade.tachiyomi.extension.id.comicaso",
-    "apk": "tachiyomi-id.comicaso-v1.4.31.apk",
+    "apk": "tachiyomi-id.comicaso-v1.4.32.apk",
     "lang": "id",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22535,7 +22535,7 @@
         "name": "Comicaso",
         "lang": "id",
         "id": "8105901253428833094",
-        "baseUrl": "https://comicaso.org",
+        "baseUrl": "https://comicaso.id",
         "versionId": 1
       }
     ]
