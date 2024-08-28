@@ -12515,10 +12515,10 @@
   {
     "name": "Tachiyomi: MangaHall",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaclick",
-    "apk": "tachiyomi-en.mangaclick-v1.4.37.apk",
+    "apk": "tachiyomi-en.mangaclick-v1.4.38.apk",
     "lang": "en",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12527,7 +12527,7 @@
         "name": "MangaHall",
         "lang": "en",
         "id": "1234573178818746503",
-        "baseUrl": "https://mangahall.org",
+        "baseUrl": "https://mangahall.net",
         "versionId": 1
       }
     ]
@@ -13168,26 +13168,6 @@
         "lang": "en",
         "id": "6491120161556233904",
         "baseUrl": "https://mangakakalot.fun",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Mangakakalots (unoriginal)",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangakakalots",
-    "apk": "tachiyomi-en.mangakakalots-v1.4.6.apk",
-    "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Mangakakalots (unoriginal)",
-        "lang": "en",
-        "id": "9193816653713258037",
-        "baseUrl": "https://mangakakalots.com",
         "versionId": 1
       }
     ]
@@ -30211,10 +30191,10 @@
   {
     "name": "Tachiyomi: Atikrost",
     "pkg": "eu.kanade.tachiyomi.extension.tr.atikrost",
-    "apk": "tachiyomi-tr.atikrost-v1.4.36.apk",
+    "apk": "tachiyomi-tr.atikrost-v1.4.37.apk",
     "lang": "tr",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -30223,7 +30203,7 @@
         "name": "Atikrost",
         "lang": "tr",
         "id": "825776120573855096",
-        "baseUrl": "https://www.atikrost.com",
+        "baseUrl": "https://www.mangaoku.org",
         "versionId": 1
       }
     ]
@@ -32271,10 +32251,10 @@
   {
     "name": "Tachiyomi: NhatTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nhattruyen",
-    "apk": "tachiyomi-vi.nhattruyen-v1.4.24.apk",
+    "apk": "tachiyomi-vi.nhattruyen-v1.4.25.apk",
     "lang": "vi",
-    "code": 24,
-    "version": "1.4.24",
+    "code": 25,
+    "version": "1.4.25",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32431,10 +32411,10 @@
   {
     "name": "Tachiyomi: Truyen tranh dam my",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyentranhdammy",
-    "apk": "tachiyomi-vi.truyentranhdammy-v1.4.36.apk",
+    "apk": "tachiyomi-vi.truyentranhdammy-v1.4.37.apk",
     "lang": "vi",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32443,7 +32423,7 @@
         "name": "Truyện tranh đam mỹ",
         "lang": "vi",
         "id": "3809566188515992024",
-        "baseUrl": "https://truyentranhdammyy.top",
+        "baseUrl": "https://truyennhameo.com",
         "versionId": 1
       }
     ]
