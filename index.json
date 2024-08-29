@@ -11875,10 +11875,10 @@
   {
     "name": "Tachiyomi: LemonFont",
     "pkg": "eu.kanade.tachiyomi.extension.en.lemonfont",
-    "apk": "tachiyomi-en.lemonfont-v1.4.2.apk",
+    "apk": "tachiyomi-en.lemonfont-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11887,7 +11887,7 @@
         "name": "LemonFont",
         "lang": "en",
         "id": "7074271619480929378",
-        "baseUrl": "http://lemonfontcomics.com",
+        "baseUrl": "https://lemonfontcomics.com",
         "versionId": 1
       }
     ]
@@ -23103,10 +23103,10 @@
   {
     "name": "Tachiyomi: KomikIndo.info",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikindoinfo",
-    "apk": "tachiyomi-id.komikindoinfo-v1.4.1.apk",
+    "apk": "tachiyomi-id.komikindoinfo-v1.4.2.apk",
     "lang": "id",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23115,7 +23115,7 @@
         "name": "KomikIndo.info",
         "lang": "id",
         "id": "1545752948439513458",
-        "baseUrl": "http://komikindo.info",
+        "baseUrl": "https://komikindo.info",
         "versionId": 1
       }
     ]
@@ -24723,10 +24723,10 @@
   {
     "name": "Tachiyomi: NIFTeam",
     "pkg": "eu.kanade.tachiyomi.extension.it.nifteam",
-    "apk": "tachiyomi-it.nifteam-v1.4.3.apk",
+    "apk": "tachiyomi-it.nifteam-v1.4.4.apk",
     "lang": "it",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24735,7 +24735,7 @@
         "name": "NIFTeam",
         "lang": "it",
         "id": "7816508865953731299",
-        "baseUrl": "http://read-nifteam.info",
+        "baseUrl": "https://read-nifteam.info",
         "versionId": 1
       }
     ]
@@ -24823,10 +24823,10 @@
   {
     "name": "Tachiyomi: TuttoAnimeManga",
     "pkg": "eu.kanade.tachiyomi.extension.it.tuttoanimemanga",
-    "apk": "tachiyomi-it.tuttoanimemanga-v1.4.6.apk",
+    "apk": "tachiyomi-it.tuttoanimemanga-v1.4.7.apk",
     "lang": "it",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24835,7 +24835,7 @@
         "name": "TuttoAnimeManga",
         "lang": "it",
         "id": "2102507871480604746",
-        "baseUrl": "http://tuttoanimemanga.net",
+        "baseUrl": "https://tuttoanimemanga.net",
         "versionId": 1
       }
     ]
@@ -26431,10 +26431,10 @@
   {
     "name": "Tachiyomi: Café com Yaoi",
     "pkg": "eu.kanade.tachiyomi.extension.pt.cafecomyaoi",
-    "apk": "tachiyomi-pt.cafecomyaoi-v1.4.37.apk",
+    "apk": "tachiyomi-pt.cafecomyaoi-v1.4.38.apk",
     "lang": "pt-BR",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26443,7 +26443,7 @@
         "name": "Café com Yaoi",
         "lang": "pt-BR",
         "id": "340055543197648554",
-        "baseUrl": "http://cafecomyaoi.com.br",
+        "baseUrl": "https://cafecomyaoi.com.br",
         "versionId": 1
       }
     ]
@@ -29891,10 +29891,10 @@
   {
     "name": "Tachiyomi: Sodsaime",
     "pkg": "eu.kanade.tachiyomi.extension.th.sodsaime",
-    "apk": "tachiyomi-th.sodsaime-v1.4.31.apk",
+    "apk": "tachiyomi-th.sodsaime-v1.4.32.apk",
     "lang": "th",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -29903,7 +29903,7 @@
         "name": "สดใสเมะ",
         "lang": "th",
         "id": "8174267898467838103",
-        "baseUrl": "http://www.xn--l3c0azab5a2gta.com",
+        "baseUrl": "https://www.xn--l3c0azab5a2gta.com",
         "versionId": 1
       }
     ]
