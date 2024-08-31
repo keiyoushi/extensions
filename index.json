@@ -12595,10 +12595,10 @@
   {
     "name": "Tachiyomi: Manga Demon",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangademon",
-    "apk": "tachiyomi-en.mangademon-v1.4.12.apk",
+    "apk": "tachiyomi-en.mangademon-v1.4.13.apk",
     "lang": "en",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12606,9 +12606,9 @@
       {
         "name": "Manga Demon",
         "lang": "en",
-        "id": "8089306398534489202",
-        "baseUrl": "https://mgdemon.org",
-        "versionId": 1
+        "id": "2900023289777642714",
+        "baseUrl": "https://demonicscans.org",
+        "versionId": 2
       }
     ]
   },
@@ -30849,26 +30849,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MajorScans",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.majorscans",
-    "apk": "tachiyomi-tr.majorscans-v1.4.31.apk",
-    "lang": "tr",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MajorScans",
-        "lang": "tr",
-        "id": "1399106189241365096",
-        "baseUrl": "https://www.majorscans.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Mangacim",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangacim",
     "apk": "tachiyomi-tr.mangacim-v1.4.31.apk",
@@ -31084,6 +31064,26 @@
         "lang": "tr",
         "id": "6874531585347607582",
         "baseUrl": "https://mangasiginagi.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaTilkisi",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.mangatilkisi",
+    "apk": "tachiyomi-tr.mangatilkisi-v1.4.36.apk",
+    "lang": "tr",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaTilkisi",
+        "lang": "tr",
+        "id": "1820900722595855271",
+        "baseUrl": "https://www.mangatilkisi.com",
         "versionId": 1
       }
     ]
@@ -31344,6 +31344,26 @@
         "lang": "tr",
         "id": "3875676731760385630",
         "baseUrl": "https://niverafansub.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Nox Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.noxscans",
+    "apk": "tachiyomi-tr.noxscans-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "NoxScans",
+        "lang": "tr",
+        "id": "4023947428403484644",
+        "baseUrl": "https://noxscans.com",
         "versionId": 1
       }
     ]
