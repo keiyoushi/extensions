@@ -11675,10 +11675,10 @@
   {
     "name": "Tachiyomi: Koharu",
     "pkg": "eu.kanade.tachiyomi.extension.en.koharu",
-    "apk": "tachiyomi-en.koharu-v1.4.7.apk",
+    "apk": "tachiyomi-en.koharu-v1.4.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25116,26 +25116,6 @@
         "lang": "ja",
         "id": "5414342435310010512",
         "baseUrl": "https://idol.gravureprincess.date",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: JManga",
-    "pkg": "eu.kanade.tachiyomi.extension.ja.jmanga",
-    "apk": "tachiyomi-ja.jmanga-v1.4.7.apk",
-    "lang": "ja",
-    "code": 7,
-    "version": "1.4.7",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "JManga",
-        "lang": "ja",
-        "id": "6141590427749684419",
-        "baseUrl": "https://jmanga.vip",
         "versionId": 1
       }
     ]
