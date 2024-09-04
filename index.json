@@ -1530,6 +1530,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Comics Valley",
+    "pkg": "eu.kanade.tachiyomi.extension.all.comicsvalley",
+    "apk": "tachiyomi-all.comicsvalley-v1.4.38.apk",
+    "lang": "all",
+    "code": 38,
+    "version": "1.4.38",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Comics Valley",
+        "lang": "all",
+        "id": "1103204227230640533",
+        "baseUrl": "https://comicsvalley.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Comicz.net v2",
     "pkg": "eu.kanade.tachiyomi.extension.all.comicznetv2",
     "apk": "tachiyomi-all.comicznetv2-v1.4.36.apk",
@@ -8387,10 +8407,10 @@
   {
     "name": "Tachiyomi: Rocks Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.rocksmanga",
-    "apk": "tachiyomi-ar.rocksmanga-v1.4.37.apk",
+    "apk": "tachiyomi-ar.rocksmanga-v1.4.38.apk",
     "lang": "ar",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10007,10 +10027,10 @@
   {
     "name": "Tachiyomi: Dynasty",
     "pkg": "eu.kanade.tachiyomi.extension.en.dynasty",
-    "apk": "tachiyomi-en.dynasty-v1.4.24.apk",
+    "apk": "tachiyomi-en.dynasty-v1.4.25.apk",
     "lang": "en",
-    "code": 24,
-    "version": "1.4.24",
+    "code": 25,
+    "version": "1.4.25",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10047,6 +10067,13 @@
         "name": "Dynasty-Series",
         "lang": "en",
         "id": "669095474988166464",
+        "baseUrl": "https://dynasty-scans.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dynasty-Scanlator",
+        "lang": "en",
+        "id": "119105249619368600",
         "baseUrl": "https://dynasty-scans.com",
         "versionId": 1
       }
@@ -22381,26 +22408,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Comics Valley",
-    "pkg": "eu.kanade.tachiyomi.extension.hi.comicsvalley",
-    "apk": "tachiyomi-hi.comicsvalley-v1.4.38.apk",
-    "lang": "hi",
-    "code": 38,
-    "version": "1.4.38",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Comics Valley",
-        "lang": "hi",
-        "id": "1103204227230640533",
-        "baseUrl": "https://comicsvalley.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Ainz Scans ID",
     "pkg": "eu.kanade.tachiyomi.extension.id.ainzscansid",
     "apk": "tachiyomi-id.ainzscansid-v1.4.31.apk",
@@ -23443,10 +23450,10 @@
   {
     "name": "Tachiyomi: LianScans",
     "pkg": "eu.kanade.tachiyomi.extension.id.lianscans",
-    "apk": "tachiyomi-id.lianscans-v1.4.30.apk",
+    "apk": "tachiyomi-id.lianscans-v1.4.31.apk",
     "lang": "id",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23455,7 +23462,7 @@
         "name": "LianScans",
         "lang": "id",
         "id": "8863831356505058723",
-        "baseUrl": "https://www.lianscans.my.id",
+        "baseUrl": "https://www.lianscans.com",
         "versionId": 1
       }
     ]
@@ -23803,10 +23810,10 @@
   {
     "name": "Tachiyomi: Manhwa List",
     "pkg": "eu.kanade.tachiyomi.extension.id.manhwalistid",
-    "apk": "tachiyomi-id.manhwalistid-v1.4.31.apk",
+    "apk": "tachiyomi-id.manhwalistid-v1.4.32.apk",
     "lang": "id",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23815,7 +23822,7 @@
         "name": "Manhwa List",
         "lang": "id",
         "id": "3111049819536223391",
-        "baseUrl": "https://manhwalist.com",
+        "baseUrl": "https://manhwalist.in",
         "versionId": 1
       }
     ]
@@ -24656,6 +24663,26 @@
         "lang": "it",
         "id": "3278618591126542009",
         "baseUrl": "https://reader.hastateam.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: HentaiArchive",
+    "pkg": "eu.kanade.tachiyomi.extension.it.hentaiarchive",
+    "apk": "tachiyomi-it.hentaiarchive-v1.4.1.apk",
+    "lang": "it",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "HentaiArchive",
+        "lang": "it",
+        "id": "6052929656772429531",
+        "baseUrl": "https://www.hentai-archive.com",
         "versionId": 1
       }
     ]
@@ -28009,18 +28036,18 @@
     ]
   },
   {
-    "name": "Tachiyomi: Demon Sect",
+    "name": "Tachiyomi: Seita Celestial",
     "pkg": "eu.kanade.tachiyomi.extension.pt.prismascans",
-    "apk": "tachiyomi-pt.prismascans-v1.4.46.apk",
+    "apk": "tachiyomi-pt.prismascans-v1.4.47.apk",
     "lang": "pt-BR",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Demon Sect",
+        "name": "Seita Celestial",
         "lang": "pt-BR",
         "id": "8168108118738519332",
         "baseUrl": "https://seitacelestial.com",
@@ -32371,10 +32398,10 @@
   {
     "name": "Tachiyomi: Team Lanh Lung",
     "pkg": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
-    "apk": "tachiyomi-vi.teamlanhlung-v1.4.9.apk",
+    "apk": "tachiyomi-vi.teamlanhlung-v1.4.10.apk",
     "lang": "vi",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32383,7 +32410,7 @@
         "name": "Team Lạnh Lùng",
         "lang": "vi",
         "id": "1832370231745386795",
-        "baseUrl": "https://teamlanhlung.blog",
+        "baseUrl": "https://teamlanhlung.vote",
         "versionId": 1
       }
     ]
