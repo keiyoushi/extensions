@@ -12720,26 +12720,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaEffect",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangaeffect",
-    "apk": "tachiyomi-en.mangaeffect-v1.4.37.apk",
-    "lang": "en",
-    "code": 37,
-    "version": "1.4.37",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaEffect",
-        "lang": "en",
-        "id": "2164823124616827664",
-        "baseUrl": "https://mangaeffect.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Manga-fast.com",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangafastcom",
     "apk": "tachiyomi-en.mangafastcom-v1.4.39.apk",
@@ -19816,10 +19796,10 @@
   {
     "name": "Tachiyomi: Ikigai Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
-    "apk": "tachiyomi-es.ikigaimangas-v1.4.15.apk",
+    "apk": "tachiyomi-es.ikigaimangas-v1.4.16.apk",
     "lang": "es",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19828,7 +19808,7 @@
         "name": "Ikigai Mangas",
         "lang": "es",
         "id": "3546919326830738510",
-        "baseUrl": "https://ikigaimangas.fraviral.com",
+        "baseUrl": "https://lectorikigai.erigu.com",
         "versionId": 1
       }
     ]
@@ -24690,10 +24670,10 @@
   {
     "name": "Tachiyomi: HentaiFantasy",
     "pkg": "eu.kanade.tachiyomi.extension.it.hentaifantasy",
-    "apk": "tachiyomi-it.hentaifantasy-v1.4.4.apk",
+    "apk": "tachiyomi-it.hentaifantasy-v1.4.5.apk",
     "lang": "it",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
