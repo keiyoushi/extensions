@@ -5418,26 +5418,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Meitua.top",
-    "pkg": "eu.kanade.tachiyomi.extension.all.meituatop",
-    "apk": "tachiyomi-all.meituatop-v1.4.6.apk",
-    "lang": "all",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Meitua.top",
-        "lang": "all",
-        "id": "2066652761751053456",
-        "baseUrl": "https://mt1.meitu1.sbs",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Metart Hunter",
     "pkg": "eu.kanade.tachiyomi.extension.all.metarthunter",
     "apk": "tachiyomi-all.metarthunter-v1.4.1.apk",
@@ -10422,10 +10402,10 @@
   {
     "name": "Tachiyomi: Flame Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.flamecomics",
-    "apk": "tachiyomi-en.flamecomics-v1.4.32.apk",
+    "apk": "tachiyomi-en.flamecomics-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12162,10 +12142,10 @@
   {
     "name": "Tachiyomi: Magus Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.magusmanga",
-    "apk": "tachiyomi-en.magusmanga-v1.4.39.apk",
+    "apk": "tachiyomi-en.magusmanga-v1.4.40.apk",
     "lang": "en",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12642,10 +12622,10 @@
   {
     "name": "Tachiyomi: MangaDig",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangadig",
-    "apk": "tachiyomi-en.mangadig-v1.4.3.apk",
+    "apk": "tachiyomi-en.mangadig-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26003,14 +25983,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki351.net",
+        "baseUrl": "https://manatoki460.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki351.com",
+        "baseUrl": "https://newtoki460.com",
         "versionId": 1
       }
     ]
@@ -29318,10 +29298,10 @@
   {
     "name": "Tachiyomi: Cat300",
     "pkg": "eu.kanade.tachiyomi.extension.th.cat300",
-    "apk": "tachiyomi-th.cat300-v1.4.37.apk",
+    "apk": "tachiyomi-th.cat300-v1.4.38.apk",
     "lang": "th",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -29330,7 +29310,7 @@
         "name": "Cat300",
         "lang": "th",
         "id": "6055828959180481405",
-        "baseUrl": "https://cat300.com",
+        "baseUrl": "https://cat300.net",
         "versionId": 1
       }
     ]
@@ -32478,10 +32458,10 @@
   {
     "name": "Tachiyomi: TruyenVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenvn",
-    "apk": "tachiyomi-vi.truyenvn-v1.4.39.apk",
+    "apk": "tachiyomi-vi.truyenvn-v1.4.40.apk",
     "lang": "vi",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32490,7 +32470,7 @@
         "name": "TruyenVN",
         "lang": "vi",
         "id": "5758845301840022147",
-        "baseUrl": "https://truyenvn.cam",
+        "baseUrl": "https://truyenvn.mobi",
         "versionId": 1
       }
     ]
@@ -33178,10 +33158,10 @@
   {
     "name": "Tachiyomi: COLAMANGA",
     "pkg": "eu.kanade.tachiyomi.extension.zh.onemanhua",
-    "apk": "tachiyomi-zh.onemanhua-v1.4.18.apk",
+    "apk": "tachiyomi-zh.onemanhua-v1.4.19.apk",
     "lang": "zh",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
