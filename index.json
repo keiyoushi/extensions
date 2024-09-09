@@ -8407,10 +8407,10 @@
   {
     "name": "Tachiyomi: Scans 4u",
     "pkg": "eu.kanade.tachiyomi.extension.ar.scans4u",
-    "apk": "tachiyomi-ar.scans4u-v1.4.5.apk",
+    "apk": "tachiyomi-ar.scans4u-v1.4.6.apk",
     "lang": "ar",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8861,26 +8861,6 @@
         "id": "77648069822920338",
         "baseUrl": "https://anigliscans.xyz",
         "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: A Pair Of 2+",
-    "pkg": "eu.kanade.tachiyomi.extension.en.apairof2",
-    "apk": "tachiyomi-en.apairof2-v1.4.32.apk",
-    "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "A Pair Of 2+",
-        "lang": "en",
-        "id": "2806238791467888054",
-        "baseUrl": "https://po2scans.com",
-        "versionId": 2
       }
     ]
   },
@@ -10302,10 +10282,10 @@
   {
     "name": "Tachiyomi: EZmanga",
     "pkg": "eu.kanade.tachiyomi.extension.en.ezmanga",
-    "apk": "tachiyomi-en.ezmanga-v1.4.40.apk",
+    "apk": "tachiyomi-en.ezmanga-v1.4.41.apk",
     "lang": "en",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11582,10 +11562,10 @@
   {
     "name": "Tachiyomi: Kewn Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.kewnscans",
-    "apk": "tachiyomi-en.kewnscans-v1.4.6.apk",
+    "apk": "tachiyomi-en.kewnscans-v1.4.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11822,10 +11802,10 @@
   {
     "name": "Tachiyomi: Laid Back Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.laidbackscans",
-    "apk": "tachiyomi-en.laidbackscans-v1.4.5.apk",
+    "apk": "tachiyomi-en.laidbackscans-v1.4.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12142,10 +12122,10 @@
   {
     "name": "Tachiyomi: Magus Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.magusmanga",
-    "apk": "tachiyomi-en.magusmanga-v1.4.40.apk",
+    "apk": "tachiyomi-en.magusmanga-v1.4.41.apk",
     "lang": "en",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15689,10 +15669,10 @@
   {
     "name": "Tachiyomi: Necro Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.necroscans",
-    "apk": "tachiyomi-en.necroscans-v1.4.5.apk",
+    "apk": "tachiyomi-en.necroscans-v1.4.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17247,26 +17227,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Rudra Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.rudrascans",
-    "apk": "tachiyomi-en.rudrascans-v1.4.6.apk",
-    "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Rudra Scans",
-        "lang": "en",
-        "id": "4499646390723123295",
-        "baseUrl": "https://rudrascans.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: S2Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.s2manga",
     "apk": "tachiyomi-en.s2manga-v1.4.39.apk",
@@ -18394,26 +18354,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Void Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.voidscans",
-    "apk": "tachiyomi-en.voidscans-v1.4.30.apk",
-    "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Void Scans",
-        "lang": "en",
-        "id": "2444989552464441290",
-        "baseUrl": "https://voidscans.co",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Voyce.Me",
     "pkg": "eu.kanade.tachiyomi.extension.en.voyceme",
     "apk": "tachiyomi-en.voyceme-v1.4.4.apk",
@@ -18636,10 +18576,10 @@
   {
     "name": "Tachiyomi: Wicked Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.wickedscans",
-    "apk": "tachiyomi-en.wickedscans-v1.4.5.apk",
+    "apk": "tachiyomi-en.wickedscans-v1.4.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21330,10 +21270,10 @@
   {
     "name": "Tachiyomi: Anteiku Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.anteikuscan",
-    "apk": "tachiyomi-fr.anteikuscan-v1.4.5.apk",
+    "apk": "tachiyomi-fr.anteikuscan-v1.4.6.apk",
     "lang": "fr",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21390,10 +21330,10 @@
   {
     "name": "Tachiyomi: Astrames",
     "pkg": "eu.kanade.tachiyomi.extension.fr.astrames",
-    "apk": "tachiyomi-fr.astrames-v1.4.5.apk",
+    "apk": "tachiyomi-fr.astrames-v1.4.6.apk",
     "lang": "fr",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21450,10 +21390,10 @@
   {
     "name": "Tachiyomi: ED Scanlation",
     "pkg": "eu.kanade.tachiyomi.extension.fr.edscanlation",
-    "apk": "tachiyomi-fr.edscanlation-v1.4.5.apk",
+    "apk": "tachiyomi-fr.edscanlation-v1.4.6.apk",
     "lang": "fr",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22250,10 +22190,10 @@
   {
     "name": "Tachiyomi: Starbound Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.starboundscans",
-    "apk": "tachiyomi-fr.starboundscans-v1.4.5.apk",
+    "apk": "tachiyomi-fr.starboundscans-v1.4.6.apk",
     "lang": "fr",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28638,10 +28578,10 @@
   {
     "name": "Tachiyomi: Yugen Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yugenmangas",
-    "apk": "tachiyomi-pt.yugenmangas-v1.4.41.apk",
+    "apk": "tachiyomi-pt.yugenmangas-v1.4.42.apk",
     "lang": "pt-BR",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28650,7 +28590,7 @@
         "name": "Yugen Mangás",
         "lang": "pt-BR",
         "id": "8900485893586998299",
-        "baseUrl": "https://yugenweb.com",
+        "baseUrl": "https://yugenmangasbr.voblog.xyz",
         "versionId": 2
       }
     ]
@@ -31518,10 +31458,10 @@
   {
     "name": "Tachiyomi: Sadscans",
     "pkg": "eu.kanade.tachiyomi.extension.tr.sadscans",
-    "apk": "tachiyomi-tr.sadscans-v1.4.1.apk",
+    "apk": "tachiyomi-tr.sadscans-v1.4.2.apk",
     "lang": "tr",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
