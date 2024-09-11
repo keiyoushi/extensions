@@ -12500,21 +12500,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaHall",
+    "name": "Tachiyomi: MangaGeek",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaclick",
-    "apk": "tachiyomi-en.mangaclick-v1.4.38.apk",
+    "apk": "tachiyomi-en.mangaclick-v1.4.39.apk",
     "lang": "en",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "MangaHall",
+        "name": "MangaGeek",
         "lang": "en",
         "id": "1234573178818746503",
-        "baseUrl": "https://mangahall.net",
+        "baseUrl": "https://mangageek.org",
         "versionId": 1
       }
     ]
@@ -12922,10 +12922,10 @@
   {
     "name": "Tachiyomi: Mangago",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangago",
-    "apk": "tachiyomi-en.mangago-v1.4.16.apk",
+    "apk": "tachiyomi-en.mangago-v1.4.17.apk",
     "lang": "en",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19996,10 +19996,10 @@
   {
     "name": "Tachiyomi: TuMangaOnline / LectorManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.lectortmo",
-    "apk": "tachiyomi-es.lectortmo-v1.4.1.apk",
+    "apk": "tachiyomi-es.lectortmo-v1.4.2.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20503,10 +20503,10 @@
   {
     "name": "Tachiyomi: MHScans",
     "pkg": "eu.kanade.tachiyomi.extension.es.mhscans",
-    "apk": "tachiyomi-es.mhscans-v1.4.39.apk",
+    "apk": "tachiyomi-es.mhscans-v1.4.40.apk",
     "lang": "es",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20515,7 +20515,7 @@
         "name": "MHScans",
         "lang": "es",
         "id": "3253304651550496369",
-        "baseUrl": "https://mhscans.manhuaonline.org",
+        "baseUrl": "https://mh.cookni.net",
         "versionId": 1
       }
     ]
@@ -21728,21 +21728,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Lunar Scans Hentai",
+    "name": "Tachiyomi: Pornhwa Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.lunarscanshentai",
-    "apk": "tachiyomi-fr.lunarscanshentai-v1.4.30.apk",
+    "apk": "tachiyomi-fr.lunarscanshentai-v1.4.31.apk",
     "lang": "fr",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Lunar Scans Hentai",
+        "name": "Pornhwa Scans",
         "lang": "fr",
         "id": "5554585746492602896",
-        "baseUrl": "https://hentai.lunarscans.fr",
+        "baseUrl": "https://pornhwascans.fr",
         "versionId": 1
       }
     ]
@@ -22663,6 +22663,26 @@
         "lang": "id",
         "id": "5490253431755133280",
         "baseUrl": "https://hwago.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: IchiroManga",
+    "pkg": "eu.kanade.tachiyomi.extension.id.ichiromanga",
+    "apk": "tachiyomi-id.ichiromanga-v1.4.30.apk",
+    "lang": "id",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "IchiroManga",
+        "lang": "id",
+        "id": "7134992352886463486",
+        "baseUrl": "https://ichiromanga.my.id",
         "versionId": 1
       }
     ]
@@ -28118,10 +28138,10 @@
   {
     "name": "Tachiyomi: SlimeRead",
     "pkg": "eu.kanade.tachiyomi.extension.pt.slimeread",
-    "apk": "tachiyomi-pt.slimeread-v1.4.12.apk",
+    "apk": "tachiyomi-pt.slimeread-v1.4.13.apk",
     "lang": "pt-BR",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -33178,10 +33198,10 @@
   {
     "name": "Tachiyomi: 6Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.sixmh",
-    "apk": "tachiyomi-zh.sixmh-v1.4.10.apk",
+    "apk": "tachiyomi-zh.sixmh-v1.4.11.apk",
     "lang": "zh",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
