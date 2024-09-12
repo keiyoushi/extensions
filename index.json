@@ -5485,6 +5485,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Mitaku",
+    "pkg": "eu.kanade.tachiyomi.extension.all.mitaku",
+    "apk": "tachiyomi-all.mitaku-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Mitaku",
+        "lang": "all",
+        "id": "7541045796029140694",
+        "baseUrl": "https://mitaku.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MyReadingManga",
     "pkg": "eu.kanade.tachiyomi.extension.all.myreadingmanga",
     "apk": "tachiyomi-all.myreadingmanga-v1.4.50.apk",
@@ -20323,10 +20343,10 @@
   {
     "name": "Tachiyomi: Mangas No Sekai",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangasnosekai",
-    "apk": "tachiyomi-es.mangasnosekai-v1.4.51.apk",
+    "apk": "tachiyomi-es.mangasnosekai-v1.4.52.apk",
     "lang": "es",
-    "code": 51,
-    "version": "1.4.51",
+    "code": 52,
+    "version": "1.4.52",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23590,10 +23610,10 @@
   {
     "name": "Tachiyomi: MangaTale",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangatale",
-    "apk": "tachiyomi-id.mangatale-v1.4.33.apk",
+    "apk": "tachiyomi-id.mangatale-v1.4.34.apk",
     "lang": "id",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23602,7 +23622,7 @@
         "name": "MangaTale",
         "lang": "id",
         "id": "1532456597012176985",
-        "baseUrl": "https://mangatale.co",
+        "baseUrl": "https://mangatale.id",
         "versionId": 1
       }
     ]
@@ -30458,10 +30478,10 @@
   {
     "name": "Tachiyomi: Hayalistic",
     "pkg": "eu.kanade.tachiyomi.extension.tr.hayalistic",
-    "apk": "tachiyomi-tr.hayalistic-v1.4.37.apk",
+    "apk": "tachiyomi-tr.hayalistic-v1.4.38.apk",
     "lang": "tr",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
