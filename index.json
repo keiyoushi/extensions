@@ -8967,10 +8967,10 @@
   {
     "name": "Tachiyomi: Vortex Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arvenscans",
-    "apk": "tachiyomi-en.arvenscans-v1.4.36.apk",
+    "apk": "tachiyomi-en.arvenscans-v1.4.37.apk",
     "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8979,7 +8979,7 @@
         "name": "Vortex Scans",
         "lang": "en",
         "id": "2559570015828016575",
-        "baseUrl": "https://vortexscans.org",
+        "baseUrl": "https://vortextoon.com",
         "versionId": 1
       }
     ]
