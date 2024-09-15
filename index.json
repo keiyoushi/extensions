@@ -8885,6 +8885,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Anisa Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.anisascans",
+    "apk": "tachiyomi-en.anisascans-v1.4.36.apk",
+    "lang": "en",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Anisa Scans",
+        "lang": "en",
+        "id": "8904806262353429205",
+        "baseUrl": "https://anisascans.in",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Aqua Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.aquamanga",
     "apk": "tachiyomi-en.aquamanga-v1.4.45.apk",
@@ -8967,10 +8987,10 @@
   {
     "name": "Tachiyomi: Vortex Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arvenscans",
-    "apk": "tachiyomi-en.arvenscans-v1.4.37.apk",
+    "apk": "tachiyomi-en.arvenscans-v1.4.38.apk",
     "lang": "en",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12902,10 +12922,10 @@
   {
     "name": "Tachiyomi: Manga Galaxy",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangagalaxy",
-    "apk": "tachiyomi-en.mangagalaxy-v1.4.42.apk",
+    "apk": "tachiyomi-en.mangagalaxy-v1.4.43.apk",
     "lang": "en",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27976,26 +27996,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Prazeres Violentos",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.prazeresviolentos",
-    "apk": "tachiyomi-pt.prazeresviolentos-v1.4.36.apk",
-    "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Prazeres Violentos",
-        "lang": "pt-BR",
-        "id": "942491686131882974",
-        "baseUrl": "https://prazeresviolentos.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Seita Celestial",
     "pkg": "eu.kanade.tachiyomi.extension.pt.prismascans",
     "apk": "tachiyomi-pt.prismascans-v1.4.47.apk",
@@ -28618,10 +28618,10 @@
   {
     "name": "Tachiyomi: Yaoi Fan Club",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yaoifanclub",
-    "apk": "tachiyomi-pt.yaoifanclub-v1.4.9.apk",
+    "apk": "tachiyomi-pt.yaoifanclub-v1.4.10.apk",
     "lang": "pt-BR",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -30016,26 +30016,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Allied Fansub",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.alliedfansub",
-    "apk": "tachiyomi-tr.alliedfansub-v1.4.36.apk",
-    "lang": "tr",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Allied Fansub",
-        "lang": "tr",
-        "id": "5413557211045287737",
-        "baseUrl": "https://alliedfansub.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Anikiga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.anikiga",
     "apk": "tachiyomi-tr.anikiga-v1.4.36.apk",
@@ -30511,26 +30491,6 @@
         "lang": "tr",
         "id": "546920749196078093",
         "baseUrl": "https://hayalistic.com.tr",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Hentai Keyfi",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.hentaing",
-    "apk": "tachiyomi-tr.hentaing-v1.4.37.apk",
-    "lang": "tr",
-    "code": 37,
-    "version": "1.4.37",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Hentai Keyfi",
-        "lang": "tr",
-        "id": "3518858173957835738",
-        "baseUrl": "https://hentaikeyfi.com",
         "versionId": 1
       }
     ]
