@@ -19976,10 +19976,10 @@
   {
     "name": "Tachiyomi: Koinobori Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.koinoboriscan",
-    "apk": "tachiyomi-es.koinoboriscan-v1.4.36.apk",
+    "apk": "tachiyomi-es.koinoboriscan-v1.4.37.apk",
     "lang": "es",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19987,9 +19987,9 @@
       {
         "name": "Koinobori Scan",
         "lang": "es",
-        "id": "8075825407840893676",
-        "baseUrl": "https://koinoboriscan.com",
-        "versionId": 1
+        "id": "2506316366833754505",
+        "baseUrl": "https://visorkoi.com",
+        "versionId": 2
       }
     ]
   },
@@ -32678,10 +32678,10 @@
   {
     "name": "Tachiyomi: Comicabc",
     "pkg": "eu.kanade.tachiyomi.extension.zh.comicabc",
-    "apk": "tachiyomi-zh.comicabc-v1.4.1.apk",
+    "apk": "tachiyomi-zh.comicabc-v1.4.2.apk",
     "lang": "zh",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32690,7 +32690,7 @@
         "name": "無限動漫",
         "lang": "zh",
         "id": "8110122805257580230",
-        "baseUrl": "https://www.comicabc.com",
+        "baseUrl": "https://www.8comic.com",
         "versionId": 1
       }
     ]
