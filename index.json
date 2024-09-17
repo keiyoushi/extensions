@@ -10620,26 +10620,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Good Girls Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.en.goodgirlsscan",
-    "apk": "tachiyomi-en.goodgirlsscan-v1.4.36.apk",
-    "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Good Girls Scan",
-        "lang": "en",
-        "id": "7767373857094891353",
-        "baseUrl": "https://goodgirls.moe",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Gourmet Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.gourmetscans",
     "apk": "tachiyomi-en.gourmetscans-v1.4.36.apk",
