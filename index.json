@@ -5507,10 +5507,10 @@
   {
     "name": "Tachiyomi: MyReadingManga",
     "pkg": "eu.kanade.tachiyomi.extension.all.myreadingmanga",
-    "apk": "tachiyomi-all.myreadingmanga-v1.4.50.apk",
+    "apk": "tachiyomi-all.myreadingmanga-v1.4.51.apk",
     "lang": "all",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 51,
+    "version": "1.4.51",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -5540,13 +5540,6 @@
         "name": "MyReadingManga",
         "lang": "en",
         "id": "6318378620301107421",
-        "baseUrl": "https://myreadingmanga.info",
-        "versionId": 1
-      },
-      {
-        "name": "MyReadingManga",
-        "lang": "fr",
-        "id": "437664019446265570",
         "baseUrl": "https://myreadingmanga.info",
         "versionId": 1
       },
@@ -5651,13 +5644,6 @@
         "name": "MyRockManga",
         "lang": "it",
         "id": "6477540941998092952",
-        "baseUrl": "https://myrockmanga.com",
-        "versionId": 1
-      },
-      {
-        "name": "MyRockManga",
-        "lang": "fr",
-        "id": "4116603087869995828",
         "baseUrl": "https://myrockmanga.com",
         "versionId": 1
       },
@@ -10602,10 +10588,10 @@
   {
     "name": "Tachiyomi: Goda",
     "pkg": "eu.kanade.tachiyomi.extension.en.goda",
-    "apk": "tachiyomi-en.goda-v1.4.1.apk",
+    "apk": "tachiyomi-en.goda-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15622,6 +15608,26 @@
         "lang": "en",
         "id": "6852378190850441988",
         "baseUrl": "https://mymanhwa.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MyShojo",
+    "pkg": "eu.kanade.tachiyomi.extension.en.myshojo",
+    "apk": "tachiyomi-en.myshojo-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MyShojo",
+        "lang": "en",
+        "id": "5617861903017114189",
+        "baseUrl": "https://myshojo.com",
         "versionId": 1
       }
     ]
@@ -21428,26 +21434,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Bentoscan",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.bentoscan",
-    "apk": "tachiyomi-fr.bentoscan-v1.4.11.apk",
-    "lang": "fr",
-    "code": 11,
-    "version": "1.4.11",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Bentoscan",
-        "lang": "fr",
-        "id": "1278839293404078533",
-        "baseUrl": "https://bentoscan.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: ED Scanlation",
     "pkg": "eu.kanade.tachiyomi.extension.fr.edscanlation",
     "apk": "tachiyomi-fr.edscanlation-v1.4.7.apk",
@@ -21708,26 +21694,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Jpmangas",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.jpmangas",
-    "apk": "tachiyomi-fr.jpmangas-v1.4.13.apk",
-    "lang": "fr",
-    "code": 13,
-    "version": "1.4.13",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Jpmangas",
-        "lang": "fr",
-        "id": "5265169767970536437",
-        "baseUrl": "https://jpmangas.xyz",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Lelmanga",
     "pkg": "eu.kanade.tachiyomi.extension.fr.lelmanga",
     "apk": "tachiyomi-fr.lelmanga-v1.4.30.apk",
@@ -21883,26 +21849,6 @@
         "lang": "fr",
         "id": "540252682818453285",
         "baseUrl": "https://manga-scantrad.io",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Mangas Origines",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.mangasorigines",
-    "apk": "tachiyomi-fr.mangasorigines-v1.4.40.apk",
-    "lang": "fr",
-    "code": 40,
-    "version": "1.4.40",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Mangas Origines",
-        "lang": "fr",
-        "id": "3652925955775091756",
-        "baseUrl": "https://mangas-origines.xyz",
         "versionId": 1
       }
     ]
@@ -22308,26 +22254,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: The Beginning After The End",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.thebeginningaftertheend",
-    "apk": "tachiyomi-fr.thebeginningaftertheend-v1.4.37.apk",
-    "lang": "fr",
-    "code": 37,
-    "version": "1.4.37",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "The Beginning After The End",
-        "lang": "fr",
-        "id": "6162166634373401025",
-        "baseUrl": "https://www.thebeginningaftertheend.fr",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Toon FR",
     "pkg": "eu.kanade.tachiyomi.extension.fr.toonfr",
     "apk": "tachiyomi-fr.toonfr-v1.4.36.apk",
@@ -22343,26 +22269,6 @@
         "lang": "fr",
         "id": "3235818654344600611",
         "baseUrl": "https://toonfr.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: VF Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.vfscan",
-    "apk": "tachiyomi-fr.vfscan-v1.4.31.apk",
-    "lang": "fr",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "VF Scan",
-        "lang": "fr",
-        "id": "2324108146057034074",
-        "baseUrl": "https://www.vfscan.net",
         "versionId": 1
       }
     ]
@@ -26003,14 +25909,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki460.net",
+        "baseUrl": "https://manatoki461.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki460.com",
+        "baseUrl": "https://newtoki461.com",
         "versionId": 1
       }
     ]
@@ -32578,10 +32484,10 @@
   {
     "name": "Tachiyomi: GoDa",
     "pkg": "eu.kanade.tachiyomi.extension.zh.baozimhorg",
-    "apk": "tachiyomi-zh.baozimhorg-v1.4.30.apk",
+    "apk": "tachiyomi-zh.baozimhorg-v1.4.31.apk",
     "lang": "zh",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32798,10 +32704,10 @@
   {
     "name": "Tachiyomi: 18Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.eighteenmanhua",
-    "apk": "tachiyomi-zh.eighteenmanhua-v1.4.1.apk",
+    "apk": "tachiyomi-zh.eighteenmanhua-v1.4.2.apk",
     "lang": "zh",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
