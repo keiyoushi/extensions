@@ -7993,10 +7993,10 @@
   {
     "name": "Tachiyomi: MangaNoon",
     "pkg": "eu.kanade.tachiyomi.extension.ar.manganoon",
-    "apk": "tachiyomi-ar.manganoon-v1.4.35.apk",
+    "apk": "tachiyomi-ar.manganoon-v1.4.36.apk",
     "lang": "ar",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8005,7 +8005,7 @@
         "name": "مانجا نون",
         "lang": "ar",
         "id": "3244399826714600926",
-        "baseUrl": "https://manjanoon.xyz",
+        "baseUrl": "https://noonscan.site",
         "versionId": 1
       }
     ]
@@ -15473,26 +15473,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Mortals Groove",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mortalsgroove",
-    "apk": "tachiyomi-en.mortalsgroove-v1.4.37.apk",
-    "lang": "en",
-    "code": 37,
-    "version": "1.4.37",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Mortals Groove",
-        "lang": "en",
-        "id": "2996355679809406034",
-        "baseUrl": "https://mortalsgroove.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MSY Fanyi",
     "pkg": "eu.kanade.tachiyomi.extension.en.msyfanyi",
     "apk": "tachiyomi-en.msyfanyi-v1.4.36.apk",
@@ -18295,10 +18275,10 @@
   {
     "name": "Tachiyomi: Varna Scan",
     "pkg": "eu.kanade.tachiyomi.extension.en.varnascan",
-    "apk": "tachiyomi-en.varnascan-v1.4.30.apk",
+    "apk": "tachiyomi-en.varnascan-v1.4.31.apk",
     "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18307,7 +18287,7 @@
         "name": "Varna Scan",
         "lang": "en",
         "id": "7323573311976987064",
-        "baseUrl": "https://varnascan.com",
+        "baseUrl": "https://varnascan.net",
         "versionId": 1
       }
     ]
@@ -20042,10 +20022,10 @@
   {
     "name": "Tachiyomi: TuMangaOnline / LectorManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.lectortmo",
-    "apk": "tachiyomi-es.lectortmo-v1.4.2.apk",
+    "apk": "tachiyomi-es.lectortmo-v1.4.3.apk",
     "lang": "es",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24176,10 +24156,10 @@
   {
     "name": "Tachiyomi: Shinigami",
     "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
-    "apk": "tachiyomi-id.shinigami-v1.4.61.apk",
+    "apk": "tachiyomi-id.shinigami-v1.4.62.apk",
     "lang": "id",
-    "code": 61,
-    "version": "1.4.61",
+    "code": 62,
+    "version": "1.4.62",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24188,7 +24168,7 @@
         "name": "Shinigami",
         "lang": "id",
         "id": "3411809758861089969",
-        "baseUrl": "https://shinigami03.com",
+        "baseUrl": "https://shinigami05.com",
         "versionId": 1
       }
     ]
@@ -25514,6 +25494,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaRAW",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.rawmanga",
+    "apk": "tachiyomi-ja.rawmanga-v1.4.36.apk",
+    "lang": "ja",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaRAW",
+        "lang": "ja",
+        "id": "7355525645759373300",
+        "baseUrl": "https://rawmanga.su",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Raw Otaku",
     "pkg": "eu.kanade.tachiyomi.extension.ja.rawotaku",
     "apk": "tachiyomi-ja.rawotaku-v1.4.1.apk",
@@ -26364,10 +26364,10 @@
   {
     "name": "Tachiyomi: Cerise Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.cerisescans",
-    "apk": "tachiyomi-pt.cerisescans-v1.4.49.apk",
+    "apk": "tachiyomi-pt.cerisescans-v1.4.50.apk",
     "lang": "pt-BR",
-    "code": 49,
-    "version": "1.4.49",
+    "code": 50,
+    "version": "1.4.50",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26376,7 +26376,7 @@
         "name": "Cerise Scan",
         "lang": "pt-BR",
         "id": "3171660616317060850",
-        "baseUrl": "https://cerisetoon.com",
+        "baseUrl": "https://cerise.leitorweb.com",
         "versionId": 2
       }
     ]
@@ -28064,10 +28064,10 @@
   {
     "name": "Tachiyomi: Sinensis Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sinensis",
-    "apk": "tachiyomi-pt.sinensis-v1.4.47.apk",
+    "apk": "tachiyomi-pt.sinensis-v1.4.48.apk",
     "lang": "pt-BR",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28076,7 +28076,7 @@
         "name": "Sinensis Scan",
         "lang": "pt-BR",
         "id": "1096735163865907877",
-        "baseUrl": "https://sinensistoon.com",
+        "baseUrl": "https://sinensis.leitorweb.com",
         "versionId": 1
       }
     ]
@@ -31484,10 +31484,10 @@
   {
     "name": "Tachiyomi: Shijie Scans",
     "pkg": "eu.kanade.tachiyomi.extension.tr.shijiescans",
-    "apk": "tachiyomi-tr.shijiescans-v1.4.30.apk",
+    "apk": "tachiyomi-tr.shijiescans-v1.4.31.apk",
     "lang": "tr",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31944,10 +31944,10 @@
   {
     "name": "Tachiyomi: DocTruyen5s",
     "pkg": "eu.kanade.tachiyomi.extension.vi.doctruyen5s",
-    "apk": "tachiyomi-vi.doctruyen5s-v1.4.5.apk",
+    "apk": "tachiyomi-vi.doctruyen5s-v1.4.6.apk",
     "lang": "vi",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31956,7 +31956,7 @@
         "name": "DocTruyen5s",
         "lang": "vi",
         "id": "7595811359698226104",
-        "baseUrl": "https://manga.io.vn",
+        "baseUrl": "https://dongmoe.com",
         "versionId": 1
       }
     ]
@@ -32237,6 +32237,26 @@
         "lang": "vi",
         "id": "1832370231745386795",
         "baseUrl": "https://teamlanhlung.vote",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Top Truyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.toptruyen",
+    "apk": "tachiyomi-vi.toptruyen-v1.4.6.apk",
+    "lang": "vi",
+    "code": 6,
+    "version": "1.4.6",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Top Truyen",
+        "lang": "vi",
+        "id": "1166901607721102706",
+        "baseUrl": "https://www.toptruyenviet.info",
         "versionId": 1
       }
     ]
@@ -33222,6 +33242,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Zaimanhua",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.zaimanhua",
+    "apk": "tachiyomi-zh.zaimanhua-v1.4.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "再漫画",
+        "lang": "zh",
+        "id": "524579092615598717",
+        "baseUrl": "https://manhua.zaimanhua.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Zerobyw",
     "pkg": "eu.kanade.tachiyomi.extension.zh.zerobyw",
     "apk": "tachiyomi-zh.zerobyw-v1.4.18.apk",
@@ -33236,7 +33276,7 @@
         "name": "zero搬运网",
         "lang": "zh",
         "id": "8743284448117690086",
-        "baseUrl": "http://www.zerobyw8.com",
+        "baseUrl": "http://www.zerobywz.com",
         "versionId": 1
       }
     ]
