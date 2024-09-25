@@ -9053,10 +9053,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
-    "apk": "tachiyomi-en.asurascans-v1.4.39.apk",
+    "apk": "tachiyomi-en.asurascans-v1.4.40.apk",
     "lang": "en",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9953,10 +9953,10 @@
   {
     "name": "Tachiyomi: Drake Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.drakescans",
-    "apk": "tachiyomi-en.drakescans-v1.4.43.apk",
+    "apk": "tachiyomi-en.drakescans-v1.4.44.apk",
     "lang": "en",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9965,7 +9965,7 @@
         "name": "Drake Scans",
         "lang": "en",
         "id": "8284219650954312474",
-        "baseUrl": "https://drakecomic.com",
+        "baseUrl": "https://drakecomic.org",
         "versionId": 2
       }
     ]
@@ -18902,10 +18902,10 @@
   {
     "name": "Tachiyomi: Emperor Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.emperorscan",
-    "apk": "tachiyomi-es.emperorscan-v1.4.40.apk",
+    "apk": "tachiyomi-es.emperorscan-v1.4.41.apk",
     "lang": "es",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18914,7 +18914,7 @@
         "name": "Emperor Scan",
         "lang": "es",
         "id": "4562754350961964148",
-        "baseUrl": "https://emperormanga.net",
+        "baseUrl": "https://seriesemperor.com",
         "versionId": 1
       }
     ]
@@ -22376,10 +22376,10 @@
   {
     "name": "Tachiyomi: KomikIndoID",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikindoid",
-    "apk": "tachiyomi-id.komikindoid-v1.4.13.apk",
+    "apk": "tachiyomi-id.komikindoid-v1.4.14.apk",
     "lang": "id",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22388,7 +22388,7 @@
         "name": "KomikIndoID",
         "lang": "id",
         "id": "5384836574731339537",
-        "baseUrl": "https://komikindo.tv",
+        "baseUrl": "https://komikindo.lol",
         "versionId": 1
       }
     ]
@@ -24676,10 +24676,10 @@
   {
     "name": "Tachiyomi: Nicovideo Seiga",
     "pkg": "eu.kanade.tachiyomi.extension.ja.nicovideoseiga",
-    "apk": "tachiyomi-ja.nicovideoseiga-v1.4.4.apk",
+    "apk": "tachiyomi-ja.nicovideoseiga-v1.4.5.apk",
     "lang": "ja",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28722,26 +28722,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Kings-Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.th.kingsmanga",
-    "apk": "tachiyomi-th.kingsmanga-v1.4.36.apk",
-    "lang": "th",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Kings-Manga",
-        "lang": "th",
-        "id": "1794711820516483835",
-        "baseUrl": "https://www.kings-manga.co",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: KumoTran",
     "pkg": "eu.kanade.tachiyomi.extension.th.kumotran",
     "apk": "tachiyomi-th.kumotran-v1.4.36.apk",
@@ -31384,10 +31364,10 @@
   {
     "name": "Tachiyomi: HentaiVN.plus",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivnplus",
-    "apk": "tachiyomi-vi.hentaivnplus-v1.4.38.apk",
+    "apk": "tachiyomi-vi.hentaivnplus-v1.4.39.apk",
     "lang": "vi",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31396,7 +31376,7 @@
         "name": "HentaiVN.plus",
         "lang": "vi",
         "id": "7015430763374257867",
-        "baseUrl": "https://hentaivn.fit",
+        "baseUrl": "https://hentaivn.vin",
         "versionId": 1
       }
     ]
@@ -32264,10 +32244,10 @@
   {
     "name": "Tachiyomi: YKMH",
     "pkg": "eu.kanade.tachiyomi.extension.zh.manhuadui",
-    "apk": "tachiyomi-zh.manhuadui-v1.4.28.apk",
+    "apk": "tachiyomi-zh.manhuadui-v1.4.29.apk",
     "lang": "zh",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32276,7 +32256,7 @@
         "name": "优酷漫画",
         "lang": "zh",
         "id": "1637952806167036168",
-        "baseUrl": "http://www.ykmh.com",
+        "baseUrl": "https://www.ykmh.net",
         "versionId": 1
       }
     ]
