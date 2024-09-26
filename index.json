@@ -11188,10 +11188,10 @@
   {
     "name": "Tachiyomi: Infernal Void Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.infernalvoidscans",
-    "apk": "tachiyomi-en.infernalvoidscans-v1.4.38.apk",
+    "apk": "tachiyomi-en.infernalvoidscans-v1.4.39.apk",
     "lang": "en",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11200,7 +11200,7 @@
         "name": "Infernal Void Scans",
         "lang": "en",
         "id": "6422096666751316291",
-        "baseUrl": "https://hivetoon.com",
+        "baseUrl": "https://hivetoon.net",
         "versionId": 1
       }
     ]
