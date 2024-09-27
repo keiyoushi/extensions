@@ -9053,10 +9053,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
-    "apk": "tachiyomi-en.asurascans-v1.4.40.apk",
+    "apk": "tachiyomi-en.asurascans-v1.4.41.apk",
     "lang": "en",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12266,46 +12266,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manga Bee",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangabee",
-    "apk": "tachiyomi-en.mangabee-v1.4.36.apk",
-    "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Manga Bee",
-        "lang": "en",
-        "id": "3246901974351898744",
-        "baseUrl": "https://mangabee.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaBob",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangabob",
-    "apk": "tachiyomi-en.mangabob-v1.4.37.apk",
-    "lang": "en",
-    "code": 37,
-    "version": "1.4.37",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaBob",
-        "lang": "en",
-        "id": "5110086455668329057",
-        "baseUrl": "https://mangabob.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MangaBTT",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangabtt",
     "apk": "tachiyomi-en.mangabtt-v1.4.2.apk",
@@ -12768,10 +12728,10 @@
   {
     "name": "Tachiyomi: Manga Galaxy",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangagalaxy",
-    "apk": "tachiyomi-en.mangagalaxy-v1.4.43.apk",
+    "apk": "tachiyomi-en.mangagalaxy-v1.4.44.apk",
     "lang": "en",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12780,7 +12740,7 @@
         "name": "Manga Galaxy",
         "lang": "en",
         "id": "7487073245225119331",
-        "baseUrl": "https://mangagalaxy.org",
+        "baseUrl": "https://mangagalaxy.net",
         "versionId": 3
       }
     ]
@@ -12908,10 +12868,10 @@
   {
     "name": "Tachiyomi: Mangahere",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangahere",
-    "apk": "tachiyomi-en.mangahere-v1.4.20.apk",
+    "apk": "tachiyomi-en.mangahere-v1.4.21.apk",
     "lang": "en",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19180,21 +19140,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: InariPikav",
+    "name": "Tachiyomi: Inari Manga",
     "pkg": "eu.kanade.tachiyomi.extension.es.inarimanga",
-    "apk": "tachiyomi-es.inarimanga-v1.4.41.apk",
+    "apk": "tachiyomi-es.inarimanga-v1.4.42.apk",
     "lang": "es",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Inari Pikav",
+        "name": "Inari Manga",
         "lang": "es",
         "id": "7949577653918285764",
-        "baseUrl": "https://inaripikav.org",
+        "baseUrl": "https://inarimanga.cooksu.net",
         "versionId": 1
       }
     ]
@@ -19395,6 +19355,26 @@
         "lang": "es",
         "id": "497308182259043215",
         "baseUrl": "https://www.ladroncorps.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: LectorJPG",
+    "pkg": "eu.kanade.tachiyomi.extension.es.lectorjpg",
+    "apk": "tachiyomi-es.lectorjpg-v1.4.2.apk",
+    "lang": "es",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "LectorJPG",
+        "lang": "es",
+        "id": "4221765424821370139",
+        "baseUrl": "https://lectorjpg.com",
         "versionId": 1
       }
     ]
@@ -20289,10 +20269,10 @@
   {
     "name": "Tachiyomi: Senshi Manga",
     "pkg": "eu.kanade.tachiyomi.extension.es.senshimanga",
-    "apk": "tachiyomi-es.senshimanga-v1.4.5.apk",
+    "apk": "tachiyomi-es.senshimanga-v1.4.6.apk",
     "lang": "es",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20362,6 +20342,26 @@
         "lang": "es",
         "id": "8230044165601692864",
         "baseUrl": "https://stickhorse.cl",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Taikutsu",
+    "pkg": "eu.kanade.tachiyomi.extension.es.taikutsu",
+    "apk": "tachiyomi-es.taikutsu-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Taikutsu",
+        "lang": "es",
+        "id": "2272086146156858772",
+        "baseUrl": "https://taikutsutl.lector.moe",
         "versionId": 1
       }
     ]
@@ -28784,10 +28784,10 @@
   {
     "name": "Tachiyomi: Manga168",
     "pkg": "eu.kanade.tachiyomi.extension.th.manga168",
-    "apk": "tachiyomi-th.manga168-v1.4.30.apk",
+    "apk": "tachiyomi-th.manga168-v1.4.31.apk",
     "lang": "th",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28796,7 +28796,7 @@
         "name": "Manga168",
         "lang": "th",
         "id": "8294739153755503988",
-        "baseUrl": "https://manga168.com",
+        "baseUrl": "https://manga168.net",
         "versionId": 1
       }
     ]
@@ -30024,10 +30024,10 @@
   {
     "name": "Tachiyomi: MangaDenizi",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangadenizi",
-    "apk": "tachiyomi-tr.mangadenizi-v1.4.4.apk",
+    "apk": "tachiyomi-tr.mangadenizi-v1.4.5.apk",
     "lang": "tr",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -30036,7 +30036,7 @@
         "name": "MangaDenizi",
         "lang": "tr",
         "id": "5186628758186958017",
-        "baseUrl": "https://mangadenizi.com",
+        "baseUrl": "https://www.mangadenizi.net",
         "versionId": 1
       }
     ]
