@@ -25269,14 +25269,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki461.net",
+        "baseUrl": "https://manatoki462.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki461.com",
+        "baseUrl": "https://newtoki462.com",
         "versionId": 1
       }
     ]
@@ -29022,21 +29022,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: NekoPost.co (unoriginal)",
+    "name": "Tachiyomi: Superdoujin.org",
     "pkg": "eu.kanade.tachiyomi.extension.th.nekopostco",
-    "apk": "tachiyomi-th.nekopostco-v1.4.36.apk",
+    "apk": "tachiyomi-th.nekopostco-v1.4.37.apk",
     "lang": "th",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 0,
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "NekoPost.co (unoriginal)",
+        "name": "Superdoujin.org",
         "lang": "th",
-        "id": "5532899863600158836",
-        "baseUrl": "https://www.nekopost.co",
+        "id": "4690433857239328341",
+        "baseUrl": "https://www.superdoujin.org",
         "versionId": 1
       }
     ]
