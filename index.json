@@ -11299,21 +11299,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Jimanga",
+    "name": "Tachiyomi: S2Manga.io",
     "pkg": "eu.kanade.tachiyomi.extension.en.jimanga",
-    "apk": "tachiyomi-en.jimanga-v1.4.36.apk",
+    "apk": "tachiyomi-en.jimanga-v1.4.37.apk",
     "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Jimanga",
+        "name": "S2Manga.io",
         "lang": "en",
         "id": "4144734547277607826",
-        "baseUrl": "https://jimanga.com",
+        "baseUrl": "https://s2manga.io",
         "versionId": 1
       }
     ]
@@ -12781,11 +12781,11 @@
   {
     "name": "Tachiyomi: Mangahasu",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangahasu",
-    "apk": "tachiyomi-en.mangahasu-v1.4.16.apk",
+    "apk": "tachiyomi-en.mangahasu-v1.4.17.apk",
     "lang": "en",
-    "code": 16,
-    "version": "1.4.16",
-    "nsfw": 0,
+    "code": 17,
+    "version": "1.4.17",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -12793,7 +12793,7 @@
         "name": "Mangahasu",
         "lang": "en",
         "id": "720698779193817891",
-        "baseUrl": "https://mangahasu.se",
+        "baseUrl": "https://mangahasu.me",
         "versionId": 1
       }
     ]
@@ -19375,10 +19375,10 @@
   {
     "name": "Tachiyomi: TuMangaOnline / LectorManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.lectortmo",
-    "apk": "tachiyomi-es.lectortmo-v1.4.3.apk",
+    "apk": "tachiyomi-es.lectortmo-v1.4.4.apk",
     "lang": "es",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19394,7 +19394,7 @@
         "name": "TuMangaOnline",
         "lang": "es",
         "id": "4146344224513899730",
-        "baseUrl": "https://visortmo.com",
+        "baseUrl": "https://zonatmo.com",
         "versionId": 1
       }
     ]
@@ -22389,11 +22389,11 @@
   {
     "name": "Tachiyomi: KomikMama",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikmama",
-    "apk": "tachiyomi-id.komikmama-v1.4.32.apk",
+    "apk": "tachiyomi-id.komikmama-v1.4.33.apk",
     "lang": "id",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 0,
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22401,7 +22401,7 @@
         "name": "KomikMama",
         "lang": "id",
         "id": "2282876426649148771",
-        "baseUrl": "https://komik-mama.com",
+        "baseUrl": "https://komikmama.org",
         "versionId": 1
       }
     ]
@@ -23949,10 +23949,10 @@
   {
     "name": "Tachiyomi: MangaworldAdult",
     "pkg": "eu.kanade.tachiyomi.extension.it.mangaworldadult",
-    "apk": "tachiyomi-it.mangaworldadult-v1.4.2.apk",
+    "apk": "tachiyomi-it.mangaworldadult-v1.4.3.apk",
     "lang": "it",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23961,7 +23961,7 @@
         "name": "MangaworldAdult",
         "lang": "it",
         "id": "392961957042768607",
-        "baseUrl": "https://www.mangaworldadult.com",
+        "baseUrl": "https://www.mangaworldadult.net",
         "versionId": 1
       }
     ]
@@ -28197,10 +28197,10 @@
   {
     "name": "Tachiyomi: MangaPoisk",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangapoisk",
-    "apk": "tachiyomi-ru.mangapoisk-v1.4.10.apk",
+    "apk": "tachiyomi-ru.mangapoisk-v1.4.11.apk",
     "lang": "ru",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28209,7 +28209,7 @@
         "name": "MangaPoisk",
         "lang": "ru",
         "id": "4092015241327675443",
-        "baseUrl": "https://mangapoisk.me",
+        "baseUrl": "https://mangapoisk.live",
         "versionId": 1
       }
     ]
