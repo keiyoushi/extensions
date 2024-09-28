@@ -16048,10 +16048,10 @@
   {
     "name": "Tachiyomi: ReadComicOnline",
     "pkg": "eu.kanade.tachiyomi.extension.en.readcomiconline",
-    "apk": "tachiyomi-en.readcomiconline-v1.4.26.apk",
+    "apk": "tachiyomi-en.readcomiconline-v1.4.28.apk",
     "lang": "en",
-    "code": 26,
-    "version": "1.4.26",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32270,26 +32270,6 @@
         "lang": "zh",
         "id": "1795888684783606321",
         "baseUrl": "https://manwa.fun",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Miaoshang Manhua",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.miaoshang",
-    "apk": "tachiyomi-zh.miaoshang-v1.4.7.apk",
-    "lang": "zh",
-    "code": 7,
-    "version": "1.4.7",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "喵上漫画",
-        "lang": "zh",
-        "id": "589887691505478724",
-        "baseUrl": "https://www.miaoshangmanhua.com",
         "versionId": 1
       }
     ]
