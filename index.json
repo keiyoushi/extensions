@@ -5487,10 +5487,10 @@
   {
     "name": "Tachiyomi: MyReadingManga",
     "pkg": "eu.kanade.tachiyomi.extension.all.myreadingmanga",
-    "apk": "tachiyomi-all.myreadingmanga-v1.4.51.apk",
+    "apk": "tachiyomi-all.myreadingmanga-v1.4.52.apk",
     "lang": "all",
-    "code": 51,
-    "version": "1.4.51",
+    "code": 52,
+    "version": "1.4.52",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6958,33 +6958,6 @@
         "lang": "all",
         "id": "4589056979500242728",
         "baseUrl": "https://twicomi.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Union Mangas",
-    "pkg": "eu.kanade.tachiyomi.extension.all.unionmangas",
-    "apk": "tachiyomi-all.unionmangas-v1.4.6.apk",
-    "lang": "all",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Union Mangas",
-        "lang": "pt-BR",
-        "id": "713742945087030177",
-        "baseUrl": "https://unionmangasbr.org",
-        "versionId": 1
-      },
-      {
-        "name": "Union Mangas",
-        "lang": "ru",
-        "id": "4334137559024135683",
-        "baseUrl": "https://unionmangasbr.org",
         "versionId": 1
       }
     ]
@@ -21414,26 +21387,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Scan Hentai FR",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.scanhentaifr",
-    "apk": "tachiyomi-fr.scanhentaifr-v1.4.36.apk",
-    "lang": "fr",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Scan Hentai FR",
-        "lang": "fr",
-        "id": "6980513010166775009",
-        "baseUrl": "https://scan-hentai.fr",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: X-Manga",
     "pkg": "eu.kanade.tachiyomi.extension.fr.scanhentaimenu",
     "apk": "tachiyomi-fr.scanhentaimenu-v1.4.38.apk",
@@ -21836,10 +21789,10 @@
   {
     "name": "Tachiyomi: CosmicScans.id",
     "pkg": "eu.kanade.tachiyomi.extension.id.cosmicscansid",
-    "apk": "tachiyomi-id.cosmicscansid-v1.4.34.apk",
+    "apk": "tachiyomi-id.cosmicscansid-v1.4.35.apk",
     "lang": "id",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25604,10 +25557,10 @@
   {
     "name": "Tachiyomi: Bakai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.bakai",
-    "apk": "tachiyomi-pt.bakai-v1.4.4.apk",
+    "apk": "tachiyomi-pt.bakai-v1.4.5.apk",
     "lang": "pt-BR",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
