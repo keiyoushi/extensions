@@ -16906,6 +16906,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Sky Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.skymanga",
+    "apk": "tachiyomi-en.skymanga-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Sky Manga",
+        "lang": "en",
+        "id": "3308452263937112975",
+        "baseUrl": "https://skymanga.work",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Sleepy Translations",
     "pkg": "eu.kanade.tachiyomi.extension.en.sleepytranslations",
     "apk": "tachiyomi-en.sleepytranslations-v1.4.37.apk",
@@ -18588,6 +18608,26 @@
         "lang": "es",
         "id": "3519938166500360109",
         "baseUrl": "https://carteldemanhwas.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Catharsis World",
+    "pkg": "eu.kanade.tachiyomi.extension.es.catharsisworld",
+    "apk": "tachiyomi-es.catharsisworld-v1.4.30.apk",
+    "lang": "es",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Catharsis World",
+        "lang": "es",
+        "id": "1301875055709177020",
+        "baseUrl": "https://catharsisworld.com",
         "versionId": 1
       }
     ]
@@ -22147,6 +22187,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Kofi Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.id.kofiscans",
+    "apk": "tachiyomi-id.kofiscans-v1.4.30.apk",
+    "lang": "id",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Kofi Scans",
+        "lang": "id",
+        "id": "2650503336760150987",
+        "baseUrl": "https://kofiscans.me",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: APKOMIK",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikav",
     "apk": "tachiyomi-id.komikav-v1.4.32.apk",
@@ -22867,21 +22927,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaTale",
+    "name": "Tachiyomi: Ikiru",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangatale",
-    "apk": "tachiyomi-id.mangatale-v1.4.34.apk",
+    "apk": "tachiyomi-id.mangatale-v1.4.35.apk",
     "lang": "id",
-    "code": 34,
-    "version": "1.4.34",
-    "nsfw": 0,
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "MangaTale",
+        "name": "Ikiru",
         "lang": "id",
         "id": "1532456597012176985",
-        "baseUrl": "https://mangatale.id",
+        "baseUrl": "https://ikiru.me",
         "versionId": 1
       }
     ]
