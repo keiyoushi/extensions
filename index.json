@@ -9204,6 +9204,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: BatCave",
+    "pkg": "eu.kanade.tachiyomi.extension.en.batcave",
+    "apk": "tachiyomi-en.batcave-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "BatCave",
+        "lang": "en",
+        "id": "7422099479605463706",
+        "baseUrl": "https://batcave.biz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Battle In 5 Seconds After Meeting",
     "pkg": "eu.kanade.tachiyomi.extension.en.battleinfivesecondsaftermeeting",
     "apk": "tachiyomi-en.battleinfivesecondsaftermeeting-v1.4.36.apk",
