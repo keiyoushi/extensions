@@ -16628,10 +16628,10 @@
   {
     "name": "Tachiyomi: Reset Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.resetscans",
-    "apk": "tachiyomi-en.resetscans-v1.4.41.apk",
+    "apk": "tachiyomi-en.resetscans-v1.4.42.apk",
     "lang": "en",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16640,7 +16640,7 @@
         "name": "Reset Scans",
         "lang": "en",
         "id": "8894279497795073184",
-        "baseUrl": "https://reset-scans.co",
+        "baseUrl": "https://rspro.xyz",
         "versionId": 1
       }
     ]
@@ -23129,10 +23129,10 @@
   {
     "name": "Tachiyomi: Tenshi.id",
     "pkg": "eu.kanade.tachiyomi.extension.id.masterkomik",
-    "apk": "tachiyomi-id.masterkomik-v1.4.34.apk",
+    "apk": "tachiyomi-id.masterkomik-v1.4.35.apk",
     "lang": "id",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23141,7 +23141,7 @@
         "name": "Tenshi.id",
         "lang": "id",
         "id": "3146720114171452298",
-        "baseUrl": "https://tenshi.id",
+        "baseUrl": "https://tenshi.pw",
         "versionId": 1
       }
     ]
