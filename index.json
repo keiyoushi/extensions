@@ -7946,10 +7946,10 @@
   {
     "name": "Tachiyomi: MangaNoon",
     "pkg": "eu.kanade.tachiyomi.extension.ar.manganoon",
-    "apk": "tachiyomi-ar.manganoon-v1.4.36.apk",
+    "apk": "tachiyomi-ar.manganoon-v1.4.37.apk",
     "lang": "ar",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7958,7 +7958,7 @@
         "name": "مانجا نون",
         "lang": "ar",
         "id": "3244399826714600926",
-        "baseUrl": "https://noonscan.site",
+        "baseUrl": "https://axztu.com",
         "versionId": 1
       }
     ]
@@ -27915,6 +27915,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Yushuke Mangas",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.yushukemangas",
+    "apk": "tachiyomi-pt.yushukemangas-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Yushuke Mangas",
+        "lang": "pt-BR",
+        "id": "3777731363072900649",
+        "baseUrl": "https://yushukemangas.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: AComics",
     "pkg": "eu.kanade.tachiyomi.extension.ru.acomics",
     "apk": "tachiyomi-ru.acomics-v1.4.4.apk",
@@ -32150,6 +32170,26 @@
         "lang": "zh",
         "id": "1520913911854846698",
         "baseUrl": "http://www.92mh.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Komiic",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.komiic",
+    "apk": "tachiyomi-zh.komiic-v1.4.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Komiic",
+        "lang": "zh",
+        "id": "792932060924485302",
+        "baseUrl": "https://komiic.com",
         "versionId": 1
       }
     ]
