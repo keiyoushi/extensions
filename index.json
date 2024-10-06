@@ -265,10 +265,10 @@
   {
     "name": "Tachiyomi: Bato.to",
     "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
-    "apk": "tachiyomi-all.batoto-v1.4.40.apk",
+    "apk": "tachiyomi-all.batoto-v1.4.41.apk",
     "lang": "all",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7466,10 +7466,10 @@
   {
     "name": "Tachiyomi: Area Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.areamanga",
-    "apk": "tachiyomi-ar.areamanga-v1.4.30.apk",
+    "apk": "tachiyomi-ar.areamanga-v1.4.31.apk",
     "lang": "ar",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7478,7 +7478,7 @@
         "name": "أريا مانجا",
         "lang": "ar",
         "id": "8112280317896333809",
-        "baseUrl": "https://www.areascans.net",
+        "baseUrl": "https://ar.kenmanga.com",
         "versionId": 1
       }
     ]
@@ -22889,10 +22889,10 @@
   {
     "name": "Tachiyomi: Ikiru",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangatale",
-    "apk": "tachiyomi-id.mangatale-v1.4.35.apk",
+    "apk": "tachiyomi-id.mangatale-v1.4.36.apk",
     "lang": "id",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22901,7 +22901,7 @@
         "name": "Ikiru",
         "lang": "id",
         "id": "1532456597012176985",
-        "baseUrl": "https://ikiru.me",
+        "baseUrl": "https://ikiru.one",
         "versionId": 1
       }
     ]
@@ -23669,10 +23669,10 @@
   {
     "name": "Tachiyomi: Soul Scans",
     "pkg": "eu.kanade.tachiyomi.extension.id.soulscans",
-    "apk": "tachiyomi-id.soulscans-v1.4.31.apk",
+    "apk": "tachiyomi-id.soulscans-v1.4.32.apk",
     "lang": "id",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31537,10 +31537,10 @@
   {
     "name": "Tachiyomi: Team Lanh Lung",
     "pkg": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
-    "apk": "tachiyomi-vi.teamlanhlung-v1.4.12.apk",
+    "apk": "tachiyomi-vi.teamlanhlung-v1.4.13.apk",
     "lang": "vi",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31549,7 +31549,7 @@
         "name": "Team Lạnh Lùng",
         "lang": "vi",
         "id": "1832370231745386795",
-        "baseUrl": "https://teamlanhlungday.blog",
+        "baseUrl": "https://teamlanhlungday.xyz",
         "versionId": 1
       }
     ]
