@@ -8626,10 +8626,10 @@
   {
     "name": "Tachiyomi: Toomics.Top",
     "pkg": "eu.kanade.tachiyomi.extension.de.toomicstop",
-    "apk": "tachiyomi-de.toomicstop-v1.4.1.apk",
+    "apk": "tachiyomi-de.toomicstop-v1.4.2.apk",
     "lang": "de",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9766,10 +9766,10 @@
   {
     "name": "Tachiyomi: DAYcomics.me",
     "pkg": "eu.kanade.tachiyomi.extension.en.daycomicsme",
-    "apk": "tachiyomi-en.daycomicsme-v1.4.1.apk",
+    "apk": "tachiyomi-en.daycomicsme-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10354,6 +10354,26 @@
         "lang": "en",
         "id": "7814507107683102923",
         "baseUrl": "https://1st-kissmanga.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: First Kiss Manhua",
+    "pkg": "eu.kanade.tachiyomi.extension.en.firstkissmanhua",
+    "apk": "tachiyomi-en.firstkissmanhua-v1.4.36.apk",
+    "lang": "en",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "First Kiss Manhua",
+        "lang": "en",
+        "id": "4456397737267372625",
+        "baseUrl": "https://1stkissmanhua.net",
         "versionId": 1
       }
     ]
@@ -11101,10 +11121,10 @@
   {
     "name": "Tachiyomi: HotComics",
     "pkg": "eu.kanade.tachiyomi.extension.en.hotcomics",
-    "apk": "tachiyomi-en.hotcomics-v1.4.1.apk",
+    "apk": "tachiyomi-en.hotcomics-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17368,10 +17388,10 @@
   {
     "name": "Tachiyomi: ToomicsFree.com",
     "pkg": "eu.kanade.tachiyomi.extension.en.toomicsfree",
-    "apk": "tachiyomi-en.toomicsfree-v1.4.1.apk",
+    "apk": "tachiyomi-en.toomicsfree-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17388,10 +17408,10 @@
   {
     "name": "Tachiyomi: ToomicsFree.info",
     "pkg": "eu.kanade.tachiyomi.extension.en.toomicsfreeinfo",
-    "apk": "tachiyomi-en.toomicsfreeinfo-v1.4.1.apk",
+    "apk": "tachiyomi-en.toomicsfreeinfo-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18575,10 +18595,10 @@
   {
     "name": "Tachiyomi: Catharsis World",
     "pkg": "eu.kanade.tachiyomi.extension.es.catharsisworld",
-    "apk": "tachiyomi-es.catharsisworld-v1.4.30.apk",
+    "apk": "tachiyomi-es.catharsisworld-v1.4.31.apk",
     "lang": "es",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19682,10 +19702,10 @@
   {
     "name": "Tachiyomi: Mangas.in",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangasin",
-    "apk": "tachiyomi-es.mangasin-v1.4.14.apk",
+    "apk": "tachiyomi-es.mangasin-v1.4.15.apk",
     "lang": "es",
-    "code": 14,
-    "version": "1.4.14",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19694,7 +19714,7 @@
         "name": "Mangas.in",
         "lang": "es",
         "id": "3344386250058668105",
-        "baseUrl": "https://mangas.in",
+        "baseUrl": "https://m440.in",
         "versionId": 1
       }
     ]
@@ -19942,10 +19962,10 @@
   {
     "name": "Tachiyomi: Traducciones Amistosas",
     "pkg": "eu.kanade.tachiyomi.extension.es.nartag",
-    "apk": "tachiyomi-es.nartag-v1.4.3.apk",
+    "apk": "tachiyomi-es.nartag-v1.4.36.apk",
     "lang": "es",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19953,9 +19973,9 @@
       {
         "name": "Traducciones Amistosas",
         "lang": "es",
-        "id": "1872437740992957994",
-        "baseUrl": "https://visortraduccionesamistosas.com",
-        "versionId": 1
+        "id": "1424373335432920755",
+        "baseUrl": "https://traduccionesamistosas.eyudud.net",
+        "versionId": 2
       }
     ]
   },
@@ -20055,6 +20075,26 @@
         "lang": "es",
         "id": "428473896711334253",
         "baseUrl": "https://princediciones.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Ragnarok No Chikara",
+    "pkg": "eu.kanade.tachiyomi.extension.es.ragnaroknochikara",
+    "apk": "tachiyomi-es.ragnaroknochikara-v1.4.36.apk",
+    "lang": "es",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Ragnarok No Chikara",
+        "lang": "es",
+        "id": "947744260688342914",
+        "baseUrl": "https://ragnarokscan.com",
         "versionId": 1
       }
     ]
@@ -22329,10 +22369,10 @@
   {
     "name": "Tachiyomi: KomikIndo.co",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikindoco",
-    "apk": "tachiyomi-id.komikindoco-v1.4.33.apk",
+    "apk": "tachiyomi-id.komikindoco-v1.4.34.apk",
     "lang": "id",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22341,7 +22381,7 @@
         "name": "KomikIndo.co",
         "lang": "id",
         "id": "734619124437406170",
-        "baseUrl": "https://komikindo.co",
+        "baseUrl": "https://komiksin.id",
         "versionId": 1
       }
     ]
@@ -30430,6 +30470,26 @@
         "lang": "tr",
         "id": "2732049206654972364",
         "baseUrl": "https://moondaisyscans.biz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Mugi Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.mugimanga",
+    "apk": "tachiyomi-tr.mugimanga-v1.4.36.apk",
+    "lang": "tr",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Mugi Manga",
+        "lang": "tr",
+        "id": "8483341082273707667",
+        "baseUrl": "https://mugimanga.com",
         "versionId": 1
       }
     ]
