@@ -8624,26 +8624,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Toomics.Top",
-    "pkg": "eu.kanade.tachiyomi.extension.de.toomicstop",
-    "apk": "tachiyomi-de.toomicstop-v1.4.2.apk",
-    "lang": "de",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Toomics.Top",
-        "lang": "de",
-        "id": "7630549934562919592",
-        "baseUrl": "https://toomics.top",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Adult Webtoon",
     "pkg": "eu.kanade.tachiyomi.extension.en.adultwebtoon",
     "apk": "tachiyomi-en.adultwebtoon-v1.4.39.apk",
@@ -11201,10 +11181,10 @@
   {
     "name": "Tachiyomi: Infernal Void Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.infernalvoidscans",
-    "apk": "tachiyomi-en.infernalvoidscans-v1.4.39.apk",
+    "apk": "tachiyomi-en.infernalvoidscans-v1.4.40.apk",
     "lang": "en",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11213,7 +11193,7 @@
         "name": "Infernal Void Scans",
         "lang": "en",
         "id": "6422096666751316291",
-        "baseUrl": "https://hivetoon.net",
+        "baseUrl": "https://hivetoon.com",
         "versionId": 1
       }
     ]
@@ -12421,10 +12401,10 @@
   {
     "name": "Tachiyomi: Manga Demon",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangademon",
-    "apk": "tachiyomi-en.mangademon-v1.4.14.apk",
+    "apk": "tachiyomi-en.mangademon-v1.4.15.apk",
     "lang": "en",
-    "code": 14,
-    "version": "1.4.14",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12433,7 +12413,7 @@
         "name": "Manga Demon",
         "lang": "en",
         "id": "2900023289777642714",
-        "baseUrl": "https://demonicscans.org",
+        "baseUrl": "https://ciorti.online",
         "versionId": 2
       }
     ]
@@ -17028,10 +17008,10 @@
   {
     "name": "Tachiyomi: SpyFakku",
     "pkg": "eu.kanade.tachiyomi.extension.en.spyfakku",
-    "apk": "tachiyomi-en.spyfakku-v1.4.8.apk",
+    "apk": "tachiyomi-en.spyfakku-v1.4.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17381,46 +17361,6 @@
         "lang": "en",
         "id": "4014304631701903182",
         "baseUrl": "https://todaymic.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: ToomicsFree.com",
-    "pkg": "eu.kanade.tachiyomi.extension.en.toomicsfree",
-    "apk": "tachiyomi-en.toomicsfree-v1.4.2.apk",
-    "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ToomicsFree.com",
-        "lang": "en",
-        "id": "5400581014087936275",
-        "baseUrl": "https://toomicsfree.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: ToomicsFree.info",
-    "pkg": "eu.kanade.tachiyomi.extension.en.toomicsfreeinfo",
-    "apk": "tachiyomi-en.toomicsfreeinfo-v1.4.2.apk",
-    "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ToomicsFree.info",
-        "lang": "en",
-        "id": "5224189528997072591",
-        "baseUrl": "https://toomicsfree.info",
         "versionId": 1
       }
     ]
