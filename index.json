@@ -1647,10 +1647,10 @@
   {
     "name": "Tachiyomi: Coomer",
     "pkg": "eu.kanade.tachiyomi.extension.all.coomer",
-    "apk": "tachiyomi-all.coomer-v1.4.12.apk",
+    "apk": "tachiyomi-all.coomer-v1.4.13.apk",
     "lang": "all",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3422,10 +3422,10 @@
   {
     "name": "Tachiyomi: Kemono",
     "pkg": "eu.kanade.tachiyomi.extension.all.kemono",
-    "apk": "tachiyomi-all.kemono-v1.4.12.apk",
+    "apk": "tachiyomi-all.kemono-v1.4.13.apk",
     "lang": "all",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8886,10 +8886,10 @@
   {
     "name": "Tachiyomi: Arven Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arvencomics",
-    "apk": "tachiyomi-en.arvencomics-v1.4.30.apk",
+    "apk": "tachiyomi-en.arvencomics-v1.4.31.apk",
     "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8897,9 +8897,9 @@
       {
         "name": "Arven Scans",
         "lang": "en",
-        "id": "6386907714376807971",
+        "id": "640484333556017983",
         "baseUrl": "https://arvencomics.com",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
@@ -11441,10 +11441,10 @@
   {
     "name": "Tachiyomi: Kappa Beast",
     "pkg": "eu.kanade.tachiyomi.extension.en.kappabeast",
-    "apk": "tachiyomi-en.kappabeast-v1.4.30.apk",
+    "apk": "tachiyomi-en.kappabeast-v1.4.31.apk",
     "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19782,10 +19782,10 @@
   {
     "name": "Tachiyomi: Mantraz Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.mantrazscan",
-    "apk": "tachiyomi-es.mantrazscan-v1.4.38.apk",
+    "apk": "tachiyomi-es.mantrazscan-v1.4.39.apk",
     "lang": "es",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19794,7 +19794,7 @@
         "name": "Mantraz Scan",
         "lang": "es",
         "id": "7172992930543738693",
-        "baseUrl": "https://panconcola.com",
+        "baseUrl": "https://artessupremas.com",
         "versionId": 1
       }
     ]
@@ -24629,10 +24629,10 @@
   {
     "name": "Tachiyomi: Nicovideo Seiga",
     "pkg": "eu.kanade.tachiyomi.extension.ja.nicovideoseiga",
-    "apk": "tachiyomi-ja.nicovideoseiga-v1.4.5.apk",
+    "apk": "tachiyomi-ja.nicovideoseiga-v1.4.6.apk",
     "lang": "ja",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25222,14 +25222,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki462.net",
+        "baseUrl": "https://manatoki463.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki462.com",
+        "baseUrl": "https://newtoki463.com",
         "versionId": 1
       }
     ]
@@ -26415,26 +26415,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Kingdom Brasil Scantrad",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.kingdombrasilscantrad",
-    "apk": "tachiyomi-pt.kingdombrasilscantrad-v1.4.1.apk",
-    "lang": "pt-BR",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Kingdom Brasil Scantrad",
-        "lang": "pt-BR",
-        "id": "849125547166406051",
-        "baseUrl": "https://www.kingdombrasil.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Leitor de Mangá",
     "pkg": "eu.kanade.tachiyomi.extension.pt.leitordemanga",
     "apk": "tachiyomi-pt.leitordemanga-v1.4.36.apk",
@@ -26617,10 +26597,10 @@
   {
     "name": "Tachiyomi: L Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.lscans",
-    "apk": "tachiyomi-pt.lscans-v1.4.36.apk",
+    "apk": "tachiyomi-pt.lscans-v1.4.37.apk",
     "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26628,9 +26608,9 @@
       {
         "name": "L Scans",
         "lang": "pt-BR",
-        "id": "4389027755978915435",
+        "id": "1632425447710607572",
         "baseUrl": "https://lscans.com",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
@@ -26730,6 +26710,26 @@
         "lang": "pt-BR",
         "id": "7110195025823458724",
         "baseUrl": "https://mangakun.com.br",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Livre",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mangalivre",
+    "apk": "tachiyomi-pt.mangalivre-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Livre",
+        "lang": "pt-BR",
+        "id": "628096467632051290",
+        "baseUrl": "https://mangalivre.one",
         "versionId": 1
       }
     ]
@@ -27030,6 +27030,26 @@
         "lang": "pt-BR",
         "id": "4392067503694697213",
         "baseUrl": "https://ninjacomics.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Nirvana Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.nirvanascan",
+    "apk": "tachiyomi-pt.nirvanascan-v1.4.36.apk",
+    "lang": "pt-BR",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Nirvana Scan",
+        "lang": "pt-BR",
+        "id": "3523132745001969749",
+        "baseUrl": "https://nirvanascan.com",
         "versionId": 1
       }
     ]
@@ -27457,10 +27477,10 @@
   {
     "name": "Tachiyomi: Sussy Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sussyscan",
-    "apk": "tachiyomi-pt.sussyscan-v1.4.39.apk",
+    "apk": "tachiyomi-pt.sussyscan-v1.4.40.apk",
     "lang": "pt-BR",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32070,6 +32090,26 @@
         "lang": "zh",
         "id": "4341893737383682159",
         "baseUrl": "https://www.gufengmh9.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Hanime1",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.hanime1",
+    "apk": "tachiyomi-zh.hanime1-v1.4.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hanime1.me",
+        "lang": "zh",
+        "id": "2853734405579058222",
+        "baseUrl": "https://hanime1.me",
         "versionId": 1
       }
     ]
