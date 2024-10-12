@@ -10361,10 +10361,10 @@
   {
     "name": "Tachiyomi: Flame Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.flamecomics",
-    "apk": "tachiyomi-en.flamecomics-v1.4.33.apk",
+    "apk": "tachiyomi-en.flamecomics-v1.4.34.apk",
     "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10373,7 +10373,7 @@
         "name": "Flame Comics",
         "lang": "en",
         "id": "6350607071566689772",
-        "baseUrl": "https://flamecomics.me",
+        "baseUrl": "https://flamecomics.xyz",
         "versionId": 1
       }
     ]
@@ -32357,10 +32357,10 @@
   {
     "name": "Tachiyomi: Manwa",
     "pkg": "eu.kanade.tachiyomi.extension.zh.manwa",
-    "apk": "tachiyomi-zh.manwa-v1.4.7.apk",
+    "apk": "tachiyomi-zh.manwa-v1.4.8.apk",
     "lang": "zh",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
