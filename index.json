@@ -16606,6 +16606,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Rezo Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.rezoscans",
+    "apk": "tachiyomi-en.rezoscans-v1.4.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.4.7",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Rezo Scans",
+        "lang": "en",
+        "id": "3346371309698751028",
+        "baseUrl": "https://rezoscans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Rizz Comic",
     "pkg": "eu.kanade.tachiyomi.extension.en.rizzcomic",
     "apk": "tachiyomi-en.rizzcomic-v1.4.35.apk",
@@ -24389,10 +24409,10 @@
   {
     "name": "Tachiyomi: MAGCOMI",
     "pkg": "eu.kanade.tachiyomi.extension.ja.magcomi",
-    "apk": "tachiyomi-ja.magcomi-v1.4.5.apk",
+    "apk": "tachiyomi-ja.magcomi-v1.4.6.apk",
     "lang": "ja",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25635,6 +25655,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: BR Mangás",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.brmangastop",
+    "apk": "tachiyomi-pt.brmangastop-v1.4.36.apk",
+    "lang": "pt-BR",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "BR Mangás",
+        "lang": "pt-BR",
+        "id": "3995626938844406015",
+        "baseUrl": "https://brmangas.top",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Bruttal",
     "pkg": "eu.kanade.tachiyomi.extension.pt.bruttal",
     "apk": "tachiyomi-pt.bruttal-v1.4.6.apk",
@@ -26257,10 +26297,10 @@
   {
     "name": "Tachiyomi: Hunters Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.huntersscans",
-    "apk": "tachiyomi-pt.huntersscans-v1.4.40.apk",
+    "apk": "tachiyomi-pt.huntersscans-v1.4.41.apk",
     "lang": "pt-BR",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26269,7 +26309,7 @@
         "name": "Hunters Scan",
         "lang": "pt-BR",
         "id": "7310576253330700902",
-        "baseUrl": "https://hunterscomics.com",
+        "baseUrl": "https://htoons.online",
         "versionId": 1
       }
     ]
@@ -31837,10 +31877,10 @@
   {
     "name": "Tachiyomi: GoDa",
     "pkg": "eu.kanade.tachiyomi.extension.zh.baozimhorg",
-    "apk": "tachiyomi-zh.baozimhorg-v1.4.31.apk",
+    "apk": "tachiyomi-zh.baozimhorg-v1.4.32.apk",
     "lang": "zh",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
