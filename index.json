@@ -10161,10 +10161,10 @@
   {
     "name": "Tachiyomi: Eros Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.erosscans",
-    "apk": "tachiyomi-en.erosscans-v1.4.30.apk",
+    "apk": "tachiyomi-en.erosscans-v1.4.31.apk",
     "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10173,7 +10173,7 @@
         "name": "Eros Scans",
         "lang": "en",
         "id": "1124131000360667434",
-        "baseUrl": "https://erosscans.xyz",
+        "baseUrl": "https://tercoscans.xyz",
         "versionId": 1
       }
     ]
@@ -12261,10 +12261,10 @@
   {
     "name": "Tachiyomi: MangaBTT",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangabtt",
-    "apk": "tachiyomi-en.mangabtt-v1.4.2.apk",
+    "apk": "tachiyomi-en.mangabtt-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12273,7 +12273,7 @@
         "name": "MangaBTT",
         "lang": "en",
         "id": "7799858357008625131",
-        "baseUrl": "https://manhwalampo.com",
+        "baseUrl": "https://manhwabtt.cc",
         "versionId": 1
       }
     ]
@@ -17248,10 +17248,10 @@
   {
     "name": "Tachiyomi: Tecno Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.tecnoscans",
-    "apk": "tachiyomi-en.tecnoscans-v1.4.32.apk",
+    "apk": "tachiyomi-en.tecnoscans-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17260,7 +17260,7 @@
         "name": "Tecno Scans",
         "lang": "en",
         "id": "8135647124774943406",
-        "baseUrl": "https://oliosscans.xyz",
+        "baseUrl": "https://tecolyscans.xyz",
         "versionId": 1
       }
     ]
@@ -19255,10 +19255,10 @@
   {
     "name": "Tachiyomi: Knight No Scanlation",
     "pkg": "eu.kanade.tachiyomi.extension.es.knightnoscanlation",
-    "apk": "tachiyomi-es.knightnoscanlation-v1.4.37.apk",
+    "apk": "tachiyomi-es.knightnoscanlation-v1.4.38.apk",
     "lang": "es",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19267,7 +19267,7 @@
         "name": "Knight No Scanlation",
         "lang": "es",
         "id": "6482794816533233181",
-        "baseUrl": "https://lectorkns.com",
+        "baseUrl": "https://lectorkns.eyudud.net",
         "versionId": 1
       }
     ]
@@ -19762,10 +19762,10 @@
   {
     "name": "Tachiyomi: Manhwas.net",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhwasnet",
-    "apk": "tachiyomi-es.manhwasnet-v1.4.11.apk",
+    "apk": "tachiyomi-es.manhwasnet-v1.4.12.apk",
     "lang": "es",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21002,6 +21002,26 @@
         "lang": "fr",
         "id": "6899189456839494153",
         "baseUrl": "https://hhentai.fr",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Inova Scan Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.inovascanmanga",
+    "apk": "tachiyomi-fr.inovascanmanga-v1.4.36.apk",
+    "lang": "fr",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Inova Scans Manga",
+        "lang": "fr",
+        "id": "6023603092313903876",
+        "baseUrl": "https://inovascanmanga.com",
         "versionId": 1
       }
     ]
@@ -29337,10 +29357,10 @@
   {
     "name": "Tachiyomi: ArazNovel",
     "pkg": "eu.kanade.tachiyomi.extension.tr.araznovel",
-    "apk": "tachiyomi-tr.araznovel-v1.4.39.apk",
+    "apk": "tachiyomi-tr.araznovel-v1.4.40.apk",
     "lang": "tr",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -29349,7 +29369,7 @@
         "name": "ArazNovel",
         "lang": "tr",
         "id": "7380467428978561926",
-        "baseUrl": "https://www.araznovel.com",
+        "baseUrl": "https://araznovel.com",
         "versionId": 1
       }
     ]
@@ -30917,10 +30937,10 @@
   {
     "name": "Tachiyomi: SummerToon",
     "pkg": "eu.kanade.tachiyomi.extension.tr.summertoon",
-    "apk": "tachiyomi-tr.summertoon-v1.4.33.apk",
+    "apk": "tachiyomi-tr.summertoon-v1.4.34.apk",
     "lang": "tr",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -30929,7 +30949,7 @@
         "name": "SummerToon",
         "lang": "tr",
         "id": "1346985078461508977",
-        "baseUrl": "https://summertoon.biz",
+        "baseUrl": "https://summertoon.co",
         "versionId": 1
       }
     ]
@@ -31477,10 +31497,10 @@
   {
     "name": "Tachiyomi: NetTruyenCO (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyenco",
-    "apk": "tachiyomi-vi.nettruyenco-v1.4.8.apk",
+    "apk": "tachiyomi-vi.nettruyenco-v1.4.9.apk",
     "lang": "vi",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31489,7 +31509,7 @@
         "name": "NetTruyenCO (unoriginal)",
         "lang": "vi",
         "id": "3563992092786616290",
-        "baseUrl": "https://nettruyenaa.com",
+        "baseUrl": "https://nettruyenww.com",
         "versionId": 1
       }
     ]
@@ -31717,10 +31737,10 @@
   {
     "name": "Tachiyomi: TruyenVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenvn",
-    "apk": "tachiyomi-vi.truyenvn-v1.4.40.apk",
+    "apk": "tachiyomi-vi.truyenvn-v1.4.41.apk",
     "lang": "vi",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31729,7 +31749,7 @@
         "name": "TruyenVN",
         "lang": "vi",
         "id": "5758845301840022147",
-        "baseUrl": "https://truyenvn.mobi",
+        "baseUrl": "https://truyenvn.blog",
         "versionId": 1
       }
     ]
@@ -32497,10 +32517,10 @@
   {
     "name": "Tachiyomi: Roumanwu",
     "pkg": "eu.kanade.tachiyomi.extension.zh.roumanwu",
-    "apk": "tachiyomi-zh.roumanwu-v1.4.10.apk",
+    "apk": "tachiyomi-zh.roumanwu-v1.4.11.apk",
     "lang": "zh",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32509,7 +32529,7 @@
         "name": "肉漫屋",
         "lang": "zh",
         "id": "3647420805839021718",
-        "baseUrl": "https://roum16.xyz",
+        "baseUrl": "https://roum18.xyz",
         "versionId": 1
       }
     ]
