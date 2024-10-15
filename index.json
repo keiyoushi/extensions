@@ -19275,10 +19275,10 @@
   {
     "name": "Tachiyomi: Koinobori Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.koinoboriscan",
-    "apk": "tachiyomi-es.koinoboriscan-v1.4.37.apk",
+    "apk": "tachiyomi-es.koinoboriscan-v1.4.38.apk",
     "lang": "es",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19286,9 +19286,9 @@
       {
         "name": "Koinobori Scan",
         "lang": "es",
-        "id": "2506316366833754505",
+        "id": "5873846881094044177",
         "baseUrl": "https://visorkoi.com",
-        "versionId": 2
+        "versionId": 3
       }
     ]
   },
@@ -25837,10 +25837,10 @@
   {
     "name": "Tachiyomi: Diskus Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.diskusscan",
-    "apk": "tachiyomi-pt.diskusscan-v1.4.42.apk",
+    "apk": "tachiyomi-pt.diskusscan-v1.4.43.apk",
     "lang": "pt-BR",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25849,7 +25849,7 @@
         "name": "Diskus Scan",
         "lang": "pt-BR",
         "id": "5356614925537900346",
-        "baseUrl": "https://diskusscan.com",
+        "baseUrl": "https://diskusscan.online",
         "versionId": 2
       }
     ]
@@ -26217,10 +26217,10 @@
   {
     "name": "Tachiyomi: Hikari Ga Nai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.hikariganai",
-    "apk": "tachiyomi-pt.hikariganai-v1.4.36.apk",
+    "apk": "tachiyomi-pt.hikariganai-v1.4.37.apk",
     "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26228,9 +26228,9 @@
       {
         "name": "Hikari Ga Nai",
         "lang": "pt-BR",
-        "id": "8627121278215838225",
+        "id": "8056665336522625752",
         "baseUrl": "https://hikariganai.xyz",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
@@ -31297,10 +31297,10 @@
   {
     "name": "Tachiyomi: BlogTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.blogtruyen",
-    "apk": "tachiyomi-vi.blogtruyen-v1.4.19.apk",
+    "apk": "tachiyomi-vi.blogtruyen-v1.4.20.apk",
     "lang": "vi",
-    "code": 19,
-    "version": "1.4.19",
+    "code": 20,
+    "version": "1.4.20",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31317,10 +31317,10 @@
   {
     "name": "Tachiyomi: BlogTruyen.vn (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.vi.blogtruyenvn",
-    "apk": "tachiyomi-vi.blogtruyenvn-v1.4.2.apk",
+    "apk": "tachiyomi-vi.blogtruyenvn-v1.4.3.apk",
     "lang": "vi",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
