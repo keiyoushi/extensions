@@ -14466,6 +14466,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manhwa Freake",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manhwafreake",
+    "apk": "tachiyomi-en.manhwafreake-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manhwa Freake",
+        "lang": "en",
+        "id": "5558414343463869543",
+        "baseUrl": "https://manhwafreake.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: ManhwaFreak.xyz",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwafreakxyz",
     "apk": "tachiyomi-en.manhwafreakxyz-v1.4.30.apk",
@@ -18413,6 +18433,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Asia Lotus",
+    "pkg": "eu.kanade.tachiyomi.extension.es.asialotus",
+    "apk": "tachiyomi-es.asialotus-v1.4.30.apk",
+    "lang": "es",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Asia Lotus",
+        "lang": "es",
+        "id": "3655128076360662290",
+        "baseUrl": "https://asialotuss.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Atlantis Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.atlantisscan",
     "apk": "tachiyomi-es.atlantisscan-v1.4.36.apk",
@@ -18548,6 +18588,26 @@
         "lang": "es",
         "id": "3519938166500360109",
         "baseUrl": "https://carteldemanhwas.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Catharsis Fantasy",
+    "pkg": "eu.kanade.tachiyomi.extension.es.catharsisfantasy",
+    "apk": "tachiyomi-es.catharsisfantasy-v1.4.30.apk",
+    "lang": "es",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Catharsis Fantasy",
+        "lang": "es",
+        "id": "4544345223941938942",
+        "baseUrl": "https://catharsisfantasy.com",
         "versionId": 1
       }
     ]
@@ -21969,10 +22029,10 @@
   {
     "name": "Tachiyomi: Hwago",
     "pkg": "eu.kanade.tachiyomi.extension.id.hwago",
-    "apk": "tachiyomi-id.hwago-v1.4.36.apk",
+    "apk": "tachiyomi-id.hwago-v1.4.37.apk",
     "lang": "id",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21981,7 +22041,7 @@
         "name": "Hwago",
         "lang": "id",
         "id": "5490253431755133280",
-        "baseUrl": "https://hwago.org",
+        "baseUrl": "https://hwago.site",
         "versionId": 1
       }
     ]
@@ -28057,10 +28117,10 @@
   {
     "name": "Tachiyomi: Com-X",
     "pkg": "eu.kanade.tachiyomi.extension.ru.comx",
-    "apk": "tachiyomi-ru.comx-v1.4.29.apk",
+    "apk": "tachiyomi-ru.comx-v1.4.30.apk",
     "lang": "ru",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
