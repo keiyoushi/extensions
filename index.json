@@ -19153,21 +19153,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Inari Manga",
+    "name": "Tachiyomi: Visor Inari",
     "pkg": "eu.kanade.tachiyomi.extension.es.inarimanga",
-    "apk": "tachiyomi-es.inarimanga-v1.4.42.apk",
+    "apk": "tachiyomi-es.inarimanga-v1.4.43.apk",
     "lang": "es",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Inari Manga",
+        "name": "Visor Inari",
         "lang": "es",
         "id": "7949577653918285764",
-        "baseUrl": "https://inarimanga.cooksu.net",
+        "baseUrl": "https://visorinari.com",
         "versionId": 1
       }
     ]
@@ -20655,26 +20655,6 @@
         "lang": "es",
         "id": "8004442288770923365",
         "baseUrl": "https://tumanhwas.club",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Ukiyo Toon",
-    "pkg": "eu.kanade.tachiyomi.extension.es.ukiyotoon",
-    "apk": "tachiyomi-es.ukiyotoon-v1.4.30.apk",
-    "lang": "es",
-    "code": 30,
-    "version": "1.4.30",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Ukiyo Toon",
-        "lang": "es",
-        "id": "1299783041302939790",
-        "baseUrl": "https://ukiyotoon.com",
         "versionId": 1
       }
     ]
@@ -23789,10 +23769,10 @@
   {
     "name": "Tachiyomi: TukangKomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.tukangkomik",
-    "apk": "tachiyomi-id.tukangkomik-v1.4.31.apk",
+    "apk": "tachiyomi-id.tukangkomik-v1.4.32.apk",
     "lang": "id",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23801,7 +23781,7 @@
         "name": "TukangKomik",
         "lang": "id",
         "id": "5808419379780108473",
-        "baseUrl": "https://tukangkomik.id",
+        "baseUrl": "https://tukangkomik.co",
         "versionId": 1
       }
     ]
@@ -25322,14 +25302,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki463.net",
+        "baseUrl": "https://manatoki464.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki463.com",
+        "baseUrl": "https://newtoki464.com",
         "versionId": 1
       }
     ]
@@ -26010,6 +25990,26 @@
         "lang": "pt-BR",
         "id": "4455455706731547485",
         "baseUrl": "https://fayscans.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Fênix Manhwas",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.fenixmanhwas",
+    "apk": "tachiyomi-pt.fenixmanhwas-v1.4.9.apk",
+    "lang": "pt-BR",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Fênix Manhwas",
+        "lang": "pt-BR",
+        "id": "8731909849241292045",
+        "baseUrl": "https://fenixleitura.blogspot.com",
         "versionId": 1
       }
     ]
