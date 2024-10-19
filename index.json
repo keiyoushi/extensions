@@ -8126,10 +8126,10 @@
   {
     "name": "Tachiyomi: MangaSwat",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaswat",
-    "apk": "tachiyomi-ar.mangaswat-v1.4.53.apk",
+    "apk": "tachiyomi-ar.mangaswat-v1.4.54.apk",
     "lang": "ar",
-    "code": 53,
-    "version": "1.4.53",
+    "code": 54,
+    "version": "1.4.54",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8138,7 +8138,7 @@
         "name": "MangaSwat",
         "lang": "ar",
         "id": "264168699090292138",
-        "baseUrl": "https://healteer.com",
+        "baseUrl": "https://swatscans.com",
         "versionId": 1
       }
     ]
@@ -17148,10 +17148,10 @@
   {
     "name": "Tachiyomi: Genz Toons",
     "pkg": "eu.kanade.tachiyomi.extension.en.suryascans",
-    "apk": "tachiyomi-en.suryascans-v1.4.34.apk",
+    "apk": "tachiyomi-en.suryascans-v1.4.35.apk",
     "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17159,7 +17159,7 @@
       {
         "name": "Genz Toons",
         "lang": "en",
-        "id": "2909429739457928148",
+        "id": "1061713767402958340",
         "baseUrl": "https://genztoons.com",
         "versionId": 1
       }
@@ -17288,10 +17288,10 @@
   {
     "name": "Tachiyomi: Temple Scan",
     "pkg": "eu.kanade.tachiyomi.extension.en.templescan",
-    "apk": "tachiyomi-en.templescan-v1.4.44.apk",
+    "apk": "tachiyomi-en.templescan-v1.4.45.apk",
     "lang": "en",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17300,7 +17300,7 @@
         "name": "Temple Scan",
         "lang": "en",
         "id": "4210732525216763379",
-        "baseUrl": "https://templescan.net",
+        "baseUrl": "https://templetoons.com",
         "versionId": 3
       }
     ]
@@ -17648,10 +17648,10 @@
   {
     "name": "Tachiyomi: Varna Scan",
     "pkg": "eu.kanade.tachiyomi.extension.en.varnascan",
-    "apk": "tachiyomi-en.varnascan-v1.4.31.apk",
+    "apk": "tachiyomi-en.varnascan-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17660,7 +17660,7 @@
         "name": "Varna Scan",
         "lang": "en",
         "id": "7323573311976987064",
-        "baseUrl": "https://varnascan.net",
+        "baseUrl": "https://varnascan.xyz",
         "versionId": 1
       }
     ]
@@ -17755,10 +17755,10 @@
   {
     "name": "Tachiyomi: VyvyManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.vyvymanga",
-    "apk": "tachiyomi-en.vyvymanga-v1.4.5.apk",
+    "apk": "tachiyomi-en.vyvymanga-v1.4.36.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17766,9 +17766,9 @@
       {
         "name": "VyvyManga",
         "lang": "en",
-        "id": "6958928548959982041",
-        "baseUrl": "https://vymanga.net",
-        "versionId": 1
+        "id": "4466365380662111499",
+        "baseUrl": "https://vyvymanga.org",
+        "versionId": 2
       }
     ]
   },
@@ -20042,10 +20042,10 @@
   {
     "name": "Tachiyomi: Olympus Scanlation",
     "pkg": "eu.kanade.tachiyomi.extension.es.olympusscanlation",
-    "apk": "tachiyomi-es.olympusscanlation-v1.4.9.apk",
+    "apk": "tachiyomi-es.olympusscanlation-v1.4.10.apk",
     "lang": "es",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20054,7 +20054,7 @@
         "name": "Olympus Scanlation",
         "lang": "es",
         "id": "1163124599525658616",
-        "baseUrl": "https://leerolymp.com",
+        "baseUrl": "https://zonaolympus.com",
         "versionId": 2
       }
     ]
@@ -20702,6 +20702,26 @@
         "lang": "es",
         "id": "4150746388640244220",
         "baseUrl": "https://vermanhwa.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Yaoi Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.es.yaoimanga",
+    "apk": "tachiyomi-es.yaoimanga-v1.4.36.apk",
+    "lang": "es",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Yaoi Manga",
+        "lang": "es",
+        "id": "2478345917991467699",
+        "baseUrl": "https://yaoimanga.es",
         "versionId": 1
       }
     ]
@@ -22929,10 +22949,10 @@
   {
     "name": "Tachiyomi: Mangasusu",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangasusu",
-    "apk": "tachiyomi-id.mangasusu-v1.4.34.apk",
+    "apk": "tachiyomi-id.mangasusu-v1.4.35.apk",
     "lang": "id",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22941,7 +22961,7 @@
         "name": "Mangasusu",
         "lang": "id",
         "id": "8157748444640827548",
-        "baseUrl": "https://mangasusuku.xyz",
+        "baseUrl": "https://mangasusuku.com",
         "versionId": 1
       }
     ]
@@ -30055,6 +30075,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Lich Subs",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.lichsubs",
+    "apk": "tachiyomi-tr.lichsubs-v1.4.36.apk",
+    "lang": "tr",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Lich Subs",
+        "lang": "tr",
+        "id": "9064769077456751141",
+        "baseUrl": "https://lichsubs.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: LilyumFansub",
     "pkg": "eu.kanade.tachiyomi.extension.tr.lilyumfansub",
     "apk": "tachiyomi-tr.lilyumfansub-v1.4.36.apk",
@@ -30337,10 +30377,10 @@
   {
     "name": "Tachiyomi: MangaTilkisi",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangatilkisi",
-    "apk": "tachiyomi-tr.mangatilkisi-v1.4.36.apk",
+    "apk": "tachiyomi-tr.mangatilkisi-v1.4.37.apk",
     "lang": "tr",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -30349,7 +30389,7 @@
         "name": "MangaTilkisi",
         "lang": "tr",
         "id": "1820900722595855271",
-        "baseUrl": "https://www.mangatilkisi.com",
+        "baseUrl": "https://www.manga-tilkisi.com",
         "versionId": 1
       }
     ]
@@ -31157,10 +31197,10 @@
   {
     "name": "Tachiyomi: Türkçe Manga Oku",
     "pkg": "eu.kanade.tachiyomi.extension.tr.turkcemangaoku",
-    "apk": "tachiyomi-tr.turkcemangaoku-v1.4.36.apk",
+    "apk": "tachiyomi-tr.turkcemangaoku-v1.4.37.apk",
     "lang": "tr",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31169,7 +31209,7 @@
         "name": "Türkçe Manga Oku",
         "lang": "tr",
         "id": "1213201447439140959",
-        "baseUrl": "https://turkcemangaoku.com",
+        "baseUrl": "https://trmangaoku.com",
         "versionId": 1
       }
     ]
@@ -31417,10 +31457,10 @@
   {
     "name": "Tachiyomi: Dua Leo Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.dualeotruyen",
-    "apk": "tachiyomi-vi.dualeotruyen-v1.4.5.apk",
+    "apk": "tachiyomi-vi.dualeotruyen-v1.4.6.apk",
     "lang": "vi",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31429,7 +31469,7 @@
         "name": "Dưa Leo Truyện",
         "lang": "vi",
         "id": "1039830224122325226",
-        "baseUrl": "https://dualeotruyenceo.com",
+        "baseUrl": "https://dualeotruyenman.com",
         "versionId": 1
       }
     ]
@@ -31737,10 +31777,10 @@
   {
     "name": "Tachiyomi: Truyen Hentai 18+",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenhentai18",
-    "apk": "tachiyomi-vi.truyenhentai18-v1.4.2.apk",
+    "apk": "tachiyomi-vi.truyenhentai18-v1.4.3.apk",
     "lang": "vi",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31749,7 +31789,7 @@
         "name": "Truyện Hentai 18+",
         "lang": "vi",
         "id": "6484094278517548634",
-        "baseUrl": "https://truyenhentai18.org",
+        "baseUrl": "https://truyenhentai18.pro",
         "versionId": 1
       }
     ]
