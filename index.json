@@ -10901,10 +10901,10 @@
   {
     "name": "Tachiyomi: HentaiRead",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentairead",
-    "apk": "tachiyomi-en.hentairead-v1.4.43.apk",
+    "apk": "tachiyomi-en.hentairead-v1.4.44.apk",
     "lang": "en",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17148,10 +17148,10 @@
   {
     "name": "Tachiyomi: Genz Toons",
     "pkg": "eu.kanade.tachiyomi.extension.en.suryascans",
-    "apk": "tachiyomi-en.suryascans-v1.4.35.apk",
+    "apk": "tachiyomi-en.suryascans-v1.4.36.apk",
     "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17160,7 +17160,7 @@
         "name": "Genz Toons",
         "lang": "en",
         "id": "1061713767402958340",
-        "baseUrl": "https://genztoons.com",
+        "baseUrl": "https://genzupdates.com",
         "versionId": 1
       }
     ]
@@ -22769,10 +22769,10 @@
   {
     "name": "Tachiyomi: LumosKomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.lumoskomik",
-    "apk": "tachiyomi-id.lumoskomik-v1.4.36.apk",
+    "apk": "tachiyomi-id.lumoskomik-v1.4.37.apk",
     "lang": "id",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22781,7 +22781,7 @@
         "name": "LumosKomik",
         "lang": "id",
         "id": "2530259860313477889",
-        "baseUrl": "https://lumoskomik.com",
+        "baseUrl": "https://lumos01.com",
         "versionId": 1
       }
     ]
@@ -23869,10 +23869,10 @@
   {
     "name": "Tachiyomi: YuraManga",
     "pkg": "eu.kanade.tachiyomi.extension.id.yuramanga",
-    "apk": "tachiyomi-id.yuramanga-v1.4.36.apk",
+    "apk": "tachiyomi-id.yuramanga-v1.4.37.apk",
     "lang": "id",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23880,9 +23880,9 @@
       {
         "name": "YuraManga",
         "lang": "id",
-        "id": "6228870626707463887",
+        "id": "2549921199825144124",
         "baseUrl": "https://yuramanga.my.id",
-        "versionId": 2
+        "versionId": 3
       }
     ]
   },
@@ -31717,10 +31717,10 @@
   {
     "name": "Tachiyomi: Team Lanh Lung",
     "pkg": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
-    "apk": "tachiyomi-vi.teamlanhlung-v1.4.13.apk",
+    "apk": "tachiyomi-vi.teamlanhlung-v1.4.14.apk",
     "lang": "vi",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31729,7 +31729,7 @@
         "name": "Team Lạnh Lùng",
         "lang": "vi",
         "id": "1832370231745386795",
-        "baseUrl": "https://teamlanhlungday.xyz",
+        "baseUrl": "https://teamlanhlungday.vip",
         "versionId": 1
       }
     ]
