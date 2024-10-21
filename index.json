@@ -17148,10 +17148,10 @@
   {
     "name": "Tachiyomi: Genz Toons",
     "pkg": "eu.kanade.tachiyomi.extension.en.suryascans",
-    "apk": "tachiyomi-en.suryascans-v1.4.36.apk",
+    "apk": "tachiyomi-en.suryascans-v1.4.37.apk",
     "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25477,10 +25477,10 @@
   {
     "name": "Tachiyomi: AnimeXNovel",
     "pkg": "eu.kanade.tachiyomi.extension.pt.animexnovel",
-    "apk": "tachiyomi-pt.animexnovel-v1.4.9.apk",
+    "apk": "tachiyomi-pt.animexnovel-v1.4.10.apk",
     "lang": "pt-BR",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25590,26 +25590,6 @@
         "lang": "pt-BR",
         "id": "1641160681602874924",
         "baseUrl": "https://arthurscan.xyz",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Astrum Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.astrumscans",
-    "apk": "tachiyomi-pt.astrumscans-v1.4.36.apk",
-    "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Astrum Scans",
-        "lang": "pt-BR",
-        "id": "5353540588175036262",
-        "baseUrl": "https://astrumscans.xyz",
         "versionId": 1
       }
     ]
@@ -27735,6 +27715,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Traduções do Lipe",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.traducoesdolipe",
+    "apk": "tachiyomi-pt.traducoesdolipe-v1.4.9.apk",
+    "lang": "pt-BR",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Traduções do Lipe",
+        "lang": "pt-BR",
+        "id": "3650511144741653873",
+        "baseUrl": "https://traducoesdolipe.blogspot.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Tsuki Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.tsukimangas",
     "apk": "tachiyomi-pt.tsukimangas-v1.4.6.apk",
@@ -28197,10 +28197,10 @@
   {
     "name": "Tachiyomi: HentaiLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.hentailib",
-    "apk": "tachiyomi-ru.hentailib-v1.4.50.apk",
+    "apk": "tachiyomi-ru.hentailib-v1.4.51.apk",
     "lang": "ru",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 51,
+    "version": "1.4.51",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28317,10 +28317,10 @@
   {
     "name": "Tachiyomi: MangaLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangalib",
-    "apk": "tachiyomi-ru.mangalib-v1.4.105.apk",
+    "apk": "tachiyomi-ru.mangalib-v1.4.106.apk",
     "lang": "ru",
-    "code": 105,
-    "version": "1.4.105",
+    "code": 106,
+    "version": "1.4.106",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28677,10 +28677,10 @@
   {
     "name": "Tachiyomi: YaoiLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.yaoilib",
-    "apk": "tachiyomi-ru.yaoilib-v1.4.35.apk",
+    "apk": "tachiyomi-ru.yaoilib-v1.4.36.apk",
     "lang": "ru",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
