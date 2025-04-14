@@ -11,6 +11,8 @@
 
 Or Copy Paste this repo url: https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json
 
+[More Info](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo)
+
 ### Source Code
 
 https://github.com/keiyoushi/extensions-source
