@@ -1,0 +1,55 @@
+name: Update Filtered Repo
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    env:
+      TZ: 'America/Sao_Paulo'
+
+    steps:
+      - name: Checkout mypack and Fetch repo branch
+        uses: actions/checkout@v4
+        with:
+          ref: mypack
+          fetch-depth: 0 
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Sync metadata and APKs from 'repo' branch
+        run: |
+          echo "Copying updated support files and metadata from branch 'repo'..."
+
+          git checkout repo -- icon
+          git checkout repo -- index.html
+          git checkout repo -- repo.json
+          
+          # Copy index.json from 'repo' and rename
+          git checkout repo -- index.json
+          mv index.json original_index.json
+
+          # Copy 'apk' folder
+          git checkout repo -- apk
+
+      - name: Run filter and APK cleanup
+        run: |
+          python filter_extensions.py
+      
+      - name: Generate Sao Paulo Timestamp
+        run: |
+          echo "CURRENT_DATETIME=$(date +'%y-%m-%d (%Z) %H:%M')" >> $GITHUB_ENV
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Chore: Atualização de extensões em ${{ env.CURRENT_DATETIME }}"
+          branch: mypack
+          file_pattern: 'index.json index.min.json apk/ icon/ index.html repo.json'

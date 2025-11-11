@@ -1,0 +1,43 @@
+name: Sync Repo Branch with Upstream
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * *' 
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo Branch
+        uses: actions/checkout@v4
+        with:
+          # Checa o branch 'repo'
+          ref: repo
+          # O token é necessário para o push forçado
+          token: ${{ secrets.GITHUB_TOKEN }} 
+
+      # NOVO PASSO: Configura a Identidade do Git para o Runner
+      - name: Configure Git User
+        run: |
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          
+      - name: Set Up Upstream Remote
+        run: |
+          git remote add upstream https://github.com/keiyoushi/extensions.git 
+
+      - name: Fetch Upstream and Rebase
+        run: |
+          echo "Fetching latest changes from upstream..."
+          git fetch upstream
+          
+          # Usa rebase para aplicar nossos commits (.github/workflows) por cima do upstream
+          git rebase upstream/repo
+          
+      - name: Push Changes to 'repo' Branch
+        run: |
+          echo "Pushing synchronized changes (forced with lease) to origin/repo..."
+          # Necessário porque o rebase reescreve o histórico
+          git push origin repo --force-with-lease
