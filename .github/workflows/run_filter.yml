@@ -3,7 +3,7 @@ name: Update Filtered Repo
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 3 5/15 * *'
 
 jobs:
   build:

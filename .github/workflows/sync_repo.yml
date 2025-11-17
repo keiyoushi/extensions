@@ -3,7 +3,7 @@ name: Sync Repo Branch with Upstream
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 2 * * *' 
+    - cron: '0 2 5/15 * *' 
 
 jobs:
   sync:
