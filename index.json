@@ -1829,10 +1829,10 @@
   {
     "name": "Tachiyomi: E-Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.ehentai",
-    "apk": "tachiyomi-all.ehentai-v1.4.26.apk",
+    "apk": "tachiyomi-all.ehentai-v1.4.27.apk",
     "lang": "all",
-    "code": 26,
-    "version": "1.4.26",
+    "code": 27,
+    "version": "1.4.27",
     "nsfw": 1,
     "sources": [
       {
@@ -17867,10 +17867,10 @@
   {
     "name": "Tachiyomi: Manga Crab",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangacrab",
-    "apk": "tachiyomi-es.mangacrab-v1.4.62.apk",
+    "apk": "tachiyomi-es.mangacrab-v1.4.63.apk",
     "lang": "es",
-    "code": 62,
-    "version": "1.4.62",
+    "code": 63,
+    "version": "1.4.63",
     "nsfw": 0,
     "sources": [
       {
@@ -19818,17 +19818,17 @@
   {
     "name": "Tachiyomi: CosmicScans.id",
     "pkg": "eu.kanade.tachiyomi.extension.id.cosmicscansid",
-    "apk": "tachiyomi-id.cosmicscansid-v1.4.44.apk",
+    "apk": "tachiyomi-id.cosmicscansid-v1.4.45.apk",
     "lang": "id",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 1,
     "sources": [
       {
         "name": "CosmicScans.id",
         "lang": "id",
         "id": "6559481336553833282",
-        "baseUrl": "https://lc3.cosmicscans.asia",
+        "baseUrl": "https://lc4.cosmicscans.asia",
         "versionId": 1
       }
     ]
@@ -23262,17 +23262,17 @@
   {
     "name": "Tachiyomi: FlowerManga.net",
     "pkg": "eu.kanade.tachiyomi.extension.pt.flowermanga",
-    "apk": "tachiyomi-pt.flowermanga-v1.4.47.apk",
+    "apk": "tachiyomi-pt.flowermanga-v1.4.48.apk",
     "lang": "pt-BR",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 1,
     "sources": [
       {
         "name": "FlowerManga.net",
         "lang": "pt-BR",
         "id": "2421010180391442293",
-        "baseUrl": "https://flowermanga.net",
+        "baseUrl": "https://flowermangas.net",
         "versionId": 1
       }
     ]
@@ -23586,10 +23586,10 @@
   {
     "name": "Tachiyomi: KuroMangas",
     "pkg": "eu.kanade.tachiyomi.extension.pt.kuromangas",
-    "apk": "tachiyomi-pt.kuromangas-v1.4.1.apk",
+    "apk": "tachiyomi-pt.kuromangas-v1.4.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -24106,19 +24106,19 @@
     ]
   },
   {
-    "name": "Tachiyomi: No Index Scan",
+    "name": "Tachiyomi: Hanami Heaven",
     "pkg": "eu.kanade.tachiyomi.extension.pt.noindexscan",
-    "apk": "tachiyomi-pt.noindexscan-v1.4.46.apk",
+    "apk": "tachiyomi-pt.noindexscan-v1.4.47.apk",
     "lang": "pt-BR",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 1,
     "sources": [
       {
-        "name": "No Index Scan",
+        "name": "Hanami Heaven",
         "lang": "pt-BR",
         "id": "987786689720213769",
-        "baseUrl": "https://noindexscan.com",
+        "baseUrl": "https://hanamiheaven.org",
         "versionId": 1
       }
     ]
@@ -25134,17 +25134,17 @@
   {
     "name": "Tachiyomi: Senkognito",
     "pkg": "eu.kanade.tachiyomi.extension.ru.senkognito",
-    "apk": "tachiyomi-ru.senkognito-v1.4.6.apk",
+    "apk": "tachiyomi-ru.senkognito-v1.4.7.apk",
     "lang": "ru",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "sources": [
       {
         "name": "Senkognito",
         "lang": "ru",
         "id": "8393977756208732343",
-        "baseUrl": "https://ne.senkognito.com",
+        "baseUrl": "https://senkuro.me",
         "versionId": 1
       }
     ]
@@ -25152,10 +25152,10 @@
   {
     "name": "Tachiyomi: Senkuro",
     "pkg": "eu.kanade.tachiyomi.extension.ru.senkuro",
-    "apk": "tachiyomi-ru.senkuro-v1.4.5.apk",
+    "apk": "tachiyomi-ru.senkuro-v1.4.6.apk",
     "lang": "ru",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "sources": [
       {
