@@ -5765,10 +5765,10 @@
   {
     "name": "Tachiyomi: Manga UP!",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangaup",
-    "apk": "tachiyomi-all.mangaup-v1.4.5.apk",
+    "apk": "tachiyomi-all.mangaup-v1.4.6.apk",
     "lang": "all",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "sources": [
       {
@@ -17122,6 +17122,24 @@
         "lang": "es",
         "id": "5416462601349591349",
         "baseUrl": "https://codex.readkisho.me",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Colorcito Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.es.colorcitoscan",
+    "apk": "tachiyomi-es.colorcitoscan-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Colorcito Scan",
+        "lang": "es",
+        "id": "1261665235729689526",
+        "baseUrl": "https://colorcitoscan.com",
         "versionId": 1
       }
     ]
