@@ -23548,6 +23548,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Kairos Toons",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.kairostoons",
+    "apk": "tachiyomi-pt.kairostoons-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Kairos Toons",
+        "lang": "pt-BR",
+        "id": "3369880498778715870",
+        "baseUrl": "https://kairostoons.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Kakusei Project",
     "pkg": "eu.kanade.tachiyomi.extension.pt.kakuseiproject",
     "apk": "tachiyomi-pt.kakuseiproject-v1.4.46.apk",
@@ -24432,10 +24450,10 @@
   {
     "name": "Tachiyomi: Nexus Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.spectralscan",
-    "apk": "tachiyomi-pt.spectralscan-v1.4.51.apk",
+    "apk": "tachiyomi-pt.spectralscan-v1.4.52.apk",
     "lang": "pt-BR",
-    "code": 51,
-    "version": "1.4.51",
+    "code": 52,
+    "version": "1.4.52",
     "nsfw": 1,
     "sources": [
       {
