@@ -8598,17 +8598,17 @@
   {
     "name": "Tachiyomi: Manga Starz",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangastarz",
-    "apk": "tachiyomi-ar.mangastarz-v1.4.52.apk",
+    "apk": "tachiyomi-ar.mangastarz-v1.4.53.apk",
     "lang": "ar",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 0,
     "sources": [
       {
         "name": "Manga Starz",
         "lang": "ar",
         "id": "6058166507489091982",
-        "baseUrl": "https://manga-starz.com",
+        "baseUrl": "https://manga-starz.net",
         "versionId": 1
       }
     ]
@@ -9246,10 +9246,10 @@
   {
     "name": "Tachiyomi: Armageddon",
     "pkg": "eu.kanade.tachiyomi.extension.en.armageddon",
-    "apk": "tachiyomi-en.armageddon-v1.4.30.apk",
+    "apk": "tachiyomi-en.armageddon-v1.4.31.apk",
     "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "sources": [
       {
@@ -15304,10 +15304,10 @@
   {
     "name": "Tachiyomi: Rolia Scan",
     "pkg": "eu.kanade.tachiyomi.extension.en.roliascan",
-    "apk": "tachiyomi-en.roliascan-v1.4.3.apk",
+    "apk": "tachiyomi-en.roliascan-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "sources": [
       {
@@ -17255,17 +17255,17 @@
   {
     "name": "Tachiyomi: DoujinsHell",
     "pkg": "eu.kanade.tachiyomi.extension.es.doujinshell",
-    "apk": "tachiyomi-es.doujinshell-v1.4.45.apk",
+    "apk": "tachiyomi-es.doujinshell-v1.4.46.apk",
     "lang": "es",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 1,
     "sources": [
       {
         "name": "DoujinsHell",
         "lang": "es",
         "id": "7008709488397053596",
-        "baseUrl": "https://www.doujinshell.com",
+        "baseUrl": "https://doujinshell.net",
         "versionId": 1
       }
     ]
@@ -20844,17 +20844,17 @@
   {
     "name": "Tachiyomi: Shinigami",
     "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
-    "apk": "tachiyomi-id.shinigami-v1.4.73.apk",
+    "apk": "tachiyomi-id.shinigami-v1.4.74.apk",
     "lang": "id",
-    "code": 73,
-    "version": "1.4.73",
+    "code": 74,
+    "version": "1.4.74",
     "nsfw": 0,
     "sources": [
       {
         "name": "Shinigami",
         "lang": "id",
         "id": "3411809758861089969",
-        "baseUrl": "https://app.shinigami.asia",
+        "baseUrl": "https://08.shinigami.asia",
         "versionId": 1
       }
     ]
@@ -22884,17 +22884,17 @@
   {
     "name": "Tachiyomi: Argos Comics",
     "pkg": "eu.kanade.tachiyomi.extension.pt.argoscomics",
-    "apk": "tachiyomi-pt.argoscomics-v1.4.52.apk",
+    "apk": "tachiyomi-pt.argoscomics-v1.4.53.apk",
     "lang": "pt-BR",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 0,
     "sources": [
       {
         "name": "Argos Comics",
         "lang": "pt-BR",
         "id": "2731562656488805764",
-        "baseUrl": "https://argoscomic.com",
+        "baseUrl": "https://aniargos.com",
         "versionId": 2
       }
     ]
@@ -22938,18 +22938,18 @@
   {
     "name": "Tachiyomi: Astratoons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.astratoons",
-    "apk": "tachiyomi-pt.astratoons-v1.4.4.apk",
+    "apk": "tachiyomi-pt.astratoons-v1.4.5.apk",
     "lang": "pt-BR",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "sources": [
       {
         "name": "Astratoons",
         "lang": "pt-BR",
-        "id": "568706475308881719",
-        "baseUrl": "https://astratoons.com",
-        "versionId": 1
+        "id": "551908063793499841",
+        "baseUrl": "https://new.astratoons.com",
+        "versionId": 2
       }
     ]
   },
@@ -23604,10 +23604,10 @@
   {
     "name": "Tachiyomi: KuroMangas",
     "pkg": "eu.kanade.tachiyomi.extension.pt.kuromangas",
-    "apk": "tachiyomi-pt.kuromangas-v1.4.2.apk",
+    "apk": "tachiyomi-pt.kuromangas-v1.4.3.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "sources": [
       {
@@ -23802,10 +23802,10 @@
   {
     "name": "Tachiyomi: Manga Livre",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangalivre",
-    "apk": "tachiyomi-pt.mangalivre-v1.4.53.apk",
+    "apk": "tachiyomi-pt.mangalivre-v1.4.54.apk",
     "lang": "pt-BR",
-    "code": 53,
-    "version": "1.4.53",
+    "code": 54,
+    "version": "1.4.54",
     "nsfw": 0,
     "sources": [
       {
@@ -24432,10 +24432,10 @@
   {
     "name": "Tachiyomi: Nexus Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.spectralscan",
-    "apk": "tachiyomi-pt.spectralscan-v1.4.50.apk",
+    "apk": "tachiyomi-pt.spectralscan-v1.4.51.apk",
     "lang": "pt-BR",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 51,
+    "version": "1.4.51",
     "nsfw": 1,
     "sources": [
       {
@@ -25152,10 +25152,10 @@
   {
     "name": "Tachiyomi: Senkognito",
     "pkg": "eu.kanade.tachiyomi.extension.ru.senkognito",
-    "apk": "tachiyomi-ru.senkognito-v1.4.7.apk",
+    "apk": "tachiyomi-ru.senkognito-v1.4.8.apk",
     "lang": "ru",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "sources": [
       {
@@ -25170,10 +25170,10 @@
   {
     "name": "Tachiyomi: Senkuro",
     "pkg": "eu.kanade.tachiyomi.extension.ru.senkuro",
-    "apk": "tachiyomi-ru.senkuro-v1.4.6.apk",
+    "apk": "tachiyomi-ru.senkuro-v1.4.7.apk",
     "lang": "ru",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "sources": [
       {
@@ -26160,17 +26160,17 @@
   {
     "name": "Tachiyomi: Domal Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.tr.domalfansub",
-    "apk": "tachiyomi-tr.domalfansub-v1.4.48.apk",
+    "apk": "tachiyomi-tr.domalfansub-v1.4.49.apk",
     "lang": "tr",
-    "code": 48,
-    "version": "1.4.48",
+    "code": 49,
+    "version": "1.4.49",
     "nsfw": 1,
     "sources": [
       {
         "name": "Domal Fansub",
         "lang": "tr",
         "id": "1807480150517467938",
-        "baseUrl": "https://d0malfansub.com.tr",
+        "baseUrl": "https://dom4lfansub.online",
         "versionId": 1
       }
     ]
