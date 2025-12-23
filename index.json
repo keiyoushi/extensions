@@ -11722,10 +11722,10 @@
   {
     "name": "Tachiyomi: Lily Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.lilymanga",
-    "apk": "tachiyomi-en.lilymanga-v1.4.49.apk",
+    "apk": "tachiyomi-en.lilymanga-v1.4.50.apk",
     "lang": "en",
-    "code": 49,
-    "version": "1.4.49",
+    "code": 50,
+    "version": "1.4.50",
     "nsfw": 1,
     "sources": [
       {
@@ -19530,10 +19530,10 @@
   {
     "name": "Tachiyomi: Raijin Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.raijinscans",
-    "apk": "tachiyomi-fr.raijinscans-v1.4.54.apk",
+    "apk": "tachiyomi-fr.raijinscans-v1.4.55.apk",
     "lang": "fr",
-    "code": 54,
-    "version": "1.4.54",
+    "code": 55,
+    "version": "1.4.55",
     "nsfw": 0,
     "sources": [
       {
@@ -23910,10 +23910,10 @@
   {
     "name": "Tachiyomi: Manga Livre",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangalivre",
-    "apk": "tachiyomi-pt.mangalivre-v1.4.55.apk",
+    "apk": "tachiyomi-pt.mangalivre-v1.4.56.apk",
     "lang": "pt-BR",
-    "code": 55,
-    "version": "1.4.55",
+    "code": 56,
+    "version": "1.4.56",
     "nsfw": 0,
     "sources": [
       {
@@ -24360,17 +24360,17 @@
   {
     "name": "Tachiyomi: Pizzaria Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.pizzariascan",
-    "apk": "tachiyomi-pt.pizzariascan-v1.4.45.apk",
+    "apk": "tachiyomi-pt.pizzariascan-v1.4.46.apk",
     "lang": "pt-BR",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 1,
     "sources": [
       {
         "name": "Pizzaria Scan",
         "lang": "pt-BR",
         "id": "3359822911747375789",
-        "baseUrl": "https://pizzariascan.site",
+        "baseUrl": "https://pizzariacomics.com",
         "versionId": 1
       }
     ]
@@ -24540,10 +24540,10 @@
   {
     "name": "Tachiyomi: Nexus Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.spectralscan",
-    "apk": "tachiyomi-pt.spectralscan-v1.4.54.apk",
+    "apk": "tachiyomi-pt.spectralscan-v1.4.55.apk",
     "lang": "pt-BR",
-    "code": 54,
-    "version": "1.4.54",
+    "code": 55,
+    "version": "1.4.55",
     "nsfw": 1,
     "sources": [
       {
@@ -24954,17 +24954,17 @@
   {
     "name": "Tachiyomi: Desu",
     "pkg": "eu.kanade.tachiyomi.extension.ru.desu",
-    "apk": "tachiyomi-ru.desu-v1.4.30.apk",
+    "apk": "tachiyomi-ru.desu-v1.4.31.apk",
     "lang": "ru",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "sources": [
       {
         "name": "Desu",
         "lang": "ru",
         "id": "6684416167758830305",
-        "baseUrl": "https://desu.city",
+        "baseUrl": "https://desu.uno",
         "versionId": 1
       }
     ]
