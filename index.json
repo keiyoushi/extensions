@@ -3708,6 +3708,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Lunar Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.all.lunaranime",
+    "apk": "tachiyomi-all.lunaranime-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Lunar Manga",
+        "lang": "all",
+        "id": "5813468393870703615",
+        "baseUrl": "https://lunaranime.ru",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Luscious",
     "pkg": "eu.kanade.tachiyomi.extension.all.luscious",
     "apk": "tachiyomi-all.luscious-v1.4.23.apk",
@@ -15266,6 +15284,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Rinko Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.en.rinkocomics",
+    "apk": "tachiyomi-en.rinkocomics-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Rinko Comics",
+        "lang": "en",
+        "id": "4915548839286527736",
+        "baseUrl": "https://rinkocomics.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: RitharScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.ritharscans",
     "apk": "tachiyomi-en.ritharscans-v1.4.19.apk",
@@ -15914,20 +15950,20 @@
     ]
   },
   {
-    "name": "Tachiyomi: The Blank Scanlation",
+    "name": "Tachiyomi: The Blank",
     "pkg": "eu.kanade.tachiyomi.extension.en.theblank",
-    "apk": "tachiyomi-en.theblank-v1.4.49.apk",
+    "apk": "tachiyomi-en.theblank-v1.4.50.apk",
     "lang": "en",
-    "code": 49,
-    "version": "1.4.49",
+    "code": 50,
+    "version": "1.4.50",
     "nsfw": 1,
     "sources": [
       {
-        "name": "The Blank Scanlation",
+        "name": "The Blank",
         "lang": "en",
-        "id": "7001568873460156363",
-        "baseUrl": "https://theblank.net",
-        "versionId": 1
+        "id": "7514642512113015247",
+        "baseUrl": "https://beta.theblank.net",
+        "versionId": 2
       }
     ]
   },
@@ -16931,10 +16967,10 @@
   {
     "name": "Tachiyomi: Bega Translation",
     "pkg": "eu.kanade.tachiyomi.extension.es.begatranslation",
-    "apk": "tachiyomi-es.begatranslation-v1.4.45.apk",
+    "apk": "tachiyomi-es.begatranslation-v1.4.46.apk",
     "lang": "es",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 0,
     "sources": [
       {
@@ -17356,6 +17392,24 @@
         "lang": "es",
         "id": "4562754350961964148",
         "baseUrl": "https://emperorscan.mundoalterno.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Escaneo de Leyendas",
+    "pkg": "eu.kanade.tachiyomi.extension.es.escaneodeleyendas",
+    "apk": "tachiyomi-es.escaneodeleyendas-v1.4.45.apk",
+    "lang": "es",
+    "code": 45,
+    "version": "1.4.45",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Escaneo de Leyendas",
+        "lang": "es",
+        "id": "7243980374121466722",
+        "baseUrl": "https://escaneodeleyendas.com",
         "versionId": 1
       }
     ]
@@ -18279,6 +18333,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Nova Manhwas",
+    "pkg": "eu.kanade.tachiyomi.extension.es.novamanhwa",
+    "apk": "tachiyomi-es.novamanhwa-v1.4.30.apk",
+    "lang": "es",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Nova Manhwas",
+        "lang": "es",
+        "id": "2716608619626653265",
+        "baseUrl": "https://novamanhwa.cc",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Novato Scans",
     "pkg": "eu.kanade.tachiyomi.extension.es.novatoscans",
     "apk": "tachiyomi-es.novatoscans-v1.4.11.apk",
@@ -18864,17 +18936,17 @@
   {
     "name": "Tachiyomi: AnimeSama",
     "pkg": "eu.kanade.tachiyomi.extension.fr.animesama",
-    "apk": "tachiyomi-fr.animesama-v1.4.11.apk",
+    "apk": "tachiyomi-fr.animesama-v1.4.12.apk",
     "lang": "fr",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "sources": [
       {
         "name": "AnimeSama",
         "lang": "fr",
         "id": "5104384223103778991",
-        "baseUrl": "https://anime-sama.eu",
+        "baseUrl": "https://anime-sama.si",
         "versionId": 1
       }
     ]
@@ -23926,6 +23998,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manga Livre Blog",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mangalivreblog",
+    "apk": "tachiyomi-pt.mangalivreblog-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Manga Livre Blog",
+        "lang": "pt-BR",
+        "id": "588678420372440028",
+        "baseUrl": "https://mangalivre.blog",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manga Livre.to",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangalivreto",
     "apk": "tachiyomi-pt.mangalivreto-v1.4.46.apk",
@@ -24018,17 +24108,17 @@
   {
     "name": "Tachiyomi: Mediocre Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mediocretoons",
-    "apk": "tachiyomi-pt.mediocretoons-v1.4.9.apk",
+    "apk": "tachiyomi-pt.mediocretoons-v1.4.10.apk",
     "lang": "pt-BR",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "sources": [
       {
         "name": "Mediocre Toons",
         "lang": "pt-BR",
         "id": "6774658952974641159",
-        "baseUrl": "https://mediocretoons.site",
+        "baseUrl": "https://mediocrescan.com",
         "versionId": 1
       }
     ]
@@ -24540,10 +24630,10 @@
   {
     "name": "Tachiyomi: Nexus Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.spectralscan",
-    "apk": "tachiyomi-pt.spectralscan-v1.4.55.apk",
+    "apk": "tachiyomi-pt.spectralscan-v1.4.56.apk",
     "lang": "pt-BR",
-    "code": 55,
-    "version": "1.4.55",
+    "code": 56,
+    "version": "1.4.56",
     "nsfw": 1,
     "sources": [
       {
