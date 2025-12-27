@@ -23008,19 +23008,19 @@
     ]
   },
   {
-    "name": "Tachiyomi: ApeComics",
+    "name": "Tachiyomi: Capitoons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.apecomics",
-    "apk": "tachiyomi-pt.apecomics-v1.4.43.apk",
+    "apk": "tachiyomi-pt.apecomics-v1.4.44.apk",
     "lang": "pt-BR",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 0,
     "sources": [
       {
-        "name": "ApeComics",
+        "name": "Capitoons",
         "lang": "pt-BR",
         "id": "4475020039832513819",
-        "baseUrl": "https://apecomics.net",
+        "baseUrl": "https://capitoons.com",
         "versionId": 1
       }
     ]
@@ -24880,6 +24880,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Wolftoon",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.wolftoon",
+    "apk": "tachiyomi-pt.wolftoon-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Wolftoon",
+        "lang": "pt-BR",
+        "id": "2666797837434784507",
+        "baseUrl": "https://wolftoon.lovable.app",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: XXX Yaoi",
     "pkg": "eu.kanade.tachiyomi.extension.pt.xxxyaoi",
     "apk": "tachiyomi-pt.xxxyaoi-v1.4.45.apk",
@@ -25026,10 +25044,10 @@
   {
     "name": "Tachiyomi: Com-X",
     "pkg": "eu.kanade.tachiyomi.extension.ru.comx",
-    "apk": "tachiyomi-ru.comx-v1.4.32.apk",
+    "apk": "tachiyomi-ru.comx-v1.4.33.apk",
     "lang": "ru",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "sources": [
       {
