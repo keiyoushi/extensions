@@ -23496,10 +23496,10 @@
   {
     "name": "Tachiyomi: Geass Comics",
     "pkg": "eu.kanade.tachiyomi.extension.pt.geasscomics",
-    "apk": "tachiyomi-pt.geasscomics-v1.4.1.apk",
+    "apk": "tachiyomi-pt.geasscomics-v1.4.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
@@ -23784,10 +23784,10 @@
   {
     "name": "Tachiyomi: KuroMangas",
     "pkg": "eu.kanade.tachiyomi.extension.pt.kuromangas",
-    "apk": "tachiyomi-pt.kuromangas-v1.4.3.apk",
+    "apk": "tachiyomi-pt.kuromangas-v1.4.4.apk",
     "lang": "pt-BR",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "sources": [
       {
@@ -23813,6 +23813,24 @@
         "lang": "pt-BR",
         "id": "2818837330174796449",
         "baseUrl": "https://leitordemanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Leitura Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.leituramanga",
+    "apk": "tachiyomi-pt.leituramanga-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Leitura Mangá",
+        "lang": "pt-BR",
+        "id": "1445343849143422351",
+        "baseUrl": "https://leituramanga.net",
         "versionId": 1
       }
     ]
@@ -24083,6 +24101,24 @@
         "lang": "pt-BR",
         "id": "1518947307457699169",
         "baseUrl": "https://manga-terra.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Mango Toons",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mangotoons",
+    "apk": "tachiyomi-pt.mangotoons-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Mango Toons",
+        "lang": "pt-BR",
+        "id": "8989984812354857153",
+        "baseUrl": "https://mangotoons.com",
         "versionId": 1
       }
     ]
@@ -24648,17 +24684,17 @@
   {
     "name": "Tachiyomi: Yomu Comics",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sssscanlator",
-    "apk": "tachiyomi-pt.sssscanlator-v1.4.37.apk",
+    "apk": "tachiyomi-pt.sssscanlator-v1.4.39.apk",
     "lang": "pt-BR",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "sources": [
       {
         "name": "Yomu Comics",
         "lang": "pt-BR",
         "id": "1497838059713668619",
-        "baseUrl": "https://yomucomics.com",
+        "baseUrl": "https://yomu.com.br",
         "versionId": 1
       }
     ]
