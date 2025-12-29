@@ -7411,10 +7411,10 @@
   {
     "name": "Tachiyomi: Tappytoon",
     "pkg": "eu.kanade.tachiyomi.extension.all.tappytoon",
-    "apk": "tachiyomi-all.tappytoon-v1.4.9.apk",
+    "apk": "tachiyomi-all.tappytoon-v1.4.10.apk",
     "lang": "all",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "sources": [
       {
@@ -8616,10 +8616,10 @@
   {
     "name": "Tachiyomi: Manga Starz",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangastarz",
-    "apk": "tachiyomi-ar.mangastarz-v1.4.53.apk",
+    "apk": "tachiyomi-ar.mangastarz-v1.4.54.apk",
     "lang": "ar",
-    "code": 53,
-    "version": "1.4.53",
+    "code": 54,
+    "version": "1.4.54",
     "nsfw": 0,
     "sources": [
       {
@@ -8940,10 +8940,10 @@
   {
     "name": "Tachiyomi: Team X",
     "pkg": "eu.kanade.tachiyomi.extension.ar.teamx",
-    "apk": "tachiyomi-ar.teamx-v1.4.23.apk",
+    "apk": "tachiyomi-ar.teamx-v1.4.24.apk",
     "lang": "ar",
-    "code": 23,
-    "version": "1.4.23",
+    "code": 24,
+    "version": "1.4.24",
     "nsfw": 0,
     "sources": [
       {
@@ -9455,6 +9455,24 @@
         "lang": "en",
         "id": "9148518200946142514",
         "baseUrl": "https://comicaurora.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: azComic",
+    "pkg": "eu.kanade.tachiyomi.extension.en.azcomic",
+    "apk": "tachiyomi-en.azcomic-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "azComic",
+        "lang": "en",
+        "id": "5057367751125439940",
+        "baseUrl": "https://azcomic.com",
         "versionId": 1
       }
     ]
@@ -10293,6 +10311,24 @@
         "lang": "en",
         "id": "3896703921896511395",
         "baseUrl": "https://elftoon.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Eris Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.erisscans",
+    "apk": "tachiyomi-en.erisscans-v1.4.18.apk",
+    "lang": "en",
+    "code": 18,
+    "version": "1.4.18",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Eris Scans",
+        "lang": "en",
+        "id": "8358420357808595754",
+        "baseUrl": "https://erisscans.com",
         "versionId": 1
       }
     ]
@@ -16391,10 +16427,10 @@
   {
     "name": "Tachiyomi: Webcomics",
     "pkg": "eu.kanade.tachiyomi.extension.en.webcomics",
-    "apk": "tachiyomi-en.webcomics-v1.4.7.apk",
+    "apk": "tachiyomi-en.webcomics-v1.4.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "sources": [
       {
@@ -16517,10 +16553,10 @@
   {
     "name": "Tachiyomi: WeebDex",
     "pkg": "eu.kanade.tachiyomi.extension.en.weebdex",
-    "apk": "tachiyomi-en.weebdex-v1.4.1.apk",
+    "apk": "tachiyomi-en.weebdex-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
@@ -17543,10 +17579,10 @@
   {
     "name": "Tachiyomi: HeavenManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.heavenmanga",
-    "apk": "tachiyomi-es.heavenmanga-v1.4.7.apk",
+    "apk": "tachiyomi-es.heavenmanga-v1.4.8.apk",
     "lang": "es",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "sources": [
       {
