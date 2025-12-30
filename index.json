@@ -1021,6 +1021,745 @@
     ]
   },
   {
+    "name": "Tachiyomi: Bato.to V4",
+    "pkg": "eu.kanade.tachiyomi.extension.all.batotov4",
+    "apk": "tachiyomi-all.batotov4-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Bato.to V4",
+        "lang": "all",
+        "id": "2335930345808733559",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "en",
+        "id": "6750944827539454917",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "ar",
+        "id": "607470591730667415",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "bg",
+        "id": "695432028320520484",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "zh",
+        "id": "5133139422076136597",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "cs",
+        "id": "4239493240125646077",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "da",
+        "id": "5742539228542932823",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "nl",
+        "id": "758729724004651773",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "fil",
+        "id": "3759398948574624338",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "fi",
+        "id": "652534179139816449",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "fr",
+        "id": "2528532101973520734",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "de",
+        "id": "2563003749019659256",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "el",
+        "id": "2925966570368951791",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "he",
+        "id": "6328811393659494136",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "hi",
+        "id": "413983910519107250",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "hu",
+        "id": "4930192507190731312",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "id",
+        "id": "1591972655410066359",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "it",
+        "id": "8414974469559478803",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "ja",
+        "id": "175217559175321952",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "ko",
+        "id": "1619630044396207745",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "ms",
+        "id": "5868845287179148944",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "pl",
+        "id": "3770664719077546925",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "pt",
+        "id": "8726602614154908337",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "pt-BR",
+        "id": "1060807349265774128",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "ro",
+        "id": "3994407032861398385",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "ru",
+        "id": "6416687492548484595",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "es",
+        "id": "289559962103209410",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "es-419",
+        "id": "4042178023207576375",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "sv",
+        "id": "3814933027240972156",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "th",
+        "id": "7702748649473297990",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "tr",
+        "id": "2593531382417441284",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "uk",
+        "id": "613945240430364756",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "vi",
+        "id": "6139452779371757550",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "af",
+        "id": "530887693456978826",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "sq",
+        "id": "7370554920755983337",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "am",
+        "id": "5830301854379458305",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "hy",
+        "id": "7747457706128752314",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "az",
+        "id": "6893720676677788280",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "be",
+        "id": "5262549179680420424",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "bn",
+        "id": "2970048262929700370",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "bs",
+        "id": "8180896263169199310",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "my",
+        "id": "138743808629349799",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "km",
+        "id": "190911668291588428",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "ca",
+        "id": "4675540163265488342",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "ceb",
+        "id": "7301416764018486460",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "zh-Hans",
+        "id": "7320636882243717659",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "zh-Hant",
+        "id": "1653498402436966206",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "hr",
+        "id": "3509373684297896137",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "et",
+        "id": "2588477431053483104",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "fo",
+        "id": "9138841611177911464",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "ka",
+        "id": "7779013376764393995",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "gn",
+        "id": "1630197420473622821",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "gu",
+        "id": "7511926288611376801",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "ht",
+        "id": "1007842491018085400",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "ha",
+        "id": "2041937343185735074",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "is",
+        "id": "1161235785405822462",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "ig",
+        "id": "7851052094472311006",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "ga",
+        "id": "3325686496935662035",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "jv",
+        "id": "9165677975619972952",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "kn",
+        "id": "227007887111749293",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "kk",
+        "id": "7246935255960085328",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "ku",
+        "id": "1790720791662837988",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "ky",
+        "id": "2700046141439441332",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "lo",
+        "id": "5386370453403834926",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "lv",
+        "id": "1852928854842361294",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "lt",
+        "id": "6713732221002503503",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "lb",
+        "id": "5913893023868170803",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "mk",
+        "id": "2658760357737186249",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "mg",
+        "id": "3284061016121826676",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "ml",
+        "id": "930395336507951002",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "mt",
+        "id": "3896320770795104304",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "mi",
+        "id": "8511491940646352608",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "mr",
+        "id": "7927143837353989439",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "mo",
+        "id": "6537826169975240798",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "mn",
+        "id": "3726267159892906477",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "ne",
+        "id": "5156527713630106431",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "no",
+        "id": "2632145551313266232",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "ny",
+        "id": "8667789041486552089",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "ps",
+        "id": "843550478574496770",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "fa",
+        "id": "7863710216454051339",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "rm",
+        "id": "47558115291126283",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "sm",
+        "id": "5777811063875417663",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "sr",
+        "id": "6560590290011380978",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "sh",
+        "id": "344186819049130365",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "st",
+        "id": "4692594138518611022",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "sn",
+        "id": "2475772531168598897",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "sd",
+        "id": "1297691475042543469",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "si",
+        "id": "6445973164864842941",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "sk",
+        "id": "68088560076218027",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "sl",
+        "id": "2334094594451168809",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "so",
+        "id": "5616839870149815305",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "sw",
+        "id": "7148293718726535421",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "tg",
+        "id": "8792807962952547511",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "ta",
+        "id": "3149564446347607342",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "te",
+        "id": "9196998750744713543",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "th",
+        "id": "7702748649473297990",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "ti",
+        "id": "6949327435888897645",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "to",
+        "id": "474274954002218756",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "tk",
+        "id": "3010546927129922031",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "ur",
+        "id": "230385323306688720",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "uz",
+        "id": "1808786836214126545",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "yo",
+        "id": "1348397153900235994",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "zu",
+        "id": "2029951127966105133",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to V4",
+        "lang": "other",
+        "id": "8737449730930692862",
+        "baseUrl": "https://bato.si",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: 3600000 Beauty",
     "pkg": "eu.kanade.tachiyomi.extension.all.beauty3600000",
     "apk": "tachiyomi-all.beauty3600000-v1.4.1.apk",
@@ -24034,6 +24773,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manga Flix",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mangaflix",
+    "apk": "tachiyomi-pt.mangaflix-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "MangaFlix",
+        "lang": "pt-BR",
+        "id": "6813136769153267900",
+        "baseUrl": "https://mangaflix.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manga Livre",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangalivre",
     "apk": "tachiyomi-pt.mangalivre-v1.4.56.apk",
@@ -24954,10 +25711,10 @@
   {
     "name": "Tachiyomi: Wolftoon",
     "pkg": "eu.kanade.tachiyomi.extension.pt.wolftoon",
-    "apk": "tachiyomi-pt.wolftoon-v1.4.1.apk",
+    "apk": "tachiyomi-pt.wolftoon-v1.4.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
