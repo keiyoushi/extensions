@@ -277,10 +277,10 @@
   {
     "name": "Tachiyomi: Bato.to",
     "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
-    "apk": "tachiyomi-all.batoto-v1.4.57.apk",
+    "apk": "tachiyomi-all.batoto-v1.4.58.apk",
     "lang": "all",
-    "code": 57,
-    "version": "1.4.57",
+    "code": 58,
+    "version": "1.4.58",
     "nsfw": 1,
     "sources": [
       {
@@ -1023,10 +1023,10 @@
   {
     "name": "Tachiyomi: Bato.to V4",
     "pkg": "eu.kanade.tachiyomi.extension.all.batotov4",
-    "apk": "tachiyomi-all.batotov4-v1.4.1.apk",
+    "apk": "tachiyomi-all.batotov4-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
@@ -1229,13 +1229,6 @@
         "name": "Bato.to V4",
         "lang": "sv",
         "id": "3814933027240972156",
-        "baseUrl": "https://bato.si",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to V4",
-        "lang": "th",
-        "id": "7702748649473297990",
         "baseUrl": "https://bato.si",
         "versionId": 1
       },
