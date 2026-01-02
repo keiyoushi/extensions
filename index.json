@@ -12218,6 +12218,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Kawai Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.kawaiscans",
+    "apk": "tachiyomi-en.kawaiscans-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Kawai Scans",
+        "lang": "en",
+        "id": "8787968193649040716",
+        "baseUrl": "https://kawaiscans.site",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Kayn Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.kaynscans",
     "apk": "tachiyomi-en.kaynscans-v1.4.18.apk",
@@ -15244,10 +15262,10 @@
   {
     "name": "Tachiyomi: Philia Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.philiascans",
-    "apk": "tachiyomi-en.philiascans-v1.4.44.apk",
+    "apk": "tachiyomi-en.philiascans-v1.4.45.apk",
     "lang": "en",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 0,
     "sources": [
       {
@@ -16144,10 +16162,10 @@
   {
     "name": "Tachiyomi: Rolia Scan",
     "pkg": "eu.kanade.tachiyomi.extension.en.roliascan",
-    "apk": "tachiyomi-en.roliascan-v1.4.5.apk",
+    "apk": "tachiyomi-en.roliascan-v1.4.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "sources": [
       {
@@ -17285,10 +17303,10 @@
   {
     "name": "Tachiyomi: WeebDex",
     "pkg": "eu.kanade.tachiyomi.extension.en.weebdex",
-    "apk": "tachiyomi-en.weebdex-v1.4.2.apk",
+    "apk": "tachiyomi-en.weebdex-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "sources": [
       {
@@ -22710,10 +22728,10 @@
   {
     "name": "Tachiyomi: KissLove",
     "pkg": "eu.kanade.tachiyomi.extension.ja.kisslove",
-    "apk": "tachiyomi-ja.kisslove-v1.4.16.apk",
+    "apk": "tachiyomi-ja.kisslove-v1.4.17.apk",
     "lang": "ja",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 1,
     "sources": [
       {
@@ -28656,17 +28674,17 @@
   {
     "name": "Tachiyomi: DocTruyen3Q",
     "pkg": "eu.kanade.tachiyomi.extension.vi.doctruyen3q",
-    "apk": "tachiyomi-vi.doctruyen3q-v1.4.20.apk",
+    "apk": "tachiyomi-vi.doctruyen3q-v1.4.21.apk",
     "lang": "vi",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 1,
     "sources": [
       {
         "name": "DocTruyen3Q",
         "lang": "vi",
         "id": "6168143505244976507",
-        "baseUrl": "https://doctruyen3qui19.com",
+        "baseUrl": "https://doctruyen3qui20.com",
         "versionId": 1
       }
     ]
@@ -28746,17 +28764,17 @@
   {
     "name": "Tachiyomi: HangTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hangtruyen",
-    "apk": "tachiyomi-vi.hangtruyen-v1.4.1.apk",
+    "apk": "tachiyomi-vi.hangtruyen-v1.4.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
         "name": "HangTruyen",
         "lang": "vi",
         "id": "2623135262928921971",
-        "baseUrl": "https://hangtruyen.top",
+        "baseUrl": "https://hangtruyen.page",
         "versionId": 1
       }
     ]
@@ -28782,17 +28800,17 @@
   {
     "name": "Tachiyomi: HentaiVN.plus",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivnplus",
-    "apk": "tachiyomi-vi.hentaivnplus-v1.4.60.apk",
+    "apk": "tachiyomi-vi.hentaivnplus-v1.4.61.apk",
     "lang": "vi",
-    "code": 60,
-    "version": "1.4.60",
+    "code": 61,
+    "version": "1.4.61",
     "nsfw": 1,
     "sources": [
       {
         "name": "HentaiVN.plus",
         "lang": "vi",
         "id": "7015430763374257867",
-        "baseUrl": "https://hentaivn.gold",
+        "baseUrl": "https://hentaivn.cheap",
         "versionId": 1
       }
     ]
@@ -28980,17 +28998,17 @@
   {
     "name": "Tachiyomi: Top Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.toptruyen",
-    "apk": "tachiyomi-vi.toptruyen-v1.4.23.apk",
+    "apk": "tachiyomi-vi.toptruyen-v1.4.24.apk",
     "lang": "vi",
-    "code": 23,
-    "version": "1.4.23",
+    "code": 24,
+    "version": "1.4.24",
     "nsfw": 1,
     "sources": [
       {
         "name": "Top Truyen",
         "lang": "vi",
         "id": "1166901607721102706",
-        "baseUrl": "https://www.toptruyentv11.com",
+        "baseUrl": "https://www.toptruyentv12.com",
         "versionId": 1
       }
     ]
@@ -29016,17 +29034,17 @@
   {
     "name": "Tachiyomi: FoxTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyengg",
-    "apk": "tachiyomi-vi.truyengg-v1.4.8.apk",
+    "apk": "tachiyomi-vi.truyengg-v1.4.9.apk",
     "lang": "vi",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "sources": [
       {
         "name": "FoxTruyen",
         "lang": "vi",
         "id": "1458993267006200127",
-        "baseUrl": "https://foxtruyen.com",
+        "baseUrl": "https://foxtruyen1.com",
         "versionId": 1
       }
     ]
@@ -29070,17 +29088,17 @@
   {
     "name": "Tachiyomi: TruyenTranh3Q",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyentranh3q",
-    "apk": "tachiyomi-vi.truyentranh3q-v1.4.4.apk",
+    "apk": "tachiyomi-vi.truyentranh3q-v1.4.5.apk",
     "lang": "vi",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "sources": [
       {
         "name": "TruyenTranh3Q",
         "lang": "vi",
         "id": "8738237169240254245",
-        "baseUrl": "https://truyentranh3qe.com",
+        "baseUrl": "https://truyentranh3qk.com",
         "versionId": 1
       }
     ]
@@ -29160,17 +29178,17 @@
   {
     "name": "Tachiyomi: VlogTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.vlogtruyen",
-    "apk": "tachiyomi-vi.vlogtruyen-v1.4.19.apk",
+    "apk": "tachiyomi-vi.vlogtruyen-v1.4.20.apk",
     "lang": "vi",
-    "code": 19,
-    "version": "1.4.19",
+    "code": 20,
+    "version": "1.4.20",
     "nsfw": 1,
     "sources": [
       {
         "name": "VlogTruyen",
         "lang": "vi",
         "id": "6425642624422299254",
-        "baseUrl": "https://vlogtruyen59.com",
+        "baseUrl": "https://vlogtruyen60.com",
         "versionId": 1
       }
     ]
