@@ -16648,18 +16648,18 @@
   {
     "name": "Tachiyomi: Tapas",
     "pkg": "eu.kanade.tachiyomi.extension.en.tapastic",
-    "apk": "tachiyomi-en.tapastic-v1.4.22.apk",
+    "apk": "tachiyomi-en.tapastic-v1.4.23.apk",
     "lang": "en",
-    "code": 22,
-    "version": "1.4.22",
+    "code": 23,
+    "version": "1.4.23",
     "nsfw": 1,
     "sources": [
       {
         "name": "Tapas",
         "lang": "en",
-        "id": "3825434541981130345",
+        "id": "5554748812413853237",
         "baseUrl": "https://tapas.io",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
@@ -19722,17 +19722,17 @@
   {
     "name": "Tachiyomi: AnimeSama",
     "pkg": "eu.kanade.tachiyomi.extension.fr.animesama",
-    "apk": "tachiyomi-fr.animesama-v1.4.12.apk",
+    "apk": "tachiyomi-fr.animesama-v1.4.13.apk",
     "lang": "fr",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 0,
     "sources": [
       {
         "name": "AnimeSama",
         "lang": "fr",
         "id": "5104384223103778991",
-        "baseUrl": "https://anime-sama.si",
+        "baseUrl": "https://anime-sama.pw",
         "versionId": 1
       }
     ]
