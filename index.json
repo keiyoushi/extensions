@@ -2,17 +2,17 @@
   {
     "name": "Tachiyomi: AHottie",
     "pkg": "eu.kanade.tachiyomi.extension.all.ahottie",
-    "apk": "tachiyomi-all.ahottie-v1.4.1.apk",
+    "apk": "tachiyomi-all.ahottie-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
         "name": "AHottie",
         "lang": "all",
         "id": "6289731484943315811",
-        "baseUrl": "https://ahottie.net",
+        "baseUrl": "https://ahottie.top",
         "versionId": 1
       }
     ]
@@ -10140,10 +10140,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
-    "apk": "tachiyomi-en.asurascans-v1.4.50.apk",
+    "apk": "tachiyomi-en.asurascans-v1.4.51.apk",
     "lang": "en",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 51,
+    "version": "1.4.51",
     "nsfw": 0,
     "sources": [
       {
@@ -23410,6 +23410,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: U-NEXT",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.unext",
+    "apk": "tachiyomi-ja.unext-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "U-NEXT",
+        "lang": "ja",
+        "id": "1896940876613282856",
+        "baseUrl": "https://video.unext.jp",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Love4u",
     "pkg": "eu.kanade.tachiyomi.extension.ja.welovemangaone",
     "apk": "tachiyomi-ja.welovemangaone-v1.4.12.apk",
@@ -23886,10 +23904,10 @@
   {
     "name": "Tachiyomi: Astratoons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.astratoons",
-    "apk": "tachiyomi-pt.astratoons-v1.4.5.apk",
+    "apk": "tachiyomi-pt.astratoons-v1.4.6.apk",
     "lang": "pt-BR",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "sources": [
       {
@@ -24426,10 +24444,10 @@
   {
     "name": "Tachiyomi: Hunters Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.huntersscans",
-    "apk": "tachiyomi-pt.huntersscans-v1.4.54.apk",
+    "apk": "tachiyomi-pt.huntersscans-v1.4.55.apk",
     "lang": "pt-BR",
-    "code": 54,
-    "version": "1.4.54",
+    "code": 55,
+    "version": "1.4.55",
     "nsfw": 1,
     "sources": [
       {
@@ -24876,10 +24894,10 @@
   {
     "name": "Tachiyomi: Manga Stop",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangastop",
-    "apk": "tachiyomi-pt.mangastop-v1.4.36.apk",
+    "apk": "tachiyomi-pt.mangastop-v1.4.37.apk",
     "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "sources": [
       {
@@ -25722,10 +25740,10 @@
   {
     "name": "Tachiyomi: Wolftoon",
     "pkg": "eu.kanade.tachiyomi.extension.pt.wolftoon",
-    "apk": "tachiyomi-pt.wolftoon-v1.4.2.apk",
+    "apk": "tachiyomi-pt.wolftoon-v1.4.3.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "sources": [
       {
@@ -26226,10 +26244,10 @@
   {
     "name": "Tachiyomi: Senkognito",
     "pkg": "eu.kanade.tachiyomi.extension.ru.senkognito",
-    "apk": "tachiyomi-ru.senkognito-v1.4.9.apk",
+    "apk": "tachiyomi-ru.senkognito-v1.4.10.apk",
     "lang": "ru",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "sources": [
       {
@@ -26244,10 +26262,10 @@
   {
     "name": "Tachiyomi: Senkuro",
     "pkg": "eu.kanade.tachiyomi.extension.ru.senkuro",
-    "apk": "tachiyomi-ru.senkuro-v1.4.8.apk",
+    "apk": "tachiyomi-ru.senkuro-v1.4.9.apk",
     "lang": "ru",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "sources": [
       {
