@@ -11104,10 +11104,10 @@
   {
     "name": "Tachiyomi: Eva Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.evascans",
-    "apk": "tachiyomi-en.evascans-v1.4.30.apk",
+    "apk": "tachiyomi-en.evascans-v1.4.31.apk",
     "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "sources": [
       {
@@ -15262,10 +15262,10 @@
   {
     "name": "Tachiyomi: Philia Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.philiascans",
-    "apk": "tachiyomi-en.philiascans-v1.4.45.apk",
+    "apk": "tachiyomi-en.philiascans-v1.4.46.apk",
     "lang": "en",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 0,
     "sources": [
       {
@@ -16738,17 +16738,17 @@
   {
     "name": "Tachiyomi: The Blank",
     "pkg": "eu.kanade.tachiyomi.extension.en.theblank",
-    "apk": "tachiyomi-en.theblank-v1.4.50.apk",
+    "apk": "tachiyomi-en.theblank-v1.4.51.apk",
     "lang": "en",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 51,
+    "version": "1.4.51",
     "nsfw": 1,
     "sources": [
       {
         "name": "The Blank",
         "lang": "en",
         "id": "7514642512113015247",
-        "baseUrl": "https://beta.theblank.net",
+        "baseUrl": "https://theblank.net",
         "versionId": 2
       }
     ]
@@ -24930,10 +24930,10 @@
   {
     "name": "Tachiyomi: Mango Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangotoons",
-    "apk": "tachiyomi-pt.mangotoons-v1.4.1.apk",
+    "apk": "tachiyomi-pt.mangotoons-v1.4.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
