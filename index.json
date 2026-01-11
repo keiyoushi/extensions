@@ -14136,6 +14136,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Novel24h",
+    "pkg": "eu.kanade.tachiyomi.extension.en.novel24h",
+    "apk": "tachiyomi-en.novel24h-v1.4.45.apk",
+    "lang": "en",
+    "code": 45,
+    "version": "1.4.45",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "24HNovel",
+        "lang": "en",
+        "id": "8392183862780411192",
+        "baseUrl": "https://24hnovel.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: NovelCrow",
     "pkg": "eu.kanade.tachiyomi.extension.en.novelcrow",
     "apk": "tachiyomi-en.novelcrow-v1.4.45.apk",
@@ -21982,10 +22000,10 @@
   {
     "name": "Tachiyomi: KissLove",
     "pkg": "eu.kanade.tachiyomi.extension.ja.kisslove",
-    "apk": "tachiyomi-ja.kisslove-v1.4.17.apk",
+    "apk": "tachiyomi-ja.kisslove-v1.4.18.apk",
     "lang": "ja",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 1,
     "sources": [
       {
