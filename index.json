@@ -259,10 +259,10 @@
   {
     "name": "Tachiyomi: BaoBua",
     "pkg": "eu.kanade.tachiyomi.extension.all.baobua",
-    "apk": "tachiyomi-all.baobua-v1.4.2.apk",
+    "apk": "tachiyomi-all.baobua-v1.4.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "sources": [
       {
@@ -277,10 +277,10 @@
   {
     "name": "Tachiyomi: Bato.to",
     "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
-    "apk": "tachiyomi-all.batoto-v1.4.59.apk",
+    "apk": "tachiyomi-all.batoto-v1.4.60.apk",
     "lang": "all",
-    "code": 59,
-    "version": "1.4.59",
+    "code": 60,
+    "version": "1.4.60",
     "nsfw": 1,
     "sources": [
       {
@@ -4189,10 +4189,10 @@
   {
     "name": "Tachiyomi: MangaDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
-    "apk": "tachiyomi-all.mangadex-v1.4.204.apk",
+    "apk": "tachiyomi-all.mangadex-v1.4.205.apk",
     "lang": "all",
-    "code": 204,
-    "version": "1.4.204",
+    "code": 205,
+    "version": "1.4.205",
     "nsfw": 1,
     "sources": [
       {
@@ -6714,6 +6714,66 @@
     ]
   },
   {
+    "name": "Tachiyomi: Niadd",
+    "pkg": "eu.kanade.tachiyomi.extension.all.niadd",
+    "apk": "tachiyomi-all.niadd-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Niadd",
+        "lang": "pt-BR",
+        "id": "7623485147777438032",
+        "baseUrl": "https://br.niadd.com",
+        "versionId": 1
+      },
+      {
+        "name": "Niadd",
+        "lang": "en",
+        "id": "6237269852978906906",
+        "baseUrl": "https://www.niadd.com",
+        "versionId": 1
+      },
+      {
+        "name": "Niadd",
+        "lang": "es",
+        "id": "1369970040009723082",
+        "baseUrl": "https://es.niadd.com",
+        "versionId": 1
+      },
+      {
+        "name": "Niadd",
+        "lang": "it",
+        "id": "8223107200339513324",
+        "baseUrl": "https://it.niadd.com",
+        "versionId": 1
+      },
+      {
+        "name": "Niadd",
+        "lang": "ru",
+        "id": "1044418267385230402",
+        "baseUrl": "https://ru.niadd.com",
+        "versionId": 1
+      },
+      {
+        "name": "Niadd",
+        "lang": "de",
+        "id": "3358885026101433827",
+        "baseUrl": "https://de.niadd.com",
+        "versionId": 1
+      },
+      {
+        "name": "Niadd",
+        "lang": "fr",
+        "id": "2892666872128744723",
+        "baseUrl": "https://fr.niadd.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: NineManga",
     "pkg": "eu.kanade.tachiyomi.extension.all.ninemanga",
     "apk": "tachiyomi-all.ninemanga-v1.4.25.apk",
@@ -7917,6 +7977,458 @@
     ]
   },
   {
+    "name": "Tachiyomi: WeebDex",
+    "pkg": "eu.kanade.tachiyomi.extension.all.weebdex",
+    "apk": "tachiyomi-all.weebdex-v1.4.4.apk",
+    "lang": "all",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "WeebDex",
+        "lang": "all",
+        "id": "3311913353921387568",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "af",
+        "id": "3826193880902545036",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "sq",
+        "id": "1272004325377912483",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "ar",
+        "id": "3377124583725332473",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "az",
+        "id": "3394571432149248707",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "eu",
+        "id": "2588249792103884627",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "be",
+        "id": "8257413554100536375",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "bn",
+        "id": "497534781838228076",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "bg",
+        "id": "72842758794152966",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "my",
+        "id": "5144920907880138089",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "ca",
+        "id": "903196270653090685",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "zh-Hans",
+        "id": "274772348876173805",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "zh-Hant",
+        "id": "5927974902716031383",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "cv",
+        "id": "1114134733330394060",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "hr",
+        "id": "2900225467349493453",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "cs",
+        "id": "3358208400914475664",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "da",
+        "id": "3165150870637758866",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "nl",
+        "id": "4149942775903825843",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "en",
+        "id": "371958378926280825",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "eo",
+        "id": "8673516285586862748",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "et",
+        "id": "771982293916345016",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "fil",
+        "id": "5532634031095415361",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "fi",
+        "id": "2197492902459498041",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "fr",
+        "id": "380079188397719923",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "ka",
+        "id": "2478522150087883353",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "de",
+        "id": "7152347911751154816",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "el",
+        "id": "2733699514962233572",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "he",
+        "id": "6076006599792288074",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "hi",
+        "id": "7110353771072257252",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "hu",
+        "id": "4977250690380234001",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "id",
+        "id": "2489881143930803626",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "ga",
+        "id": "7689987740746624627",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "it",
+        "id": "1252259676182653428",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "ja",
+        "id": "6400538453936073108",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "jv",
+        "id": "3617323559840794149",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "kk",
+        "id": "8137355674042182880",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "ko",
+        "id": "1204675187574281599",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "la",
+        "id": "6987381997765636944",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "lt",
+        "id": "8093991114605093784",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "ms",
+        "id": "3550021868496677348",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "mn",
+        "id": "4268239619542434349",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "ne",
+        "id": "6596315309193515975",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "no",
+        "id": "1235577766021182530",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "fa",
+        "id": "1087113067237647096",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "pl",
+        "id": "4407329920399410923",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "pt",
+        "id": "8771580897990966318",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "pt-BR",
+        "id": "6947295583175540480",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "ro",
+        "id": "1053239904613831853",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "ru",
+        "id": "9206994364998726206",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "sr",
+        "id": "883387653336314961",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "sk",
+        "id": "3792017659981621811",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "sl",
+        "id": "1326699891385347913",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "es",
+        "id": "312895999550964704",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "es-419",
+        "id": "1843900581172111883",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "sv",
+        "id": "8564732911598075209",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "ta",
+        "id": "3700001964014526317",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "te",
+        "id": "4517687391196223049",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "th",
+        "id": "13697303997405270",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "tr",
+        "id": "1669926573490072140",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "uk",
+        "id": "7239181541775865082",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "ur",
+        "id": "8032711231567628891",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "uz",
+        "id": "5723371252298214948",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      },
+      {
+        "name": "WeebDex",
+        "lang": "vi",
+        "id": "1095360057008481090",
+        "baseUrl": "https://weebdex.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: XArt Hunter",
     "pkg": "eu.kanade.tachiyomi.extension.all.xarthunter",
     "apk": "tachiyomi-all.xarthunter-v1.4.1.apk",
@@ -8926,10 +9438,10 @@
   {
     "name": "Tachiyomi: Team X",
     "pkg": "eu.kanade.tachiyomi.extension.ar.teamx",
-    "apk": "tachiyomi-ar.teamx-v1.4.24.apk",
+    "apk": "tachiyomi-ar.teamx-v1.4.25.apk",
     "lang": "ar",
-    "code": 24,
-    "version": "1.4.24",
+    "code": 25,
+    "version": "1.4.25",
     "nsfw": 0,
     "sources": [
       {
@@ -10286,17 +10798,17 @@
   {
     "name": "Tachiyomi: Elf Toon",
     "pkg": "eu.kanade.tachiyomi.extension.en.elftoon",
-    "apk": "tachiyomi-en.elftoon-v1.4.30.apk",
+    "apk": "tachiyomi-en.elftoon-v1.4.31.apk",
     "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "sources": [
       {
         "name": "Elf Toon",
         "lang": "en",
         "id": "3896703921896511395",
-        "baseUrl": "https://elftoon.com",
+        "baseUrl": "https://elftoon.xyz",
         "versionId": 1
       }
     ]
@@ -11474,17 +11986,17 @@
   {
     "name": "Tachiyomi: Kawai Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.kawaiscans",
-    "apk": "tachiyomi-en.kawaiscans-v1.4.1.apk",
+    "apk": "tachiyomi-en.kawaiscans-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
         "name": "Kawai Scans",
         "lang": "en",
         "id": "8787968193649040716",
-        "baseUrl": "https://kawaiscans.site",
+        "baseUrl": "https://kawaiscans.org",
         "versionId": 1
       }
     ]
@@ -16573,24 +17085,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: WeebDex",
-    "pkg": "eu.kanade.tachiyomi.extension.en.weebdex",
-    "apk": "tachiyomi-en.weebdex-v1.4.3.apk",
-    "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "WeebDex",
-        "lang": "en",
-        "id": "371958378926280825",
-        "baseUrl": "https://weebdex.org",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Whale Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.whalemanga",
     "apk": "tachiyomi-en.whalemanga-v1.4.45.apk",
@@ -17727,10 +18221,10 @@
   {
     "name": "Tachiyomi: InManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.inmanga",
-    "apk": "tachiyomi-es.inmanga-v1.4.2.apk",
+    "apk": "tachiyomi-es.inmanga-v1.4.3.apk",
     "lang": "es",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "sources": [
       {
@@ -21748,10 +22242,10 @@
   {
     "name": "Tachiyomi: ComicTop",
     "pkg": "eu.kanade.tachiyomi.extension.ja.comictop",
-    "apk": "tachiyomi-ja.comictop-v1.4.1.apk",
+    "apk": "tachiyomi-ja.comictop-v1.4.2.apk",
     "lang": "ja",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
@@ -21759,6 +22253,24 @@
         "lang": "ja",
         "id": "3246429234791332929",
         "baseUrl": "https://comic-top.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Comic Y-OURs",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.comicyours",
+    "apk": "tachiyomi-ja.comicyours-v1.4.8.apk",
+    "lang": "ja",
+    "code": 8,
+    "version": "1.4.8",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Comic Y-OURs",
+        "lang": "ja",
+        "id": "6785510785647577495",
+        "baseUrl": "https://comic-y-ours.com",
         "versionId": 1
       }
     ]
@@ -22000,10 +22512,10 @@
   {
     "name": "Tachiyomi: KissLove",
     "pkg": "eu.kanade.tachiyomi.extension.ja.kisslove",
-    "apk": "tachiyomi-ja.kisslove-v1.4.18.apk",
+    "apk": "tachiyomi-ja.kisslove-v1.4.19.apk",
     "lang": "ja",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 1,
     "sources": [
       {
@@ -24778,10 +25290,10 @@
   {
     "name": "Tachiyomi: Nexus Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.spectralscan",
-    "apk": "tachiyomi-pt.spectralscan-v1.4.57.apk",
+    "apk": "tachiyomi-pt.spectralscan-v1.4.58.apk",
     "lang": "pt-BR",
-    "code": 57,
-    "version": "1.4.57",
+    "code": 58,
+    "version": "1.4.58",
     "nsfw": 1,
     "sources": [
       {
@@ -26038,10 +26550,10 @@
   {
     "name": "Tachiyomi: Nekopost",
     "pkg": "eu.kanade.tachiyomi.extension.th.nekopost",
-    "apk": "tachiyomi-th.nekopost-v1.4.13.apk",
+    "apk": "tachiyomi-th.nekopost-v1.4.14.apk",
     "lang": "th",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 1,
     "sources": [
       {
@@ -26776,17 +27288,17 @@
   {
     "name": "Tachiyomi: Koreli Scans",
     "pkg": "eu.kanade.tachiyomi.extension.tr.koreliscans",
-    "apk": "tachiyomi-tr.koreliscans-v1.4.47.apk",
+    "apk": "tachiyomi-tr.koreliscans-v1.4.48.apk",
     "lang": "tr",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 0,
     "sources": [
       {
         "name": "Koreli Scans",
         "lang": "tr",
         "id": "1475942648540931708",
-        "baseUrl": "https://koreliscans.net",
+        "baseUrl": "https://nabimanga.com",
         "versionId": 1
       }
     ]
@@ -27577,9 +28089,9 @@
       {
         "name": "Siyah Melek",
         "lang": "tr",
-        "id": "6419959498055001014",
-        "baseUrl": "https://siyahmelek.pro",
-        "versionId": 1
+        "id": "3737240362254347902",
+        "baseUrl": "https://siyahmelek.lol",
+        "versionId": 2
       }
     ]
   },
@@ -27838,17 +28350,17 @@
   {
     "name": "Tachiyomi: Yaoibar",
     "pkg": "eu.kanade.tachiyomi.extension.tr.yaoibar",
-    "apk": "tachiyomi-tr.yaoibar-v1.4.45.apk",
+    "apk": "tachiyomi-tr.yaoibar-v1.4.46.apk",
     "lang": "tr",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 1,
     "sources": [
       {
         "name": "Yaoibar",
         "lang": "tr",
         "id": "2734105158623613590",
-        "baseUrl": "https://yaoibar.gay",
+        "baseUrl": "https://yaoibar.lol",
         "versionId": 1
       }
     ]
@@ -27982,17 +28494,17 @@
   {
     "name": "Tachiyomi: DocTruyen3Q",
     "pkg": "eu.kanade.tachiyomi.extension.vi.doctruyen3q",
-    "apk": "tachiyomi-vi.doctruyen3q-v1.4.21.apk",
+    "apk": "tachiyomi-vi.doctruyen3q-v1.4.22.apk",
     "lang": "vi",
-    "code": 21,
-    "version": "1.4.21",
+    "code": 22,
+    "version": "1.4.22",
     "nsfw": 1,
     "sources": [
       {
         "name": "DocTruyen3Q",
         "lang": "vi",
         "id": "6168143505244976507",
-        "baseUrl": "https://doctruyen3qui20.com",
+        "baseUrl": "https://doctruyen3qhub.com",
         "versionId": 1
       }
     ]
@@ -28054,17 +28566,17 @@
   {
     "name": "Tachiyomi: Goc Truyen Tranh Vui",
     "pkg": "eu.kanade.tachiyomi.extension.vi.goctruyentranhvui",
-    "apk": "tachiyomi-vi.goctruyentranhvui-v1.4.6.apk",
+    "apk": "tachiyomi-vi.goctruyentranhvui-v1.4.7.apk",
     "lang": "vi",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "sources": [
       {
         "name": "Goc Truyen Tranh Vui",
         "lang": "vi",
         "id": "2831859393730435398",
-        "baseUrl": "https://goctruyentranhvui17.com",
+        "baseUrl": "https://goctruyentranhvui19.com",
         "versionId": 1
       }
     ]
@@ -28072,17 +28584,17 @@
   {
     "name": "Tachiyomi: HangTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hangtruyen",
-    "apk": "tachiyomi-vi.hangtruyen-v1.4.2.apk",
+    "apk": "tachiyomi-vi.hangtruyen-v1.4.3.apk",
     "lang": "vi",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "sources": [
       {
         "name": "HangTruyen",
         "lang": "vi",
         "id": "2623135262928921971",
-        "baseUrl": "https://hangtruyen.page",
+        "baseUrl": "https://hangtruyen.vip",
         "versionId": 1
       }
     ]
@@ -28108,17 +28620,17 @@
   {
     "name": "Tachiyomi: HentaiVN.plus",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivnplus",
-    "apk": "tachiyomi-vi.hentaivnplus-v1.4.61.apk",
+    "apk": "tachiyomi-vi.hentaivnplus-v1.4.62.apk",
     "lang": "vi",
-    "code": 61,
-    "version": "1.4.61",
+    "code": 62,
+    "version": "1.4.62",
     "nsfw": 1,
     "sources": [
       {
         "name": "HentaiVN.plus",
         "lang": "vi",
         "id": "7015430763374257867",
-        "baseUrl": "https://hentaivn.cheap",
+        "baseUrl": "https://hentaivn.taxi",
         "versionId": 1
       }
     ]
@@ -28306,17 +28818,17 @@
   {
     "name": "Tachiyomi: Top Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.toptruyen",
-    "apk": "tachiyomi-vi.toptruyen-v1.4.24.apk",
+    "apk": "tachiyomi-vi.toptruyen-v1.4.25.apk",
     "lang": "vi",
-    "code": 24,
-    "version": "1.4.24",
+    "code": 25,
+    "version": "1.4.25",
     "nsfw": 1,
     "sources": [
       {
         "name": "Top Truyen",
         "lang": "vi",
         "id": "1166901607721102706",
-        "baseUrl": "https://www.toptruyentv12.com",
+        "baseUrl": "https://www.toptruyentv15.com",
         "versionId": 1
       }
     ]
@@ -28342,17 +28854,17 @@
   {
     "name": "Tachiyomi: FoxTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyengg",
-    "apk": "tachiyomi-vi.truyengg-v1.4.9.apk",
+    "apk": "tachiyomi-vi.truyengg-v1.4.10.apk",
     "lang": "vi",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "sources": [
       {
         "name": "FoxTruyen",
         "lang": "vi",
         "id": "1458993267006200127",
-        "baseUrl": "https://foxtruyen1.com",
+        "baseUrl": "https://foxtruyen2.com",
         "versionId": 1
       }
     ]
@@ -28486,17 +28998,17 @@
   {
     "name": "Tachiyomi: VlogTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.vlogtruyen",
-    "apk": "tachiyomi-vi.vlogtruyen-v1.4.20.apk",
+    "apk": "tachiyomi-vi.vlogtruyen-v1.4.21.apk",
     "lang": "vi",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 1,
     "sources": [
       {
         "name": "VlogTruyen",
         "lang": "vi",
         "id": "6425642624422299254",
-        "baseUrl": "https://vlogtruyen60.com",
+        "baseUrl": "https://vlogtruyen61.com",
         "versionId": 1
       }
     ]
@@ -29152,17 +29664,17 @@
   {
     "name": "Tachiyomi: Rumanhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.rumanhua",
-    "apk": "tachiyomi-zh.rumanhua-v1.4.4.apk",
+    "apk": "tachiyomi-zh.rumanhua-v1.4.5.apk",
     "lang": "zh",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "sources": [
       {
         "name": "如漫画",
         "lang": "zh",
         "id": "392262758488714109",
-        "baseUrl": "https://m.rumanhua1.com",
+        "baseUrl": "https://m.rumanhua2.com",
         "versionId": 1
       }
     ]
@@ -29314,10 +29826,10 @@
   {
     "name": "Tachiyomi: Zaimanhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.zaimanhua",
-    "apk": "tachiyomi-zh.zaimanhua-v1.4.16.apk",
+    "apk": "tachiyomi-zh.zaimanhua-v1.4.17.apk",
     "lang": "zh",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 0,
     "sources": [
       {
