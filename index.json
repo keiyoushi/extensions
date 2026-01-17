@@ -28386,18 +28386,18 @@
   {
     "name": "Tachiyomi: Uzay Manga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.uzaymanga",
-    "apk": "tachiyomi-tr.uzaymanga-v1.4.42.apk",
+    "apk": "tachiyomi-tr.uzaymanga-v1.4.43.apk",
     "lang": "tr",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 0,
     "sources": [
       {
         "name": "Uzay Manga",
         "lang": "tr",
-        "id": "6934235017964307278",
+        "id": "2393888465804377486",
         "baseUrl": "https://uzaymanga.com",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
