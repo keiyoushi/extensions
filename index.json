@@ -275,738 +275,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Bato.to",
-    "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
-    "apk": "tachiyomi-all.batoto-v1.4.60.apk",
-    "lang": "all",
-    "code": 60,
-    "version": "1.4.60",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Bato.to",
-        "lang": "all",
-        "id": "4531444389842992129",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "en",
-        "id": "7890050626002177109",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ar",
-        "id": "5096384382752696500",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "bg",
-        "id": "6495955027968241042",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "zh",
-        "id": "3158884414181268012",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "cs",
-        "id": "7576440018916883094",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "da",
-        "id": "5316229865560945519",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "nl",
-        "id": "2451829407813501910",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "fil",
-        "id": "313424729392609270",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "fi",
-        "id": "1251974539278082369",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "fr",
-        "id": "5836611700806032846",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "de",
-        "id": "139923318887989403",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "el",
-        "id": "8473797648002215114",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "he",
-        "id": "2408078218204857839",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "hi",
-        "id": "7084618587403216116",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "hu",
-        "id": "4530528320166985351",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "id",
-        "id": "1720762928205210073",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "it",
-        "id": "2160637426591463299",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ja",
-        "id": "5203173367987472935",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ko",
-        "id": "8427126052180576160",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ms",
-        "id": "5990851390838920547",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "pl",
-        "id": "3394902802486008664",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "pt",
-        "id": "6179954312892676695",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "pt-BR",
-        "id": "3484603489360202582",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ro",
-        "id": "5145326243818977877",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ru",
-        "id": "5188408707919914484",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "es",
-        "id": "6204540321264480489",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "es-419",
-        "id": "7185350469868201379",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "sv",
-        "id": "8913559243351013088",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "tr",
-        "id": "6468780937168595917",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "uk",
-        "id": "1782621454240367603",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "vi",
-        "id": "3164440079022386695",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "af",
-        "id": "9193031427501250739",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "sq",
-        "id": "6847493053848422645",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "am",
-        "id": "2526577153570564673",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "hy",
-        "id": "1586739058301487676",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "az",
-        "id": "713056016405537102",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "be",
-        "id": "7232505995053152192",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "bn",
-        "id": "3402500071662542228",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "bs",
-        "id": "6908072148468152785",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "my",
-        "id": "5762198617335159887",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "km",
-        "id": "6796421298740947063",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ca",
-        "id": "1392737883785118332",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ceb",
-        "id": "5837595011776494775",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "zh-Hans",
-        "id": "2818874445640189582",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "zh-Hant",
-        "id": "38886079663327225",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "hr",
-        "id": "7668596971407381245",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "et",
-        "id": "3006949234613526276",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "fo",
-        "id": "7703342981951715697",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ka",
-        "id": "5905178459829728484",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "gn",
-        "id": "4894494172631551657",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "gu",
-        "id": "4891408516910497422",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ht",
-        "id": "8773112916243804182",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ha",
-        "id": "8106799273220933842",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "is",
-        "id": "2566480683201153375",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ig",
-        "id": "3424308522705464084",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ga",
-        "id": "3707936942181329862",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "jv",
-        "id": "6913455010116693655",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "kn",
-        "id": "1088655658033412867",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "kk",
-        "id": "4920750007190577961",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ku",
-        "id": "5924797894030210791",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ky",
-        "id": "191250206471387059",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "lo",
-        "id": "374730826849442838",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "lv",
-        "id": "7483906778681041617",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "lt",
-        "id": "2909322037877472903",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "lb",
-        "id": "7998953198185983599",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "mk",
-        "id": "4493782214399724320",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "mg",
-        "id": "7844022624810291146",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ml",
-        "id": "3443092856670936701",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "mt",
-        "id": "7404477799743142598",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "mi",
-        "id": "8225972509362693639",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "mr",
-        "id": "6030352007472109485",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "mo",
-        "id": "8871355786189601023",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "mn",
-        "id": "1683078263344915307",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ne",
-        "id": "128549604427027000",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "no",
-        "id": "3907280050995528877",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ny",
-        "id": "5715855562377571991",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ps",
-        "id": "6105060607877949219",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "fa",
-        "id": "1302226087224798096",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "rm",
-        "id": "8327243820444225063",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "sm",
-        "id": "2859258045373504715",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "sr",
-        "id": "6589258274800936036",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "sh",
-        "id": "2675056792049767704",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "st",
-        "id": "7963579117812866356",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "sn",
-        "id": "2403628417982139515",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "sd",
-        "id": "7126242426383705161",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "si",
-        "id": "2913942844788726362",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "sk",
-        "id": "7182321933689697136",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "sl",
-        "id": "8410771330361157651",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "so",
-        "id": "2909968758031724143",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "sw",
-        "id": "1981693893234457639",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "tg",
-        "id": "8403246223033985015",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ta",
-        "id": "8440188015298648289",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "te",
-        "id": "6410585353225177292",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "th",
-        "id": "2706040171335467974",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ti",
-        "id": "5554111601105349413",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "to",
-        "id": "2410241309695200602",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "tk",
-        "id": "3635004776434724843",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ur",
-        "id": "7602124517732860619",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "uz",
-        "id": "4555523281386098571",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "yo",
-        "id": "727983903143794104",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "zu",
-        "id": "3786926370127246407",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "other",
-        "id": "1897863245819012494",
-        "baseUrl": "https://ato.to",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: 3600000 Beauty",
     "pkg": "eu.kanade.tachiyomi.extension.all.beauty3600000",
     "apk": "tachiyomi-all.beauty3600000-v1.4.2.apk",
@@ -5805,59 +5073,59 @@
   {
     "name": "Tachiyomi: Manhuarm",
     "pkg": "eu.kanade.tachiyomi.extension.all.manhuarm",
-    "apk": "tachiyomi-all.manhuarm-v1.4.54.apk",
+    "apk": "tachiyomi-all.manhuarm-v1.4.55.apk",
     "lang": "all",
-    "code": 54,
-    "version": "1.4.54",
+    "code": 55,
+    "version": "1.4.55",
     "nsfw": 1,
     "sources": [
       {
         "name": "Manhuarm",
         "lang": "ar",
         "id": "797946349800265191",
-        "baseUrl": "https://manhuarmmtl.com",
+        "baseUrl": "https://manhuarmtl.com",
         "versionId": 1
       },
       {
         "name": "Manhuarm",
         "lang": "en",
         "id": "7690709834650404718",
-        "baseUrl": "https://manhuarmmtl.com",
+        "baseUrl": "https://manhuarmtl.com",
         "versionId": 1
       },
       {
         "name": "Manhuarm",
         "lang": "es",
         "id": "8547169224512757621",
-        "baseUrl": "https://manhuarmmtl.com",
+        "baseUrl": "https://manhuarmtl.com",
         "versionId": 1
       },
       {
         "name": "Manhuarm",
         "lang": "fr",
         "id": "8537659881437820380",
-        "baseUrl": "https://manhuarmmtl.com",
+        "baseUrl": "https://manhuarmtl.com",
         "versionId": 1
       },
       {
         "name": "Manhuarm",
         "lang": "id",
         "id": "6421419166134585378",
-        "baseUrl": "https://manhuarmmtl.com",
+        "baseUrl": "https://manhuarmtl.com",
         "versionId": 1
       },
       {
         "name": "Manhuarm",
         "lang": "it",
         "id": "7611240442736670513",
-        "baseUrl": "https://manhuarmmtl.com",
+        "baseUrl": "https://manhuarmtl.com",
         "versionId": 1
       },
       {
         "name": "Manhuarm",
         "lang": "pt-BR",
         "id": "5618121635049025093",
-        "baseUrl": "https://manhuarmmtl.com",
+        "baseUrl": "https://manhuarmtl.com",
         "versionId": 1
       }
     ]
@@ -8521,10 +7789,10 @@
   {
     "name": "Tachiyomi: xkcd",
     "pkg": "eu.kanade.tachiyomi.extension.all.xkcd",
-    "apk": "tachiyomi-all.xkcd-v1.4.15.apk",
+    "apk": "tachiyomi-all.xkcd-v1.4.16.apk",
     "lang": "all",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 0,
     "sources": [
       {
@@ -9940,6 +9208,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Athrea Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.athreascans",
+    "apk": "tachiyomi-en.athreascans-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Athrea Scans",
+        "lang": "en",
+        "id": "427734044452073936",
+        "baseUrl": "https://athreascans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Atsumaru",
     "pkg": "eu.kanade.tachiyomi.extension.en.atsumaru",
     "apk": "tachiyomi-en.atsumaru-v1.4.7.apk",
@@ -10122,10 +9408,10 @@
   {
     "name": "Tachiyomi: BookWalker Global",
     "pkg": "eu.kanade.tachiyomi.extension.en.bookwalker",
-    "apk": "tachiyomi-en.bookwalker-v1.4.4.apk",
+    "apk": "tachiyomi-en.bookwalker-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "sources": [
       {
@@ -10870,17 +10156,17 @@
   {
     "name": "Tachiyomi: Eros Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.erosscans",
-    "apk": "tachiyomi-en.erosscans-v1.4.34.apk",
+    "apk": "tachiyomi-en.erosscans-v1.4.35.apk",
     "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "sources": [
       {
         "name": "Eros Scans",
         "lang": "en",
         "id": "1124131000360667434",
-        "baseUrl": "https://erosvoid.xyz",
+        "baseUrl": "https://erosxsun.xyz",
         "versionId": 1
       }
     ]
@@ -10972,6 +10258,24 @@
         "id": "610148674542079240",
         "baseUrl": "https://ezmanga.org",
         "versionId": 4
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Fairy Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.fairyscans",
+    "apk": "tachiyomi-en.fairyscans-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Fairy Scans",
+        "lang": "en",
+        "id": "7842496605600859779",
+        "baseUrl": "https://fairyscans.com",
+        "versionId": 1
       }
     ]
   },
@@ -11187,6 +10491,24 @@
         "lang": "en",
         "id": "3694940277826033657",
         "baseUrl": "https://gourmetsupremacy.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: greed scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.greedscans",
+    "apk": "tachiyomi-en.greedscans-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "greed scans",
+        "lang": "en",
+        "id": "288706940180085416",
+        "baseUrl": "https://greedscans.com",
         "versionId": 1
       }
     ]
@@ -15262,17 +14584,17 @@
   {
     "name": "Tachiyomi: Raven Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.ravenscans",
-    "apk": "tachiyomi-en.ravenscans-v1.4.31.apk",
+    "apk": "tachiyomi-en.ravenscans-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 0,
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 1,
     "sources": [
       {
         "name": "Raven Scans",
         "lang": "en",
         "id": "5160001879976399540",
-        "baseUrl": "https://ravenscans.com",
+        "baseUrl": "https://ravenscans.org",
         "versionId": 1
       }
     ]
@@ -15850,24 +15172,6 @@
         "id": "2841669293256162864",
         "baseUrl": "https://retsu.org",
         "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Rezo Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.rezoscans",
-    "apk": "tachiyomi-en.rezoscans-v1.4.23.apk",
-    "lang": "en",
-    "code": 23,
-    "version": "1.4.23",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Rezo Scans",
-        "lang": "en",
-        "id": "3191214370015393461",
-        "baseUrl": "https://rezoscan.org",
-        "versionId": 2
       }
     ]
   },
@@ -18869,17 +18173,17 @@
   {
     "name": "Tachiyomi: Traducciones Amistosas",
     "pkg": "eu.kanade.tachiyomi.extension.es.nartag",
-    "apk": "tachiyomi-es.nartag-v1.4.48.apk",
+    "apk": "tachiyomi-es.nartag-v1.4.49.apk",
     "lang": "es",
-    "code": 48,
-    "version": "1.4.48",
+    "code": 49,
+    "version": "1.4.49",
     "nsfw": 1,
     "sources": [
       {
         "name": "Traducciones Amistosas",
         "lang": "es",
         "id": "1424373335432920755",
-        "baseUrl": "https://traduccionesamistosas.topmanhuas.org",
+        "baseUrl": "https://nartag.com",
         "versionId": 2
       }
     ]
@@ -19211,10 +18515,10 @@
   {
     "name": "Tachiyomi: Submanhwa",
     "pkg": "eu.kanade.tachiyomi.extension.es.submanhwa",
-    "apk": "tachiyomi-es.submanhwa-v1.4.1.apk",
+    "apk": "tachiyomi-es.submanhwa-v1.4.2.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
@@ -23612,21 +22916,21 @@
         "name": "늑대닷컴 - 웹툰",
         "lang": "ko",
         "id": "5583626852311652499",
-        "baseUrl": "https://wfwf446.com",
+        "baseUrl": "https://wfwf447.com",
         "versionId": 1
       },
       {
         "name": "늑대닷컴 - 만화책",
         "lang": "ko",
         "id": "7074060458114951398",
-        "baseUrl": "https://wfwf446.com",
+        "baseUrl": "https://wfwf447.com",
         "versionId": 1
       },
       {
         "name": "늑대닷컴 - 포토툰",
         "lang": "ko",
         "id": "4225505094399546613",
-        "baseUrl": "https://wfwf446.com",
+        "baseUrl": "https://wfwf447.com",
         "versionId": 1
       }
     ]
@@ -23940,10 +23244,10 @@
   {
     "name": "Tachiyomi: Cerise Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.cerisescans",
-    "apk": "tachiyomi-pt.cerisescans-v1.4.54.apk",
+    "apk": "tachiyomi-pt.cerisescans-v1.4.55.apk",
     "lang": "pt-BR",
-    "code": 54,
-    "version": "1.4.54",
+    "code": 55,
+    "version": "1.4.55",
     "nsfw": 1,
     "sources": [
       {
@@ -24766,6 +24070,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Mangas Brasuka",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mangasbrasuka",
+    "apk": "tachiyomi-pt.mangasbrasuka-v1.4.45.apk",
+    "lang": "pt-BR",
+    "code": 45,
+    "version": "1.4.45",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Mangas Brasuka",
+        "lang": "pt-BR",
+        "id": "931953325247032113",
+        "baseUrl": "https://mangasbrasuka.com.br",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manga Stop",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangastop",
     "apk": "tachiyomi-pt.mangastop-v1.4.38.apk",
@@ -24840,10 +24162,10 @@
   {
     "name": "Tachiyomi: Mediocre Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mediocretoons",
-    "apk": "tachiyomi-pt.mediocretoons-v1.4.12.apk",
+    "apk": "tachiyomi-pt.mediocretoons-v1.4.13.apk",
     "lang": "pt-BR",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 1,
     "sources": [
       {
@@ -27640,7 +26962,7 @@
         "name": "Manga Oku TR",
         "lang": "tr",
         "id": "3486302556987174977",
-        "baseUrl": "https://mangaokutr.com",
+        "baseUrl": "https://mangaokutr.net",
         "versionId": 1
       }
     ]
