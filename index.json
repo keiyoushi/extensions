@@ -7247,10 +7247,10 @@
   {
     "name": "Tachiyomi: WeebDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.weebdex",
-    "apk": "tachiyomi-all.weebdex-v1.4.4.apk",
+    "apk": "tachiyomi-all.weebdex-v1.4.5.apk",
     "lang": "all",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "sources": [
       {
@@ -11632,10 +11632,10 @@
   {
     "name": "Tachiyomi: Lily Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.lilymanga",
-    "apk": "tachiyomi-en.lilymanga-v1.4.50.apk",
+    "apk": "tachiyomi-en.lilymanga-v1.4.51.apk",
     "lang": "en",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 51,
+    "version": "1.4.51",
     "nsfw": 1,
     "sources": [
       {
@@ -19818,10 +19818,10 @@
   {
     "name": "Tachiyomi: BacaKomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.bacakomik",
-    "apk": "tachiyomi-id.bacakomik-v1.4.12.apk",
+    "apk": "tachiyomi-id.bacakomik-v1.4.13.apk",
     "lang": "id",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 0,
     "sources": [
       {
@@ -20124,18 +20124,18 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-v1.4.69.apk",
+    "apk": "tachiyomi-id.komikcast-v1.4.70.apk",
     "lang": "id",
-    "code": 69,
-    "version": "1.4.69",
+    "code": 70,
+    "version": "1.4.70",
     "nsfw": 0,
     "sources": [
       {
         "name": "Komik Cast",
         "lang": "id",
-        "id": "972717448578983812",
-        "baseUrl": "https://komikcast03.com",
-        "versionId": 1
+        "id": "311605073216875260",
+        "baseUrl": "https://v1.komikcast03.com",
+        "versionId": 2
       }
     ]
   },
@@ -25242,10 +25242,10 @@
   {
     "name": "Tachiyomi: Mangahub",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangahub",
-    "apk": "tachiyomi-ru.mangahub-v1.4.19.apk",
+    "apk": "tachiyomi-ru.mangahub-v1.4.20.apk",
     "lang": "ru",
-    "code": 19,
-    "version": "1.4.19",
+    "code": 20,
+    "version": "1.4.20",
     "nsfw": 1,
     "sources": [
       {
@@ -26500,6 +26500,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: gafeland",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.gafeland",
+    "apk": "tachiyomi-tr.gafeland-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "gafeland",
+        "lang": "tr",
+        "id": "3266930735690843593",
+        "baseUrl": "https://gafeland.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Gaiatoon",
     "pkg": "eu.kanade.tachiyomi.extension.tr.gaiatoon",
     "apk": "tachiyomi-tr.gaiatoon-v1.4.30.apk",
@@ -27186,17 +27204,17 @@
   {
     "name": "Tachiyomi: Moon Daisy Scans",
     "pkg": "eu.kanade.tachiyomi.extension.tr.moondaisyscans",
-    "apk": "tachiyomi-tr.moondaisyscans-v1.4.32.apk",
+    "apk": "tachiyomi-tr.moondaisyscans-v1.4.33.apk",
     "lang": "tr",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "sources": [
       {
         "name": "Moon Daisy Scans",
         "lang": "tr",
         "id": "2732049206654972364",
-        "baseUrl": "https://moondaisyscans.art",
+        "baseUrl": "https://moondaisyscans.lol",
         "versionId": 1
       }
     ]
