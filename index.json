@@ -12454,10 +12454,10 @@
   {
     "name": "Tachiyomi: Madara Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.madarascans",
-    "apk": "tachiyomi-en.madarascans-v1.4.30.apk",
+    "apk": "tachiyomi-en.madarascans-v1.4.31.apk",
     "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "sources": [
       {
@@ -15813,6 +15813,24 @@
         "lang": "en",
         "id": "6468833665354206027",
         "baseUrl": "https://ww11.tokyoghoulre.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Read Vagabond Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.readvagabondmanga",
+    "apk": "tachiyomi-en.readvagabondmanga-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Read Vagabond Manga",
+        "lang": "en",
+        "id": "5300358436613908601",
+        "baseUrl": "https://readbagabondo.com",
         "versionId": 1
       }
     ]
@@ -20784,18 +20802,18 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-v1.4.70.apk",
+    "apk": "tachiyomi-id.komikcast-v1.4.71.apk",
     "lang": "id",
-    "code": 70,
-    "version": "1.4.70",
+    "code": 71,
+    "version": "1.4.71",
     "nsfw": 0,
     "sources": [
       {
         "name": "Komik Cast",
         "lang": "id",
-        "id": "311605073216875260",
-        "baseUrl": "https://v1.komikcast03.com",
-        "versionId": 2
+        "id": "972717448578983812",
+        "baseUrl": "https://komikcast05.com",
+        "versionId": 1
       }
     ]
   },
@@ -29124,10 +29142,10 @@
   {
     "name": "Tachiyomi: Happymh",
     "pkg": "eu.kanade.tachiyomi.extension.zh.happymh",
-    "apk": "tachiyomi-zh.happymh-v1.4.18.apk",
+    "apk": "tachiyomi-zh.happymh-v1.4.19.apk",
     "lang": "zh",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 0,
     "sources": [
       {
