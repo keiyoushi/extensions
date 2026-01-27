@@ -7506,10 +7506,10 @@
   {
     "name": "Tachiyomi: Thunder Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.thunderscans",
-    "apk": "tachiyomi-all.thunderscans-v1.4.41.apk",
+    "apk": "tachiyomi-all.thunderscans-v1.4.42.apk",
     "lang": "all",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 0,
     "sources": [
       {
@@ -20946,10 +20946,10 @@
   {
     "name": "Tachiyomi: Shinigami",
     "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
-    "apk": "tachiyomi-id.shinigami-v1.4.75.apk",
+    "apk": "tachiyomi-id.shinigami-v1.4.76.apk",
     "lang": "id",
-    "code": 75,
-    "version": "1.4.75",
+    "code": 76,
+    "version": "1.4.76",
     "nsfw": 0,
     "sources": [
       {
@@ -24084,10 +24084,10 @@
   {
     "name": "Tachiyomi: Mango Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangotoons",
-    "apk": "tachiyomi-pt.mangotoons-v1.4.4.apk",
+    "apk": "tachiyomi-pt.mangotoons-v1.4.5.apk",
     "lang": "pt-BR",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "sources": [
       {
@@ -26370,10 +26370,10 @@
   {
     "name": "Tachiyomi: Hattori Manga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.hattorimanga",
-    "apk": "tachiyomi-tr.hattorimanga-v1.4.41.apk",
+    "apk": "tachiyomi-tr.hattorimanga-v1.4.42.apk",
     "lang": "tr",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 1,
     "sources": [
       {
