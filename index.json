@@ -9888,10 +9888,10 @@
   {
     "name": "Tachiyomi: Atsumaru",
     "pkg": "eu.kanade.tachiyomi.extension.en.atsumaru",
-    "apk": "tachiyomi-en.atsumaru-v1.4.7.apk",
+    "apk": "tachiyomi-en.atsumaru-v1.4.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "sources": [
       {
@@ -16234,10 +16234,10 @@
   {
     "name": "Tachiyomi: The Blank",
     "pkg": "eu.kanade.tachiyomi.extension.en.theblank",
-    "apk": "tachiyomi-en.theblank-v1.4.51.apk",
+    "apk": "tachiyomi-en.theblank-v1.4.52.apk",
     "lang": "en",
-    "code": 51,
-    "version": "1.4.51",
+    "code": 52,
+    "version": "1.4.52",
     "nsfw": 1,
     "sources": [
       {
@@ -17877,6 +17877,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Insanos Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.es.insanosscan",
+    "apk": "tachiyomi-es.insanosscan-v1.4.30.apk",
+    "lang": "es",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Insanos Scan",
+        "lang": "es",
+        "id": "3274240800401031223",
+        "baseUrl": "https://insanosmanhua.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Inventario Oculto",
     "pkg": "eu.kanade.tachiyomi.extension.es.inventariooculto",
     "apk": "tachiyomi-es.inventariooculto-v1.4.45.apk",
@@ -18131,10 +18149,10 @@
   {
     "name": "Tachiyomi: Manga Crab",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangacrab",
-    "apk": "tachiyomi-es.mangacrab-v1.4.63.apk",
+    "apk": "tachiyomi-es.mangacrab-v1.4.64.apk",
     "lang": "es",
-    "code": 63,
-    "version": "1.4.63",
+    "code": 64,
+    "version": "1.4.64",
     "nsfw": 0,
     "sources": [
       {
@@ -19864,6 +19882,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Aarlas",
+    "pkg": "eu.kanade.tachiyomi.extension.id.aarlas",
+    "apk": "tachiyomi-id.aarlas-v1.4.11.apk",
+    "lang": "id",
+    "code": 11,
+    "version": "1.4.11",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Aarlas",
+        "lang": "id",
+        "id": "6495978594979776478",
+        "baseUrl": "http://www.arlas.my.id",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Ainz Scans ID",
     "pkg": "eu.kanade.tachiyomi.extension.id.ainzscansid",
     "apk": "tachiyomi-id.ainzscansid-v1.4.32.apk",
@@ -20021,6 +20057,42 @@
         "lang": "id",
         "id": "4688509366795716377",
         "baseUrl": "https://doujinku.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: DreamTeams Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.id.dreamteamsscans",
+    "apk": "tachiyomi-id.dreamteamsscans-v1.4.30.apk",
+    "lang": "id",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "DreamTeams Scans",
+        "lang": "id",
+        "id": "4473891485969679132",
+        "baseUrl": "https://dreamteams.space",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: FloraScans",
+    "pkg": "eu.kanade.tachiyomi.extension.id.florascans",
+    "apk": "tachiyomi-id.florascans-v1.4.30.apk",
+    "lang": "id",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "FloraScans",
+        "lang": "id",
+        "id": "9169204836630672674",
+        "baseUrl": "https://florascans.net",
         "versionId": 1
       }
     ]
@@ -20399,6 +20471,24 @@
         "lang": "id",
         "id": "5075847076783200426",
         "baseUrl": "https://kumapoi.info",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: KumoPoi",
+    "pkg": "eu.kanade.tachiyomi.extension.id.kumopoi",
+    "apk": "tachiyomi-id.kumopoi-v1.4.30.apk",
+    "lang": "id",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "KumoPoi",
+        "lang": "id",
+        "id": "5610091745946956485",
+        "baseUrl": "https://kumopoi.org",
         "versionId": 1
       }
     ]
@@ -20903,6 +20993,24 @@
         "lang": "id",
         "id": "8483137484881504884",
         "baseUrl": "https://pornhwa18.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Sasangeyou",
+    "pkg": "eu.kanade.tachiyomi.extension.id.sasangeyou",
+    "apk": "tachiyomi-id.sasangeyou-v1.4.30.apk",
+    "lang": "id",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Sasangeyou",
+        "lang": "id",
+        "id": "1153502662292268302",
+        "baseUrl": "https://sasangeyou.net",
         "versionId": 1
       }
     ]
@@ -27538,6 +27646,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: HentaiVNx",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivnx",
+    "apk": "tachiyomi-vi.hentaivnx-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "HentaiVNx",
+        "lang": "vi",
+        "id": "5268102422164410592",
+        "baseUrl": "https://www.hentaivnx.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: LXManga",
     "pkg": "eu.kanade.tachiyomi.extension.vi.lxhentai",
     "apk": "tachiyomi-vi.lxhentai-v1.4.25.apk",
@@ -27684,17 +27810,17 @@
   {
     "name": "Tachiyomi: Team Lanh Lung",
     "pkg": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
-    "apk": "tachiyomi-vi.teamlanhlung-v1.4.26.apk",
+    "apk": "tachiyomi-vi.teamlanhlung-v1.4.27.apk",
     "lang": "vi",
-    "code": 26,
-    "version": "1.4.26",
+    "code": 27,
+    "version": "1.4.27",
     "nsfw": 1,
     "sources": [
       {
         "name": "Team Lạnh Lùng",
         "lang": "vi",
         "id": "1832370231745386795",
-        "baseUrl": "https://teamlanhlungday3.xyz",
+        "baseUrl": "https://lanhlungteam.com",
         "versionId": 1
       }
     ]
@@ -27756,17 +27882,17 @@
   {
     "name": "Tachiyomi: Truyen Hentai 18+",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenhentai18",
-    "apk": "tachiyomi-vi.truyenhentai18-v1.4.7.apk",
+    "apk": "tachiyomi-vi.truyenhentai18-v1.4.8.apk",
     "lang": "vi",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "sources": [
       {
         "name": "Truyện Hentai 18+",
         "lang": "vi",
         "id": "6484094278517548634",
-        "baseUrl": "https://truyenhentai18.app",
+        "baseUrl": "https://truyenhentai18.net",
         "versionId": 1
       }
     ]
@@ -27792,17 +27918,17 @@
   {
     "name": "Tachiyomi: TruyenTranh3Q",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyentranh3q",
-    "apk": "tachiyomi-vi.truyentranh3q-v1.4.5.apk",
+    "apk": "tachiyomi-vi.truyentranh3q-v1.4.6.apk",
     "lang": "vi",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "sources": [
       {
         "name": "TruyenTranh3Q",
         "lang": "vi",
         "id": "8738237169240254245",
-        "baseUrl": "https://truyentranh3qk.com",
+        "baseUrl": "https://manhua3q.com",
         "versionId": 1
       }
     ]
