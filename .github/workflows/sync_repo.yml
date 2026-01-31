@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: '0 2 5/15 * *' 
 
+permissions:
+  contents: write
+
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -15,6 +18,7 @@ jobs:
         with:
           # Checa o branch 'repo'
           ref: repo
+          fetch-depth: 0
           # O token é necessário para o push forçado
           token: ${{ secrets.GITHUB_TOKEN }} 
 
@@ -26,18 +30,20 @@ jobs:
           
       - name: Set Up Upstream Remote
         run: |
-          git remote add upstream https://github.com/keiyoushi/extensions.git 
+          git remote add upstream https://github.com/keiyoushi/extensions.git
 
-      - name: Fetch Upstream and Rebase
+      - name: Fetch Upstream and Sync
         run: |
-          echo "Fetching latest changes from upstream..."
           git fetch upstream
           
-          # Usa rebase para aplicar nossos commits (.github/workflows) por cima do upstream
-          git rebase upstream/repo
+          # Garante que estamos na branch correta
+          git checkout repo
+          
+          # Tenta o rebase com a branch principal do upstream (geralmente main)
+          # Se o upstream usar 'repo' como nome de branch, mantenha upstream/repo
+          git rebase upstream/main || (echo "Conflito detectado - abortando" && exit 1)
           
       - name: Push Changes to 'repo' Branch
         run: |
-          echo "Pushing synchronized changes (forced with lease) to origin/repo..."
-          # Necessário porque o rebase reescreve o histórico
-          git push origin repo --force-with-lease
+          # Usamos --force porque o rebase altera a árvore de commits
+          git push origin repo --force
