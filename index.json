@@ -11532,13 +11532,13 @@
         "name": "MangaK",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangabuddy",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.mangabuddy-v1.6.33.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.mangabuddy-v1.6.34.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangabuddy/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.mangabuddy-v1.6.33.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.mangabuddy-v1.6.34.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "33",
-        "versionName": "1.6.33",
+        "versionCode": "34",
+        "versionName": "1.6.34",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -15822,13 +15822,13 @@
         "name": "Toonily.me",
         "packageName": "eu.kanade.tachiyomi.extension.en.toonilyme",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.toonilyme-v1.6.3.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.toonilyme-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/toonilyme/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.toonilyme-v1.6.3.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.toonilyme-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "3",
-        "versionName": "1.6.3",
+        "versionCode": "4",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
