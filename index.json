@@ -6832,13 +6832,13 @@
         "name": "AriaToon",
         "packageName": "eu.kanade.tachiyomi.extension.ar.ariatoon",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-ar.ariatoon-v1.4.1.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-ar.ariatoon-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/ariatoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-ar.ariatoon-v1.4.1.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-ar.ariatoon-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
+        "extensionLib": "1.6",
         "versionCode": "1",
-        "versionName": "1.4.1",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -7588,6 +7588,27 @@
             "name": "NeverScans",
             "language": "ar",
             "homeUrl": "https://neverscans.com"
+          }
+        ]
+      },
+      {
+        "name": "Oduto",
+        "packageName": "eu.kanade.tachiyomi.extension.ar.oduto",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-ar.oduto-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/oduto/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-ar.oduto-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1862668423724227387",
+            "name": "Oduto",
+            "language": "ar",
+            "homeUrl": "https://nb19u.blogspot.com"
           }
         ]
       },
@@ -14620,20 +14641,20 @@
         "name": "Read Jujutsu Kaisen Manga Online",
         "packageName": "eu.kanade.tachiyomi.extension.en.readjujutsukaisenmangaonline",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.readjujutsukaisenmangaonline-v1.4.9.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.readjujutsukaisenmangaonline-v1.4.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/readjujutsukaisenmangaonline/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.readjujutsukaisenmangaonline-v1.4.9.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.readjujutsukaisenmangaonline-v1.4.10.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "9",
-        "versionName": "1.4.9",
+        "versionCode": "10",
+        "versionName": "1.4.10",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "808850989053853006",
             "name": "Read Jujutsu Kaisen Manga Online",
             "language": "en",
-            "homeUrl": "https://ww5.readjujutsukaisen.com"
+            "homeUrl": "https://ww6.readjujutsukaisen.com"
           }
         ]
       },
@@ -16962,13 +16983,13 @@
         "name": "ChoChoX",
         "packageName": "eu.kanade.tachiyomi.extension.es.chochox",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-es.chochox-v1.4.3.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-es.chochox-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/chochox/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-es.chochox-v1.4.3.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-es.chochox-v1.6.5.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
+        "extensionLib": "1.6",
+        "versionCode": "5",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -18789,13 +18810,13 @@
         "name": "VCPVMP",
         "packageName": "eu.kanade.tachiyomi.extension.es.vcpvmp",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-es.vcpvmp-v1.4.12.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-es.vcpvmp-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/vcpvmp/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-es.vcpvmp-v1.4.12.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-es.vcpvmp-v1.6.5.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "12",
-        "versionName": "1.4.12",
+        "extensionLib": "1.6",
+        "versionCode": "5",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -24072,20 +24093,20 @@
         "name": "WeLoveManga",
         "packageName": "eu.kanade.tachiyomi.extension.ja.rawlh",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-ja.rawlh-v1.4.17.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-ja.rawlh-v1.4.18.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/rawlh/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-ja.rawlh-v1.4.17.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-ja.rawlh-v1.4.18.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "17",
-        "versionName": "1.4.17",
+        "versionCode": "18",
+        "versionName": "1.4.18",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "7595224096258102519",
             "name": "WeLoveManga",
             "language": "ja",
-            "homeUrl": "https://weloma.art"
+            "homeUrl": "https://weloma.net"
           }
         ]
       },
@@ -27210,13 +27231,13 @@
         "name": "Com-X",
         "packageName": "eu.kanade.tachiyomi.extension.ru.comx",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-ru.comx-v1.4.39.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-ru.comx-v1.6.39.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/comx/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-ru.comx-v1.4.39.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-ru.comx-v1.6.39.jar"
         },
-        "extensionLib": "1.4",
+        "extensionLib": "1.6",
         "versionCode": "39",
-        "versionName": "1.4.39",
+        "versionName": "1.6.39",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -29805,20 +29826,20 @@
         "name": "Siyah Melek",
         "packageName": "eu.kanade.tachiyomi.extension.tr.siyahmelek",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-tr.siyahmelek-v1.4.66.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-tr.siyahmelek-v1.4.67.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/siyahmelek/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-tr.siyahmelek-v1.4.66.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-tr.siyahmelek-v1.4.67.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "66",
-        "versionName": "1.4.66",
+        "versionCode": "67",
+        "versionName": "1.4.67",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "3737240362254347902",
             "name": "Siyah Melek",
             "language": "tr",
-            "homeUrl": "https://siyahmelek.fun"
+            "homeUrl": "https://siyahmelek.live"
           }
         ]
       },
@@ -30729,20 +30750,20 @@
         "name": "LuotTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.luottruyen",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-vi.luottruyen-v1.6.9.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-vi.luottruyen-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/luottruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-vi.luottruyen-v1.6.9.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-vi.luottruyen-v1.6.10.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "9",
-        "versionName": "1.6.9",
+        "versionCode": "10",
+        "versionName": "1.6.10",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "6560112192335153780",
             "name": "LuotTruyen",
             "language": "vi",
-            "homeUrl": "https://luottruyen14.com"
+            "homeUrl": "https://luottruyen15.com"
           }
         ]
       },
@@ -31887,13 +31908,13 @@
         "name": "BiliManga",
         "packageName": "eu.kanade.tachiyomi.extension.zh.bilimanga",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-zh.bilimanga-v1.6.12.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-zh.bilimanga-v1.6.13.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/bilimanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-zh.bilimanga-v1.6.12.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-zh.bilimanga-v1.6.13.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "12",
-        "versionName": "1.6.12",
+        "versionCode": "13",
+        "versionName": "1.6.13",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -32588,13 +32609,13 @@
         "name": "NoyAcg",
         "packageName": "eu.kanade.tachiyomi.extension.zh.noyacg",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-zh.noyacg-v1.6.5.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-zh.noyacg-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/noyacg/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-zh.noyacg-v1.6.5.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-zh.noyacg-v1.6.6.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "5",
-        "versionName": "1.6.5",
+        "versionCode": "6",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
