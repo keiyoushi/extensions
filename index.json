@@ -8351,13 +8351,13 @@
         "name": "Atsumaru",
         "packageName": "eu.kanade.tachiyomi.extension.en.atsumaru",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.atsumaru-v1.4.19.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.atsumaru-v1.6.20.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/atsumaru/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.atsumaru-v1.4.19.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.atsumaru-v1.6.20.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "19",
-        "versionName": "1.4.19",
+        "extensionLib": "1.6",
+        "versionCode": "20",
+        "versionName": "1.6.20",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -11700,13 +11700,13 @@
         "name": "Mangadotnet",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangadotnet",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.mangadotnet-v1.6.15.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.mangadotnet-v1.6.16.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangadotnet/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.mangadotnet-v1.6.15.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.mangadotnet-v1.6.16.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "15",
-        "versionName": "1.6.15",
+        "versionCode": "16",
+        "versionName": "1.6.16",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -12844,13 +12844,13 @@
         "name": "Manhwa18",
         "packageName": "eu.kanade.tachiyomi.extension.en.manhwa18",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.manhwa18-v1.4.13.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.manhwa18-v1.4.14.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwa18/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.manhwa18-v1.4.13.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.manhwa18-v1.4.14.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "13",
-        "versionName": "1.4.13",
+        "versionCode": "14",
+        "versionName": "1.4.14",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -27340,13 +27340,13 @@
         "name": "MangaBuff",
         "packageName": "eu.kanade.tachiyomi.extension.ru.mangabuff",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-ru.mangabuff-v1.4.6.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-ru.mangabuff-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/mangabuff/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-ru.mangabuff-v1.4.6.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-ru.mangabuff-v1.6.6.jar"
         },
-        "extensionLib": "1.4",
+        "extensionLib": "1.6",
         "versionCode": "6",
-        "versionName": "1.4.6",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -32483,20 +32483,24 @@
         "name": "Manhuashe",
         "packageName": "eu.kanade.tachiyomi.extension.zh.manhuashe",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-zh.manhuashe-v1.4.1.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-zh.manhuashe-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/manhuashe/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-zh.manhuashe-v1.4.1.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-zh.manhuashe-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
+        "extensionLib": "1.6",
         "versionCode": "1",
-        "versionName": "1.4.1",
-        "contentWarning": "CONTENT_WARNING_SAFE",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "6230622879116184108",
             "name": "\u6f2b\u753b\u793e",
             "language": "zh",
-            "homeUrl": "https://www.311s.com"
+            "homeUrl": "https://www.311s.com",
+            "mirrorUrls": [
+              "https://www.311s.com",
+              "https://www.m206.com"
+            ]
           }
         ]
       },
