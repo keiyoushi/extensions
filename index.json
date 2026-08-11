@@ -30602,13 +30602,13 @@
         "name": "KhoManhwa",
         "packageName": "eu.kanade.tachiyomi.extension.vi.khomanhwa",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-vi.khomanhwa-v1.6.2.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-vi.khomanhwa-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/khomanhwa/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-vi.khomanhwa-v1.6.2.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-vi.khomanhwa-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "2",
-        "versionName": "1.6.2",
+        "versionCode": "3",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
