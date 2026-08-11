@@ -6997,6 +6997,27 @@
         ]
       },
       {
+        "name": "EShadow",
+        "packageName": "eu.kanade.tachiyomi.extension.ar.eshadow",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-ar.eshadow-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/eshadow/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-ar.eshadow-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8617573161604126293",
+            "name": "EShadow",
+            "language": "ar",
+            "homeUrl": "https://eshadow.net"
+          }
+        ]
+      },
+      {
         "name": "Goon Scans",
         "packageName": "eu.kanade.tachiyomi.extension.ar.goonscans",
         "resources": {
