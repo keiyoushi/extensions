@@ -30578,6 +30578,27 @@
         ]
       },
       {
+        "name": "H\u1ecdc Vi\u1ec7n 2Ten",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.hv2tcomics",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-vi.hv2tcomics-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/hv2tcomics/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-vi.hv2tcomics-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "8944173268012372984",
+            "name": "H\u1ecdc Vi\u1ec7n 2Ten",
+            "language": "vi",
+            "homeUrl": "https://hv2tcomics.net"
+          }
+        ]
+      },
+      {
         "name": "KamiComic",
         "packageName": "eu.kanade.tachiyomi.extension.vi.kamicomic",
         "resources": {
@@ -31283,6 +31304,27 @@
             "name": "ThienThaiTruyen",
             "language": "vi",
             "homeUrl": "https://thienthaitruyen13.com"
+          }
+        ]
+      },
+      {
+        "name": "Th\u1ecf Ham Ng\u1ee7",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.thohamngu",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-vi.thohamngu-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/thohamngu/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-vi.thohamngu-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "955691323709162100",
+            "name": "Th\u1ecf Ham Ng\u1ee7",
+            "language": "vi",
+            "homeUrl": "https://thohamngu.xyz"
           }
         ]
       },
