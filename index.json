@@ -6481,6 +6481,1101 @@
         ]
       },
       {
+        "name": "XCOMIC",
+        "packageName": "eu.kanade.tachiyomi.extension.all.xcomic",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-all.xcomic-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/xcomic/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-all.xcomic-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7503768123990313103",
+            "name": "XCOMIC",
+            "language": "all",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "1951931397842101209",
+            "name": "XCOMIC",
+            "language": "en",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "2216072015554312879",
+            "name": "XCOMIC",
+            "language": "fr",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "572420542053895720",
+            "name": "XCOMIC",
+            "language": "es",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "6439485858797526203",
+            "name": "XCOMIC",
+            "language": "es-419",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "8533093209370387548",
+            "name": "XCOMIC",
+            "language": "pt",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "1660243857802336382",
+            "name": "XCOMIC",
+            "language": "pt-BR",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "8216866031691391623",
+            "name": "XCOMIC",
+            "language": "ja",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "6880113725177268823",
+            "name": "XCOMIC",
+            "language": "ko",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "2745995474917358674",
+            "name": "XCOMIC",
+            "language": "zh",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "6988172276198305441",
+            "name": "XCOMIC",
+            "language": "ru",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "3342417417593468107",
+            "name": "XCOMIC",
+            "language": "id",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "3566404164873791064",
+            "name": "XCOMIC",
+            "language": "ab",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "5728564989597951801",
+            "name": "XCOMIC",
+            "language": "af",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "5553485924656356372",
+            "name": "XCOMIC",
+            "language": "sq",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "857829070613697917",
+            "name": "XCOMIC",
+            "language": "am",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "1056878809650357054",
+            "name": "XCOMIC",
+            "language": "ar",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "8442441626343362896",
+            "name": "XCOMIC",
+            "language": "hy",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "5327289751828743191",
+            "name": "XCOMIC",
+            "language": "az",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "7523608306021299096",
+            "name": "XCOMIC",
+            "language": "be",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "6254472971589097316",
+            "name": "XCOMIC",
+            "language": "bn",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "6326397027999974084",
+            "name": "XCOMIC",
+            "language": "bs",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "2273537187174793317",
+            "name": "XCOMIC",
+            "language": "bg",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "4724913414181893079",
+            "name": "XCOMIC",
+            "language": "my",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "7688084400938949137",
+            "name": "XCOMIC",
+            "language": "km",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "1397059280149027571",
+            "name": "XCOMIC",
+            "language": "ca",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "6682070255174061291",
+            "name": "XCOMIC",
+            "language": "ceb",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "2613927518629217319",
+            "name": "XCOMIC",
+            "language": "hr",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "4176156175816655300",
+            "name": "XCOMIC",
+            "language": "cs",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "7194363928743278896",
+            "name": "XCOMIC",
+            "language": "cv",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "4542123677259112068",
+            "name": "XCOMIC",
+            "language": "da",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "5159790660090858526",
+            "name": "XCOMIC",
+            "language": "nl",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "4237179401763840936",
+            "name": "XCOMIC",
+            "language": "et",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "2125420972287630427",
+            "name": "XCOMIC",
+            "language": "eo",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "8171598833682246858",
+            "name": "XCOMIC",
+            "language": "eu",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "7962475412178605345",
+            "name": "XCOMIC",
+            "language": "fo",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "5444937582138684030",
+            "name": "XCOMIC",
+            "language": "fil",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "4278174372753762939",
+            "name": "XCOMIC",
+            "language": "fi",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "1259989312146662534",
+            "name": "XCOMIC",
+            "language": "ka",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "780073044470059268",
+            "name": "XCOMIC",
+            "language": "de",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "2610384477305802087",
+            "name": "XCOMIC",
+            "language": "el",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "5135458544544074625",
+            "name": "XCOMIC",
+            "language": "gn",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "1260385570722906246",
+            "name": "XCOMIC",
+            "language": "gu",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "4378923728346736971",
+            "name": "XCOMIC",
+            "language": "ht",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "1421242117543861759",
+            "name": "XCOMIC",
+            "language": "ha",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "1981608347047307401",
+            "name": "XCOMIC",
+            "language": "he",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "3943603818795183482",
+            "name": "XCOMIC",
+            "language": "hi",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "1768336766100079834",
+            "name": "XCOMIC",
+            "language": "hu",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "8671928911161063890",
+            "name": "XCOMIC",
+            "language": "is",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "5875227647466590197",
+            "name": "XCOMIC",
+            "language": "ig",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "6247109808466815737",
+            "name": "XCOMIC",
+            "language": "ga",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "39492592969752036",
+            "name": "XCOMIC",
+            "language": "gl",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "7006606499227655211",
+            "name": "XCOMIC",
+            "language": "it",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "9103598443106676547",
+            "name": "XCOMIC",
+            "language": "jv",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "2555874404031785394",
+            "name": "XCOMIC",
+            "language": "kn",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "5662825458844463537",
+            "name": "XCOMIC",
+            "language": "kk",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "6978974499268021424",
+            "name": "XCOMIC",
+            "language": "ku",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "6988149213403694605",
+            "name": "XCOMIC",
+            "language": "ky",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "5513250945759736859",
+            "name": "XCOMIC",
+            "language": "la",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "7026881865612253028",
+            "name": "XCOMIC",
+            "language": "lo",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "5873548813612603937",
+            "name": "XCOMIC",
+            "language": "lv",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "7669766997961625074",
+            "name": "XCOMIC",
+            "language": "lt",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "1329293629284029285",
+            "name": "XCOMIC",
+            "language": "lb",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "1823869755428709544",
+            "name": "XCOMIC",
+            "language": "mk",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "108868296923167084",
+            "name": "XCOMIC",
+            "language": "mg",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "7225841250679865793",
+            "name": "XCOMIC",
+            "language": "ms",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "9161882230332210842",
+            "name": "XCOMIC",
+            "language": "ml",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "4812305674669058350",
+            "name": "XCOMIC",
+            "language": "mt",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "959518579269945569",
+            "name": "XCOMIC",
+            "language": "mi",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "8815142912334455952",
+            "name": "XCOMIC",
+            "language": "mr",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "2785458817444909955",
+            "name": "XCOMIC",
+            "language": "mo",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "2969083037541457169",
+            "name": "XCOMIC",
+            "language": "mn",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "7708594112065781714",
+            "name": "XCOMIC",
+            "language": "ne",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "2990284342797257304",
+            "name": "XCOMIC",
+            "language": "no",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "7304840866514485216",
+            "name": "XCOMIC",
+            "language": "ny",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "1717186623085225083",
+            "name": "XCOMIC",
+            "language": "ps",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "771703135489548626",
+            "name": "XCOMIC",
+            "language": "fa",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "847318645250524482",
+            "name": "XCOMIC",
+            "language": "pl",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "4676314052275465233",
+            "name": "XCOMIC",
+            "language": "ro",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "7402169267566704087",
+            "name": "XCOMIC",
+            "language": "rm",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "3158959905555690336",
+            "name": "XCOMIC",
+            "language": "sm",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "3866187795273682124",
+            "name": "XCOMIC",
+            "language": "sr",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "2763632522440069842",
+            "name": "XCOMIC",
+            "language": "sh",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "2334798442696489929",
+            "name": "XCOMIC",
+            "language": "ss",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "7037541923732246202",
+            "name": "XCOMIC",
+            "language": "st",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "8882515912790968826",
+            "name": "XCOMIC",
+            "language": "sn",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "1220014044988990984",
+            "name": "XCOMIC",
+            "language": "sd",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "837476130197093292",
+            "name": "XCOMIC",
+            "language": "si",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "2930316817181494078",
+            "name": "XCOMIC",
+            "language": "sk",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "340134905673471737",
+            "name": "XCOMIC",
+            "language": "sl",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "1082537919377794470",
+            "name": "XCOMIC",
+            "language": "so",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "5634766783505645904",
+            "name": "XCOMIC",
+            "language": "sw",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "5793474496376459492",
+            "name": "XCOMIC",
+            "language": "sv",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "6706703456285335159",
+            "name": "XCOMIC",
+            "language": "tg",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "5554000687864573164",
+            "name": "XCOMIC",
+            "language": "ta",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "3308329928237254709",
+            "name": "XCOMIC",
+            "language": "te",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "6507587179337765602",
+            "name": "XCOMIC",
+            "language": "th",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "5144141861335321638",
+            "name": "XCOMIC",
+            "language": "ti",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "6647368708744077163",
+            "name": "XCOMIC",
+            "language": "to",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "6593451456647607548",
+            "name": "XCOMIC",
+            "language": "tr",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "7758596679089783493",
+            "name": "XCOMIC",
+            "language": "tk",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "2213301583269440589",
+            "name": "XCOMIC",
+            "language": "uk",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "1367173742044652281",
+            "name": "XCOMIC",
+            "language": "ur",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "2649592580793982649",
+            "name": "XCOMIC",
+            "language": "uz",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "4245057044546585936",
+            "name": "XCOMIC",
+            "language": "vi",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "4953926481828561899",
+            "name": "XCOMIC",
+            "language": "yo",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "7623598553676151454",
+            "name": "XCOMIC",
+            "language": "zu",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          },
+          {
+            "id": "2042352429095291511",
+            "name": "XCOMIC",
+            "language": "other",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net"
+            ]
+          }
+        ]
+      },
+      {
         "name": "XGMN",
         "packageName": "eu.kanade.tachiyomi.extension.all.xgmn",
         "resources": {
