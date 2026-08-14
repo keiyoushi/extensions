@@ -26981,13 +26981,13 @@
         "name": "MangaLivre.org",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangalivreorg",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/88e1412-2/tachiyomi-pt.mangalivreorg-v1.6.2.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/ba42cae/tachiyomi-pt.mangalivreorg-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mangalivreorg/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/88e1412-2/tachiyomi-pt.mangalivreorg-v1.6.2.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/ba42cae/tachiyomi-pt.mangalivreorg-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "2",
-        "versionName": "1.6.2",
+        "versionCode": "3",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
