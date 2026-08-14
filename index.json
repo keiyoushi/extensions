@@ -9842,27 +9842,6 @@
         ]
       },
       {
-        "name": "Coffee Manga",
-        "packageName": "eu.kanade.tachiyomi.extension.en.coffeemanga",
-        "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/88e1412-0/tachiyomi-en.coffeemanga-v1.4.57.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/coffeemanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/88e1412-0/tachiyomi-en.coffeemanga-v1.4.57.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "57",
-        "versionName": "1.4.57",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "7570643086791062929",
-            "name": "Coffee Manga",
-            "language": "en",
-            "homeUrl": "https://coffeemanga.ink"
-          }
-        ]
-      },
-      {
         "name": "Collected Curios",
         "packageName": "eu.kanade.tachiyomi.extension.en.collectedcurios",
         "resources": {
