@@ -1201,12 +1201,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.xcomic": {
     "apk": {
-      "name": "tachiyomi-all.xcomic-v1.6.2.apk",
-      "sha256": "61ab8ff89a0dd6330cc69c6fc8f56b2569ca6f1d1468e5eeba9e7a5228664c78"
+      "name": "tachiyomi-all.xcomic-v1.6.3.apk",
+      "sha256": "170244da2f00f01335ed7a8b44bfbf69a9b25bbfa75fa2617edafa8cd24a95a5"
     },
     "jar": {
-      "name": "tachiyomi-all.xcomic-v1.6.2.jar",
-      "sha256": "7b965cf0486514c4f52a31faf555f19a1ab88347c6d57498facae855324ab9c2"
+      "name": "tachiyomi-all.xcomic-v1.6.3.jar",
+      "sha256": "f9e18e99a25f7ff6f2c09a81ee38f95b53ebffd753c1b106d7d9c70060ea976e"
     }
   },
   "eu.kanade.tachiyomi.extension.all.xgmn": {
@@ -5731,12 +5731,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.vyvymanga": {
     "apk": {
-      "name": "tachiyomi-en.vyvymanga-v1.6.42.apk",
-      "sha256": "0814e1e484947181f862df6b64e6e57c36940837a8947d0a0030ef1708e2bbff"
+      "name": "tachiyomi-en.vyvymanga-v1.6.43.apk",
+      "sha256": "10868c5ed37a30d3eafd81f6779452d84a837874e88c03cb6da51ea4273080b6"
     },
     "jar": {
-      "name": "tachiyomi-en.vyvymanga-v1.6.42.jar",
-      "sha256": "5d5aa9432fe530c99439d0de49deea9e2d101a32a5d1d1fb5873fe0786136dd3"
+      "name": "tachiyomi-en.vyvymanga-v1.6.43.jar",
+      "sha256": "0d02549a660ba6a3364c13dcdf968bd159f527ab21217fb393f03a09bf429765"
     }
   },
   "eu.kanade.tachiyomi.extension.en.warforrayuba": {

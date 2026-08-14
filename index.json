@@ -6484,13 +6484,13 @@
         "name": "XCOMIC",
         "packageName": "eu.kanade.tachiyomi.extension.all.xcomic",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/88e1412-0/tachiyomi-all.xcomic-v1.6.2.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/937cd6b/tachiyomi-all.xcomic-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/xcomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/88e1412-0/tachiyomi-all.xcomic-v1.6.2.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/937cd6b/tachiyomi-all.xcomic-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "2",
-        "versionName": "1.6.2",
+        "versionCode": "3",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -17174,13 +17174,13 @@
         "name": "VyvyManga",
         "packageName": "eu.kanade.tachiyomi.extension.en.vyvymanga",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/88e1412-1/tachiyomi-en.vyvymanga-v1.6.42.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/937cd6b/tachiyomi-en.vyvymanga-v1.6.43.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/vyvymanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/88e1412-1/tachiyomi-en.vyvymanga-v1.6.42.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/937cd6b/tachiyomi-en.vyvymanga-v1.6.43.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "42",
-        "versionName": "1.6.42",
+        "versionCode": "43",
+        "versionName": "1.6.43",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
