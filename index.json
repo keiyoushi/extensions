@@ -8543,13 +8543,13 @@
         "name": "MangaTek",
         "packageName": "eu.kanade.tachiyomi.extension.ar.mangatek",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/88e1412-0/tachiyomi-ar.mangatek-v1.6.3.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/048df97/tachiyomi-ar.mangatek-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangatek/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/88e1412-0/tachiyomi-ar.mangatek-v1.6.3.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/048df97/tachiyomi-ar.mangatek-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "3",
-        "versionName": "1.6.3",
+        "versionCode": "4",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -26750,13 +26750,13 @@
         "name": "KuroMangas",
         "packageName": "eu.kanade.tachiyomi.extension.pt.kuromangas",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/88e1412-2/tachiyomi-pt.kuromangas-v1.4.9.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/048df97/tachiyomi-pt.kuromangas-v1.4.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/kuromangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/88e1412-2/tachiyomi-pt.kuromangas-v1.4.9.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/048df97/tachiyomi-pt.kuromangas-v1.4.10.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "9",
-        "versionName": "1.4.9",
+        "versionCode": "10",
+        "versionName": "1.4.10",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -27695,13 +27695,13 @@
         "name": "Roxinha",
         "packageName": "eu.kanade.tachiyomi.extension.pt.roxinha",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/88e1412-2/tachiyomi-pt.roxinha-v1.4.2.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/048df97/tachiyomi-pt.roxinha-v1.4.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/roxinha/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/88e1412-2/tachiyomi-pt.roxinha-v1.4.2.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/048df97/tachiyomi-pt.roxinha-v1.4.3.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "2",
-        "versionName": "1.4.2",
+        "versionCode": "3",
+        "versionName": "1.4.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -28539,13 +28539,13 @@
         "name": "Manga-shi",
         "packageName": "eu.kanade.tachiyomi.extension.ru.mangashi",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/88e1412-2/tachiyomi-ru.mangashi-v1.4.52.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/048df97/tachiyomi-ru.mangashi-v1.6.52.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/mangashi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/88e1412-2/tachiyomi-ru.mangashi-v1.4.52.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/048df97/tachiyomi-ru.mangashi-v1.6.52.jar"
         },
-        "extensionLib": "1.4",
+        "extensionLib": "1.6",
         "versionCode": "52",
-        "versionName": "1.4.52",
+        "versionName": "1.6.52",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
