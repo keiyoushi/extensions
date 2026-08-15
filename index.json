@@ -8032,13 +8032,13 @@
         "name": "Dilar",
         "packageName": "eu.kanade.tachiyomi.extension.ar.dilar",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/22e422e/tachiyomi-ar.dilar-v1.6.10.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/1b44c85/tachiyomi-ar.dilar-v1.6.11.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/dilar/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/22e422e/tachiyomi-ar.dilar-v1.6.10.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/1b44c85/tachiyomi-ar.dilar-v1.6.11.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "10",
-        "versionName": "1.6.10",
+        "versionCode": "11",
+        "versionName": "1.6.11",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -8543,13 +8543,13 @@
         "name": "MangaTek",
         "packageName": "eu.kanade.tachiyomi.extension.ar.mangatek",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/048df97/tachiyomi-ar.mangatek-v1.6.4.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/1b44c85/tachiyomi-ar.mangatek-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangatek/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/048df97/tachiyomi-ar.mangatek-v1.6.4.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/1b44c85/tachiyomi-ar.mangatek-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "4",
-        "versionName": "1.6.4",
+        "versionCode": "5",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -18560,13 +18560,13 @@
         "name": "Inmortal Scan",
         "packageName": "eu.kanade.tachiyomi.extension.es.inmortalscan",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/88e1412-1/tachiyomi-es.inmortalscan-v1.4.56.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/1b44c85/tachiyomi-es.inmortalscan-v1.4.57.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/inmortalscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/88e1412-1/tachiyomi-es.inmortalscan-v1.4.56.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/1b44c85/tachiyomi-es.inmortalscan-v1.4.57.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "56",
-        "versionName": "1.4.56",
+        "versionCode": "57",
+        "versionName": "1.4.57",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -22640,20 +22640,20 @@
         "name": "Shinigami",
         "packageName": "eu.kanade.tachiyomi.extension.id.shinigami",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/88e1412-1/tachiyomi-id.shinigami-v1.4.80.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/1b44c85/tachiyomi-id.shinigami-v1.4.81.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/shinigami/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/88e1412-1/tachiyomi-id.shinigami-v1.4.80.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/1b44c85/tachiyomi-id.shinigami-v1.4.81.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "80",
-        "versionName": "1.4.80",
+        "versionCode": "81",
+        "versionName": "1.4.81",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3411809758861089969",
             "name": "Shinigami",
             "language": "id",
-            "homeUrl": "https://g.shinigami.asia"
+            "homeUrl": "https://11.shinigami.asia"
           }
         ]
       },
