@@ -2159,16 +2159,6 @@
       "sha256": "286646dc895fdac3fdbfe7e3e7ec6c8315482747dd91070a729c3b2b81735ebb"
     }
   },
-  "eu.kanade.tachiyomi.extension.en.beehentai": {
-    "apk": {
-      "name": "tachiyomi-en.beehentai-v1.4.24.apk",
-      "sha256": "5a1518dbe06cfd2a58ce3e8c5f59458552910f81ae96f32d65f32c7eef991481"
-    },
-    "jar": {
-      "name": "tachiyomi-en.beehentai-v1.4.24.jar",
-      "sha256": "5183ba150999f555deb025c40c30a0ab5897b5ee43476c24e0d7c1084a42c312"
-    }
-  },
   "eu.kanade.tachiyomi.extension.en.bookwalker": {
     "apk": {
       "name": "tachiyomi-en.bookwalker-v1.4.7.apk",

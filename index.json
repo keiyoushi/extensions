@@ -9632,27 +9632,6 @@
         ]
       },
       {
-        "name": "BeeHentai",
-        "packageName": "eu.kanade.tachiyomi.extension.en.beehentai",
-        "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a76c957-0/tachiyomi-en.beehentai-v1.4.24.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/beehentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/afa591f-0/tachiyomi-en.beehentai-v1.4.24.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "24",
-        "versionName": "1.4.24",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "3819152328997277823",
-            "name": "BeeHentai",
-            "language": "en",
-            "homeUrl": "https://beehentai.com"
-          }
-        ]
-      },
-      {
         "name": "BookWalker",
         "packageName": "eu.kanade.tachiyomi.extension.en.bookwalker",
         "resources": {
