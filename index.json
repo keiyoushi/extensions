@@ -9467,13 +9467,13 @@
         "name": "Atsumaru",
         "packageName": "eu.kanade.tachiyomi.extension.en.atsumaru",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a76c957-0/tachiyomi-en.atsumaru-v1.6.21.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/9a829a6/tachiyomi-en.atsumaru-v1.6.22.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/atsumaru/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/afa591f-0/tachiyomi-en.atsumaru-v1.6.21.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/9a829a6/tachiyomi-en.atsumaru-v1.6.22.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "21",
-        "versionName": "1.6.21",
+        "versionCode": "22",
+        "versionName": "1.6.22",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
