@@ -10941,13 +10941,13 @@
         "name": "Goda",
         "packageName": "eu.kanade.tachiyomi.extension.en.goda",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a76c957-0/tachiyomi-en.goda-v1.4.3.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/90bd698/tachiyomi-en.goda-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/goda/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/afa591f-0/tachiyomi-en.goda-v1.4.3.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/90bd698/tachiyomi-en.goda-v1.6.3.jar"
         },
-        "extensionLib": "1.4",
+        "extensionLib": "1.6",
         "versionCode": "3",
-        "versionName": "1.4.3",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -12795,13 +12795,13 @@
         "name": "Mangadotnet",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangadotnet",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a76c957-0/tachiyomi-en.mangadotnet-v1.6.17.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/90bd698/tachiyomi-en.mangadotnet-v1.6.18.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangadotnet/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/afa591f-0/tachiyomi-en.mangadotnet-v1.6.17.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/90bd698/tachiyomi-en.mangadotnet-v1.6.18.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "17",
-        "versionName": "1.6.17",
+        "versionCode": "18",
+        "versionName": "1.6.18",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -24158,20 +24158,20 @@
         "name": "Jmanga",
         "packageName": "eu.kanade.tachiyomi.extension.ja.jmanga",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a76c957-1/tachiyomi-ja.jmanga-v1.4.6.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/90bd698/tachiyomi-ja.jmanga-v1.4.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/jmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/afa591f-1/tachiyomi-ja.jmanga-v1.4.6.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/90bd698/tachiyomi-ja.jmanga-v1.4.7.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "6",
-        "versionName": "1.4.6",
+        "versionCode": "7",
+        "versionName": "1.4.7",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "6141590427749684419",
             "name": "Jmanga",
             "language": "ja",
-            "homeUrl": "https://jmanga.loan"
+            "homeUrl": "https://jmanga.land"
           }
         ]
       },
@@ -32952,13 +32952,13 @@
         "name": "GoDa",
         "packageName": "eu.kanade.tachiyomi.extension.zh.baozimhorg",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a76c957-2/tachiyomi-zh.baozimhorg-v1.4.36.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/90bd698/tachiyomi-zh.baozimhorg-v1.6.37.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/goda/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/afa591f-2/tachiyomi-zh.baozimhorg-v1.4.36.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/90bd698/tachiyomi-zh.baozimhorg-v1.6.37.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "36",
-        "versionName": "1.4.36",
+        "extensionLib": "1.6",
+        "versionCode": "37",
+        "versionName": "1.6.37",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -33178,13 +33178,13 @@
         "name": "18Manhua",
         "packageName": "eu.kanade.tachiyomi.extension.zh.eighteenmanhua",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a76c957-2/tachiyomi-zh.eighteenmanhua-v1.4.3.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/90bd698/tachiyomi-zh.eighteenmanhua-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/eighteenmanhua/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/afa591f-2/tachiyomi-zh.eighteenmanhua-v1.4.3.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/90bd698/tachiyomi-zh.eighteenmanhua-v1.6.3.jar"
         },
-        "extensionLib": "1.4",
+        "extensionLib": "1.6",
         "versionCode": "3",
-        "versionName": "1.4.3",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
