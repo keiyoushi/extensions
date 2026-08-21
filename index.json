@@ -4195,13 +4195,13 @@
         "name": "MangaFire",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangafire",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a76c957-0/tachiyomi-all.mangafire-v1.6.29.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/524d656/tachiyomi-all.mangafire-v1.6.30.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangafire/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/afa591f-0/tachiyomi-all.mangafire-v1.6.29.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/524d656/tachiyomi-all.mangafire-v1.6.30.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "29",
-        "versionName": "1.6.29",
+        "versionCode": "30",
+        "versionName": "1.6.30",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -9971,13 +9971,13 @@
         "name": "Comix",
         "packageName": "eu.kanade.tachiyomi.extension.en.comix",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a76c957-0/tachiyomi-en.comix-v1.4.34.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/524d656/tachiyomi-en.comix-v1.6.35.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/comix/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/afa591f-0/tachiyomi-en.comix-v1.4.34.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/524d656/tachiyomi-en.comix-v1.6.35.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "34",
-        "versionName": "1.4.34",
+        "extensionLib": "1.6",
+        "versionCode": "35",
+        "versionName": "1.6.35",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -16720,6 +16720,27 @@
             "name": "The Duck Webcomics",
             "language": "en",
             "homeUrl": "https://www.theduckwebcomics.com"
+          }
+        ]
+      },
+      {
+        "name": "The Girl from Random Chatting Manga Online",
+        "packageName": "eu.kanade.tachiyomi.extension.en.thegirlfromrandomchattingmangaonline",
+        "resources": {
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/524d656/tachiyomi-en.thegirlfromrandomchattingmangaonline-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/thegirlfromrandomchattingmangaonline/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/524d656/tachiyomi-en.thegirlfromrandomchattingmangaonline-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7628399752617522749",
+            "name": "The Girl from Random Chatting Manga Online",
+            "language": "en",
+            "homeUrl": "https://thegirlfromrandomchatting.com"
           }
         ]
       },
@@ -26729,13 +26750,13 @@
         "name": "KuroMangas",
         "packageName": "eu.kanade.tachiyomi.extension.pt.kuromangas",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a76c957-2/tachiyomi-pt.kuromangas-v1.4.10.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/524d656/tachiyomi-pt.kuromangas-v1.4.11.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/kuromangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/afa591f-2/tachiyomi-pt.kuromangas-v1.4.10.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/524d656/tachiyomi-pt.kuromangas-v1.4.11.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "10",
-        "versionName": "1.4.10",
+        "versionCode": "11",
+        "versionName": "1.4.11",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -26981,13 +27002,13 @@
         "name": "MangaLivre.org",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangalivreorg",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/acab221/tachiyomi-pt.mangalivreorg-v1.6.4.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/524d656/tachiyomi-pt.mangalivreorg-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mangalivreorg/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/acab221/tachiyomi-pt.mangalivreorg-v1.6.4.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/524d656/tachiyomi-pt.mangalivreorg-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "4",
-        "versionName": "1.6.4",
+        "versionCode": "5",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -27800,13 +27821,13 @@
         "name": "Yomu Comics",
         "packageName": "eu.kanade.tachiyomi.extension.pt.sssscanlator",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a18924b/tachiyomi-pt.sssscanlator-v1.6.54.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/524d656/tachiyomi-pt.sssscanlator-v1.6.55.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/sssscanlator/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/a18924b/tachiyomi-pt.sssscanlator-v1.6.54.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/524d656/tachiyomi-pt.sssscanlator-v1.6.55.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "54",
-        "versionName": "1.6.54",
+        "versionCode": "55",
+        "versionName": "1.6.55",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -31277,13 +31298,13 @@
         "name": "HoneyManga",
         "packageName": "eu.kanade.tachiyomi.extension.uk.honeymanga",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a18924b/tachiyomi-uk.honeymanga-v1.6.10.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/524d656/tachiyomi-uk.honeymanga-v1.6.11.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/uk/honeymanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/a18924b/tachiyomi-uk.honeymanga-v1.6.10.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/524d656/tachiyomi-uk.honeymanga-v1.6.11.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "10",
-        "versionName": "1.6.10",
+        "versionCode": "11",
+        "versionName": "1.6.11",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
