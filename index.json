@@ -27074,13 +27074,13 @@
         "name": "MangaLivre.org",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangalivreorg",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/524d656/tachiyomi-pt.mangalivreorg-v1.6.5.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/d5283f5/tachiyomi-pt.mangalivreorg-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mangalivreorg/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/524d656/tachiyomi-pt.mangalivreorg-v1.6.5.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/d5283f5/tachiyomi-pt.mangalivreorg-v1.6.6.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "5",
-        "versionName": "1.6.5",
+        "versionCode": "6",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -27893,13 +27893,13 @@
         "name": "Yomu Comics",
         "packageName": "eu.kanade.tachiyomi.extension.pt.sssscanlator",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/66535bd/tachiyomi-pt.sssscanlator-v1.6.57.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/d5283f5/tachiyomi-pt.sssscanlator-v1.6.58.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/sssscanlator/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/66535bd/tachiyomi-pt.sssscanlator-v1.6.57.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/d5283f5/tachiyomi-pt.sssscanlator-v1.6.58.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "57",
-        "versionName": "1.6.57",
+        "versionCode": "58",
+        "versionName": "1.6.58",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
