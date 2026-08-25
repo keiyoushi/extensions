@@ -6022,6 +6022,93 @@
         ]
       },
       {
+        "name": "SayManhwa",
+        "packageName": "eu.kanade.tachiyomi.extension.all.saymanhwa",
+        "resources": {
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/12ed1c4/tachiyomi-all.saymanhwa-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/saymanhwa/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/12ed1c4/tachiyomi-all.saymanhwa-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7915151531599641879",
+            "name": "SayManhwa",
+            "language": "ar",
+            "homeUrl": "https://saymanhwa.com"
+          },
+          {
+            "id": "718198470352266702",
+            "name": "SayManhwa",
+            "language": "de",
+            "homeUrl": "https://saymanhwa.com"
+          },
+          {
+            "id": "160957764321519511",
+            "name": "SayManhwa",
+            "language": "en",
+            "homeUrl": "https://saymanhwa.com"
+          },
+          {
+            "id": "4746791862486594870",
+            "name": "SayManhwa",
+            "language": "es",
+            "homeUrl": "https://saymanhwa.com"
+          },
+          {
+            "id": "8842126332542772866",
+            "name": "SayManhwa",
+            "language": "fil",
+            "homeUrl": "https://saymanhwa.com"
+          },
+          {
+            "id": "1085765242853690038",
+            "name": "SayManhwa",
+            "language": "fr",
+            "homeUrl": "https://saymanhwa.com"
+          },
+          {
+            "id": "2860030111448556554",
+            "name": "SayManhwa",
+            "language": "id",
+            "homeUrl": "https://saymanhwa.com"
+          },
+          {
+            "id": "3346867097478116902",
+            "name": "SayManhwa",
+            "language": "ja",
+            "homeUrl": "https://saymanhwa.com"
+          },
+          {
+            "id": "6718937619873538111",
+            "name": "SayManhwa",
+            "language": "pt",
+            "homeUrl": "https://saymanhwa.com"
+          },
+          {
+            "id": "3836842608420894997",
+            "name": "SayManhwa",
+            "language": "th",
+            "homeUrl": "https://saymanhwa.com"
+          },
+          {
+            "id": "8278038049426902994",
+            "name": "SayManhwa",
+            "language": "vi",
+            "homeUrl": "https://saymanhwa.com"
+          },
+          {
+            "id": "6326978194357900073",
+            "name": "SayManhwa",
+            "language": "zh",
+            "homeUrl": "https://saymanhwa.com"
+          }
+        ]
+      },
+      {
         "name": "SeraphicDeviltry",
         "packageName": "eu.kanade.tachiyomi.extension.all.seraphicdeviltry",
         "resources": {
@@ -21616,13 +21703,13 @@
         "name": "Kiryuu",
         "packageName": "eu.kanade.tachiyomi.extension.id.kiryuu",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a76c957-1/tachiyomi-id.kiryuu-v1.4.56.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/12ed1c4/tachiyomi-id.kiryuu-v1.6.57.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/kiryuu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/afa591f-1/tachiyomi-id.kiryuu-v1.4.56.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/12ed1c4/tachiyomi-id.kiryuu-v1.6.57.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "56",
-        "versionName": "1.4.56",
+        "extensionLib": "1.6",
+        "versionCode": "57",
+        "versionName": "1.6.57",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -22204,13 +22291,13 @@
         "name": "Ikiru",
         "packageName": "eu.kanade.tachiyomi.extension.id.mangatale",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a76c957-1/tachiyomi-id.mangatale-v1.4.53.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/12ed1c4/tachiyomi-id.mangatale-v1.6.54.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/mangatale/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/afa591f-1/tachiyomi-id.mangatale-v1.4.53.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/12ed1c4/tachiyomi-id.mangatale-v1.6.54.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "53",
-        "versionName": "1.4.53",
+        "extensionLib": "1.6",
+        "versionCode": "54",
+        "versionName": "1.6.54",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -22414,13 +22501,13 @@
         "name": "Natsu",
         "packageName": "eu.kanade.tachiyomi.extension.id.natsu",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a76c957-1/tachiyomi-id.natsu-v1.4.37.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/12ed1c4/tachiyomi-id.natsu-v1.6.38.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/natsu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/afa591f-1/tachiyomi-id.natsu-v1.4.37.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/12ed1c4/tachiyomi-id.natsu-v1.6.38.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "37",
-        "versionName": "1.4.37",
+        "extensionLib": "1.6",
+        "versionCode": "38",
+        "versionName": "1.6.38",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -25213,13 +25300,13 @@
         "name": "Rawkuma",
         "packageName": "eu.kanade.tachiyomi.extension.ja.rawkuma",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a76c957-2/tachiyomi-ja.rawkuma-v1.4.39.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/12ed1c4/tachiyomi-ja.rawkuma-v1.6.40.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/rawkuma/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/afa591f-2/tachiyomi-ja.rawkuma-v1.4.39.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/12ed1c4/tachiyomi-ja.rawkuma-v1.6.40.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "39",
-        "versionName": "1.4.39",
+        "extensionLib": "1.6",
+        "versionCode": "40",
+        "versionName": "1.6.40",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -33436,27 +33523,6 @@
             "name": "HANMAN18",
             "language": "zh",
             "homeUrl": "https://hanman18.com"
-          }
-        ]
-      },
-      {
-        "name": "Happymh",
-        "packageName": "eu.kanade.tachiyomi.extension.zh.happymh",
-        "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a76c957-2/tachiyomi-zh.happymh-v1.6.25.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/happymh/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/afa591f-2/tachiyomi-zh.happymh-v1.6.25.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "25",
-        "versionName": "1.6.25",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "6523822705383645833",
-            "name": "\u55e8\u76ae\u6f2b\u753b",
-            "language": "zh",
-            "homeUrl": "https://m.happymh.com"
           }
         ]
       },

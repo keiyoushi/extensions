@@ -1069,6 +1069,16 @@
       "sha256": "105e5b9bcc3dc3939c4ee8497e9de11132119b0f1e53d9b919b29ec4e9f4401f"
     }
   },
+  "eu.kanade.tachiyomi.extension.all.saymanhwa": {
+    "apk": {
+      "name": "tachiyomi-all.saymanhwa-v1.6.1.apk",
+      "sha256": "f7a60123e2f7f995509f4422115d6eec416c6da890d76931f8518e097ca7ab63"
+    },
+    "jar": {
+      "name": "tachiyomi-all.saymanhwa-v1.6.1.jar",
+      "sha256": "12b8f6a19742f4e128b082a41e0f6b69dfab2d114d71634446050424171d007e"
+    }
+  },
   "eu.kanade.tachiyomi.extension.all.seraphicdeviltry": {
     "apk": {
       "name": "tachiyomi-all.seraphicdeviltry-v1.6.55.apk",
@@ -7831,12 +7841,12 @@
   },
   "eu.kanade.tachiyomi.extension.id.kiryuu": {
     "apk": {
-      "name": "tachiyomi-id.kiryuu-v1.4.56.apk",
-      "sha256": "c1409d83a955fc0be02783ff51df4e552a3af309754cdc1cc5eee0fa31ec59ee"
+      "name": "tachiyomi-id.kiryuu-v1.6.57.apk",
+      "sha256": "12b0bc451d7ebc0a8a79ab29d9e0a66204e4852768720defae64d90d11498a0d"
     },
     "jar": {
-      "name": "tachiyomi-id.kiryuu-v1.4.56.jar",
-      "sha256": "d877f3d157654f852072b04a5b1677a078f021ade1f7975973245455820de87d"
+      "name": "tachiyomi-id.kiryuu-v1.6.57.jar",
+      "sha256": "8ac913ea0427890d43e652a5b774de68036ca5b92dc1cfe1356c1da2fddaa40b"
     }
   },
   "eu.kanade.tachiyomi.extension.id.klikmanga": {
@@ -8111,12 +8121,12 @@
   },
   "eu.kanade.tachiyomi.extension.id.mangatale": {
     "apk": {
-      "name": "tachiyomi-id.mangatale-v1.4.53.apk",
-      "sha256": "7cd057ba4b9059f5afa3449a9e3292245e55f8035eebc8053b38b69269ba21fa"
+      "name": "tachiyomi-id.mangatale-v1.6.54.apk",
+      "sha256": "8078a016a9cbf4dddcda9ced150a025f94f34bbcaccc32e8bd19163771eea502"
     },
     "jar": {
-      "name": "tachiyomi-id.mangatale-v1.4.53.jar",
-      "sha256": "b54385345b57ace5e5871a53980a04ef553aa739c7a1c5095e741ca96d493efb"
+      "name": "tachiyomi-id.mangatale-v1.6.54.jar",
+      "sha256": "e20f01c1bb2ab1c9a34c3ce0df7a2b7bbf263de5dcf11e079b325e6cd0f93f63"
     }
   },
   "eu.kanade.tachiyomi.extension.id.manhwadesu": {
@@ -8211,12 +8221,12 @@
   },
   "eu.kanade.tachiyomi.extension.id.natsu": {
     "apk": {
-      "name": "tachiyomi-id.natsu-v1.4.37.apk",
-      "sha256": "391f9ab25b9acc65f2fed63d22c6a3bef648099ac2b4aae121fe654d85357b50"
+      "name": "tachiyomi-id.natsu-v1.6.38.apk",
+      "sha256": "ea32736f9a9ec12c3126072aeea4cee7fa97dca7157e87cb8b3182a558cd0720"
     },
     "jar": {
-      "name": "tachiyomi-id.natsu-v1.4.37.jar",
-      "sha256": "fa35ecd04e68148a39848c951a87539ba536080806e9ea5e88fb9f1bf055b7e7"
+      "name": "tachiyomi-id.natsu-v1.6.38.jar",
+      "sha256": "bb1a1ae77b8331634863bdee65e1960cb52ba4a610c2bd85b88d0b6ab544150f"
     }
   },
   "eu.kanade.tachiyomi.extension.id.ngamenkomik": {
@@ -9541,12 +9551,12 @@
   },
   "eu.kanade.tachiyomi.extension.ja.rawkuma": {
     "apk": {
-      "name": "tachiyomi-ja.rawkuma-v1.4.39.apk",
-      "sha256": "cb0808e7804ea16c1873191a3be67f03ba9608c82d66660a3b226e28fe48bc9f"
+      "name": "tachiyomi-ja.rawkuma-v1.6.40.apk",
+      "sha256": "e635a8d4294c21ff2c261fa7bf505ab22b7de3d7acea36eab672e80a6c3567ec"
     },
     "jar": {
-      "name": "tachiyomi-ja.rawkuma-v1.4.39.jar",
-      "sha256": "442701fd35d5719caae93329bf138c9171a94311e5758fe94ad1ea99c28b5cc2"
+      "name": "tachiyomi-ja.rawkuma-v1.6.40.jar",
+      "sha256": "6aee54fb6a7079430f318cc36af93684801a3636aec47560cea5adef665d5277"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.rawlh": {
@@ -13407,16 +13417,6 @@
     "jar": {
       "name": "tachiyomi-zh.hanman18-v1.4.3.jar",
       "sha256": "07a155f80f085c67a9edc6c2cf2fe3fc146fe820ddaf5f7433895a4f5feba17d"
-    }
-  },
-  "eu.kanade.tachiyomi.extension.zh.happymh": {
-    "apk": {
-      "name": "tachiyomi-zh.happymh-v1.6.25.apk",
-      "sha256": "189e12ae0eecd5a8445ce94f3e5ec8d3caf6213ca4d75836615ee129b5e9f6ed"
-    },
-    "jar": {
-      "name": "tachiyomi-zh.happymh-v1.6.25.jar",
-      "sha256": "6b492c4c20f29f30bd04c80737ae3c29bbf10954bf42df1dcd930bdc03e6eb3b"
     }
   },
   "eu.kanade.tachiyomi.extension.zh.hcomic": {
