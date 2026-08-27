@@ -681,12 +681,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.mangafire": {
     "apk": {
-      "name": "tachiyomi-all.mangafire-v1.6.31.apk",
-      "sha256": "03c093959983e72baf750881629ac0eb1e6007ddf0ff4f35f4198cb0fb1c09a3"
+      "name": "tachiyomi-all.mangafire-v1.6.32.apk",
+      "sha256": "28ae7e9d5d109eec8c8ce0967c61474b8a3340916c59e720373d859c2b4d9ab4"
     },
     "jar": {
-      "name": "tachiyomi-all.mangafire-v1.6.31.jar",
-      "sha256": "cf09849772d43870aab2c83bd68e4b2b66fc96e396aa6709c9742232344987a4"
+      "name": "tachiyomi-all.mangafire-v1.6.32.jar",
+      "sha256": "cd66ea76a0e0a66225becad7c39339a239068dc2a3eb4617f81c1ce5bc59b3a2"
     }
   },
   "eu.kanade.tachiyomi.extension.all.mangaforfree": {
@@ -4461,12 +4461,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.mgreadio": {
     "apk": {
-      "name": "tachiyomi-en.mgreadio-v1.4.1.apk",
-      "sha256": "5cfba0ca31f0483016c4c396d357a26990c312d6752eec7c38ab8fa507bcd48f"
+      "name": "tachiyomi-en.mgreadio-v1.6.2.apk",
+      "sha256": "e61b996ffbfe9f97211cb3210b29e7b8bcd660b8362f86cff594af1c1ca0be31"
     },
     "jar": {
-      "name": "tachiyomi-en.mgreadio-v1.4.1.jar",
-      "sha256": "ac7ba8e8ea3a996114c772958d785051001cd840e82c1e2da32beb1b57d65ccc"
+      "name": "tachiyomi-en.mgreadio-v1.6.2.jar",
+      "sha256": "c6f6a234adfd224908ec32bbba19bed32fd0c7561abe396662f04657dd885bb3"
     }
   },
   "eu.kanade.tachiyomi.extension.en.milftoon": {
@@ -7211,12 +7211,12 @@
   },
   "eu.kanade.tachiyomi.extension.fr.hentaiorigines": {
     "apk": {
-      "name": "tachiyomi-fr.hentaiorigines-v1.6.55.apk",
-      "sha256": "14e8cc768703c890a46e01f81dad03af82a129e6e947400d306122006f7a826c"
+      "name": "tachiyomi-fr.hentaiorigines-v1.6.56.apk",
+      "sha256": "850dc09979599aaeb507d1446bc497bd13dc9e10cf8d80aa3fc252c7e888b34f"
     },
     "jar": {
-      "name": "tachiyomi-fr.hentaiorigines-v1.6.55.jar",
-      "sha256": "73a911155d8779664cec4056eba2c0395e3f007b8b42739310cd81883a89ab55"
+      "name": "tachiyomi-fr.hentaiorigines-v1.6.56.jar",
+      "sha256": "d0ebe663a23ea3811ac57e99849187484bc5f1cf2f4961bffad78e627486e1f2"
     }
   },
   "eu.kanade.tachiyomi.extension.fr.hentaiscanreader": {
@@ -7391,12 +7391,12 @@
   },
   "eu.kanade.tachiyomi.extension.fr.mangasoriginesfr": {
     "apk": {
-      "name": "tachiyomi-fr.mangasoriginesfr-v1.6.58.apk",
-      "sha256": "b6922bbc5ddc376b50cdcd71123410af96cfddb0d0d6a493a1b50a9363cc718b"
+      "name": "tachiyomi-fr.mangasoriginesfr-v1.6.59.apk",
+      "sha256": "f481e70051dff1f93219a0c193242267b4f92869218d6c3acd8bb1a6c042ec22"
     },
     "jar": {
-      "name": "tachiyomi-fr.mangasoriginesfr-v1.6.58.jar",
-      "sha256": "5d802c50751dd6e7cc43357f300c44045f2897d80801cc9bc476375e3507a776"
+      "name": "tachiyomi-fr.mangasoriginesfr-v1.6.59.jar",
+      "sha256": "18c95606ef56b34a35184bf55c67bccac884cc63f57c19590d33e6ee121c3530"
     }
   },
   "eu.kanade.tachiyomi.extension.fr.mangasscans": {
@@ -7991,12 +7991,12 @@
   },
   "eu.kanade.tachiyomi.extension.id.komikucom": {
     "apk": {
-      "name": "tachiyomi-id.komikucom-v1.4.34.apk",
-      "sha256": "ff16bcd5922092b4404d13332727682b12c2915434e3a132921b6749cec3b73a"
+      "name": "tachiyomi-id.komikucom-v1.6.35.apk",
+      "sha256": "b5138bfba9b1d3b7d7794421867163b31f554cb32ec9839907da6d625f1f6ed8"
     },
     "jar": {
-      "name": "tachiyomi-id.komikucom-v1.4.34.jar",
-      "sha256": "8806cf88001a8cb24c18b2085a7b2a6bf2f874b35507793f490ee8f4ececd8b1"
+      "name": "tachiyomi-id.komikucom-v1.6.35.jar",
+      "sha256": "05d9a2546bd8a308f238f198711a47f0864e17fb064336ffc975d7c65a41ba7d"
     }
   },
   "eu.kanade.tachiyomi.extension.id.komikzoid": {
@@ -12987,6 +12987,16 @@
     "jar": {
       "name": "tachiyomi-vi.teamlanhlung-v1.6.36.jar",
       "sha256": "6da69adfdd7f0f486abb19e58b69f3b7f4c3c4567a33c05e7c9a44b9f401f0ef"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.vi.teletruyen": {
+    "apk": {
+      "name": "tachiyomi-vi.teletruyen-v1.6.1.apk",
+      "sha256": "aaac0d4d1a0107752c1b7a978bb6373b6b4e920f4baa4477cc914640d9bdfa30"
+    },
+    "jar": {
+      "name": "tachiyomi-vi.teletruyen-v1.6.1.jar",
+      "sha256": "e9b680c993e1e74686484230394fe26c593e7c3cebee203d7d259f8539b31b4d"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.thienthaitruyen": {
