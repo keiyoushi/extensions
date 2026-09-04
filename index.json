@@ -27718,13 +27718,13 @@
         "name": "Little Tyrant",
         "packageName": "eu.kanade.tachiyomi.extension.pt.littletyrant",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/34e4d51-2/tachiyomi-pt.littletyrant-v1.4.63.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/c762c8f/tachiyomi-pt.littletyrant-v1.4.64.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/littletyrant/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/34e4d51-2/tachiyomi-pt.littletyrant-v1.4.63.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/c762c8f/tachiyomi-pt.littletyrant-v1.4.64.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104063",
-        "versionName": "1.4.63",
+        "versionCode": "104064",
+        "versionName": "1.4.64",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -28999,13 +28999,13 @@
         "name": "XXX Yaoi",
         "packageName": "eu.kanade.tachiyomi.extension.pt.xxxyaoi",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/34e4d51-2/tachiyomi-pt.xxxyaoi-v1.4.54.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/c762c8f/tachiyomi-pt.xxxyaoi-v1.4.55.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/xxxyaoi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/34e4d51-2/tachiyomi-pt.xxxyaoi-v1.4.54.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/c762c8f/tachiyomi-pt.xxxyaoi-v1.4.55.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104054",
-        "versionName": "1.4.54",
+        "versionCode": "104055",
+        "versionName": "1.4.55",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
