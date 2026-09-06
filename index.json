@@ -12090,6 +12090,27 @@
         ]
       },
       {
+        "name": "INKR",
+        "packageName": "eu.kanade.tachiyomi.extension.en.inkr",
+        "resources": {
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/5a0261c/tachiyomi-en.inkr-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/inkr/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/5a0261c/tachiyomi-en.inkr-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "6949560025265725268",
+            "name": "INKR",
+            "language": "en",
+            "homeUrl": "https://comics.inkr.com"
+          }
+        ]
+      },
+      {
         "name": "I Roved Out",
         "packageName": "eu.kanade.tachiyomi.extension.en.irovedout",
         "resources": {
@@ -17170,13 +17191,13 @@
         "name": "Sunshine Butterfly Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.sunshinebutterflyscans",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/7bd0361-1/tachiyomi-en.sunshinebutterflyscans-v1.4.39.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/5a0261c/tachiyomi-en.sunshinebutterflyscans-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/sunshinebutterflyscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-en.sunshinebutterflyscans-v1.4.39.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/5a0261c/tachiyomi-en.sunshinebutterflyscans-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104039",
-        "versionName": "1.4.39",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -17191,13 +17212,13 @@
         "name": "SUPER MEGA",
         "packageName": "eu.kanade.tachiyomi.extension.en.supermega",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/34e4d51-1/tachiyomi-en.supermega-v1.4.4.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/5a0261c/tachiyomi-en.supermega-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/supermega/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-en.supermega-v1.4.4.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/5a0261c/tachiyomi-en.supermega-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104004",
-        "versionName": "1.4.4",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -17233,13 +17254,13 @@
         "name": "Swords Comic",
         "packageName": "eu.kanade.tachiyomi.extension.en.swordscomic",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/34e4d51-1/tachiyomi-en.swordscomic-v1.4.5.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/5a0261c/tachiyomi-en.swordscomic-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/swordscomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-en.swordscomic-v1.4.5.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/5a0261c/tachiyomi-en.swordscomic-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104005",
-        "versionName": "1.4.5",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -33357,13 +33378,13 @@
         "name": "Team Lanh Lung",
         "packageName": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/34e4d51-2/tachiyomi-vi.teamlanhlung-v1.6.37.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/5a0261c/tachiyomi-vi.teamlanhlung-v1.6.38.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/teamlanhlung/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-vi.teamlanhlung-v1.6.37.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/5a0261c/tachiyomi-vi.teamlanhlung-v1.6.38.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106037",
-        "versionName": "1.6.37",
+        "versionCode": "106038",
+        "versionName": "1.6.38",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -34833,13 +34854,13 @@
         "name": "Picacomic",
         "packageName": "eu.kanade.tachiyomi.extension.zh.picacomic",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/34e4d51-2/tachiyomi-zh.picacomic-v1.6.10.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/5a0261c/tachiyomi-zh.picacomic-v1.6.11.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/picacomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-zh.picacomic-v1.6.10.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/5a0261c/tachiyomi-zh.picacomic-v1.6.11.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106010",
-        "versionName": "1.6.10",
+        "versionCode": "106011",
+        "versionName": "1.6.11",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
