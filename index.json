@@ -4330,6 +4330,669 @@
         ]
       },
       {
+        "name": "Manga Million",
+        "packageName": "eu.kanade.tachiyomi.extension.all.mangamillion",
+        "resources": {
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-all.mangamillion-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangamillion/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-all.mangamillion-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5427621842719614942",
+            "name": "Manga Million",
+            "language": "en",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "5892305961700928875",
+            "name": "Manga Million",
+            "language": "zh-TW",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "2911411952354074492",
+            "name": "Manga Million",
+            "language": "th",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "4065610833485359391",
+            "name": "Manga Million",
+            "language": "fr",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "4577634664648892329",
+            "name": "Manga Million",
+            "language": "ko-KR",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "8223155082496415999",
+            "name": "Manga Million",
+            "language": "es",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "2734295754625319424",
+            "name": "Manga Million",
+            "language": "it",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "5083522112166110729",
+            "name": "Manga Million",
+            "language": "de",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "268819630254308822",
+            "name": "Manga Million",
+            "language": "pt-BR",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "2891770365728881681",
+            "name": "Manga Million",
+            "language": "es-MX",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "1593100200301948195",
+            "name": "Manga Million",
+            "language": "zh-CN",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "8091532565068406212",
+            "name": "Manga Million",
+            "language": "es-AR",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "887261003174638631",
+            "name": "Manga Million",
+            "language": "pl",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "915698175702500457",
+            "name": "Manga Million",
+            "language": "vi",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "8658975145651377636",
+            "name": "Manga Million",
+            "language": "el",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "4612647476728832671",
+            "name": "Manga Million",
+            "language": "sv",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "924136623947569832",
+            "name": "Manga Million",
+            "language": "tl",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "1026064463101598575",
+            "name": "Manga Million",
+            "language": "id",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "6213822016958763806",
+            "name": "Manga Million",
+            "language": "hi",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "5282995690670742677",
+            "name": "Manga Million",
+            "language": "km",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "4359581031612948871",
+            "name": "Manga Million",
+            "language": "tr",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "4931345632004567033",
+            "name": "Manga Million",
+            "language": "zh-HK",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "7072636103024322731",
+            "name": "Manga Million",
+            "language": "cs",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "9147091841035376048",
+            "name": "Manga Million",
+            "language": "ru",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "7668176795520775072",
+            "name": "Manga Million",
+            "language": "pt",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "8929911308540155494",
+            "name": "Manga Million",
+            "language": "ar",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "15590040638864887",
+            "name": "Manga Million",
+            "language": "ca",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "5551097741572713208",
+            "name": "Manga Million",
+            "language": "zu",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "2315850565371135870",
+            "name": "Manga Million",
+            "language": "hu",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "5584992036496630079",
+            "name": "Manga Million",
+            "language": "fi",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "2666027548234219457",
+            "name": "Manga Million",
+            "language": "sr",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "4441155752668321511",
+            "name": "Manga Million",
+            "language": "ro",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "7011243828207286492",
+            "name": "Manga Million",
+            "language": "ms",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "7289714396368196914",
+            "name": "Manga Million",
+            "language": "nl",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "929579237282545340",
+            "name": "Manga Million",
+            "language": "da",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "6834657567401900124",
+            "name": "Manga Million",
+            "language": "no",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "3631292524952989029",
+            "name": "Manga Million",
+            "language": "af",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "2724363928085370876",
+            "name": "Manga Million",
+            "language": "am",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "5387489493086876209",
+            "name": "Manga Million",
+            "language": "as",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "74723524335557167",
+            "name": "Manga Million",
+            "language": "be",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "4216116073244413401",
+            "name": "Manga Million",
+            "language": "bg",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "5558676463076824263",
+            "name": "Manga Million",
+            "language": "bho",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "3018745948328779152",
+            "name": "Manga Million",
+            "language": "bo",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "8386412190074568800",
+            "name": "Manga Million",
+            "language": "ceb",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "1589325780108086386",
+            "name": "Manga Million",
+            "language": "cnr",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "6358192501298664077",
+            "name": "Manga Million",
+            "language": "cy",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "3338743057973942273",
+            "name": "Manga Million",
+            "language": "doi",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "5117224405152253202",
+            "name": "Manga Million",
+            "language": "dv",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "8543983008898706725",
+            "name": "Manga Million",
+            "language": "ee",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "6667796628019328824",
+            "name": "Manga Million",
+            "language": "et",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "1092903932409577182",
+            "name": "Manga Million",
+            "language": "eu",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "5825756469321632200",
+            "name": "Manga Million",
+            "language": "ga",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "4008356879355300750",
+            "name": "Manga Million",
+            "language": "gl",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "112772419269752319",
+            "name": "Manga Million",
+            "language": "gn",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "1475200675181211833",
+            "name": "Manga Million",
+            "language": "gu",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "8931530813150822045",
+            "name": "Manga Million",
+            "language": "haw",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "6721398754773423468",
+            "name": "Manga Million",
+            "language": "he",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "5979003215867695313",
+            "name": "Manga Million",
+            "language": "hmn",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "205807037691459493",
+            "name": "Manga Million",
+            "language": "hr",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "552427325553042322",
+            "name": "Manga Million",
+            "language": "hy",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "8941426273009664978",
+            "name": "Manga Million",
+            "language": "ig",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "5112376028850012057",
+            "name": "Manga Million",
+            "language": "ilo",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "7396900340998325806",
+            "name": "Manga Million",
+            "language": "is",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "668705648188269062",
+            "name": "Manga Million",
+            "language": "ka",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "5129348722421252665",
+            "name": "Manga Million",
+            "language": "kn",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "1887628834357661808",
+            "name": "Manga Million",
+            "language": "kok",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "6172049937493802478",
+            "name": "Manga Million",
+            "language": "la",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "3446817490931327750",
+            "name": "Manga Million",
+            "language": "lb",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "6781611018446292424",
+            "name": "Manga Million",
+            "language": "lg",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "186474585481417758",
+            "name": "Manga Million",
+            "language": "ln",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "1323735580513513869",
+            "name": "Manga Million",
+            "language": "lo",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "8452234242377665525",
+            "name": "Manga Million",
+            "language": "lt",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "2439033374206567907",
+            "name": "Manga Million",
+            "language": "lus",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "928811675895839594",
+            "name": "Manga Million",
+            "language": "lv",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "4523356718200470668",
+            "name": "Manga Million",
+            "language": "mai",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "4309710104190905905",
+            "name": "Manga Million",
+            "language": "mg",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "1086559103330444392",
+            "name": "Manga Million",
+            "language": "mi",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "5359692889871618781",
+            "name": "Manga Million",
+            "language": "mk",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "7641490256991935246",
+            "name": "Manga Million",
+            "language": "ml",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "4536742856700281497",
+            "name": "Manga Million",
+            "language": "mn",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "5811901247190415780",
+            "name": "Manga Million",
+            "language": "mni",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "4345174336752891639",
+            "name": "Manga Million",
+            "language": "mr",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "7787356654974754550",
+            "name": "Manga Million",
+            "language": "mt",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "4800648865078737843",
+            "name": "Manga Million",
+            "language": "mww",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "1802992798406129052",
+            "name": "Manga Million",
+            "language": "my",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "6689704801281094754",
+            "name": "Manga Million",
+            "language": "ne",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "5897946776363059777",
+            "name": "Manga Million",
+            "language": "nso",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "4939099015813575199",
+            "name": "Manga Million",
+            "language": "ny",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "4981801343671181438",
+            "name": "Manga Million",
+            "language": "or",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "5588923649729104048",
+            "name": "Manga Million",
+            "language": "pa",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "2249151303899858757",
+            "name": "Manga Million",
+            "language": "qu",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "9222598220899280074",
+            "name": "Manga Million",
+            "language": "ro-MD",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "4383326882432232725",
+            "name": "Manga Million",
+            "language": "rw",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "8028445692840375802",
+            "name": "Manga Million",
+            "language": "sa",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "8085814830678949590",
+            "name": "Manga Million",
+            "language": "sd",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "8389235245594996421",
+            "name": "Manga Million",
+            "language": "si",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "5129922190807736746",
+            "name": "Manga Million",
+            "language": "sk",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "7699490908204038470",
+            "name": "Manga Million",
+            "language": "sl",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "4823638889764957944",
+            "name": "Manga Million",
+            "language": "sm",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "2498847956286711932",
+            "name": "Manga Million",
+            "language": "sn",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "2214921022051163417",
+            "name": "Manga Million",
+            "language": "sw",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "2387145796512839007",
+            "name": "Manga Million",
+            "language": "ta",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "3410467517391157548",
+            "name": "Manga Million",
+            "language": "te",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "8682211298851595282",
+            "name": "Manga Million",
+            "language": "ts",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "4271245827756537297",
+            "name": "Manga Million",
+            "language": "uk",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "2339118782898784757",
+            "name": "Manga Million",
+            "language": "xh",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "5256277817512389247",
+            "name": "Manga Million",
+            "language": "yi",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          },
+          {
+            "id": "6036938223018876930",
+            "name": "Manga Million",
+            "language": "yo",
+            "homeUrl": "https://mangamillion.shueisha.co.jp"
+          }
+        ]
+      },
+      {
         "name": "MANGA Plus by SHUEISHA",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangaplus",
         "resources": {
@@ -9506,20 +10169,24 @@
         "name": "AllManga",
         "packageName": "eu.kanade.tachiyomi.extension.en.allanime",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6ca40f6-0/tachiyomi-en.allanime-v1.6.28.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-en.allanime-v1.6.29.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/allanime/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/6ca40f6-0/tachiyomi-en.allanime-v1.6.28.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-en.allanime-v1.6.29.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106028",
-        "versionName": "1.6.28",
+        "versionCode": "106029",
+        "versionName": "1.6.29",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "4709139914729853090",
             "name": "AllManga",
             "language": "en",
-            "homeUrl": "https://mkissa.to"
+            "homeUrl": "https://mkissa.to",
+            "mirrorUrls": [
+              "https://mkissa.to",
+              "https://isekai2nd.com"
+            ]
           }
         ]
       },
@@ -12051,13 +12718,13 @@
         "name": "InfinityScans",
         "packageName": "eu.kanade.tachiyomi.extension.en.infinityscans",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6ca40f6-0/tachiyomi-en.infinityscans-v1.6.13.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-en.infinityscans-v1.6.14.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/infinityscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/736ee06/tachiyomi-en.infinityscans-v1.6.13.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-en.infinityscans-v1.6.14.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106013",
-        "versionName": "1.6.13",
+        "versionCode": "106014",
+        "versionName": "1.6.14",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -12498,13 +13165,13 @@
         "name": "KuraManga",
         "packageName": "eu.kanade.tachiyomi.extension.en.kuramanga",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6ca40f6-0/tachiyomi-en.kuramanga-v1.4.2.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-en.kuramanga-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kuramanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-0/tachiyomi-en.kuramanga-v1.4.2.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-en.kuramanga-v1.6.3.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104002",
-        "versionName": "1.4.2",
+        "extensionLib": "1.6",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -12750,13 +13417,13 @@
         "name": "LustToon",
         "packageName": "eu.kanade.tachiyomi.extension.en.lusttoon",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6ca40f6-0/tachiyomi-en.lusttoon-v1.4.1.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-en.lusttoon-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/lusttoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/736ee06/tachiyomi-en.lusttoon-v1.4.1.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-en.lusttoon-v1.6.2.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104001",
-        "versionName": "1.4.1",
+        "extensionLib": "1.6",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -21785,13 +22452,13 @@
         "name": "BacaKomik",
         "packageName": "eu.kanade.tachiyomi.extension.id.bacakomik",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6ca40f6-1/tachiyomi-id.bacakomik-v1.4.15.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-id.bacakomik-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/bacakomik/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-id.bacakomik-v1.4.15.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-id.bacakomik-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104015",
-        "versionName": "1.4.15",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -21848,13 +22515,13 @@
         "name": "CosmicScans",
         "packageName": "eu.kanade.tachiyomi.extension.id.cosmicscansid",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b658a2c/tachiyomi-id.cosmicscansid-v1.4.57.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-id.cosmicscansid-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/cosmicscansid/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b658a2c/tachiyomi-id.cosmicscansid-v1.4.57.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-id.cosmicscansid-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104057",
-        "versionName": "1.4.57",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -22016,20 +22683,20 @@
         "name": "Holotoon",
         "packageName": "eu.kanade.tachiyomi.extension.id.holotoon",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6ca40f6-1/tachiyomi-id.holotoon-v1.4.52.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-id.holotoon-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/holotoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-id.holotoon-v1.4.52.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-id.holotoon-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104052",
-        "versionName": "1.4.52",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "3970113862660733375",
             "name": "Holotoon",
             "language": "id",
-            "homeUrl": "https://01.holotoon.site"
+            "homeUrl": "https://holodek.run"
           }
         ]
       },
@@ -22121,13 +22788,13 @@
         "name": "Kiryuu",
         "packageName": "eu.kanade.tachiyomi.extension.id.kiryuu",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6ca40f6-1/tachiyomi-id.kiryuu-v1.6.57.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-id.kiryuu-v1.6.58.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/kiryuu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-id.kiryuu-v1.6.57.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-id.kiryuu-v1.6.58.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106057",
-        "versionName": "1.6.57",
+        "versionCode": "106058",
+        "versionName": "1.6.58",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -22268,13 +22935,13 @@
         "name": "KomikIndoID",
         "packageName": "eu.kanade.tachiyomi.extension.id.komikindoid",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6ca40f6-1/tachiyomi-id.komikindoid-v1.4.19.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-id.komikindoid-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/komikindoid/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-id.komikindoid-v1.4.19.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-id.komikindoid-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104019",
-        "versionName": "1.4.19",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -22289,13 +22956,13 @@
         "name": "KomikNesia",
         "packageName": "eu.kanade.tachiyomi.extension.id.komiknesia",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6ca40f6-1/tachiyomi-id.komiknesia-v1.4.2.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-id.komiknesia-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/komiknesia/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-id.komiknesia-v1.4.2.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-id.komiknesia-v1.6.3.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104002",
-        "versionName": "1.4.2",
+        "extensionLib": "1.6",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -22373,13 +23040,13 @@
         "name": "Komiku",
         "packageName": "eu.kanade.tachiyomi.extension.id.komiku",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6ca40f6-1/tachiyomi-id.komiku-v1.4.21.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-id.komiku-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/komiku/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-id.komiku-v1.4.21.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-id.komiku-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104021",
-        "versionName": "1.4.21",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -22667,13 +23334,13 @@
         "name": "Ikiru",
         "packageName": "eu.kanade.tachiyomi.extension.id.mangatale",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b658a2c/tachiyomi-id.mangatale-v1.6.55.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-id.mangatale-v1.6.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/ikiru/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b658a2c/tachiyomi-id.mangatale-v1.6.55.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-id.mangatale-v1.6.56.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106055",
-        "versionName": "1.6.55",
+        "versionCode": "106056",
+        "versionName": "1.6.56",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -22877,13 +23544,13 @@
         "name": "Natsu",
         "packageName": "eu.kanade.tachiyomi.extension.id.natsu",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6ca40f6-1/tachiyomi-id.natsu-v1.6.38.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-id.natsu-v1.6.39.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/natsu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-id.natsu-v1.6.38.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-id.natsu-v1.6.39.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106038",
-        "versionName": "1.6.38",
+        "versionCode": "106039",
+        "versionName": "1.6.39",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -23122,6 +23789,27 @@
             "name": "Roseveil",
             "language": "id",
             "homeUrl": "https://roseveil.org"
+          }
+        ]
+      },
+      {
+        "name": "Ryukomik",
+        "packageName": "eu.kanade.tachiyomi.extension.id.ryukomik",
+        "resources": {
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-id.ryukomik-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/ryukomik/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-id.ryukomik-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "8514921831398456146",
+            "name": "Ryukomik",
+            "language": "id",
+            "homeUrl": "https://ryukomik.my.id"
           }
         ]
       },
@@ -24116,9 +24804,9 @@
         "name": "Comic Grast",
         "packageName": "eu.kanade.tachiyomi.extension.ja.comicgrast",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6ca40f6-1/tachiyomi-ja.comicgrast-v1.4.1.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-ja.comicgrast-v1.4.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicgrast/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-ja.comicgrast-v1.4.1.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-ja.comicgrast-v1.4.1.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104001",
@@ -25424,14 +26112,14 @@
         "name": "Manga-Park",
         "packageName": "eu.kanade.tachiyomi.extension.ja.mangaparkpublisher",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6ca40f6-2/tachiyomi-ja.mangaparkpublisher-v1.4.1.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-ja.mangaparkpublisher-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangaparkpublisher/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-ja.mangaparkpublisher-v1.4.1.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-ja.mangaparkpublisher-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104001",
-        "versionName": "1.4.1",
-        "contentWarning": "CONTENT_WARNING_SAFE",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "2905661176145448719",
@@ -25739,13 +26427,13 @@
         "name": "Piccoma",
         "packageName": "eu.kanade.tachiyomi.extension.ja.piccoma",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6ca40f6-2/tachiyomi-ja.piccoma-v1.4.2.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-ja.piccoma-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/piccoma/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-ja.piccoma-v1.4.2.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-ja.piccoma-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104002",
-        "versionName": "1.4.2",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -25886,13 +26574,13 @@
         "name": "Rawkuma",
         "packageName": "eu.kanade.tachiyomi.extension.ja.rawkuma",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6ca40f6-2/tachiyomi-ja.rawkuma-v1.6.40.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-ja.rawkuma-v1.6.41.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/rawkuma/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-ja.rawkuma-v1.6.40.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-ja.rawkuma-v1.6.41.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106040",
-        "versionName": "1.6.40",
+        "versionCode": "106041",
+        "versionName": "1.6.41",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -26375,13 +27063,13 @@
         "name": "Zerosum Online",
         "packageName": "eu.kanade.tachiyomi.extension.ja.zerosumonline",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/1fbc35e/tachiyomi-ja.zerosumonline-v1.4.1.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-ja.zerosumonline-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/zerosumonline/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/1fbc35e/tachiyomi-ja.zerosumonline-v1.4.1.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-ja.zerosumonline-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104001",
-        "versionName": "1.4.1",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -28835,13 +29523,13 @@
         "name": "XXX Yaoi",
         "packageName": "eu.kanade.tachiyomi.extension.pt.xxxyaoi",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6ca40f6-2/tachiyomi-pt.xxxyaoi-v1.4.55.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-pt.xxxyaoi-v1.6.58.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/xxxyaoi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-pt.xxxyaoi-v1.4.55.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-pt.xxxyaoi-v1.6.58.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104055",
-        "versionName": "1.4.55",
+        "extensionLib": "1.6",
+        "versionCode": "106058",
+        "versionName": "1.6.58",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -29112,13 +29800,13 @@
         "name": "InkStory",
         "packageName": "eu.kanade.tachiyomi.extension.ru.inkstory",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/f303b9c/tachiyomi-ru.inkstory-v1.6.1.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-ru.inkstory-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/inkstory/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/f303b9c/tachiyomi-ru.inkstory-v1.6.1.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-ru.inkstory-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -29343,14 +30031,14 @@
         "name": "PureManga",
         "packageName": "eu.kanade.tachiyomi.extension.ru.puremanga",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/f303b9c/tachiyomi-ru.puremanga-v1.6.1.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-ru.puremanga-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/puremanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/f303b9c/tachiyomi-ru.puremanga-v1.6.1.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-ru.puremanga-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "501392872283294667",
@@ -32526,13 +33214,13 @@
         "name": "LXManga",
         "packageName": "eu.kanade.tachiyomi.extension.vi.lxhentai",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6ca40f6-2/tachiyomi-vi.lxhentai-v1.6.39.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-vi.lxhentai-v1.6.40.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/lxhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-vi.lxhentai-v1.6.39.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-vi.lxhentai-v1.6.40.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106039",
-        "versionName": "1.6.39",
+        "versionCode": "106040",
+        "versionName": "1.6.40",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -32748,13 +33436,13 @@
         "name": "MoeTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.moetruyen",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6ca40f6-2/tachiyomi-vi.moetruyen-v1.6.10.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-vi.moetruyen-v1.6.11.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/moetruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-vi.moetruyen-v1.6.10.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/28949a7/tachiyomi-vi.moetruyen-v1.6.11.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106010",
-        "versionName": "1.6.10",
+        "versionCode": "106011",
+        "versionName": "1.6.11",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
