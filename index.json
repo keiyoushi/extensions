@@ -15222,13 +15222,13 @@
         "name": "Mangatown",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangatown",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-en.mangatown-v1.4.10.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-en.mangatown-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangatown/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-0/tachiyomi-en.mangatown-v1.4.10.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-en.mangatown-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104010",
-        "versionName": "1.4.10",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -18361,6 +18361,27 @@
         ]
       },
       {
+        "name": "Toonz",
+        "packageName": "eu.kanade.tachiyomi.extension.en.toonz",
+        "resources": {
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-en.toonz-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/toonz/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-en.toonz-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "225310046014902430",
+            "name": "Toonz",
+            "language": "en",
+            "homeUrl": "https://toonz.to"
+          }
+        ]
+      },
+      {
         "name": "Top Manhua",
         "packageName": "eu.kanade.tachiyomi.extension.en.topmanhua",
         "resources": {
@@ -18916,13 +18937,13 @@
         "name": "XOXO Comics",
         "packageName": "eu.kanade.tachiyomi.extension.en.xoxocomics",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-en.xoxocomics-v1.6.13.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-en.xoxocomics-v1.6.14.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/xoxocomics/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-en.xoxocomics-v1.6.13.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-en.xoxocomics-v1.6.14.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106013",
-        "versionName": "1.6.13",
+        "versionCode": "106014",
+        "versionName": "1.6.14",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -21525,6 +21546,27 @@
             "name": "Harmony-Scan",
             "language": "fr",
             "homeUrl": "https://harmony-scan.fr"
+          }
+        ]
+      },
+      {
+        "name": "Banchan Scan",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.banchanscan",
+        "resources": {
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-fr.banchanscan-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/banchanscan/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-fr.banchanscan-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "8593333389489308586",
+            "name": "Banchan Scan",
+            "language": "fr",
+            "homeUrl": "https://banchanscan.fr"
           }
         ]
       },
@@ -26788,13 +26830,13 @@
         "name": "Raw18",
         "packageName": "eu.kanade.tachiyomi.extension.ja.raw18",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-ja.raw18-v1.6.19.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-ja.raw18-v1.6.20.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/raw18/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/5c6f11e/tachiyomi-ja.raw18-v1.6.19.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-ja.raw18-v1.6.20.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106019",
-        "versionName": "1.6.19",
+        "versionCode": "106020",
+        "versionName": "1.6.20",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -27952,20 +27994,20 @@
         "name": "Cerise Scan",
         "packageName": "eu.kanade.tachiyomi.extension.pt.cerisescans",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.cerisescans-v1.4.63.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-pt.cerisescans-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/cerisescans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-pt.cerisescans-v1.4.63.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-pt.cerisescans-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104063",
-        "versionName": "1.4.63",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "6986357795598884919",
             "name": "Cerise Scan",
             "language": "pt-BR",
-            "homeUrl": "https://loverstoon.com"
+            "homeUrl": "https://loverstoon.net"
           }
         ]
       },
@@ -33302,13 +33344,13 @@
         "name": "DocTruyen3Q",
         "packageName": "eu.kanade.tachiyomi.extension.vi.doctruyen3q",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.doctruyen3q-v1.6.38.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-vi.doctruyen3q-v1.6.39.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/doctruyen3q/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-vi.doctruyen3q-v1.6.38.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-vi.doctruyen3q-v1.6.39.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106038",
-        "versionName": "1.6.38",
+        "versionCode": "106039",
+        "versionName": "1.6.39",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -33881,13 +33923,13 @@
         "name": "MoeTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.moetruyen",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/62a33ed/tachiyomi-vi.moetruyen-v1.6.14.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-vi.moetruyen-v1.6.15.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/moetruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/62a33ed/tachiyomi-vi.moetruyen-v1.6.14.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-vi.moetruyen-v1.6.15.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106014",
-        "versionName": "1.6.14",
+        "versionCode": "106015",
+        "versionName": "1.6.15",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -33927,13 +33969,13 @@
         "name": "NetTruyenCO (unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.vi.nettruyenco",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.nettruyenco-v1.6.16.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-vi.nettruyenco-v1.6.17.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/nettruyenco/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-vi.nettruyenco-v1.6.16.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-vi.nettruyenco-v1.6.17.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106016",
-        "versionName": "1.6.16",
+        "versionCode": "106017",
+        "versionName": "1.6.17",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -33990,13 +34032,13 @@
         "name": "NetTruyenX (unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.vi.nettruyenx",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.nettruyenx-v1.6.9.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-vi.nettruyenx-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/nettruyenx/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-vi.nettruyenx-v1.6.9.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-vi.nettruyenx-v1.6.10.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106009",
-        "versionName": "1.6.9",
+        "versionCode": "106010",
+        "versionName": "1.6.10",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -34011,13 +34053,13 @@
         "name": "NhatTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.nhattruyen",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.nhattruyen-v1.6.29.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-vi.nhattruyen-v1.6.30.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/nhattruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-vi.nhattruyen-v1.6.29.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-vi.nhattruyen-v1.6.30.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106029",
-        "versionName": "1.6.29",
+        "versionCode": "106030",
+        "versionName": "1.6.30",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -34305,13 +34347,13 @@
         "name": "Top Truyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.toptruyen",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/62a33ed/tachiyomi-vi.toptruyen-v1.6.46.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-vi.toptruyen-v1.6.47.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/toptruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/62a33ed/tachiyomi-vi.toptruyen-v1.6.46.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-vi.toptruyen-v1.6.47.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106046",
-        "versionName": "1.6.46",
+        "versionCode": "106047",
+        "versionName": "1.6.47",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
