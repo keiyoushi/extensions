@@ -32720,13 +32720,13 @@
         "name": "Mangarama",
         "packageName": "eu.kanade.tachiyomi.extension.uk.pureskill",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-uk.pureskill-v1.6.57.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/00da3f9/tachiyomi-uk.pureskill-v1.6.58.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/uk/mangarama/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-uk.pureskill-v1.6.57.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/00da3f9/tachiyomi-uk.pureskill-v1.6.58.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106057",
-        "versionName": "1.6.57",
+        "versionCode": "106058",
+        "versionName": "1.6.58",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
