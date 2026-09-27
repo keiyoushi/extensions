@@ -4025,13 +4025,13 @@
         "name": "MangaDNA",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangadna",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-all.mangadna-v1.4.2.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-all.mangadna-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangadna/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-0/tachiyomi-all.mangadna-v1.4.2.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-all.mangadna-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104002",
-        "versionName": "1.4.2",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -5450,13 +5450,13 @@
         "name": "NamiComi",
         "packageName": "eu.kanade.tachiyomi.extension.all.namicomi",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-all.namicomi-v1.4.6.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-all.namicomi-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/namicomi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-0/tachiyomi-all.namicomi-v1.4.6.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-all.namicomi-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104006",
-        "versionName": "1.4.6",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -9870,13 +9870,13 @@
         "name": "Fansubs.cat",
         "packageName": "eu.kanade.tachiyomi.extension.ca.fansubscat",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-ca.fansubscat-v1.4.6.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ca.fansubscat-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ca/fansubscat/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-0/tachiyomi-ca.fansubscat-v1.4.6.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ca.fansubscat-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104006",
-        "versionName": "1.4.6",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -9891,13 +9891,13 @@
         "name": "Hentai.cat",
         "packageName": "eu.kanade.tachiyomi.extension.ca.fansubscathentai",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-ca.fansubscathentai-v1.4.6.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ca.fansubscathentai-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ca/fansubscathentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-0/tachiyomi-ca.fansubscathentai-v1.4.6.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ca.fansubscathentai-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104006",
-        "versionName": "1.4.6",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -11390,13 +11390,13 @@
         "name": "18 Porn Comic",
         "packageName": "eu.kanade.tachiyomi.extension.en.eighteenporncomic",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-en.eighteenporncomic-v1.4.3.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.eighteenporncomic-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/manga18/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-0/tachiyomi-en.eighteenporncomic-v1.4.3.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.eighteenporncomic-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104003",
-        "versionName": "1.4.3",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -11411,13 +11411,13 @@
         "name": "8Muses",
         "packageName": "eu.kanade.tachiyomi.extension.en.eightmuses",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-en.eightmuses-v1.4.3.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.eightmuses-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/eightmuses/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-0/tachiyomi-en.eightmuses-v1.4.3.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.eightmuses-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104003",
-        "versionName": "1.4.3",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -11537,13 +11537,13 @@
         "name": "Erofus",
         "packageName": "eu.kanade.tachiyomi.extension.en.erofus",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-en.erofus-v1.4.3.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.erofus-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/erofus/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-0/tachiyomi-en.erofus-v1.4.3.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.erofus-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104003",
-        "versionName": "1.4.3",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -11684,13 +11684,13 @@
         "name": "Flame Comics",
         "packageName": "eu.kanade.tachiyomi.extension.en.flamecomics",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-en.flamecomics-v1.4.50.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.flamecomics-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/flamecomics/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-0/tachiyomi-en.flamecomics-v1.4.50.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.flamecomics-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104050",
-        "versionName": "1.4.50",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -12062,13 +12062,13 @@
         "name": "Hentai3z.CC",
         "packageName": "eu.kanade.tachiyomi.extension.en.hentai3zcc",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-en.hentai3zcc-v1.4.3.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.hentai3zcc-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentai3zcc/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-0/tachiyomi-en.hentai3zcc-v1.4.3.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.hentai3zcc-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104003",
-        "versionName": "1.4.3",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -13374,13 +13374,13 @@
         "name": "Manga18.Club",
         "packageName": "eu.kanade.tachiyomi.extension.en.manga18club",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-en.manga18club-v1.4.3.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.manga18club-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/manga18/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-0/tachiyomi-en.manga18club-v1.4.3.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.manga18club-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104003",
-        "versionName": "1.4.3",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -15327,13 +15327,13 @@
         "name": "ManhuaPlus (Unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.en.manhuaplusorg",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.manhuaplusorg-v1.4.6.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.manhuaplusorg-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuaplusorg/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-0/tachiyomi-en.manhuaplusorg-v1.4.6.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.manhuaplusorg-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104006",
-        "versionName": "1.4.6",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -15940,13 +15940,13 @@
         "name": "Monochrome Custom",
         "packageName": "eu.kanade.tachiyomi.extension.en.monochromecustom",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-en.monochromecustom-v1.4.6.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.monochromecustom-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/monochrome/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-0/tachiyomi-en.monochromecustom-v1.4.6.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.monochromecustom-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104006",
-        "versionName": "1.4.6",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -15961,13 +15961,13 @@
         "name": "Monochrome Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.monochromescans",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-en.monochromescans-v1.4.5.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.monochromescans-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/monochrome/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-0/tachiyomi-en.monochromescans-v1.4.5.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.monochromescans-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104005",
-        "versionName": "1.4.5",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -16864,13 +16864,13 @@
         "name": "Read Attack on Titan Shingeki no Kyojin Manga",
         "packageName": "eu.kanade.tachiyomi.extension.en.readattackontitanshingekinokyojinmanga",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.4.14.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/readattackontitanshingekinokyojinmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.4.14.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104014",
-        "versionName": "1.4.14",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -16885,13 +16885,13 @@
         "name": "Read Berserk Manga",
         "packageName": "eu.kanade.tachiyomi.extension.en.readberserkmanga",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-en.readberserkmanga-v1.4.9.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readberserkmanga-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangacatalog/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-en.readberserkmanga-v1.4.9.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readberserkmanga-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104009",
-        "versionName": "1.4.9",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -16906,13 +16906,13 @@
         "name": "Read Black Clover Manga Online",
         "packageName": "eu.kanade.tachiyomi.extension.en.readblackclovermangaonline",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-en.readblackclovermangaonline-v1.4.8.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readblackclovermangaonline-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangacatalog/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-en.readblackclovermangaonline-v1.4.8.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readblackclovermangaonline-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104008",
-        "versionName": "1.4.8",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -16927,13 +16927,13 @@
         "name": "Read Chainsaw Man Manga Online",
         "packageName": "eu.kanade.tachiyomi.extension.en.readchainsawmanmangaonline",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-en.readchainsawmanmangaonline-v1.4.10.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readchainsawmanmangaonline-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangacatalog/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-en.readchainsawmanmangaonline-v1.4.10.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readchainsawmanmangaonline-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104010",
-        "versionName": "1.4.10",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -16994,13 +16994,13 @@
         "name": "Read Fairy Tail & Edens Zero Manga Online",
         "packageName": "eu.kanade.tachiyomi.extension.en.readfairytailedenszeromangaonline",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-en.readfairytailedenszeromangaonline-v1.4.10.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readfairytailedenszeromangaonline-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangacatalog/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-en.readfairytailedenszeromangaonline-v1.4.10.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readfairytailedenszeromangaonline-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104010",
-        "versionName": "1.4.10",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -17036,13 +17036,13 @@
         "name": "Read Jujutsu Kaisen Manga Online",
         "packageName": "eu.kanade.tachiyomi.extension.en.readjujutsukaisenmangaonline",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-en.readjujutsukaisenmangaonline-v1.4.10.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readjujutsukaisenmangaonline-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/readjujutsukaisenmangaonline/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-en.readjujutsukaisenmangaonline-v1.4.10.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readjujutsukaisenmangaonline-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104010",
-        "versionName": "1.4.10",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -17057,13 +17057,13 @@
         "name": "Read Kingdom Manga Online",
         "packageName": "eu.kanade.tachiyomi.extension.en.readkingdommangaonline",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-en.readkingdommangaonline-v1.4.9.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readkingdommangaonline-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangacatalog/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-en.readkingdommangaonline-v1.4.9.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readkingdommangaonline-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104009",
-        "versionName": "1.4.9",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -17078,13 +17078,13 @@
         "name": "Read Nanatsu no Taizai 7 Deadly Sins Manga Online",
         "packageName": "eu.kanade.tachiyomi.extension.en.readnanatsunotaizai7deadlysinsmangaonline",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.4.11.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/readnanatsunotaizai7deadlysinsmangaonline/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.4.11.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104011",
-        "versionName": "1.4.11",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -17099,13 +17099,13 @@
         "name": "Read One Piece Manga Online",
         "packageName": "eu.kanade.tachiyomi.extension.en.readonepiecemangaonline",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-en.readonepiecemangaonline-v1.4.9.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readonepiecemangaonline-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangacatalog/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-en.readonepiecemangaonline-v1.4.9.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readonepiecemangaonline-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104009",
-        "versionName": "1.4.9",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -17120,13 +17120,13 @@
         "name": "Read One-Punch Man Manga Online",
         "packageName": "eu.kanade.tachiyomi.extension.en.readonepunchmanmangaonlinetwo",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-en.readonepunchmanmangaonlinetwo-v1.4.9.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readonepunchmanmangaonlinetwo-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/readonepunchmanmangaonlinetwo/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-en.readonepunchmanmangaonlinetwo-v1.4.9.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readonepunchmanmangaonlinetwo-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104009",
-        "versionName": "1.4.9",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -17141,13 +17141,13 @@
         "name": "Read Solo Leveling Manga Manhwa Online",
         "packageName": "eu.kanade.tachiyomi.extension.en.readsololevelingmangamanhwaonline",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.11.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readsololevelingmangamanhwaonline-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/readsololevelingmangamanhwaonline/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.11.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readsololevelingmangamanhwaonline-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104011",
-        "versionName": "1.4.11",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -17162,13 +17162,13 @@
         "name": "Read Tokyo Ghoul Re & Tokyo Ghoul Manga Online",
         "packageName": "eu.kanade.tachiyomi.extension.en.readtokyoghoulretokyoghoulmangaonline",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.12.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/readtokyoghoulretokyoghoulmangaonline/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.12.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104012",
-        "versionName": "1.4.12",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -17839,13 +17839,13 @@
         "name": "Tapas",
         "packageName": "eu.kanade.tachiyomi.extension.en.tapastic",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-en.tapastic-v1.6.1.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.tapastic-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/tapastic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/6ca40f6-1/tachiyomi-en.tapastic-v1.6.1.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.tapastic-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -17902,13 +17902,13 @@
         "name": "Temple Scan",
         "packageName": "eu.kanade.tachiyomi.extension.en.templescan",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-en.templescan-v1.6.52.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.templescan-v1.6.53.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/templescan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-en.templescan-v1.6.52.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.templescan-v1.6.53.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106052",
-        "versionName": "1.6.52",
+        "versionCode": "106053",
+        "versionName": "1.6.53",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -22676,13 +22676,13 @@
         "name": "Hentai Crot",
         "packageName": "eu.kanade.tachiyomi.extension.id.hentaicrot",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-id.hentaicrot-v1.4.1.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-id.hentaicrot-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/hentaicrot/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-id.hentaicrot-v1.4.1.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-id.hentaicrot-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104001",
-        "versionName": "1.4.1",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -23705,13 +23705,13 @@
         "name": "Pix Hentai",
         "packageName": "eu.kanade.tachiyomi.extension.id.pixhentai",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-id.pixhentai-v1.4.1.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-id.pixhentai-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/pixhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-id.pixhentai-v1.4.1.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-id.pixhentai-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104001",
-        "versionName": "1.4.1",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -24335,13 +24335,13 @@
         "name": "Mangaworld",
         "packageName": "eu.kanade.tachiyomi.extension.it.mangaworld",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-it.mangaworld-v1.4.14.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-it.mangaworld-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangaworld/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-it.mangaworld-v1.4.14.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-it.mangaworld-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104014",
-        "versionName": "1.4.14",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -24356,13 +24356,13 @@
         "name": "MangaworldAdult",
         "packageName": "eu.kanade.tachiyomi.extension.it.mangaworldadult",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-it.mangaworldadult-v1.4.6.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-it.mangaworldadult-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangaworld/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-it.mangaworldadult-v1.4.6.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-it.mangaworldadult-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104006",
-        "versionName": "1.4.6",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -24503,13 +24503,13 @@
         "name": "Ameba Manga",
         "packageName": "eu.kanade.tachiyomi.extension.ja.amebamanga",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.amebamanga-v1.4.2.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.amebamanga-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/amebamanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-ja.amebamanga-v1.4.2.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.amebamanga-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104002",
-        "versionName": "1.4.2",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -24608,13 +24608,13 @@
         "name": "BookWalker Japan",
         "packageName": "eu.kanade.tachiyomi.extension.ja.bookwalkerjp",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.bookwalkerjp-v1.6.3.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.bookwalkerjp-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/bookwalkerjp/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-ja.bookwalkerjp-v1.6.3.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.bookwalkerjp-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -24671,13 +24671,13 @@
         "name": "Comic Boost",
         "packageName": "eu.kanade.tachiyomi.extension.ja.comicboost",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.comicboost-v1.4.2.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.comicboost-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicboost/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-ja.comicboost-v1.4.2.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.comicboost-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104002",
-        "versionName": "1.4.2",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -24692,13 +24692,13 @@
         "name": "Comic Border",
         "packageName": "eu.kanade.tachiyomi.extension.ja.comicborder",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.comicborder-v1.4.9.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.comicborder-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicborder/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-ja.comicborder-v1.4.9.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.comicborder-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104009",
-        "versionName": "1.4.9",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -24713,13 +24713,13 @@
         "name": "Comic Days",
         "packageName": "eu.kanade.tachiyomi.extension.ja.comicdays",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.comicdays-v1.4.9.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.comicdays-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicdays/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-ja.comicdays-v1.4.9.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.comicdays-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104009",
-        "versionName": "1.4.9",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -24734,13 +24734,13 @@
         "name": "Comic Earth Star",
         "packageName": "eu.kanade.tachiyomi.extension.ja.comicearthstar",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.comicearthstar-v1.4.10.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.comicearthstar-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicearthstar/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-ja.comicearthstar-v1.4.10.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.comicearthstar-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104010",
-        "versionName": "1.4.10",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -24755,13 +24755,13 @@
         "name": "Comic Festa",
         "packageName": "eu.kanade.tachiyomi.extension.ja.comicfesta",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.comicfesta-v1.4.3.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.comicfesta-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicfesta/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/2fb2e7e/tachiyomi-ja.comicfesta-v1.4.3.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.comicfesta-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104003",
-        "versionName": "1.4.3",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -24797,13 +24797,13 @@
         "name": "Comic Gardo",
         "packageName": "eu.kanade.tachiyomi.extension.ja.comicgardo",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.comicgardo-v1.4.10.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.comicgardo-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicgardo/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-ja.comicgardo-v1.4.10.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.comicgardo-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104010",
-        "versionName": "1.4.10",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -24881,13 +24881,13 @@
         "name": "Comic Nettai",
         "packageName": "eu.kanade.tachiyomi.extension.ja.comicnettai",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.comicnettai-v1.4.2.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.comicnettai-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicnettai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-ja.comicnettai-v1.4.2.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.comicnettai-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104002",
-        "versionName": "1.4.2",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -25007,13 +25007,13 @@
         "name": "Comic Y-OURs",
         "packageName": "eu.kanade.tachiyomi.extension.ja.comicyours",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.comicyours-v1.4.9.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.comicyours-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicyours/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-ja.comicyours-v1.4.9.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.comicyours-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104009",
-        "versionName": "1.4.9",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -25021,27 +25021,6 @@
             "name": "Comic Y-OURs",
             "language": "ja",
             "homeUrl": "https://comic-y-ours.com"
-          }
-        ]
-      },
-      {
-        "name": "Comiplex",
-        "packageName": "eu.kanade.tachiyomi.extension.ja.comiplex",
-        "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.comiplex-v1.4.9.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comiplex/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-ja.comiplex-v1.4.9.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "104009",
-        "versionName": "1.4.9",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "1322991157305499061",
-            "name": "Comiplex",
-            "language": "ja",
-            "homeUrl": "https://viewer.heros-web.com"
           }
         ]
       },
@@ -25133,13 +25112,13 @@
         "name": "DMM/FANZA",
         "packageName": "eu.kanade.tachiyomi.extension.ja.dmm",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.dmm-v1.4.4.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.dmm-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/dmm/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-ja.dmm-v1.4.4.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.dmm-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104004",
-        "versionName": "1.4.4",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -25160,13 +25139,13 @@
         "name": "Docomo",
         "packageName": "eu.kanade.tachiyomi.extension.ja.docomo",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.docomo-v1.4.2.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.docomo-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/docomo/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-ja.docomo-v1.4.2.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.docomo-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104002",
-        "versionName": "1.4.2",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -25244,13 +25223,13 @@
         "name": "FireCross",
         "packageName": "eu.kanade.tachiyomi.extension.ja.firecross",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.firecross-v1.4.3.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.firecross-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/firecross/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-ja.firecross-v1.4.3.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.firecross-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104003",
-        "versionName": "1.4.3",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -25475,13 +25454,13 @@
         "name": "Ichicomi",
         "packageName": "eu.kanade.tachiyomi.extension.ja.ichicomi",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.ichicomi-v1.4.9.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.ichicomi-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/ichicomi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-ja.ichicomi-v1.4.9.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.ichicomi-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104009",
-        "versionName": "1.4.9",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -25748,13 +25727,13 @@
         "name": "Kurage Bunch",
         "packageName": "eu.kanade.tachiyomi.extension.ja.kuragebunch",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.kuragebunch-v1.4.9.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.kuragebunch-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/kuragebunch/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-ja.kuragebunch-v1.4.9.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.kuragebunch-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104009",
-        "versionName": "1.4.9",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -25811,13 +25790,13 @@
         "name": "MAGCOMI",
         "packageName": "eu.kanade.tachiyomi.extension.ja.magcomi",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.magcomi-v1.4.11.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.magcomi-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/magcomi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-1/tachiyomi-ja.magcomi-v1.4.11.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.magcomi-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104011",
-        "versionName": "1.4.11",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -25937,13 +25916,13 @@
         "name": "Manga-5",
         "packageName": "eu.kanade.tachiyomi.extension.ja.mangafive",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.mangafive-v1.6.1.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.mangafive-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangafive/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-ja.mangafive-v1.6.1.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.mangafive-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -25979,13 +25958,13 @@
         "name": "Manga Kingdom",
         "packageName": "eu.kanade.tachiyomi.extension.ja.mangakingdom",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.mangakingdom-v1.4.2.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.mangakingdom-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangakingdom/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-ja.mangakingdom-v1.4.2.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.mangakingdom-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104002",
-        "versionName": "1.4.2",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -26333,6 +26312,27 @@
         ]
       },
       {
+        "name": "Music Book Japan",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.musicbookjp",
+        "resources": {
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.musicbookjp-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/musicbookjp/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.musicbookjp-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "4867228037042567585",
+            "name": "Music Book Japan",
+            "language": "ja",
+            "homeUrl": "https://music-book.jp"
+          }
+        ]
+      },
+      {
         "name": "Nami Comic",
         "packageName": "eu.kanade.tachiyomi.extension.ja.namicomic",
         "resources": {
@@ -26441,13 +26441,13 @@
         "name": "Pash Up!",
         "packageName": "eu.kanade.tachiyomi.extension.ja.pashup",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-ja.pashup-v1.4.2.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.pashup-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/pashup/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-ja.pashup-v1.4.2.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.pashup-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104002",
-        "versionName": "1.4.2",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -26504,13 +26504,13 @@
         "name": "Pixiv Comic",
         "packageName": "eu.kanade.tachiyomi.extension.ja.pixivcomic",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-ja.pixivcomic-v1.6.4.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.pixivcomic-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/pixivcomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/2fb2e7e/tachiyomi-ja.pixivcomic-v1.6.4.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.pixivcomic-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -26525,13 +26525,13 @@
         "name": "Raw1001",
         "packageName": "eu.kanade.tachiyomi.extension.ja.raw1001",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-ja.raw1001-v1.4.5.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.raw1001-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/raw1001/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-ja.raw1001-v1.4.5.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.raw1001-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104005",
-        "versionName": "1.4.5",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -26798,13 +26798,13 @@
         "name": "Shonen Jump+",
         "packageName": "eu.kanade.tachiyomi.extension.ja.shonenjumpplus",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-ja.shonenjumpplus-v1.4.11.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.shonenjumpplus-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/shonenjumpplus/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-ja.shonenjumpplus-v1.4.11.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.shonenjumpplus-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104011",
-        "versionName": "1.4.11",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -26840,13 +26840,13 @@
         "name": "Sunday Web Every",
         "packageName": "eu.kanade.tachiyomi.extension.ja.sundaywebevery",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-ja.sundaywebevery-v1.4.9.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.sundaywebevery-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/sundaywebevery/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-ja.sundaywebevery-v1.4.9.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.sundaywebevery-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104009",
-        "versionName": "1.4.9",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -26882,13 +26882,13 @@
         "name": "Tonari no Young Jump",
         "packageName": "eu.kanade.tachiyomi.extension.ja.tonarinoyoungjump",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-ja.tonarinoyoungjump-v1.4.9.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.tonarinoyoungjump-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/tonarinoyoungjump/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-ja.tonarinoyoungjump-v1.4.9.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.tonarinoyoungjump-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104009",
-        "versionName": "1.4.9",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -27098,13 +27098,13 @@
         "name": "Zenon",
         "packageName": "eu.kanade.tachiyomi.extension.ja.zenon",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-ja.zenon-v1.4.10.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.zenon-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/zenon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-ja.zenon-v1.4.10.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.zenon-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104010",
-        "versionName": "1.4.10",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -27605,13 +27605,13 @@
         "name": "Bladetoons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.bladetoons",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.bladetoons-v1.4.3.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.bladetoons-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/bladetoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-pt.bladetoons-v1.4.3.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.bladetoons-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104003",
-        "versionName": "1.4.3",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -27983,13 +27983,13 @@
         "name": "Hentai Season",
         "packageName": "eu.kanade.tachiyomi.extension.pt.hentaiseason",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-pt.hentaiseason-v1.4.7.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.hentaiseason-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/hentaiseason/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-pt.hentaiseason-v1.4.7.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.hentaiseason-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104007",
-        "versionName": "1.4.7",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -28004,13 +28004,13 @@
         "name": "Hentai Tokyo",
         "packageName": "eu.kanade.tachiyomi.extension.pt.hentaitokyo",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-pt.hentaitokyo-v1.4.7.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.hentaitokyo-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/gattsu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-pt.hentaitokyo-v1.4.7.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.hentaitokyo-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104007",
-        "versionName": "1.4.7",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -28151,13 +28151,13 @@
         "name": "Sagrado Imp\u00e9rio da Britannia",
         "packageName": "eu.kanade.tachiyomi.extension.pt.imperiodabritannia",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.imperiodabritannia-v1.4.56.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.imperiodabritannia-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/imperiodabritannia/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-pt.imperiodabritannia-v1.4.56.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.imperiodabritannia-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104056",
-        "versionName": "1.4.56",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -28361,13 +28361,13 @@
         "name": "Maid Scan",
         "packageName": "eu.kanade.tachiyomi.extension.pt.maidscan",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.maidscan-v1.4.63.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.maidscan-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/maidscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-pt.maidscan-v1.4.63.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.maidscan-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104063",
-        "versionName": "1.4.63",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -28613,13 +28613,13 @@
         "name": "Mango Toons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangotoons",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.mangotoons-v1.4.9.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.mangotoons-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mangotoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-pt.mangotoons-v1.4.9.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.mangotoons-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104009",
-        "versionName": "1.4.9",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -29495,13 +29495,13 @@
         "name": "Universo Hentai",
         "packageName": "eu.kanade.tachiyomi.extension.pt.universohentai",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-pt.universohentai-v1.4.7.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.universohentai-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/universohentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-pt.universohentai-v1.4.7.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.universohentai-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104007",
-        "versionName": "1.4.7",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -29516,13 +29516,13 @@
         "name": "Vegitoons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.vegitoons",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.vegitoons-v1.4.12.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.vegitoons-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/vegitoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-pt.vegitoons-v1.4.12.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.vegitoons-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104012",
-        "versionName": "1.4.12",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -29537,13 +29537,13 @@
         "name": "Verdinha",
         "packageName": "eu.kanade.tachiyomi.extension.pt.verdinha",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.verdinha-v1.4.12.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.verdinha-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/verdinha/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-pt.verdinha-v1.4.12.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.verdinha-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104012",
-        "versionName": "1.4.12",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -30171,13 +30171,13 @@
         "name": "Senkognito",
         "packageName": "eu.kanade.tachiyomi.extension.ru.senkognito",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-ru.senkognito-v1.4.14.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ru.senkognito-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/senkognito/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-ru.senkognito-v1.4.14.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ru.senkognito-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104014",
-        "versionName": "1.4.14",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -30196,13 +30196,13 @@
         "name": "Senkuro",
         "packageName": "eu.kanade.tachiyomi.extension.ru.senkuro",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-ru.senkuro-v1.4.13.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ru.senkuro-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/senkuro/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-ru.senkuro-v1.4.13.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ru.senkuro-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104013",
-        "versionName": "1.4.13",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -31019,13 +31019,13 @@
         "name": "Afrodit Scans",
         "packageName": "eu.kanade.tachiyomi.extension.tr.afroditscans",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-tr.afroditscans-v1.4.36.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-tr.afroditscans-v1.6.37.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/afroditscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-tr.afroditscans-v1.4.36.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-tr.afroditscans-v1.6.37.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104036",
-        "versionName": "1.4.36",
+        "extensionLib": "1.6",
+        "versionCode": "106037",
+        "versionName": "1.6.37",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -31229,13 +31229,13 @@
         "name": "Elder Manga",
         "packageName": "eu.kanade.tachiyomi.extension.tr.eldermanga",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-tr.eldermanga-v1.4.8.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-tr.eldermanga-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/eldermanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-tr.eldermanga-v1.4.8.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-tr.eldermanga-v1.6.9.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104008",
-        "versionName": "1.4.8",
+        "extensionLib": "1.6",
+        "versionCode": "106009",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -31250,13 +31250,13 @@
         "name": "Eski Mangalar",
         "packageName": "eu.kanade.tachiyomi.extension.tr.eskimangalar",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-tr.eskimangalar-v1.4.5.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-tr.eskimangalar-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/eskimangalar/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-tr.eskimangalar-v1.4.5.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-tr.eskimangalar-v1.6.6.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104005",
-        "versionName": "1.4.5",
+        "extensionLib": "1.6",
+        "versionCode": "106006",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -31544,13 +31544,13 @@
         "name": "Limon Manga",
         "packageName": "eu.kanade.tachiyomi.extension.tr.limonmanga",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-tr.limonmanga-v1.4.5.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-tr.limonmanga-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/limonmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-tr.limonmanga-v1.4.5.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-tr.limonmanga-v1.6.6.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104005",
-        "versionName": "1.4.5",
+        "extensionLib": "1.6",
+        "versionCode": "106006",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -32384,13 +32384,13 @@
         "name": "Tenshi Manga",
         "packageName": "eu.kanade.tachiyomi.extension.tr.tenshimanga",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-tr.tenshimanga-v1.4.7.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-tr.tenshimanga-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/tenshimanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-tr.tenshimanga-v1.4.7.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-tr.tenshimanga-v1.6.8.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104007",
-        "versionName": "1.4.7",
+        "extensionLib": "1.6",
+        "versionCode": "106008",
+        "versionName": "1.6.8",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -32510,13 +32510,13 @@
         "name": "Uzay Manga",
         "packageName": "eu.kanade.tachiyomi.extension.tr.uzaymanga",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-tr.uzaymanga-v1.4.47.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-tr.uzaymanga-v1.6.48.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/uzaymanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-tr.uzaymanga-v1.4.47.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-tr.uzaymanga-v1.6.48.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104047",
-        "versionName": "1.4.47",
+        "extensionLib": "1.6",
+        "versionCode": "106048",
+        "versionName": "1.6.48",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -32720,13 +32720,13 @@
         "name": "Mangarama",
         "packageName": "eu.kanade.tachiyomi.extension.uk.pureskill",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/39e8efc/tachiyomi-uk.pureskill-v1.6.56.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-uk.pureskill-v1.6.57.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/uk/mangarama/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/39e8efc/tachiyomi-uk.pureskill-v1.6.56.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-uk.pureskill-v1.6.57.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106056",
-        "versionName": "1.6.56",
+        "versionCode": "106057",
+        "versionName": "1.6.57",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -32934,13 +32934,13 @@
         "name": "DocTruyen5s",
         "packageName": "eu.kanade.tachiyomi.extension.vi.doctruyen5s",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.doctruyen5s-v1.4.9.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-vi.doctruyen5s-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/doctruyen5s/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-vi.doctruyen5s-v1.4.9.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-vi.doctruyen5s-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104009",
-        "versionName": "1.4.9",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -34822,13 +34822,13 @@
         "name": "HANMAN18",
         "packageName": "eu.kanade.tachiyomi.extension.zh.hanman18",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-zh.hanman18-v1.4.3.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-zh.hanman18-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/manga18/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-zh.hanman18-v1.4.3.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-zh.hanman18-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104003",
-        "versionName": "1.4.3",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
