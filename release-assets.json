@@ -121,12 +121,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.comikey": {
     "apk": {
-      "name": "tachiyomi-all.comikey-v1.6.11.apk",
-      "sha256": "241d8b68571efb2e54449a36730821b3d18ab745528d1654db8091be58121048"
+      "name": "tachiyomi-all.comikey-v1.6.12.apk",
+      "sha256": "9f0b485f9a1ca5529a7b46fb6974bfae4d67cfd5c3929eb771daba09344dbeca"
     },
     "jar": {
-      "name": "tachiyomi-all.comikey-v1.6.11.jar",
-      "sha256": "b3b2f71ed2ee574e7204073ce4d43398e609111ba5386e79bdb15c48c34dad81"
+      "name": "tachiyomi-all.comikey-v1.6.12.jar",
+      "sha256": "2c8e07f938952d0e93b0d65e52c18ce218db70a0058c2b04af2c52b136c8ce7d"
     }
   },
   "eu.kanade.tachiyomi.extension.all.commitstrip": {
@@ -1261,12 +1261,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.xcomic": {
     "apk": {
-      "name": "tachiyomi-all.xcomic-v1.6.8.apk",
-      "sha256": "5857be6b980cd0d4092262fc7bd5f35335126a8b594a1ebbf8d1a620ee854ffb"
+      "name": "tachiyomi-all.xcomic-v1.6.9.apk",
+      "sha256": "3228d59945035dac891af91c46b28b6bd29a39c16c461957bb196e8d677c3af4"
     },
     "jar": {
-      "name": "tachiyomi-all.xcomic-v1.6.8.jar",
-      "sha256": "d261fd03d6276fb62f870134ae597d1a1de0009af0afc738aa9cfbf7f7aaf2c9"
+      "name": "tachiyomi-all.xcomic-v1.6.9.jar",
+      "sha256": "f6e1bc0aa93af50c52072227bcf03a3fe11d0fe3ee2e12e0386cce1c9027266a"
     }
   },
   "eu.kanade.tachiyomi.extension.all.xgmn": {
