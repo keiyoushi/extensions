@@ -11122,13 +11122,13 @@
         "name": "Comix",
         "packageName": "eu.kanade.tachiyomi.extension.en.comix",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/cfc0199/tachiyomi-en.comix-v1.6.53.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/24bd7e6/tachiyomi-en.comix-v1.6.54.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/comix/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/cfc0199/tachiyomi-en.comix-v1.6.53.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/24bd7e6/tachiyomi-en.comix-v1.6.54.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106053",
-        "versionName": "1.6.53",
+        "versionCode": "106054",
+        "versionName": "1.6.54",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
