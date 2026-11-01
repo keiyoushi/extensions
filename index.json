@@ -2506,212 +2506,122 @@
         "name": "Kagane",
         "packageName": "eu.kanade.tachiyomi.extension.all.kagane",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/fc7a827-0/tachiyomi-all.kagane-v1.6.38.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/2d50f67/tachiyomi-all.kagane-v1.6.39.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/kagane/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/fc7a827-0/tachiyomi-all.kagane-v1.6.38.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/2d50f67/tachiyomi-all.kagane-v1.6.39.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106038",
-        "versionName": "1.6.38",
+        "versionCode": "106039",
+        "versionName": "1.6.39",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "4024736764982024684",
             "name": "Kagane",
             "language": "en",
-            "homeUrl": "https://kagane.cx",
-            "mirrorUrls": [
-              "https://kagane.cx",
-              "https://kagane.moe",
-              "https://kagane.net"
-            ]
+            "homeUrl": "https://kagane.moe"
           },
           {
             "id": "1157710231944574609",
             "name": "Kagane",
             "language": "ja",
-            "homeUrl": "https://kagane.cx",
-            "mirrorUrls": [
-              "https://kagane.cx",
-              "https://kagane.moe",
-              "https://kagane.net"
-            ]
+            "homeUrl": "https://kagane.moe"
           },
           {
             "id": "1720654391539317254",
             "name": "Kagane",
             "language": "ko",
-            "homeUrl": "https://kagane.cx",
-            "mirrorUrls": [
-              "https://kagane.cx",
-              "https://kagane.moe",
-              "https://kagane.net"
-            ]
+            "homeUrl": "https://kagane.moe"
           },
           {
             "id": "538178062602483073",
             "name": "Kagane",
             "language": "zh",
-            "homeUrl": "https://kagane.cx",
-            "mirrorUrls": [
-              "https://kagane.cx",
-              "https://kagane.moe",
-              "https://kagane.net"
-            ]
+            "homeUrl": "https://kagane.moe"
           },
           {
             "id": "6291099060619088371",
             "name": "Kagane",
             "language": "es",
-            "homeUrl": "https://kagane.cx",
-            "mirrorUrls": [
-              "https://kagane.cx",
-              "https://kagane.moe",
-              "https://kagane.net"
-            ]
+            "homeUrl": "https://kagane.moe"
           },
           {
             "id": "3249170492103400191",
             "name": "Kagane",
             "language": "es-419",
-            "homeUrl": "https://kagane.cx",
-            "mirrorUrls": [
-              "https://kagane.cx",
-              "https://kagane.moe",
-              "https://kagane.net"
-            ]
+            "homeUrl": "https://kagane.moe"
           },
           {
             "id": "6053574930456302165",
             "name": "Kagane",
             "language": "fr",
-            "homeUrl": "https://kagane.cx",
-            "mirrorUrls": [
-              "https://kagane.cx",
-              "https://kagane.moe",
-              "https://kagane.net"
-            ]
+            "homeUrl": "https://kagane.moe"
           },
           {
             "id": "253007717341293260",
             "name": "Kagane",
             "language": "de",
-            "homeUrl": "https://kagane.cx",
-            "mirrorUrls": [
-              "https://kagane.cx",
-              "https://kagane.moe",
-              "https://kagane.net"
-            ]
+            "homeUrl": "https://kagane.moe"
           },
           {
             "id": "3281832279225761326",
             "name": "Kagane",
             "language": "pt",
-            "homeUrl": "https://kagane.cx",
-            "mirrorUrls": [
-              "https://kagane.cx",
-              "https://kagane.moe",
-              "https://kagane.net"
-            ]
+            "homeUrl": "https://kagane.moe"
           },
           {
             "id": "8929946374100381402",
             "name": "Kagane",
             "language": "pt-BR",
-            "homeUrl": "https://kagane.cx",
-            "mirrorUrls": [
-              "https://kagane.cx",
-              "https://kagane.moe",
-              "https://kagane.net"
-            ]
+            "homeUrl": "https://kagane.moe"
           },
           {
             "id": "8751507648303673848",
             "name": "Kagane",
             "language": "ru",
-            "homeUrl": "https://kagane.cx",
-            "mirrorUrls": [
-              "https://kagane.cx",
-              "https://kagane.moe",
-              "https://kagane.net"
-            ]
+            "homeUrl": "https://kagane.moe"
           },
           {
             "id": "1471532184931679941",
             "name": "Kagane",
             "language": "it",
-            "homeUrl": "https://kagane.cx",
-            "mirrorUrls": [
-              "https://kagane.cx",
-              "https://kagane.moe",
-              "https://kagane.net"
-            ]
+            "homeUrl": "https://kagane.moe"
           },
           {
             "id": "7702420917357144001",
             "name": "Kagane",
             "language": "id",
-            "homeUrl": "https://kagane.cx",
-            "mirrorUrls": [
-              "https://kagane.cx",
-              "https://kagane.moe",
-              "https://kagane.net"
-            ]
+            "homeUrl": "https://kagane.moe"
           },
           {
             "id": "8791972639916297003",
             "name": "Kagane",
             "language": "vi",
-            "homeUrl": "https://kagane.cx",
-            "mirrorUrls": [
-              "https://kagane.cx",
-              "https://kagane.moe",
-              "https://kagane.net"
-            ]
+            "homeUrl": "https://kagane.moe"
           },
           {
             "id": "2006734767320263070",
             "name": "Kagane",
             "language": "th",
-            "homeUrl": "https://kagane.cx",
-            "mirrorUrls": [
-              "https://kagane.cx",
-              "https://kagane.moe",
-              "https://kagane.net"
-            ]
+            "homeUrl": "https://kagane.moe"
           },
           {
             "id": "1008382500205235233",
             "name": "Kagane",
             "language": "pl",
-            "homeUrl": "https://kagane.cx",
-            "mirrorUrls": [
-              "https://kagane.cx",
-              "https://kagane.moe",
-              "https://kagane.net"
-            ]
+            "homeUrl": "https://kagane.moe"
           },
           {
             "id": "9016992318016575502",
             "name": "Kagane",
             "language": "hi",
-            "homeUrl": "https://kagane.cx",
-            "mirrorUrls": [
-              "https://kagane.cx",
-              "https://kagane.moe",
-              "https://kagane.net"
-            ]
+            "homeUrl": "https://kagane.moe"
           },
           {
             "id": "7861921616625741963",
             "name": "Kagane",
             "language": "ar",
-            "homeUrl": "https://kagane.cx",
-            "mirrorUrls": [
-              "https://kagane.cx",
-              "https://kagane.moe",
-              "https://kagane.net"
-            ]
+            "homeUrl": "https://kagane.moe"
           }
         ]
       },
@@ -35319,13 +35229,13 @@
         "name": "Baka Manhua",
         "packageName": "eu.kanade.tachiyomi.extension.zh.bakamh",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/fc7a827-2/tachiyomi-zh.bakamh-v1.6.70.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/2d50f67/tachiyomi-zh.bakamh-v1.6.71.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/bakamh/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/fc7a827-2/tachiyomi-zh.bakamh-v1.6.70.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/2d50f67/tachiyomi-zh.bakamh-v1.6.71.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106070",
-        "versionName": "1.6.70",
+        "versionCode": "106071",
+        "versionName": "1.6.71",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
