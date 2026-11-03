@@ -312,13 +312,13 @@
         "name": "Buon Dua",
         "packageName": "eu.kanade.tachiyomi.extension.all.buondua",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-0/tachiyomi-all.buondua-v1.6.12.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6296017/tachiyomi-all.buondua-v1.6.13.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/buondua/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-0/tachiyomi-all.buondua-v1.6.12.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/6296017/tachiyomi-all.buondua-v1.6.13.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106012",
-        "versionName": "1.6.12",
+        "versionCode": "106013",
+        "versionName": "1.6.13",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -6244,13 +6244,13 @@
         "name": "Project Suki",
         "packageName": "eu.kanade.tachiyomi.extension.all.projectsuki",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-0/tachiyomi-all.projectsuki-v1.6.1.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6296017/tachiyomi-all.projectsuki-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/projectsuki/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-0/tachiyomi-all.projectsuki-v1.6.1.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/6296017/tachiyomi-all.projectsuki-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -6549,6 +6549,99 @@
             "name": "StashApp",
             "language": "all",
             "homeUrl": "http://localhost:9999"
+          }
+        ]
+      },
+      {
+        "name": "Swarm",
+        "packageName": "eu.kanade.tachiyomi.extension.all.swarm",
+        "resources": {
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6296017/tachiyomi-all.swarm-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/swarm/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/6296017/tachiyomi-all.swarm-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7695050792030357361",
+            "name": "Swarm",
+            "language": "en",
+            "homeUrl": "https://swarm.ws"
+          },
+          {
+            "id": "8371905513614203015",
+            "name": "Swarm",
+            "language": "es",
+            "homeUrl": "https://swarm.ws"
+          },
+          {
+            "id": "8444178327069169054",
+            "name": "Swarm",
+            "language": "es-419",
+            "homeUrl": "https://swarm.ws"
+          },
+          {
+            "id": "6651925182941355310",
+            "name": "Swarm",
+            "language": "fr",
+            "homeUrl": "https://swarm.ws"
+          },
+          {
+            "id": "2526207649120912532",
+            "name": "Swarm",
+            "language": "id",
+            "homeUrl": "https://swarm.ws"
+          },
+          {
+            "id": "3833934207520015622",
+            "name": "Swarm",
+            "language": "ko",
+            "homeUrl": "https://swarm.ws"
+          },
+          {
+            "id": "7891324774646423787",
+            "name": "Swarm",
+            "language": "pl",
+            "homeUrl": "https://swarm.ws"
+          },
+          {
+            "id": "2379543450603951409",
+            "name": "Swarm",
+            "language": "pt-BR",
+            "homeUrl": "https://swarm.ws"
+          },
+          {
+            "id": "4856362822234453672",
+            "name": "Swarm",
+            "language": "ru",
+            "homeUrl": "https://swarm.ws"
+          },
+          {
+            "id": "1130156635017499693",
+            "name": "Swarm",
+            "language": "th",
+            "homeUrl": "https://swarm.ws"
+          },
+          {
+            "id": "8800126243432184157",
+            "name": "Swarm",
+            "language": "tr",
+            "homeUrl": "https://swarm.ws"
+          },
+          {
+            "id": "2686427454710368146",
+            "name": "Swarm",
+            "language": "vi",
+            "homeUrl": "https://swarm.ws"
+          },
+          {
+            "id": "4054994833878525767",
+            "name": "Swarm",
+            "language": "zh",
+            "homeUrl": "https://swarm.ws"
           }
         ]
       },
@@ -7915,13 +8008,13 @@
         "name": "Xiutaku",
         "packageName": "eu.kanade.tachiyomi.extension.all.xiutaku",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-0/tachiyomi-all.xiutaku-v1.6.1.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6296017/tachiyomi-all.xiutaku-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/xiutaku/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-0/tachiyomi-all.xiutaku-v1.6.1.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/6296017/tachiyomi-all.xiutaku-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -9326,13 +9419,13 @@
         "name": "ProComic",
         "packageName": "eu.kanade.tachiyomi.extension.ar.procomic",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-0/tachiyomi-ar.procomic-v1.6.5.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6296017/tachiyomi-ar.procomic-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/procomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-0/tachiyomi-ar.procomic-v1.6.5.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/6296017/tachiyomi-ar.procomic-v1.6.6.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106005",
-        "versionName": "1.6.5",
+        "versionCode": "106006",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -17865,13 +17958,13 @@
         "name": "Temple Scan",
         "packageName": "eu.kanade.tachiyomi.extension.en.templescan",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-1/tachiyomi-en.templescan-v1.6.65.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6296017/tachiyomi-en.templescan-v1.6.66.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/templescan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-1/tachiyomi-en.templescan-v1.6.65.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/6296017/tachiyomi-en.templescan-v1.6.66.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106065",
-        "versionName": "1.6.65",
+        "versionCode": "106066",
+        "versionName": "1.6.66",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -22498,13 +22591,13 @@
         "name": "BacaKomik",
         "packageName": "eu.kanade.tachiyomi.extension.id.bacakomik",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-1/tachiyomi-id.bacakomik-v1.6.3.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6296017/tachiyomi-id.bacakomik-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/bacakomik/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-1/tachiyomi-id.bacakomik-v1.6.3.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/6296017/tachiyomi-id.bacakomik-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -23149,13 +23242,13 @@
         "name": "Komiku.com",
         "packageName": "eu.kanade.tachiyomi.extension.id.komikucom",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-1/tachiyomi-id.komikucom-v1.6.37.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6296017/tachiyomi-id.komikucom-v1.6.38.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/komikucom/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-1/tachiyomi-id.komikucom-v1.6.37.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/6296017/tachiyomi-id.komikucom-v1.6.38.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106037",
-        "versionName": "1.6.37",
+        "versionCode": "106038",
+        "versionName": "1.6.38",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -25802,6 +25895,27 @@
         ]
       },
       {
+        "name": "Jestful",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.jestful",
+        "resources": {
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6296017/tachiyomi-ja.jestful-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/jestful/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/6296017/tachiyomi-ja.jestful-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7655990874385542347",
+            "name": "Jestful",
+            "language": "ja",
+            "homeUrl": "https://jestful.net"
+          }
+        ]
+      },
+      {
         "name": "Jmanga",
         "packageName": "eu.kanade.tachiyomi.extension.ja.jmanga",
         "resources": {
@@ -27734,13 +27848,13 @@
         "name": "Toonkor",
         "packageName": "eu.kanade.tachiyomi.extension.ko.toonkor",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-2/tachiyomi-ko.toonkor-v1.6.12.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6296017/tachiyomi-ko.toonkor-v1.6.13.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ko/toonkor/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-2/tachiyomi-ko.toonkor-v1.6.12.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/6296017/tachiyomi-ko.toonkor-v1.6.13.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106012",
-        "versionName": "1.6.12",
+        "versionCode": "106013",
+        "versionName": "1.6.13",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -36594,20 +36708,24 @@
         "name": "WNACG",
         "packageName": "eu.kanade.tachiyomi.extension.zh.wnacg",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-2/tachiyomi-zh.wnacg-v1.6.5.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6296017/tachiyomi-zh.wnacg-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/wnacg/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-2/tachiyomi-zh.wnacg-v1.6.5.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/6296017/tachiyomi-zh.wnacg-v1.6.6.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106005",
-        "versionName": "1.6.5",
+        "versionCode": "106006",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "6551136894818591762",
             "name": "\u7d33\u58eb\u6f2b\u756b",
             "language": "zh",
-            "homeUrl": "https://www.wn07.cfd"
+            "homeUrl": "https://www.wnacg.buzz",
+            "mirrorUrls": [
+              "https://www.wnacg.buzz",
+              "https://www.wnacg.site"
+            ]
           }
         ]
       },
