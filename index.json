@@ -9419,13 +9419,13 @@
         "name": "ProComic",
         "packageName": "eu.kanade.tachiyomi.extension.ar.procomic",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6296017/tachiyomi-ar.procomic-v1.6.6.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/ee661f5/tachiyomi-ar.procomic-v1.6.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/procomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/6296017/tachiyomi-ar.procomic-v1.6.6.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/ee661f5/tachiyomi-ar.procomic-v1.6.7.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106006",
-        "versionName": "1.6.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -10679,13 +10679,13 @@
         "name": "Comix",
         "packageName": "eu.kanade.tachiyomi.extension.en.comix",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-0/tachiyomi-en.comix-v1.6.61.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/ee661f5/tachiyomi-en.comix-v1.6.62.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/comix/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-0/tachiyomi-en.comix-v1.6.61.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/ee661f5/tachiyomi-en.comix-v1.6.62.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106061",
-        "versionName": "1.6.61",
+        "versionCode": "106062",
+        "versionName": "1.6.62",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -17239,13 +17239,13 @@
         "name": "Renascans",
         "packageName": "eu.kanade.tachiyomi.extension.en.renascans",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-1/tachiyomi-en.renascans-v1.6.29.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/ee661f5/tachiyomi-en.renascans-v1.6.30.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/renascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-1/tachiyomi-en.renascans-v1.6.29.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/ee661f5/tachiyomi-en.renascans-v1.6.30.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106029",
-        "versionName": "1.6.29",
+        "versionCode": "106030",
+        "versionName": "1.6.30",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -21580,6 +21580,27 @@
         ]
       },
       {
+        "name": "CrunchyScan",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.crunchyscan",
+        "resources": {
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/ee661f5/tachiyomi-fr.crunchyscan-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/crunchyscan/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/ee661f5/tachiyomi-fr.crunchyscan-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "5122789490740525400",
+            "name": "CrunchyScan",
+            "language": "fr",
+            "homeUrl": "https://crunchyscan.st"
+          }
+        ]
+      },
+      {
         "name": "Dassou Scan",
         "packageName": "eu.kanade.tachiyomi.extension.fr.dassouscan",
         "resources": {
@@ -24520,6 +24541,48 @@
             "name": "HentaiFantasy",
             "language": "it",
             "homeUrl": "https://hentaifantasy.it"
+          }
+        ]
+      },
+      {
+        "name": "Hentai ITA",
+        "packageName": "eu.kanade.tachiyomi.extension.it.hentaiita",
+        "resources": {
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/ee661f5/tachiyomi-it.hentaiita-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/it/hentaiita/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/ee661f5/tachiyomi-it.hentaiita-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "5279259667822182743",
+            "name": "Hentai ITA",
+            "language": "it",
+            "homeUrl": "https://hentai-ita.net"
+          }
+        ]
+      },
+      {
+        "name": "Hentai Zone",
+        "packageName": "eu.kanade.tachiyomi.extension.it.hentaizone",
+        "resources": {
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/ee661f5/tachiyomi-it.hentaizone-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/it/hentaizone/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/ee661f5/tachiyomi-it.hentaizone-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "7646644620523526397",
+            "name": "Hentai Zone",
+            "language": "it",
+            "homeUrl": "https://hentaizone.me"
           }
         ]
       },
@@ -29078,13 +29141,13 @@
         "name": "Maid Scan",
         "packageName": "eu.kanade.tachiyomi.extension.pt.maidscan",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-2/tachiyomi-pt.maidscan-v1.6.1.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/ee661f5/tachiyomi-pt.maidscan-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/maidscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-2/tachiyomi-pt.maidscan-v1.6.1.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/ee661f5/tachiyomi-pt.maidscan-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -30212,13 +30275,13 @@
         "name": "Vegitoons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.vegitoons",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-2/tachiyomi-pt.vegitoons-v1.6.1.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/ee661f5/tachiyomi-pt.vegitoons-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/vegitoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-2/tachiyomi-pt.vegitoons-v1.6.1.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/ee661f5/tachiyomi-pt.vegitoons-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -30233,13 +30296,13 @@
         "name": "Verdinha",
         "packageName": "eu.kanade.tachiyomi.extension.pt.verdinha",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-2/tachiyomi-pt.verdinha-v1.6.1.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/ee661f5/tachiyomi-pt.verdinha-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/verdinha/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/726723b-2/tachiyomi-pt.verdinha-v1.6.1.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/ee661f5/tachiyomi-pt.verdinha-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -36360,6 +36423,27 @@
             "name": "\u6f2b\u86d9",
             "language": "zh",
             "homeUrl": "https://manwa.me"
+          }
+        ]
+      },
+      {
+        "name": "Manwa Manhua",
+        "packageName": "eu.kanade.tachiyomi.extension.zh.manwamanhua",
+        "resources": {
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/ee661f5/tachiyomi-zh.manwamanhua-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/manwamanhua/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/ee661f5/tachiyomi-zh.manwamanhua-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "287323144843032723",
+            "name": "\u6f2b\u86d9\u6f2b\u753b",
+            "language": "zh",
+            "homeUrl": "https://manwadz.cc"
           }
         ]
       },
