@@ -12861,13 +12861,13 @@
         "name": "HentaiRead",
         "packageName": "eu.kanade.tachiyomi.extension.en.hentairead",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-0/tachiyomi-en.hentairead-v1.6.3.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/5849bd5/tachiyomi-en.hentairead-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentairead/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-0/tachiyomi-en.hentairead-v1.6.3.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/5849bd5/tachiyomi-en.hentairead-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
