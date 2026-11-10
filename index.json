@@ -883,6 +883,87 @@
         ]
       },
       {
+        "name": "DLsite",
+        "packageName": "eu.kanade.tachiyomi.extension.all.dlsite",
+        "resources": {
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/d9420cd/tachiyomi-all.dlsite-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/dlsite/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/d9420cd/tachiyomi-all.dlsite-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "6040331647076858586",
+            "name": "DLsite",
+            "language": "ja",
+            "homeUrl": "https://www.dlsite.com"
+          },
+          {
+            "id": "4210329134305024062",
+            "name": "DLsite",
+            "language": "en",
+            "homeUrl": "https://www.dlsite.com"
+          },
+          {
+            "id": "4143192473289983105",
+            "name": "DLsite",
+            "language": "zh-Hans",
+            "homeUrl": "https://www.dlsite.com"
+          },
+          {
+            "id": "5622609959542190251",
+            "name": "DLsite",
+            "language": "zh-Hant",
+            "homeUrl": "https://www.dlsite.com"
+          },
+          {
+            "id": "1833705546601783759",
+            "name": "DLsite",
+            "language": "ko",
+            "homeUrl": "https://www.dlsite.com"
+          },
+          {
+            "id": "3424571751101426986",
+            "name": "DLsite",
+            "language": "es",
+            "homeUrl": "https://www.dlsite.com"
+          },
+          {
+            "id": "2400301331250345449",
+            "name": "DLsite",
+            "language": "fr",
+            "homeUrl": "https://www.dlsite.com"
+          },
+          {
+            "id": "1152850440228902839",
+            "name": "DLsite",
+            "language": "id",
+            "homeUrl": "https://www.dlsite.com"
+          },
+          {
+            "id": "1421912116059473691",
+            "name": "DLsite",
+            "language": "th",
+            "homeUrl": "https://www.dlsite.com"
+          },
+          {
+            "id": "8720823020064609415",
+            "name": "DLsite",
+            "language": "vi",
+            "homeUrl": "https://www.dlsite.com"
+          },
+          {
+            "id": "5074778917405295493",
+            "name": "DLsite",
+            "language": "pt-BR",
+            "homeUrl": "https://www.dlsite.com"
+          }
+        ]
+      },
+      {
         "name": "Doujiva",
         "packageName": "eu.kanade.tachiyomi.extension.all.doujiva",
         "resources": {
@@ -3835,13 +3916,13 @@
         "name": "MangaDex",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangadex",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/3cf15bc/tachiyomi-all.mangadex-v1.6.3.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/d9420cd/tachiyomi-all.mangadex-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangadex/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/3cf15bc/tachiyomi-all.mangadex-v1.6.3.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/d9420cd/tachiyomi-all.mangadex-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -20233,13 +20314,13 @@
         "name": "Webdex Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.webdexscans",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-1/tachiyomi-en.webdexscans-v1.6.55.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/d9420cd/tachiyomi-en.webdexscans-v1.6.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/webdexscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-1/tachiyomi-en.webdexscans-v1.6.55.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/d9420cd/tachiyomi-en.webdexscans-v1.6.56.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106055",
-        "versionName": "1.6.55",
+        "versionCode": "106056",
+        "versionName": "1.6.56",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -31761,13 +31842,13 @@
         "name": "Mediocre Toons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mediocretoons",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-3/tachiyomi-pt.mediocretoons-v1.6.2.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/d9420cd/tachiyomi-pt.mediocretoons-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mediocretoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-3/tachiyomi-pt.mediocretoons-v1.6.2.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/d9420cd/tachiyomi-pt.mediocretoons-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
