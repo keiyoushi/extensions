@@ -20443,13 +20443,13 @@
         "name": "Webdex Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.webdexscans",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/d9420cd/tachiyomi-en.webdexscans-v1.6.56.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/db87bdb/tachiyomi-en.webdexscans-v1.6.57.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/webdexscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/d9420cd/tachiyomi-en.webdexscans-v1.6.56.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/db87bdb/tachiyomi-en.webdexscans-v1.6.57.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106056",
-        "versionName": "1.6.56",
+        "versionCode": "106057",
+        "versionName": "1.6.57",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -20464,13 +20464,13 @@
         "name": "Webnex",
         "packageName": "eu.kanade.tachiyomi.extension.en.webnex",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/2c02d07/tachiyomi-en.webnex-v1.6.11.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/db87bdb/tachiyomi-en.webnex-v1.6.12.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/webnex/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/2c02d07/tachiyomi-en.webnex-v1.6.11.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/db87bdb/tachiyomi-en.webnex-v1.6.12.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106011",
-        "versionName": "1.6.11",
+        "versionCode": "106012",
+        "versionName": "1.6.12",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -25904,20 +25904,20 @@
         "name": "Ikiru",
         "packageName": "eu.kanade.tachiyomi.extension.id.mangatale",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-2/tachiyomi-id.mangatale-v1.6.63.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/db87bdb/tachiyomi-id.mangatale-v1.6.64.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/ikiru/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-2/tachiyomi-id.mangatale-v1.6.63.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/db87bdb/tachiyomi-id.mangatale-v1.6.64.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106063",
-        "versionName": "1.6.63",
+        "versionCode": "106064",
+        "versionName": "1.6.64",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2471382203854600486",
             "name": "Ikiru",
             "language": "id",
-            "homeUrl": "https://09.ikiru.wtf"
+            "homeUrl": "https://10.ikiru.wtf"
           }
         ]
       },
@@ -38177,13 +38177,13 @@
         "name": "TruyenTuoiTho",
         "packageName": "eu.kanade.tachiyomi.extension.vi.truyentuoitho",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-3/tachiyomi-vi.truyentuoitho-v1.6.64.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/db87bdb/tachiyomi-vi.truyentuoitho-v1.6.65.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyentuoitho/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-3/tachiyomi-vi.truyentuoitho-v1.6.64.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/db87bdb/tachiyomi-vi.truyentuoitho-v1.6.65.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106064",
-        "versionName": "1.6.64",
+        "versionCode": "106065",
+        "versionName": "1.6.65",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
