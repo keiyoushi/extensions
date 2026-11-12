@@ -36775,20 +36775,20 @@
         "name": "DocTruyen3Q",
         "packageName": "eu.kanade.tachiyomi.extension.vi.doctruyen3q",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-3/tachiyomi-vi.doctruyen3q-v1.6.42.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/436be70/tachiyomi-vi.doctruyen3q-v1.6.43.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/doctruyen3q/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-3/tachiyomi-vi.doctruyen3q-v1.6.42.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/436be70/tachiyomi-vi.doctruyen3q-v1.6.43.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106042",
-        "versionName": "1.6.42",
+        "versionCode": "106043",
+        "versionName": "1.6.43",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "6168143505244976507",
             "name": "DocTruyen3Q",
             "language": "vi",
-            "homeUrl": "https://doctruyen3qhub.fit"
+            "homeUrl": "https://doctruyen3qhub.club"
           }
         ]
       },
@@ -36817,13 +36817,13 @@
         "name": "Dua Leo Truyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.dualeotruyen",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/1b70898/tachiyomi-vi.dualeotruyen-v1.6.36.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/436be70/tachiyomi-vi.dualeotruyen-v1.6.37.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/dualeotruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/1b70898/tachiyomi-vi.dualeotruyen-v1.6.36.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/436be70/tachiyomi-vi.dualeotruyen-v1.6.37.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106036",
-        "versionName": "1.6.36",
+        "versionCode": "106037",
+        "versionName": "1.6.37",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -37258,13 +37258,13 @@
         "name": "MeDamTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.medamtruyen",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-3/tachiyomi-vi.medamtruyen-v1.6.12.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/436be70/tachiyomi-vi.medamtruyen-v1.6.13.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/medamtruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-3/tachiyomi-vi.medamtruyen-v1.6.12.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/436be70/tachiyomi-vi.medamtruyen-v1.6.13.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106012",
-        "versionName": "1.6.12",
+        "versionCode": "106013",
+        "versionName": "1.6.13",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -37417,13 +37417,13 @@
         "name": "MoeTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.moetruyen",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-3/tachiyomi-vi.moetruyen-v1.6.22.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/436be70/tachiyomi-vi.moetruyen-v1.6.23.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/moetruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-3/tachiyomi-vi.moetruyen-v1.6.22.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/436be70/tachiyomi-vi.moetruyen-v1.6.23.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106022",
-        "versionName": "1.6.22",
+        "versionCode": "106023",
+        "versionName": "1.6.23",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -37607,27 +37607,6 @@
         ]
       },
       {
-        "name": "OTruyen",
-        "packageName": "eu.kanade.tachiyomi.extension.vi.otruyen",
-        "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-3/tachiyomi-vi.otruyen-v1.6.3.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/otruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-3/tachiyomi-vi.otruyen-v1.6.3.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "8070757025584294717",
-            "name": "OTruyen",
-            "language": "vi",
-            "homeUrl": "https://otruyen.cc"
-          }
-        ]
-      },
-      {
         "name": "Panomic",
         "packageName": "eu.kanade.tachiyomi.extension.vi.panomic",
         "resources": {
@@ -37799,13 +37778,13 @@
         "name": "SoaiCaComic",
         "packageName": "eu.kanade.tachiyomi.extension.vi.soaicacomic",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-3/tachiyomi-vi.soaicacomic-v1.6.8.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/436be70/tachiyomi-vi.soaicacomic-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/soaicacomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-3/tachiyomi-vi.soaicacomic-v1.6.8.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/436be70/tachiyomi-vi.soaicacomic-v1.6.9.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106008",
-        "versionName": "1.6.8",
+        "versionCode": "106009",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -37841,13 +37820,13 @@
         "name": "Team Lanh Lung",
         "packageName": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-3/tachiyomi-vi.teamlanhlung-v1.6.42.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/436be70/tachiyomi-vi.teamlanhlung-v1.6.43.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/teamlanhlung/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-3/tachiyomi-vi.teamlanhlung-v1.6.42.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/436be70/tachiyomi-vi.teamlanhlung-v1.6.43.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106042",
-        "versionName": "1.6.42",
+        "versionCode": "106043",
+        "versionName": "1.6.43",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -37925,20 +37904,20 @@
         "name": "Top Truyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.toptruyen",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-3/tachiyomi-vi.toptruyen-v1.6.51.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/436be70/tachiyomi-vi.toptruyen-v1.6.52.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/toptruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-3/tachiyomi-vi.toptruyen-v1.6.51.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/436be70/tachiyomi-vi.toptruyen-v1.6.52.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106051",
-        "versionName": "1.6.51",
+        "versionCode": "106052",
+        "versionName": "1.6.52",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "1166901607721102706",
             "name": "Top Truyen",
             "language": "vi",
-            "homeUrl": "https://www.toptruyenzone13.com"
+            "homeUrl": "https://www.toptruyenzone14.com"
           }
         ]
       },
@@ -37981,27 +37960,6 @@
             "name": "Truyen18",
             "language": "vi",
             "homeUrl": "https://truyen18.co"
-          }
-        ]
-      },
-      {
-        "name": "FoxTruyen",
-        "packageName": "eu.kanade.tachiyomi.extension.vi.truyengg",
-        "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-3/tachiyomi-vi.truyengg-v1.6.14.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyengg/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-3/tachiyomi-vi.truyengg-v1.6.14.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106014",
-        "versionName": "1.6.14",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "1458993267006200127",
-            "name": "FoxTruyen",
-            "language": "vi",
-            "homeUrl": "https://foxtruyen2.com"
           }
         ]
       },
