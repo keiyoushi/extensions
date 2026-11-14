@@ -10934,13 +10934,13 @@
         "name": "Aqua Manga",
         "packageName": "eu.kanade.tachiyomi.extension.en.aquamanga",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-0/tachiyomi-en.aquamanga-v1.6.74.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/c3cca0d/tachiyomi-en.aquamanga-v1.6.75.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/aquamanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-0/tachiyomi-en.aquamanga-v1.6.74.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/c3cca0d/tachiyomi-en.aquamanga-v1.6.75.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106074",
-        "versionName": "1.6.74",
+        "versionCode": "106075",
+        "versionName": "1.6.75",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -16944,13 +16944,13 @@
         "name": "ManhuaTop",
         "packageName": "eu.kanade.tachiyomi.extension.en.manhuatop",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-1/tachiyomi-en.manhuatop-v1.6.58.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/c3cca0d/tachiyomi-en.manhuatop-v1.6.59.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuatop/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-1/tachiyomi-en.manhuatop-v1.6.58.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/c3cca0d/tachiyomi-en.manhuatop-v1.6.59.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106058",
-        "versionName": "1.6.58",
+        "versionCode": "106059",
+        "versionName": "1.6.59",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -25607,13 +25607,13 @@
         "name": "VoraToon",
         "packageName": "eu.kanade.tachiyomi.extension.id.komikcast",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/7c6a7c2/tachiyomi-id.komikcast-v1.6.91.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/c3cca0d/tachiyomi-id.komikcast-v1.6.92.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/voratoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/7c6a7c2/tachiyomi-id.komikcast-v1.6.91.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/c3cca0d/tachiyomi-id.komikcast-v1.6.92.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106091",
-        "versionName": "1.6.91",
+        "versionCode": "106092",
+        "versionName": "1.6.92",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -25943,13 +25943,13 @@
         "name": "KumoPoi",
         "packageName": "eu.kanade.tachiyomi.extension.id.kumopoi",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-2/tachiyomi-id.kumopoi-v1.6.4.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/c3cca0d/tachiyomi-id.kumopoi-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/kumopoi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-2/tachiyomi-id.kumopoi-v1.6.4.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/c3cca0d/tachiyomi-id.kumopoi-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -30272,6 +30272,27 @@
             "name": "Tonari no Young Jump",
             "language": "ja",
             "homeUrl": "https://tonarinoyj.jp"
+          }
+        ]
+      },
+      {
+        "name": "Torch Comics",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.torchcomics",
+        "resources": {
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/c3cca0d/tachiyomi-ja.torchcomics-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/torchcomics/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/c3cca0d/tachiyomi-ja.torchcomics-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1835566331167834452",
+            "name": "Torch Comics",
+            "language": "ja",
+            "homeUrl": "https://to-ti.in"
           }
         ]
       },
