@@ -3667,13 +3667,13 @@
         "name": "Lunar Manga",
         "packageName": "eu.kanade.tachiyomi.extension.all.lunaranime",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/2c02d07/tachiyomi-all.lunaranime-v1.6.7.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/d58b615/tachiyomi-all.lunaranime-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/lunaranime/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/2c02d07/tachiyomi-all.lunaranime-v1.6.7.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/d58b615/tachiyomi-all.lunaranime-v1.6.8.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106007",
-        "versionName": "1.6.7",
+        "versionCode": "106008",
+        "versionName": "1.6.8",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
