@@ -27654,20 +27654,20 @@
         "name": "Ikiru",
         "packageName": "eu.kanade.tachiyomi.extension.id.mangatale",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/db87bdb/tachiyomi-id.mangatale-v1.6.64.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/e886805/tachiyomi-id.mangatale-v1.6.65.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/ikiru/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/db87bdb/tachiyomi-id.mangatale-v1.6.64.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/e886805/tachiyomi-id.mangatale-v1.6.65.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106064",
-        "versionName": "1.6.64",
+        "versionCode": "106065",
+        "versionName": "1.6.65",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2471382203854600486",
             "name": "Ikiru",
             "language": "id",
-            "homeUrl": "https://10.ikiru.wtf"
+            "homeUrl": "https://11.ikiru.wtf"
           }
         ]
       },
@@ -38564,6 +38564,27 @@
             "name": "R\u00fcya Manga",
             "language": "tr",
             "homeUrl": "https://www.ruyamanga2.com"
+          }
+        ]
+      },
+      {
+        "name": "Sa\u00e7 G\u00fczellik",
+        "packageName": "eu.kanade.tachiyomi.extension.tr.sacguzellik",
+        "resources": {
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/e886805/tachiyomi-tr.sacguzellik-v1.6.59.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/sacguzellik/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/e886805/tachiyomi-tr.sacguzellik-v1.6.59.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106059",
+        "versionName": "1.6.59",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4941374504327278648",
+            "name": "Sa\u00e7 G\u00fczellik",
+            "language": "tr",
+            "homeUrl": "https://www.sacguzellik.com"
           }
         ]
       },
