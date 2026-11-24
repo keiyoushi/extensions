@@ -39764,20 +39764,20 @@
         "name": "Dua Leo Truyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.dualeotruyen",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-3/tachiyomi-vi.dualeotruyen-v1.6.38.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/fdb08c3/tachiyomi-vi.dualeotruyen-v1.6.39.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/dualeotruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-3/tachiyomi-vi.dualeotruyen-v1.6.38.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/fdb08c3/tachiyomi-vi.dualeotruyen-v1.6.39.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106038",
-        "versionName": "1.6.38",
+        "versionCode": "106039",
+        "versionName": "1.6.39",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "1039830224122325226",
             "name": "D\u01b0a Leo Truy\u1ec7n",
             "language": "vi",
-            "homeUrl": "https://dualeotruyenkf.com"
+            "homeUrl": "https://dualeotruyengf.com"
           }
         ]
       },
