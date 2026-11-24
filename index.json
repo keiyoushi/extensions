@@ -12062,20 +12062,20 @@
         "name": "Aqua Manga",
         "packageName": "eu.kanade.tachiyomi.extension.en.aquamanga",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-0/tachiyomi-en.aquamanga-v1.6.78.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/7b65fea/tachiyomi-en.aquamanga-v1.6.79.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/aquamanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-0/tachiyomi-en.aquamanga-v1.6.78.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/7b65fea/tachiyomi-en.aquamanga-v1.6.79.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106078",
-        "versionName": "1.6.78",
+        "versionCode": "106079",
+        "versionName": "1.6.79",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "626267698662819838",
             "name": "Aqua Manga",
             "language": "en",
-            "homeUrl": "https://aquareader.org"
+            "homeUrl": "https://aquamanga.io"
           }
         ]
       },
@@ -22828,13 +22828,13 @@
         "name": "Catharsis World",
         "packageName": "eu.kanade.tachiyomi.extension.es.catharsisworld",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/14e2239/tachiyomi-es.catharsisworld-v1.6.9.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/7b65fea/tachiyomi-es.catharsisworld-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/catharsisworld/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/14e2239/tachiyomi-es.catharsisworld-v1.6.9.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/7b65fea/tachiyomi-es.catharsisworld-v1.6.10.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106009",
-        "versionName": "1.6.9",
+        "versionCode": "106010",
+        "versionName": "1.6.10",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -23674,13 +23674,13 @@
         "name": "Komiwa",
         "packageName": "eu.kanade.tachiyomi.extension.es.komiwa",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/14e2239/tachiyomi-es.komiwa-v1.6.6.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/7b65fea/tachiyomi-es.komiwa-v1.6.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/komiwa/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/14e2239/tachiyomi-es.komiwa-v1.6.6.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/7b65fea/tachiyomi-es.komiwa-v1.6.7.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106006",
-        "versionName": "1.6.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -38269,20 +38269,20 @@
         "name": "Manga Ruhu",
         "packageName": "eu.kanade.tachiyomi.extension.tr.mangaruhu",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-3/tachiyomi-tr.mangaruhu-v1.6.11.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/7b65fea/tachiyomi-tr.mangaruhu-v1.6.12.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangaruhu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-3/tachiyomi-tr.mangaruhu-v1.6.11.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/7b65fea/tachiyomi-tr.mangaruhu-v1.6.12.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106011",
-        "versionName": "1.6.11",
+        "versionCode": "106012",
+        "versionName": "1.6.12",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8370882282338930409",
             "name": "Manga Ruhu",
             "language": "tr",
-            "homeUrl": "https://mangaruhu.net"
+            "homeUrl": "https://ruhmanga.net"
           }
         ]
       },
