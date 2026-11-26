@@ -41365,13 +41365,13 @@
         "name": "YuriNeko",
         "packageName": "eu.kanade.tachiyomi.extension.vi.yurineko",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-3/tachiyomi-vi.yurineko-v1.6.9.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/90b6e6a/tachiyomi-vi.yurineko-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/yurineko/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-3/tachiyomi-vi.yurineko-v1.6.9.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/90b6e6a/tachiyomi-vi.yurineko-v1.6.10.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106009",
-        "versionName": "1.6.9",
+        "versionCode": "106010",
+        "versionName": "1.6.10",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
